@@ -1,0 +1,19 @@
+{"sub_label": "Switzerland", "obj_label": ["Rumantsch", "French", "Romansh Language", "Italiano", "it", "Romansch language", "German", "Romanche language", "Romansh language", "French language", "Romansch", "Romansh", "fr", "de", "rm", "Rumantsh", "German language", "fra", "Rumantsch language", "Italian", "Rumantsh language", "Romanche", "(fr)", "Italian language"], "gpt4_choices": ["german"]}
+{"sub_label": "Italy", "obj_label": ["Italian language", "Italian", "it", "Italiano"], "gpt4_choices": ["italian"]}
+{"sub_label": "France", "obj_label": ["fra", "fr", "(fr)", "French language", "French"], "gpt4_choices": ["french"]}
+{"sub_label": "Canada", "obj_label": ["eng", "fra", "fr", "en", "English", "(fr)", "French language", "French", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "United Kingdom", "obj_label": ["en", "English", "eng", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "United States of America", "obj_label": ["en", "English", "eng", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Spain", "obj_label": ["Castilian", "es", "Spanish", "Spanish language", "Español", "Castilian language"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Portugal", "obj_label": ["pt", "Portuguese", "Mirandese", "Mirandese language", "mwl", "Portuguese language"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Germany", "obj_label": ["German", "de", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Austria", "obj_label": ["German", "de", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Luxembourg", "obj_label": ["Luxembourgish", "German language", "fra", "ltz", "fr", "Luxembourg language", "Luxemburgish", "Luxembourgish language", "Luxemburgish language", "German", "(fr)", "de", "Letzeburgesch", "French language", "lb", "French", "Lëtzebuergesch"], "gpt4_choices": ["luxembourgish"]}
+{"sub_label": "Republic of Ireland", "obj_label": ["Irish", "eng", "gaelic", "en", "English", "ga", "Irish language", "Gaeilge", "English language"], "gpt4_choices": ["irish"]}
+{"sub_label": "New Zealand", "obj_label": ["eng", "mao", "Māori language", "Austronesian", "Maori language", "en", "English", "Austronesian languages", "Māori", "mi", "Maori", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Australia", "obj_label": ["en", "English", "eng", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Belgium", "obj_label": ["Dutch language", "Dutch", "Flemish", "French", "ned", "Netherlandic language", "Netherlandic", "German", "Nederlands", "French language", "fr", "Netherlandish", "nl", "de", "Flemish language", "German language", "fra", "nld", "(fr)"], "gpt4_choices": ["dutch"]}
+{"sub_label": "Liechtenstein", "obj_label": ["German", "de", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Monaco", "obj_label": ["fra", "fr", "(fr)", "French language", "French"], "gpt4_choices": ["french"]}
+{"sub_label": "Andorra", "obj_label": ["Catalan language", "Catalan", "Valencià", "Valencian language", "Català", "Valencian", "ca", "Catalan-Valencian-Balearic"], "gpt4_choices": ["catalan"]}
+{"sub_label": "San Marino", "obj_label": ["Italian language", "Italian", "it", "Italiano"], "gpt4_choices": ["italian"]}

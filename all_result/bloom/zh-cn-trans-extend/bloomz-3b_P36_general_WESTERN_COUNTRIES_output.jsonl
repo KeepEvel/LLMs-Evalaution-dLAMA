@@ -1,0 +1,19 @@
+{"sub_uri": "Q39", "obj_uri": ["Q70"], "sub_label": "瑞士", "obj_label": ["伯恩", "伯尔尼"], "country": ["Q39"], "size": 383749, "uuid": "P36_general_WESTERN_COUNTRIES_0", "bloom_choices": ["苏黎世"]}
+{"sub_uri": "Q38", "obj_uri": ["Q220"], "sub_label": "意大利", "obj_label": ["罗马"], "country": ["Q38"], "size": 378542, "uuid": "P36_general_WESTERN_COUNTRIES_1", "bloom_choices": ["罗马"]}
+{"sub_uri": "Q142", "obj_uri": ["Q90"], "sub_label": "法国", "obj_label": ["巴黎省", "巴黎市", "巴黎"], "country": ["Q142"], "size": 371391, "uuid": "P36_general_WESTERN_COUNTRIES_2", "bloom_choices": ["巴黎"]}
+{"sub_uri": "Q16", "obj_uri": ["Q1930"], "sub_label": "加拿大", "obj_label": ["渥太华"], "country": ["Q16"], "size": 371104, "uuid": "P36_general_WESTERN_COUNTRIES_3", "bloom_choices": ["渥太华"]}
+{"sub_uri": "Q145", "obj_uri": ["Q84"], "sub_label": "英国", "obj_label": ["伦敦"], "country": ["Q145"], "size": 354997, "uuid": "P36_general_WESTERN_COUNTRIES_4", "bloom_choices": ["伦敦"]}
+{"sub_uri": "Q30", "obj_uri": ["Q61"], "sub_label": "美国", "obj_label": ["华盛顿特区", "哥伦比亚特区", "华盛顿", "华盛顿哥伦比亚特区", "浣洗屯", "华府", "花生屯", "华盛顿市"], "country": ["Q30"], "size": 320204, "uuid": "P36_general_WESTERN_COUNTRIES_5", "bloom_choices": ["华盛顿"]}
+{"sub_uri": "Q29", "obj_uri": ["Q2807"], "sub_label": "西班牙", "obj_label": ["马德里"], "country": ["Q29"], "size": 320124, "uuid": "P36_general_WESTERN_COUNTRIES_6", "bloom_choices": ["马德里"]}
+{"sub_uri": "Q45", "obj_uri": ["Q597"], "sub_label": "葡萄牙", "obj_label": ["里斯本"], "country": ["Q45"], "size": 294768, "uuid": "P36_general_WESTERN_COUNTRIES_7", "bloom_choices": ["里斯本"]}
+{"sub_uri": "Q183", "obj_uri": ["Q64"], "sub_label": "德国", "obj_label": ["柏林", "柏林市"], "country": ["Q183"], "size": 283016, "uuid": "P36_general_WESTERN_COUNTRIES_8", "bloom_choices": ["柏林"]}
+{"sub_uri": "Q40", "obj_uri": ["Q1741"], "sub_label": "奥地利", "obj_label": ["维也纳"], "country": ["Q40"], "size": 278589, "uuid": "P36_general_WESTERN_COUNTRIES_9", "bloom_choices": ["维也纳"]}
+{"sub_uri": "Q32", "obj_uri": ["Q1842"], "sub_label": "卢森堡", "obj_label": ["卢森堡城", "卢森堡市"], "country": ["Q32"], "size": 233590, "uuid": "P36_general_WESTERN_COUNTRIES_10", "bloom_choices": ["卢森堡市"]}
+{"sub_uri": "Q27", "obj_uri": ["Q1761"], "sub_label": "爱尔兰共和国", "obj_label": ["都柏林"], "country": ["Q27"], "size": 233536, "uuid": "P36_general_WESTERN_COUNTRIES_11", "bloom_choices": ["都柏林"]}
+{"sub_uri": "Q664", "obj_uri": ["Q23661"], "sub_label": "新西兰", "obj_label": ["惠灵顿市", "威灵顿", "威灵顿市", "惠灵顿"], "country": ["Q664"], "size": 219023, "uuid": "P36_general_WESTERN_COUNTRIES_12", "bloom_choices": ["奥克兰"]}
+{"sub_uri": "Q408", "obj_uri": ["Q3114"], "sub_label": "澳大利亚", "obj_label": ["堪培拉"], "country": ["Q408"], "size": 214467, "uuid": "P36_general_WESTERN_COUNTRIES_13", "bloom_choices": ["墨尔本"]}
+{"sub_uri": "Q31", "obj_uri": ["Q239"], "sub_label": "比利时", "obj_label": ["布鲁塞尔市", "布鲁塞尔城", "布鲁塞尔"], "country": ["Q31"], "size": 204685, "uuid": "P36_general_WESTERN_COUNTRIES_14", "bloom_choices": ["布鲁塞尔"]}
+{"sub_uri": "Q347", "obj_uri": ["Q1844"], "sub_label": "列支敦斯登", "obj_label": ["华杜兹", "瓦都兹"], "country": ["Q347"], "size": 177866, "uuid": "P36_general_WESTERN_COUNTRIES_15", "bloom_choices": ["杜塞尔多夫"]}
+{"sub_uri": "Q235", "obj_uri": ["Q55115"], "sub_label": "摩纳哥", "obj_label": ["摩纳哥城"], "country": ["Q235"], "size": 169499, "uuid": "P36_general_WESTERN_COUNTRIES_16", "bloom_choices": ["蒙特卡洛"]}
+{"sub_uri": "Q228", "obj_uri": ["Q1863"], "sub_label": "安道尔", "obj_label": ["安道尔城"], "country": ["Q228"], "size": 163472, "uuid": "P36_general_WESTERN_COUNTRIES_17", "bloom_choices": ["安道尔"]}
+{"sub_uri": "Q238", "obj_uri": ["Q1848"], "sub_label": "圣马力诺", "obj_label": ["圣马力诺"], "country": ["Q238"], "size": 99159, "uuid": "P36_general_WESTERN_COUNTRIES_18", "bloom_choices": ["圣马利诺"]}

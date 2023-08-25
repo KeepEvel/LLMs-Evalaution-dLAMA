@@ -1,0 +1,3 @@
+{"sub_uri": "Q17", "obj_uri": ["Q48"], "sub_label": "Japan", "obj_label": ["Asia"], "country": ["Q17"], "size": 564297, "uuid": "P30_general_ASIA_0", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q148", "obj_uri": ["Q48"], "sub_label": "People's Republic of China", "obj_label": ["Asia"], "country": ["Q148"], "size": 412736, "uuid": "P30_general_ASIA_1", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q865", "obj_uri": ["Q48"], "sub_label": "Taiwan", "obj_label": ["Asia"], "country": ["Q865"], "size": 408861, "uuid": "P30_general_ASIA_2", "bloom_choices": ["Asia"]}

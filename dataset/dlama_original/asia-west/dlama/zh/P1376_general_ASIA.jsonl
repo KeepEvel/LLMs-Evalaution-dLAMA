@@ -1,0 +1,27 @@
+{"sub_uri": "Q334", "obj_uri": ["Q334", "Q376178"], "sub_label": "新加坡", "obj_label": ["新加坡", "海峡殖民地"], "country": ["Q334", "Q376178"], "size": 283032, "uuid": "P1376_general_ASIA_0"}
+{"sub_uri": "Q1858", "obj_uri": ["Q172640", "Q185682", "Q3111454", "Q622778", "Q701337", "Q881"], "sub_label": "河内市", "obj_label": ["越南民主共和国", "法属印度支那", "陈朝", "东京", "越南帝国", "越南"], "country": ["Q172640", "Q185682", "Q3111454", "Q622778", "Q701337", "Q881"], "size": 273569, "uuid": "P1376_general_ASIA_1"}
+{"sub_uri": "Q1461", "obj_uri": ["Q928"], "sub_label": "马尼拉市", "obj_label": ["菲律宾"], "country": ["Q928"], "size": 242897, "uuid": "P1376_general_ASIA_2"}
+{"sub_uri": "Q956", "obj_uri": ["Q148"], "sub_label": "北京市", "obj_label": ["中华人民共和国"], "country": ["Q148"], "size": 230128, "uuid": "P1376_general_ASIA_3"}
+{"sub_uri": "Q1861", "obj_uri": ["Q1155700", "Q869"], "sub_label": "曼谷", "obj_label": ["拉达那哥欣王国", "泰国"], "country": ["Q1155700", "Q869"], "size": 226453, "uuid": "P1376_general_ASIA_4"}
+{"sub_uri": "Q3630", "obj_uri": ["Q252"], "sub_label": "雅加达", "obj_label": ["印度尼西亚"], "country": ["Q252"], "size": 190058, "uuid": "P1376_general_ASIA_5"}
+{"sub_uri": "Q30002", "obj_uri": ["Q1069905", "Q19770", "Q320925", "Q526507", "Q571453", "Q865"], "sub_label": "成都市", "obj_label": ["成汉", "四川省", "蜀汉", "后蜀", "前蜀", "中华民国"], "country": ["Q1069905", "Q19770", "Q320925", "Q526507", "Q571453", "Q865"], "size": 185003, "uuid": "P1376_general_ASIA_6"}
+{"sub_uri": "Q1865", "obj_uri": ["Q1479726", "Q833"], "sub_label": "吉隆坡", "obj_label": ["马来亚联合邦", "马来西亚"], "country": ["Q1479726", "Q833"], "size": 178090, "uuid": "P1376_general_ASIA_7"}
+{"sub_uri": "Q1490", "obj_uri": ["Q17", "Q188712", "Q696251"], "sub_label": "东京都", "obj_label": ["日本", "大日本帝国", "同盟国军事佔领日本"], "country": ["Q17", "Q188712", "Q696251"], "size": 147715, "uuid": "P1376_general_ASIA_8"}
+{"sub_uri": "Q1867", "obj_uri": ["Q137816", "Q22502", "Q319881", "Q32081", "Q865"], "sub_label": "台北市", "obj_label": ["台湾日治时期", "台湾", "台湾民主国", "台湾省", "中华民国"], "country": ["Q137816", "Q22502", "Q319881", "Q32081", "Q865"], "size": 146696, "uuid": "P1376_general_ASIA_9"}
+{"sub_uri": "Q8684", "obj_uri": ["Q884"], "sub_label": "首尔", "obj_label": ["大韩民国"], "country": ["Q884"], "size": 112678, "uuid": "P1376_general_ASIA_10"}
+{"sub_uri": "Q23430", "obj_uri": ["Q711"], "sub_label": "乌兰巴托", "obj_label": ["蒙古国"], "country": ["Q711"], "size": 97290, "uuid": "P1376_general_ASIA_11"}
+{"sub_uri": "Q37995", "obj_uri": ["Q2376315", "Q836", "Q856781"], "sub_label": "仰光", "obj_label": ["英属缅甸", "缅甸", "仰光省"], "country": ["Q2376315", "Q836", "Q856781"], "size": 97157, "uuid": "P1376_general_ASIA_12"}
+{"sub_uri": "Q18808", "obj_uri": ["Q28370", "Q423", "Q705044"], "sub_label": "平壤", "obj_label": ["高句丽", "朝鲜民主主义人民共和国", "北朝鲜人民委员会"], "country": ["Q28370", "Q423", "Q705044"], "size": 79328, "uuid": "P1376_general_ASIA_13"}
+{"sub_uri": "Q37400", "obj_uri": ["Q836"], "sub_label": "奈比多", "obj_label": ["缅甸"], "country": ["Q836"], "size": 56020, "uuid": "P1376_general_ASIA_14"}
+{"sub_uri": "Q215646", "obj_uri": ["Q17", "Q205662"], "sub_label": "江户", "obj_label": ["日本", "江户幕府"], "country": ["Q17", "Q205662"], "size": 54734, "uuid": "P1376_general_ASIA_15"}
+{"sub_uri": "Q110601629", "obj_uri": ["Q252"], "sub_label": "努山塔拉", "obj_label": ["印度尼西亚"], "country": ["Q252"], "size": 53156, "uuid": "P1376_general_ASIA_16"}
+{"sub_uri": "Q1207735", "obj_uri": ["Q1189121", "Q17", "Q188712"], "sub_label": "东京市", "obj_label": ["东京府", "日本", "大日本帝国"], "country": ["Q1189121", "Q17", "Q188712"], "size": 40319, "uuid": "P1376_general_ASIA_17"}
+{"sub_uri": "Q740246", "obj_uri": ["Q1154406", "Q17"], "sub_label": "京都", "obj_label": ["室町幕府", "日本"], "country": ["Q1154406", "Q17"], "size": 30098, "uuid": "P1376_general_ASIA_18"}
+{"sub_uri": "Q751907", "obj_uri": ["Q10827839", "Q17", "Q826021"], "sub_label": "平安京", "obj_label": ["平氏政权", "日本", "建武新政"], "country": ["Q10827839", "Q17", "Q826021"], "size": 28053, "uuid": "P1376_general_ASIA_19"}
+{"sub_uri": "Q862509", "obj_uri": ["Q17"], "sub_label": "平城京", "obj_label": ["日本"], "country": ["Q17"], "size": 24639, "uuid": "P1376_general_ASIA_20"}
+{"sub_uri": "Q1189121", "obj_uri": ["Q17"], "sub_label": "东京府", "obj_label": ["日本"], "country": ["Q17"], "size": 20211, "uuid": "P1376_general_ASIA_21"}
+{"sub_uri": "Q1052803", "obj_uri": ["Q17"], "sub_label": "长冈京", "obj_label": ["日本"], "country": ["Q17"], "size": 13039, "uuid": "P1376_general_ASIA_22"}
+{"sub_uri": "Q6031707", "obj_uri": ["Q10827839", "Q17"], "sub_label": "福原京", "obj_label": ["平氏政权", "日本"], "country": ["Q10827839", "Q17"], "size": 8000, "uuid": "P1376_general_ASIA_23"}
+{"sub_uri": "Q262438", "obj_uri": ["Q17"], "sub_label": "紫香乐宫", "obj_label": ["日本"], "country": ["Q17"], "size": 6679, "uuid": "P1376_general_ASIA_24"}
+{"sub_uri": "Q1042338", "obj_uri": ["Q17"], "sub_label": "难波京", "obj_label": ["日本"], "country": ["Q17"], "size": 4560, "uuid": "P1376_general_ASIA_25"}
+{"sub_uri": "Q4164068", "obj_uri": ["Q865"], "sub_label": "京兆地方", "obj_label": ["中华民国"], "country": ["Q865"], "size": 4128, "uuid": "P1376_general_ASIA_26"}

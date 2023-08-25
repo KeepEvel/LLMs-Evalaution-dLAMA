@@ -1,0 +1,19 @@
+{"sub_uri": "Q39", "obj_uri": ["Q46"], "sub_label": "سويسرا", "obj_label": ["أوروبا"], "country": ["Q39"], "size": 383334, "uuid": "P30_general_WESTERN_COUNTRIES_0"}
+{"sub_uri": "Q38", "obj_uri": ["Q46"], "sub_label": "إيطاليا", "obj_label": ["أوروبا"], "country": ["Q38"], "size": 378547, "uuid": "P30_general_WESTERN_COUNTRIES_1"}
+{"sub_uri": "Q142", "obj_uri": ["Q46"], "sub_label": "فرنسا", "obj_label": ["أوروبا"], "country": ["Q142"], "size": 371469, "uuid": "P30_general_WESTERN_COUNTRIES_2"}
+{"sub_uri": "Q16", "obj_uri": ["Q49"], "sub_label": "كندا", "obj_label": ["أمريكا الشمالية"], "country": ["Q16"], "size": 371104, "uuid": "P30_general_WESTERN_COUNTRIES_3"}
+{"sub_uri": "Q145", "obj_uri": ["Q46"], "sub_label": "المملكة المتحدة", "obj_label": ["أوروبا"], "country": ["Q145"], "size": 354997, "uuid": "P30_general_WESTERN_COUNTRIES_4"}
+{"sub_uri": "Q29", "obj_uri": ["Q46"], "sub_label": "إسبانيا", "obj_label": ["أوروبا"], "country": ["Q29"], "size": 320122, "uuid": "P30_general_WESTERN_COUNTRIES_5"}
+{"sub_uri": "Q30", "obj_uri": ["Q49"], "sub_label": "الولايات المتحدة", "obj_label": ["أمريكا الشمالية"], "country": ["Q30"], "size": 319942, "uuid": "P30_general_WESTERN_COUNTRIES_6"}
+{"sub_uri": "Q45", "obj_uri": ["Q46"], "sub_label": "البرتغال", "obj_label": ["أوروبا"], "country": ["Q45"], "size": 294768, "uuid": "P30_general_WESTERN_COUNTRIES_7"}
+{"sub_uri": "Q183", "obj_uri": ["Q46"], "sub_label": "ألمانيا", "obj_label": ["أوروبا"], "country": ["Q183"], "size": 283016, "uuid": "P30_general_WESTERN_COUNTRIES_8"}
+{"sub_uri": "Q40", "obj_uri": ["Q46"], "sub_label": "النمسا", "obj_label": ["أوروبا"], "country": ["Q40"], "size": 278589, "uuid": "P30_general_WESTERN_COUNTRIES_9"}
+{"sub_uri": "Q32", "obj_uri": ["Q46"], "sub_label": "لوكسمبورغ", "obj_label": ["أوروبا"], "country": ["Q32"], "size": 233590, "uuid": "P30_general_WESTERN_COUNTRIES_10"}
+{"sub_uri": "Q27", "obj_uri": ["Q46"], "sub_label": "جمهورية أيرلندا", "obj_label": ["أوروبا"], "country": ["Q27"], "size": 233536, "uuid": "P30_general_WESTERN_COUNTRIES_11"}
+{"sub_uri": "Q664", "obj_uri": ["Q538"], "sub_label": "نيوزيلندا", "obj_label": ["جزيرة أوقيانوسيا"], "country": ["Q664"], "size": 219023, "uuid": "P30_general_WESTERN_COUNTRIES_12"}
+{"sub_uri": "Q408", "obj_uri": ["Q538"], "sub_label": "أستراليا", "obj_label": ["جزيرة أوقيانوسيا"], "country": ["Q408"], "size": 214467, "uuid": "P30_general_WESTERN_COUNTRIES_13"}
+{"sub_uri": "Q31", "obj_uri": ["Q46"], "sub_label": "بلجيكا", "obj_label": ["أوروبا"], "country": ["Q31"], "size": 204685, "uuid": "P30_general_WESTERN_COUNTRIES_14"}
+{"sub_uri": "Q347", "obj_uri": ["Q46"], "sub_label": "ليختنشتاين", "obj_label": ["أوروبا"], "country": ["Q347"], "size": 177866, "uuid": "P30_general_WESTERN_COUNTRIES_15"}
+{"sub_uri": "Q235", "obj_uri": ["Q46"], "sub_label": "موناكو", "obj_label": ["أوروبا"], "country": ["Q235"], "size": 169499, "uuid": "P30_general_WESTERN_COUNTRIES_16"}
+{"sub_uri": "Q228", "obj_uri": ["Q46"], "sub_label": "أندورا", "obj_label": ["أوروبا"], "country": ["Q228"], "size": 163472, "uuid": "P30_general_WESTERN_COUNTRIES_17"}
+{"sub_uri": "Q238", "obj_uri": ["Q46"], "sub_label": "سان مارينو", "obj_label": ["أوروبا"], "country": ["Q238"], "size": 99159, "uuid": "P30_general_WESTERN_COUNTRIES_18"}

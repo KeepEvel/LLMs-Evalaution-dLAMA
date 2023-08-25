@@ -1,0 +1,22 @@
+{"sub_label": "Yemen", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Iraq", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Morocco", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Saudi Arabia", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Kuwait", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Tunisia", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Egypt", "obj_label": ["African continent", "Asia", "Africa", "Asian continent", "Ancient Libya"], "gpt4_choices": ["africa"]}
+{"sub_label": "Jordan", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Algeria", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Oman", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Qatar", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Lebanon", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "United Arab Emirates", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Somalia", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Libya", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Bahrain", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Syria", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "State of Palestine", "obj_label": ["Asia", "Asian continent"], "gpt4_choices": ["asia"]}
+{"sub_label": "Sudan", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Djibouti", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Mauritania", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}
+{"sub_label": "Comoros", "obj_label": ["Africa", "Ancient Libya", "African continent"], "gpt4_choices": ["africa"]}

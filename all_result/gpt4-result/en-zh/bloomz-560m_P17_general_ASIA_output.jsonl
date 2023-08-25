@@ -1,0 +1,3 @@
+{"sub_uri": "Q217059", "obj_uri": ["Q17", "Q30", "Q884"], "sub_label": "Unification Church", "obj_label": ["Japan", "United States of America", "South Korea"], "country": ["Q17", "Q30", "Q884"], "size": 707450, "uuid": "P17_general_ASIA_0", "bloom_choices": ["한국"]}
+{"sub_uri": "Q31180800", "obj_uri": ["Q884"], "sub_label": "Moon Jae-in Government", "obj_label": ["South Korea"], "country": ["Q884"], "size": 623971, "uuid": "P17_general_ASIA_1", "bloom_choices": ["韩国"]}
+{"sub_uri": "Q17", "obj_uri": ["Q17"], "sub_label": "Japan", "obj_label": ["Japan"], "country": ["Q17"], "size": 564297, "uuid": "P17_general_ASIA_2", "bloom_choices": ["株式会社"]}

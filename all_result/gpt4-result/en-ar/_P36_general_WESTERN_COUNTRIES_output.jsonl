@@ -1,0 +1,19 @@
+{"sub_label": "Switzerland", "obj_label": ["Berne", "Berna", "Bern", "city of Bern"], "gpt4_choices": ["bern"]}
+{"sub_label": "Italy", "obj_label": ["The Eternal City", "Rome, Italy", "Roma", "Rome", "City of Seven Hills"], "gpt4_choices": ["rome"]}
+{"sub_label": "France", "obj_label": ["Paris", "City of Love", "Lutetia", "City of Light"], "gpt4_choices": ["paris"]}
+{"sub_label": "Canada", "obj_label": ["Ottawa, ON", "City of Ottawa", "Bytown", "Ottawa, Ontario", "Ottawa"], "gpt4_choices": ["ottawa"]}
+{"sub_label": "United Kingdom", "obj_label": ["Loñ", "London UK", "Greater London", "Augusta", "Trinovantum", "London, UK", "Londiniensium", "Londinio", "Londinium", "Karelundein", "Llan Dian", "Lond.", "London, England", "Llyn Dain", "the Big Smoke", "Londinion", "Big Smoke", "Lon.", "London, United Kingdom", "Loniniensi", "Londini", "Lundenwic", "London", "London U.K.", "Loñ.", "Lunden", "Lundenburgh", "Lundenburh", "Kaerlud"], "gpt4_choices": ["london"]}
+{"sub_label": "Spain", "obj_label": ["Madrid", "Madrid, Spain"], "gpt4_choices": ["madrid"]}
+{"sub_label": "United States of America", "obj_label": ["Washington D.C.", "DC", "Washington, District of Columbia", "The District", "Washington, D.C., U.S.", "Washington, D.C.", "Washington, D. C.", "Washington DC", "District of Columbia", "Washington, DC", "D.C.", "Washington", "US-DC"], "gpt4_choices": ["washington, d.c."]}
+{"sub_label": "Portugal", "obj_label": ["Lisbon", "Lisboa"], "gpt4_choices": ["lisbon"]}
+{"sub_label": "Germany", "obj_label": ["DE-BE", "Berlin", "Berlin (Germany)", "Berlin, Germany"], "gpt4_choices": ["berlin"]}
+{"sub_label": "Austria", "obj_label": ["Vienna", "W", "Vienna, Austria", "Wien"], "gpt4_choices": ["vienna"]}
+{"sub_label": "Luxembourg", "obj_label": ["Luxembourg City", "Luxemburg", "Luxembourg", "City of Luxembourg"], "gpt4_choices": ["luxembourg city"]}
+{"sub_label": "Republic of Ireland", "obj_label": ["Baile Átha Cliath", "Dublin city", "Dublin", "Dublin, Ireland", "City of Dublin"], "gpt4_choices": ["dublin"]}
+{"sub_label": "New Zealand", "obj_label": ["Wellington, New Zealand", "Wellington", "Wellington, NZ", "Wellington metropolitan area", "Te Whanga-nui-a-Tara"], "gpt4_choices": ["wellington"]}
+{"sub_label": "Australia", "obj_label": ["Canberra", "Canberra, Australian Capital Territory", "Canberra, Australia"], "gpt4_choices": ["canberra"]}
+{"sub_label": "Belgium", "obj_label": ["Bru", "Brussels (municipality)", "Brussels", "BXL", "Bruxelles", "Brussels, Belgium", "Brussel", "Stad Brussel", "02", "Ville de Bruxelles", "Brussels City"], "gpt4_choices": ["brussels"]}
+{"sub_label": "Liechtenstein", "obj_label": ["Vaduz"], "gpt4_choices": ["vaduz"]}
+{"sub_label": "Monaco", "obj_label": ["Monaco City", "Monaco-Ville", "Monaco", "City of Monaco"], "gpt4_choices": ["monaco"]}
+{"sub_label": "Andorra", "obj_label": ["Andorra la Vella"], "gpt4_choices": ["andorra la vella"]}
+{"sub_label": "San Marino", "obj_label": ["City of San Marino", "San Marino"], "gpt4_choices": ["san marino"]}

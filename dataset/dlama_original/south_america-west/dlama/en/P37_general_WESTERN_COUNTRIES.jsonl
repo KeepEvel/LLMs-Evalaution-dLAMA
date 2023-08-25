@@ -1,0 +1,19 @@
+{"sub_uri": "Q39", "obj_uri": ["Q13199", "Q150", "Q188", "Q652"], "sub_label": "Switzerland", "obj_label": ["Romansh", "French", "German", "Italian"], "country": ["Q39"], "size": 385482, "uuid": "P37_general_WESTERN_COUNTRIES_0"}
+{"sub_uri": "Q38", "obj_uri": ["Q652"], "sub_label": "Italy", "obj_label": ["Italian"], "country": ["Q38"], "size": 379156, "uuid": "P37_general_WESTERN_COUNTRIES_1"}
+{"sub_uri": "Q16", "obj_uri": ["Q150", "Q1860"], "sub_label": "Canada", "obj_label": ["French", "English"], "country": ["Q16"], "size": 371714, "uuid": "P37_general_WESTERN_COUNTRIES_2"}
+{"sub_uri": "Q142", "obj_uri": ["Q150"], "sub_label": "France", "obj_label": ["French"], "country": ["Q142"], "size": 371173, "uuid": "P37_general_WESTERN_COUNTRIES_3"}
+{"sub_uri": "Q145", "obj_uri": ["Q1860"], "sub_label": "United Kingdom", "obj_label": ["English"], "country": ["Q145"], "size": 361360, "uuid": "P37_general_WESTERN_COUNTRIES_4"}
+{"sub_uri": "Q30", "obj_uri": ["Q1860"], "sub_label": "United States of America", "obj_label": ["English"], "country": ["Q30"], "size": 320390, "uuid": "P37_general_WESTERN_COUNTRIES_5"}
+{"sub_uri": "Q29", "obj_uri": ["Q1321"], "sub_label": "Spain", "obj_label": ["Spanish"], "country": ["Q29"], "size": 320109, "uuid": "P37_general_WESTERN_COUNTRIES_6"}
+{"sub_uri": "Q45", "obj_uri": ["Q13330", "Q5146"], "sub_label": "Portugal", "obj_label": ["Mirandese", "Portuguese"], "country": ["Q45"], "size": 294692, "uuid": "P37_general_WESTERN_COUNTRIES_7"}
+{"sub_uri": "Q183", "obj_uri": ["Q188"], "sub_label": "Germany", "obj_label": ["German"], "country": ["Q183"], "size": 283020, "uuid": "P37_general_WESTERN_COUNTRIES_8"}
+{"sub_uri": "Q40", "obj_uri": ["Q188", "Q36668"], "sub_label": "Austria", "obj_label": ["German", "Austrian Sign Language"], "country": ["Q40"], "size": 278589, "uuid": "P37_general_WESTERN_COUNTRIES_9"}
+{"sub_uri": "Q32", "obj_uri": ["Q150", "Q188", "Q9051"], "sub_label": "Luxembourg", "obj_label": ["French", "German", "Luxembourgish"], "country": ["Q32"], "size": 234046, "uuid": "P37_general_WESTERN_COUNTRIES_10"}
+{"sub_uri": "Q27", "obj_uri": ["Q1860", "Q9142"], "sub_label": "Republic of Ireland", "obj_label": ["English", "Irish"], "country": ["Q27"], "size": 233110, "uuid": "P37_general_WESTERN_COUNTRIES_11"}
+{"sub_uri": "Q664", "obj_uri": ["Q1860", "Q36239", "Q36451"], "sub_label": "New Zealand", "obj_label": ["English", "New Zealand Sign Language", "Māori"], "country": ["Q664"], "size": 219021, "uuid": "P37_general_WESTERN_COUNTRIES_12"}
+{"sub_uri": "Q408", "obj_uri": ["Q1860"], "sub_label": "Australia", "obj_label": ["English"], "country": ["Q408"], "size": 214749, "uuid": "P37_general_WESTERN_COUNTRIES_13"}
+{"sub_uri": "Q31", "obj_uri": ["Q150", "Q188", "Q7411"], "sub_label": "Belgium", "obj_label": ["French", "German", "Dutch"], "country": ["Q31"], "size": 204731, "uuid": "P37_general_WESTERN_COUNTRIES_14"}
+{"sub_uri": "Q347", "obj_uri": ["Q188"], "sub_label": "Liechtenstein", "obj_label": ["German"], "country": ["Q347"], "size": 177880, "uuid": "P37_general_WESTERN_COUNTRIES_15"}
+{"sub_uri": "Q235", "obj_uri": ["Q150"], "sub_label": "Monaco", "obj_label": ["French"], "country": ["Q235"], "size": 169455, "uuid": "P37_general_WESTERN_COUNTRIES_16"}
+{"sub_uri": "Q228", "obj_uri": ["Q7026"], "sub_label": "Andorra", "obj_label": ["Catalan"], "country": ["Q228"], "size": 163472, "uuid": "P37_general_WESTERN_COUNTRIES_17"}
+{"sub_uri": "Q238", "obj_uri": ["Q652"], "sub_label": "San Marino", "obj_label": ["Italian"], "country": ["Q238"], "size": 99191, "uuid": "P37_general_WESTERN_COUNTRIES_18"}

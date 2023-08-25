@@ -1,0 +1,3 @@
+{"sub_uri": "Q5829", "obj_uri": ["Q1321"], "sub_label": "Jean-Luc Mélenchon", "obj_label": ["Spanish"], "country": ["Q142"], "size": 436799, "uuid": "P103_general_WESTERN_COUNTRIES_0", "bloom_choices": ["French"]}
+{"sub_uri": "Q180589", "obj_uri": ["Q1860"], "sub_label": "Boris Johnson", "obj_label": ["English"], "country": ["Q145", "Q30"], "size": 433165, "uuid": "P103_general_WESTERN_COUNTRIES_1", "bloom_choices": ["한국어"]}
+{"sub_uri": "Q22686", "obj_uri": ["Q1860"], "sub_label": "Donald Trump", "obj_label": ["English"], "country": ["Q30"], "size": 418082, "uuid": "P103_general_WESTERN_COUNTRIES_2", "bloom_choices": ["英语"]}

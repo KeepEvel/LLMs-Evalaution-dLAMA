@@ -1,0 +1,22 @@
+{"sub_label": "Yemen", "obj_label": ["Aden", "Ṣanʻāʼ", "Ṣanʿāʾ", "San'a'", "Sana", "Sanaa"], "gpt4_choices": ["sana'a"]}
+{"sub_label": "Iraq", "obj_label": ["Baghdād", "Baghdad", "Bagdad"], "gpt4_choices": ["baghdad"]}
+{"sub_label": "Morocco", "obj_label": ["Rabat"], "gpt4_choices": ["rabat"]}
+{"sub_label": "Saudi Arabia", "obj_label": ["Reyadh", "Riyadh"], "gpt4_choices": ["riyadh"]}
+{"sub_label": "Kuwait", "obj_label": ["Kuwait City", "al-Kuwait", "Al Kuwait", "Kuwait"], "gpt4_choices": ["kuwait city"]}
+{"sub_label": "Tunisia", "obj_label": ["Tunis"], "gpt4_choices": ["tunis"]}
+{"sub_label": "Egypt", "obj_label": ["Cairo, Egypt", "Cairo"], "gpt4_choices": ["cairo"]}
+{"sub_label": "Jordan", "obj_label": ["Amman"], "gpt4_choices": ["amman"]}
+{"sub_label": "Algeria", "obj_label": ["Algiers"], "gpt4_choices": ["algiers"]}
+{"sub_label": "Oman", "obj_label": ["Muscat", "Muskat"], "gpt4_choices": ["muscat"]}
+{"sub_label": "Qatar", "obj_label": ["Doha"], "gpt4_choices": ["doha"]}
+{"sub_label": "Lebanon", "obj_label": ["Beyrout", "Beirut"], "gpt4_choices": ["beirut"]}
+{"sub_label": "United Arab Emirates", "obj_label": ["Abū Dhabi", "Abu Dhabi", "Abudhabi"], "gpt4_choices": ["abu dhabi"]}
+{"sub_label": "Somalia", "obj_label": ["Xamar", "The Seat of the Shah", "Maqadīshū", "Hamar", "Mogadishu"], "gpt4_choices": ["mogadishu"]}
+{"sub_label": "Libya", "obj_label": ["Tripoli", "Tarabulus"], "gpt4_choices": ["tripoli"]}
+{"sub_label": "Bahrain", "obj_label": ["Manama"], "gpt4_choices": ["manama"]}
+{"sub_label": "Syria", "obj_label": ["Sham city", "Damascus", "Jasmine city"], "gpt4_choices": ["damascus"]}
+{"sub_label": "State of Palestine", "obj_label": ["Ramallah", "Aelia Capitolina", "Al-Quds", "J'lem", "Yerushalayim", "Jerusalem"], "gpt4_choices": ["ramallah"]}
+{"sub_label": "Sudan", "obj_label": ["Khartoum"], "gpt4_choices": ["khartoum"]}
+{"sub_label": "Djibouti", "obj_label": ["Djibouti", "Djibouti (city)", "Djibouti City"], "gpt4_choices": ["djibouti city"]}
+{"sub_label": "Mauritania", "obj_label": ["Nouakchott", "Capital of Mauritania", "Nawakshut", "Nawākshūṭ", "Noukchott", "Nouakchot", "Nuwākshūṭ", "Nouakchott, Mauritania"], "gpt4_choices": ["nouakchott"]}
+{"sub_label": "Comoros", "obj_label": ["Moroni", "Moroni, Comoros"], "gpt4_choices": ["moroni"]}

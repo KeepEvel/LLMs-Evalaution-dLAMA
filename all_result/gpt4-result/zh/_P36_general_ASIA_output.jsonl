@@ -1,0 +1,13 @@
+{"sub_label": "日本", "obj_label": ["东京都", "东京", "日本东京"], "gpt4_choices": ["东京"]}
+{"sub_label": "中华人民共和国", "obj_label": ["京兆地方", "燕", "京", "北京市", "平", "北京", "燕京", "北平", "北平市"], "gpt4_choices": ["北京"]}
+{"sub_label": "中华民国", "obj_label": ["台北", "北市", "台北市", "杜鹃花城"], "gpt4_choices": ["台北"]}
+{"sub_label": "泰国", "obj_label": ["恭贴", "恭贴玛哈纳空", "曼谷", "泰京"], "gpt4_choices": ["曼谷"]}
+{"sub_label": "菲律宾", "obj_label": ["马尼剌", "马尼拉市", "马尼拉"], "gpt4_choices": ["马尼拉"]}
+{"sub_label": "越南", "obj_label": ["昇龙", "城庯河内", "河内", "河内市"], "gpt4_choices": ["河内"]}
+{"sub_label": "新加坡", "obj_label": ["新加坡", "狮城", "星加坡", "新国", "星国", "新加坡共和国", "星洲"], "gpt4_choices": ["新加坡"]}
+{"sub_label": "大韩民国", "obj_label": ["汉城", "首尔", "首尔特别市"], "gpt4_choices": ["首尔"]}
+{"sub_label": "朝鲜民主主义人民共和国", "obj_label": ["平壤"], "gpt4_choices": ["平壤"]}
+{"sub_label": "缅甸", "obj_label": ["奈比多", "彬马那", "内比都", "宾马拿", "彬文那", "平蛮"], "gpt4_choices": ["内比都"]}
+{"sub_label": "印度尼西亚", "obj_label": ["椰城", "雅加达特别首都地域", "巴达维亚", "雅加达"], "gpt4_choices": ["雅加达"]}
+{"sub_label": "马来西亚", "obj_label": ["吉隆坡"], "gpt4_choices": ["吉隆坡"]}
+{"sub_label": "蒙古国", "obj_label": ["库伦", "大库伦", "乌兰巴托市", "乌兰巴托", "京都库伦"], "gpt4_choices": ["乌兰巴托"]}

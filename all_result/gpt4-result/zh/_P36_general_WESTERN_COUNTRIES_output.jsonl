@@ -1,0 +1,19 @@
+{"sub_label": "瑞士", "obj_label": ["伯恩", "伯尔尼"], "gpt4_choices": ["伯尔尼"]}
+{"sub_label": "意大利", "obj_label": ["罗马"], "gpt4_choices": ["罗马"]}
+{"sub_label": "法国", "obj_label": ["巴黎省", "巴黎市", "巴黎"], "gpt4_choices": ["巴黎"]}
+{"sub_label": "加拿大", "obj_label": ["渥太华"], "gpt4_choices": ["渥太华"]}
+{"sub_label": "英国", "obj_label": ["伦敦"], "gpt4_choices": ["伦敦"]}
+{"sub_label": "美国", "obj_label": ["华盛顿特区", "哥伦比亚特区", "华盛顿", "华盛顿哥伦比亚特区", "浣洗屯", "华府", "花生屯", "华盛顿市"], "gpt4_choices": ["华盛顿特区"]}
+{"sub_label": "西班牙", "obj_label": ["马德里"], "gpt4_choices": ["马德里"]}
+{"sub_label": "葡萄牙", "obj_label": ["里斯本"], "gpt4_choices": ["里斯本"]}
+{"sub_label": "德国", "obj_label": ["柏林", "柏林市"], "gpt4_choices": ["柏林"]}
+{"sub_label": "奥地利", "obj_label": ["维也纳"], "gpt4_choices": ["维也纳"]}
+{"sub_label": "卢森堡", "obj_label": ["卢森堡城", "卢森堡市"], "gpt4_choices": ["卢森堡市"]}
+{"sub_label": "爱尔兰共和国", "obj_label": ["都柏林"], "gpt4_choices": ["都柏林"]}
+{"sub_label": "新西兰", "obj_label": ["惠灵顿市", "威灵顿", "威灵顿市", "惠灵顿"], "gpt4_choices": ["惠灵顿"]}
+{"sub_label": "澳大利亚", "obj_label": ["堪培拉"], "gpt4_choices": ["堪培拉"]}
+{"sub_label": "比利时", "obj_label": ["布鲁塞尔市", "布鲁塞尔城", "布鲁塞尔"], "gpt4_choices": ["布鲁塞尔"]}
+{"sub_label": "列支敦斯登", "obj_label": ["华杜兹", "瓦都兹"], "gpt4_choices": ["瓦杜兹"]}
+{"sub_label": "摩纳哥", "obj_label": ["摩纳哥城"], "gpt4_choices": ["摩纳哥"]}
+{"sub_label": "安道尔", "obj_label": ["安道尔城"], "gpt4_choices": ["安道尔拉维拉"]}
+{"sub_label": "圣马力诺", "obj_label": ["圣马力诺"], "gpt4_choices": ["圣马力诺"]}

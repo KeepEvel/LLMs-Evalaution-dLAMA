@@ -1,0 +1,13 @@
+{"sub_uri": "Q17", "obj_uri": ["Q48"], "sub_label": "Japan", "obj_label": ["Asia", "Asian continent"], "country": ["Q17"], "size": 564297, "uuid": "P30_general_ASIA_0", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q148", "obj_uri": ["Q48"], "sub_label": "People's Republic of China", "obj_label": ["Asia", "Asian continent"], "country": ["Q148"], "size": 412736, "uuid": "P30_general_ASIA_1", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q865", "obj_uri": ["Q48"], "sub_label": "Taiwan", "obj_label": ["Asia", "Asian continent"], "country": ["Q865"], "size": 408861, "uuid": "P30_general_ASIA_2", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q869", "obj_uri": ["Q48"], "sub_label": "Thailand", "obj_label": ["Asia", "Asian continent"], "country": ["Q869"], "size": 349976, "uuid": "P30_general_ASIA_3", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q928", "obj_uri": ["Q48"], "sub_label": "Philippines", "obj_label": ["Asia", "Asian continent"], "country": ["Q928"], "size": 349533, "uuid": "P30_general_ASIA_4", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q881", "obj_uri": ["Q48"], "sub_label": "Vietnam", "obj_label": ["Asia", "Asian continent"], "country": ["Q881"], "size": 317037, "uuid": "P30_general_ASIA_5", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q334", "obj_uri": ["Q48"], "sub_label": "Singapore", "obj_label": ["Asia", "Asian continent"], "country": ["Q334"], "size": 283032, "uuid": "P30_general_ASIA_6", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q884", "obj_uri": ["Q48"], "sub_label": "South Korea", "obj_label": ["Asia", "Asian continent"], "country": ["Q884"], "size": 276752, "uuid": "P30_general_ASIA_7", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q423", "obj_uri": ["Q48"], "sub_label": "North Korea", "obj_label": ["Asia", "Asian continent"], "country": ["Q423"], "size": 258958, "uuid": "P30_general_ASIA_8", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q836", "obj_uri": ["Q48"], "sub_label": "Myanmar", "obj_label": ["Asia", "Asian continent"], "country": ["Q836"], "size": 250928, "uuid": "P30_general_ASIA_9", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q252", "obj_uri": ["Q48", "Q538"], "sub_label": "Indonesia", "obj_label": ["Insular Oceania", "Asia", "Asian continent", "Pacific Islands"], "country": ["Q252"], "size": 198129, "uuid": "P30_general_ASIA_10", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q833", "obj_uri": ["Q48"], "sub_label": "Malaysia", "obj_label": ["Asia", "Asian continent"], "country": ["Q833"], "size": 197868, "uuid": "P30_general_ASIA_11", "bloom_choices": ["Asia"]}
+{"sub_uri": "Q711", "obj_uri": ["Q48"], "sub_label": "Mongolia", "obj_label": ["Asia", "Asian continent"], "country": ["Q711"], "size": 135252, "uuid": "P30_general_ASIA_12", "bloom_choices": ["Asia"]}

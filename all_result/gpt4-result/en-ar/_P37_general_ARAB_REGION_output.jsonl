@@ -1,0 +1,22 @@
+{"sub_label": "Yemen", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Iraq", "obj_label": ["Kurdish", "Kurdi", "ku", "Kurdish dialects", "Kurdish languages", "Kurdish language", "Arabian language", "ar", "Arabic language", "Arabic"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Morocco", "obj_label": ["Standard Moroccan Berber", "zgh", "Standard Moroccan Tamazight", "Standard Moroccan Amazigh", "Arabian language", "ar", "Arabic language", "Arabic"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Saudi Arabia", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Kuwait", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Tunisia", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Egypt", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Jordan", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Algeria", "obj_label": ["Standard Algerian Berber", "Arabian language", "ar", "Arabic language", "Arabic"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Oman", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Qatar", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Lebanon", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "United Arab Emirates", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Somalia", "obj_label": ["so", "Af Soomaali, Somali", "ar", "Arabian language", "Somali language", "Somali", "Arabic language", "Arabic"], "gpt4_choices": ["somali"]}
+{"sub_label": "Libya", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Bahrain", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Syria", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "State of Palestine", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Sudan", "obj_label": ["en", "English", "Arabian language", "English language", "eng", "ar", "Arabic language", "Arabic"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Djibouti", "obj_label": ["fra", "(fr)", "French", "fr", "Arabian language", "ar", "Arabic language", "Arabic", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Mauritania", "obj_label": ["ar", "Arabic language", "Arabic", "Arabian language"], "gpt4_choices": ["arabic"]}
+{"sub_label": "Comoros", "obj_label": ["Comorian language", "fra", "Comorian", "(fr)", "French", "fr", "Arabian language", "ar", "Arabic language", "Arabic", "French language"], "gpt4_choices": ["comorian"]}

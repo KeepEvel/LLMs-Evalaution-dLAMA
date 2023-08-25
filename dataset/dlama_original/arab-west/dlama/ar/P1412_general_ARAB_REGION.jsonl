@@ -1,0 +1,1000 @@
+{"sub_uri": "Q367825", "obj_uri": ["Q13955"], "sub_label": "سلمان بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 686130, "uuid": "P1412_general_ARAB_REGION_0"}
+{"sub_uri": "Q6892571", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد بن سلمان آل سعود", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 567319, "uuid": "P1412_general_ARAB_REGION_1"}
+{"sub_uri": "Q57464", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "عبد الله الثاني بن الحسين", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q810"], "size": 416952, "uuid": "P1412_general_ARAB_REGION_2"}
+{"sub_uri": "Q1835", "obj_uri": ["Q1321", "Q13955", "Q150", "Q25448", "Q35853", "Q652"], "sub_label": "زين الدين زيدان", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "اللغات الأمازيغية", "القبائلية", "الإيطالية"], "country": ["Q262"], "size": 388983, "uuid": "P1412_general_ARAB_REGION_3"}
+{"sub_uri": "Q151509", "obj_uri": ["Q13955"], "sub_label": "عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 360160, "uuid": "P1412_general_ARAB_REGION_4"}
+{"sub_uri": "Q307871", "obj_uri": ["Q13955"], "sub_label": "عبد الفتاح السيسي", "obj_label": ["العربية"], "country": ["Q79"], "size": 333029, "uuid": "P1412_general_ARAB_REGION_5"}
+{"sub_uri": "Q57655", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد بن راشد آل مكتوم", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q878"], "size": 300205, "uuid": "P1412_general_ARAB_REGION_6"}
+{"sub_uri": "Q1354960", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد صلاح", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 296005, "uuid": "P1412_general_ARAB_REGION_7"}
+{"sub_uri": "Q44329", "obj_uri": ["Q13955"], "sub_label": "بشار الاسد", "obj_label": ["العربية"], "country": ["Q858"], "size": 271502, "uuid": "P1412_general_ARAB_REGION_8"}
+{"sub_uri": "Q217167", "obj_uri": ["Q13955"], "sub_label": "فيصل بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 271246, "uuid": "P1412_general_ARAB_REGION_9"}
+{"sub_uri": "Q327456", "obj_uri": ["Q1860", "Q7411"], "sub_label": "حكيم زياش", "obj_label": ["الإنجليزية", "الهولندية"], "country": ["Q1028"], "size": 267357, "uuid": "P1412_general_ARAB_REGION_10"}
+{"sub_uri": "Q12210117", "obj_uri": ["Q13955"], "sub_label": "خالد عبد الرحمن", "obj_label": ["العربية"], "country": ["Q851"], "size": 246970, "uuid": "P1412_general_ARAB_REGION_11"}
+{"sub_uri": "Q57553", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860"], "sub_label": "محمد السادس بن الحسن", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية"], "country": ["Q1028"], "size": 246655, "uuid": "P1412_general_ARAB_REGION_12"}
+{"sub_uri": "Q623802", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عادل الجبير", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 243896, "uuid": "P1412_general_ARAB_REGION_13"}
+{"sub_uri": "Q643348", "obj_uri": ["Q13955", "Q150"], "sub_label": "الحبيب بورقيبة", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 240168, "uuid": "P1412_general_ARAB_REGION_14"}
+{"sub_uri": "Q8338725", "obj_uri": ["Q150"], "sub_label": "رياض محرز", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 228449, "uuid": "P1412_general_ARAB_REGION_15"}
+{"sub_uri": "Q16119750", "obj_uri": ["Q13955"], "sub_label": "أحمد فضل القمندان", "obj_label": ["العربية"], "country": ["Q805"], "size": 217715, "uuid": "P1412_general_ARAB_REGION_16"}
+{"sub_uri": "Q957704", "obj_uri": ["Q13955"], "sub_label": "علي جمعة", "obj_label": ["العربية"], "country": ["Q79"], "size": 216603, "uuid": "P1412_general_ARAB_REGION_17"}
+{"sub_uri": "Q57298", "obj_uri": ["Q13955"], "sub_label": "عبد الله بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 209300, "uuid": "P1412_general_ARAB_REGION_18"}
+{"sub_uri": "Q146906", "obj_uri": ["Q13955"], "sub_label": "الحسين بن طلال", "obj_label": ["العربية"], "country": ["Q810"], "size": 204328, "uuid": "P1412_general_ARAB_REGION_19"}
+{"sub_uri": "Q3247658", "obj_uri": ["Q13955", "Q150"], "sub_label": "فيروز", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 204175, "uuid": "P1412_general_ARAB_REGION_20"}
+{"sub_uri": "Q57308", "obj_uri": ["Q13955", "Q150"], "sub_label": "عبد العزيز بوتفليقة", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 195343, "uuid": "P1412_general_ARAB_REGION_21"}
+{"sub_uri": "Q12219577", "obj_uri": ["Q13955", "Q1860"], "sub_label": "صالح العجيري", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q817"], "size": 192391, "uuid": "P1412_general_ARAB_REGION_22"}
+{"sub_uri": "Q19878", "obj_uri": ["Q13955"], "sub_label": "معمر القذافي", "obj_label": ["العربية"], "country": ["Q1016"], "size": 191674, "uuid": "P1412_general_ARAB_REGION_23"}
+{"sub_uri": "Q69103", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "الحسن الثاني بن محمد", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q1028"], "size": 190247, "uuid": "P1412_general_ARAB_REGION_24"}
+{"sub_uri": "Q47780", "obj_uri": ["Q13955", "Q1860"], "sub_label": "زها حديد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 189346, "uuid": "P1412_general_ARAB_REGION_25"}
+{"sub_uri": "Q1317", "obj_uri": ["Q13955", "Q1860", "Q58680"], "sub_label": "أسامة بن لادن", "obj_label": ["العربية", "الإنجليزية", "البشتوية"], "country": ["Q851"], "size": 180703, "uuid": "P1412_general_ARAB_REGION_26"}
+{"sub_uri": "Q4115389", "obj_uri": ["Q13955"], "sub_label": "دروز إسرائيل", "obj_label": ["العربية"], "country": ["Q858"], "size": 179837, "uuid": "P1412_general_ARAB_REGION_27"}
+{"sub_uri": "Q376402", "obj_uri": ["Q13955"], "sub_label": "سامي زين", "obj_label": ["العربية"], "country": ["Q858"], "size": 176627, "uuid": "P1412_general_ARAB_REGION_28"}
+{"sub_uri": "Q12189829", "obj_uri": ["Q13955", "Q188"], "sub_label": "طيب تيزيني", "obj_label": ["العربية", "الألمانية"], "country": ["Q858"], "size": 176430, "uuid": "P1412_general_ARAB_REGION_29"}
+{"sub_uri": "Q308123", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "عبد السلام ياسين", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q1028"], "size": 171445, "uuid": "P1412_general_ARAB_REGION_30"}
+{"sub_uri": "Q19630169", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q1860", "Q56426"], "sub_label": "سعد لمجرد", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "الإنجليزية", "اللهجة المغربية"], "country": ["Q1028"], "size": 168484, "uuid": "P1412_general_ARAB_REGION_31"}
+{"sub_uri": "Q2868332", "obj_uri": ["Q13955"], "sub_label": "عاصي الرحباني", "obj_label": ["العربية"], "country": ["Q822"], "size": 165270, "uuid": "P1412_general_ARAB_REGION_32"}
+{"sub_uri": "Q268529", "obj_uri": ["Q13955", "Q150", "Q25448", "Q34174"], "sub_label": "نجاة فالو بلقاسم", "obj_label": ["العربية", "الفرنسية", "اللغات الأمازيغية", "تمازيغت"], "country": ["Q1028"], "size": 161384, "uuid": "P1412_general_ARAB_REGION_33"}
+{"sub_uri": "Q4715", "obj_uri": ["Q13955", "Q150"], "sub_label": "المنصف المرزوقي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 158746, "uuid": "P1412_general_ARAB_REGION_34"}
+{"sub_uri": "Q1799274", "obj_uri": ["Q13955"], "sub_label": "محمد أبو تريكة", "obj_label": ["العربية"], "country": ["Q79"], "size": 158730, "uuid": "P1412_general_ARAB_REGION_35"}
+{"sub_uri": "Q58156", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q188", "Q652", "Q9288"], "sub_label": "سعود الفيصل", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "الألمانية", "الإيطالية", "العبرية"], "country": ["Q851"], "size": 156924, "uuid": "P1412_general_ARAB_REGION_36"}
+{"sub_uri": "Q200678", "obj_uri": ["Q13955", "Q1860"], "sub_label": "رانيا العبد الله", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q810"], "size": 156391, "uuid": "P1412_general_ARAB_REGION_37"}
+{"sub_uri": "Q313539", "obj_uri": ["Q13955", "Q150"], "sub_label": "الباجي قائد السبسي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 154815, "uuid": "P1412_general_ARAB_REGION_38"}
+{"sub_uri": "Q356719", "obj_uri": ["Q13955", "Q150", "Q1860", "Q5146", "Q5287"], "sub_label": "كارلوس غصن", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "البرتغالية", "اليابانية"], "country": ["Q822"], "size": 153211, "uuid": "P1412_general_ARAB_REGION_39"}
+{"sub_uri": "Q4116117", "obj_uri": ["Q13955", "Q29919"], "sub_label": "إبراهيم الدسوقي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 148886, "uuid": "P1412_general_ARAB_REGION_40"}
+{"sub_uri": "Q34211", "obj_uri": ["Q13955", "Q1860"], "sub_label": "ياسر عرفات", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q810"], "size": 147281, "uuid": "P1412_general_ARAB_REGION_41"}
+{"sub_uri": "Q380787", "obj_uri": ["Q13955", "Q150"], "sub_label": "أدونيس", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 146760, "uuid": "P1412_general_ARAB_REGION_42"}
+{"sub_uri": "Q211379", "obj_uri": ["Q13955"], "sub_label": "سيد قطب", "obj_label": ["العربية"], "country": ["Q79"], "size": 143944, "uuid": "P1412_general_ARAB_REGION_43"}
+{"sub_uri": "Q4116115", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد الخالق ثروت", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 142760, "uuid": "P1412_general_ARAB_REGION_44"}
+{"sub_uri": "Q181049", "obj_uri": ["Q13955"], "sub_label": "أبو مصعب الزرقاوي", "obj_label": ["العربية"], "country": ["Q810"], "size": 142067, "uuid": "P1412_general_ARAB_REGION_45"}
+{"sub_uri": "Q360792", "obj_uri": ["Q13955"], "sub_label": "راشد الغنوشي", "obj_label": ["العربية"], "country": ["Q1049", "Q948"], "size": 141654, "uuid": "P1412_general_ARAB_REGION_46"}
+{"sub_uri": "Q4165417", "obj_uri": ["Q13955", "Q29919"], "sub_label": "يوسف وهبي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 140668, "uuid": "P1412_general_ARAB_REGION_47"}
+{"sub_uri": "Q446181", "obj_uri": ["Q13955"], "sub_label": "ماجد عبد الله", "obj_label": ["العربية"], "country": ["Q851"], "size": 137057, "uuid": "P1412_general_ARAB_REGION_48"}
+{"sub_uri": "Q2821724", "obj_uri": ["Q13955"], "sub_label": "أبو بكر البغدادي", "obj_label": ["العربية"], "country": ["Q796"], "size": 136538, "uuid": "P1412_general_ARAB_REGION_49"}
+{"sub_uri": "Q510292", "obj_uri": ["Q150"], "sub_label": "المهدي بن بركة", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 130870, "uuid": "P1412_general_ARAB_REGION_50"}
+{"sub_uri": "Q179908", "obj_uri": ["Q13955"], "sub_label": "أحمد بن بلة", "obj_label": ["العربية"], "country": ["Q262"], "size": 129432, "uuid": "P1412_general_ARAB_REGION_51"}
+{"sub_uri": "Q932829", "obj_uri": ["Q13955", "Q1568", "Q1860", "Q9240"], "sub_label": "ذاكر نايك.", "obj_label": ["العربية", "الهندية", "الإنجليزية", "الإندونيسية"], "country": ["Q851"], "size": 128887, "uuid": "P1412_general_ARAB_REGION_52"}
+{"sub_uri": "Q1059948", "obj_uri": ["Q13955", "Q1860"], "sub_label": "خليفة بن زايد آل نهيان", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q878"], "size": 128273, "uuid": "P1412_general_ARAB_REGION_53"}
+{"sub_uri": "Q4631", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد مرسي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 125968, "uuid": "P1412_general_ARAB_REGION_54"}
+{"sub_uri": "Q2319146", "obj_uri": ["Q13955", "Q29919"], "sub_label": "فريدة ملكة مصر القرينة", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 124332, "uuid": "P1412_general_ARAB_REGION_55"}
+{"sub_uri": "Q363392", "obj_uri": ["Q13955", "Q150", "Q1860", "Q652"], "sub_label": "ميشال عون", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الإيطالية"], "country": ["Q822"], "size": 122854, "uuid": "P1412_general_ARAB_REGION_56"}
+{"sub_uri": "Q64129", "obj_uri": ["Q13955"], "sub_label": "يوسف القرضاوي", "obj_label": ["العربية"], "country": ["Q79", "Q846"], "size": 121964, "uuid": "P1412_general_ARAB_REGION_57"}
+{"sub_uri": "Q1262052", "obj_uri": ["Q13955", "Q1860", "Q45315"], "sub_label": "جمال خاشقجي", "obj_label": ["العربية", "الإنجليزية", "الأمازيغ"], "country": ["Q851"], "size": 120167, "uuid": "P1412_general_ARAB_REGION_58"}
+{"sub_uri": "Q2553832", "obj_uri": ["Q13955", "Q150"], "sub_label": "عز الدين علية", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 119434, "uuid": "P1412_general_ARAB_REGION_59"}
+{"sub_uri": "Q539171", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q188"], "sub_label": "داليدا", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "الألمانية"], "country": ["Q79"], "size": 119198, "uuid": "P1412_general_ARAB_REGION_60"}
+{"sub_uri": "Q20420007", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمر شرف", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 119136, "uuid": "P1412_general_ARAB_REGION_61"}
+{"sub_uri": "Q186329", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q652", "Q727694", "Q7850", "Q9192"], "sub_label": "ميكا", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "الإيطالية", "الصينية القياسية", "الصينية", "صينية مندرين"], "country": ["Q822"], "size": 117916, "uuid": "P1412_general_ARAB_REGION_62"}
+{"sub_uri": "Q311916", "obj_uri": ["Q13955"], "sub_label": "عدي صدام حسين", "obj_label": ["العربية"], "country": ["Q796"], "size": 117489, "uuid": "P1412_general_ARAB_REGION_63"}
+{"sub_uri": "Q312518", "obj_uri": ["Q150"], "sub_label": "كريم مطمور", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 116807, "uuid": "P1412_general_ARAB_REGION_64"}
+{"sub_uri": "Q34105", "obj_uri": ["Q13955", "Q1860"], "sub_label": "حسني مبارك", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 116623, "uuid": "P1412_general_ARAB_REGION_65"}
+{"sub_uri": "Q878607", "obj_uri": ["Q13955", "Q150", "Q1860", "Q28602", "Q33522", "Q36163", "Q36368", "Q8785"], "sub_label": "سوريون", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الآرامية", "القبردينية", "كرمانجي", "الكردية", "الأرمنية"], "country": ["Q858"], "size": 116518, "uuid": "P1412_general_ARAB_REGION_66"}
+{"sub_uri": "Q186316", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أيمن الظواهري", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q79"], "size": 116287, "uuid": "P1412_general_ARAB_REGION_67"}
+{"sub_uri": "Q59981", "obj_uri": ["Q13955", "Q150", "Q256", "Q34090", "Q36730"], "sub_label": "شكري القوتلي", "obj_label": ["العربية", "الفرنسية", "التركية", "الأتراكية", "العثمانية"], "country": ["Q858"], "size": 115609, "uuid": "P1412_general_ARAB_REGION_68"}
+{"sub_uri": "Q118725", "obj_uri": ["Q13955"], "sub_label": "حافظ الأسد", "obj_label": ["العربية"], "country": ["Q858"], "size": 115131, "uuid": "P1412_general_ARAB_REGION_69"}
+{"sub_uri": "Q1952433", "obj_uri": ["Q150"], "sub_label": "جيمي عبدو", "obj_label": ["الفرنسية"], "country": ["Q970"], "size": 111585, "uuid": "P1412_general_ARAB_REGION_70"}
+{"sub_uri": "Q348266", "obj_uri": ["Q13955", "Q25448"], "sub_label": "يونس بلهندة", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 111291, "uuid": "P1412_general_ARAB_REGION_71"}
+{"sub_uri": "Q110067", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد عطا", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 111140, "uuid": "P1412_general_ARAB_REGION_72"}
+{"sub_uri": "Q57265", "obj_uri": ["Q13955"], "sub_label": "عمر البشير", "obj_label": ["العربية"], "country": ["Q1049"], "size": 109562, "uuid": "P1412_general_ARAB_REGION_73"}
+{"sub_uri": "Q303729", "obj_uri": ["Q13955"], "sub_label": "الرشيد بن الشريف", "obj_label": ["العربية"], "country": ["Q1028"], "size": 108921, "uuid": "P1412_general_ARAB_REGION_74"}
+{"sub_uri": "Q104392", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد نجيب", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 107387, "uuid": "P1412_general_ARAB_REGION_75"}
+{"sub_uri": "Q12212836", "obj_uri": ["Q13955"], "sub_label": "رائف بدوي", "obj_label": ["العربية"], "country": ["Q851"], "size": 107288, "uuid": "P1412_general_ARAB_REGION_76"}
+{"sub_uri": "Q2571543", "obj_uri": ["Q13955", "Q29919"], "sub_label": "طلعت حرب", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 107005, "uuid": "P1412_general_ARAB_REGION_77"}
+{"sub_uri": "Q276938", "obj_uri": ["Q13955"], "sub_label": "إسماعيل بن الشريف", "obj_label": ["العربية"], "country": ["Q1028"], "size": 106870, "uuid": "P1412_general_ARAB_REGION_78"}
+{"sub_uri": "Q106508", "obj_uri": ["Q150"], "sub_label": "جيرارد ديبارديو", "obj_label": ["الفرنسية"], "country": ["Q878"], "size": 106332, "uuid": "P1412_general_ARAB_REGION_79"}
+{"sub_uri": "Q12219365", "obj_uri": ["Q13955", "Q1860", "Q9288"], "sub_label": "شيرين أبو عاقلة", "obj_label": ["العربية", "الإنجليزية", "العبرية"], "country": ["Q219060"], "size": 106194, "uuid": "P1412_general_ARAB_REGION_80"}
+{"sub_uri": "Q290212", "obj_uri": ["Q13955", "Q150"], "sub_label": "أنس جابر", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 105908, "uuid": "P1412_general_ARAB_REGION_81"}
+{"sub_uri": "Q48231", "obj_uri": ["Q1860", "Q7838"], "sub_label": "عيدي أمين", "obj_label": ["الإنجليزية", "السواحلية"], "country": ["Q851"], "size": 103710, "uuid": "P1412_general_ARAB_REGION_82"}
+{"sub_uri": "Q22003119", "obj_uri": ["Q818763"], "sub_label": "سليم أملاح", "obj_label": ["بربري"], "country": ["Q1028"], "size": 103540, "uuid": "P1412_general_ARAB_REGION_83"}
+{"sub_uri": "Q188653", "obj_uri": ["Q13955"], "sub_label": "أحمد ياسين", "obj_label": ["العربية"], "country": ["Q219060"], "size": 103396, "uuid": "P1412_general_ARAB_REGION_84"}
+{"sub_uri": "Q4119651", "obj_uri": ["Q13955", "Q1860"], "sub_label": "أحمد الشقيري", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 102166, "uuid": "P1412_general_ARAB_REGION_85"}
+{"sub_uri": "Q7403450", "obj_uri": ["Q13955", "Q1860"], "sub_label": "صلاح ذو الفقار", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 101955, "uuid": "P1412_general_ARAB_REGION_86"}
+{"sub_uri": "Q457705", "obj_uri": ["Q13955", "Q150"], "sub_label": "جيزيل حليمي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 101895, "uuid": "P1412_general_ARAB_REGION_87"}
+{"sub_uri": "Q217194", "obj_uri": ["Q13955"], "sub_label": "جابر الأحمد الصباح", "obj_label": ["العربية"], "country": ["Q817"], "size": 100906, "uuid": "P1412_general_ARAB_REGION_88"}
+{"sub_uri": "Q4115654", "obj_uri": ["Q13955", "Q1860"], "sub_label": "أهداف سويف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 99422, "uuid": "P1412_general_ARAB_REGION_89"}
+{"sub_uri": "Q183187", "obj_uri": ["Q13955"], "sub_label": "فهد بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 99040, "uuid": "P1412_general_ARAB_REGION_90"}
+{"sub_uri": "Q374374", "obj_uri": ["Q13955", "Q34090"], "sub_label": "أحمد بن طولون", "obj_label": ["العربية", "الأتراكية"], "country": ["Q79"], "size": 99008, "uuid": "P1412_general_ARAB_REGION_91"}
+{"sub_uri": "Q60540", "obj_uri": ["Q150"], "sub_label": "علي أحمدا", "obj_label": ["الفرنسية"], "country": ["Q970"], "size": 98729, "uuid": "P1412_general_ARAB_REGION_92"}
+{"sub_uri": "Q26932598", "obj_uri": ["Q1321"], "sub_label": "أشرف حكيمي", "obj_label": ["الإسبانية"], "country": ["Q1028"], "size": 98651, "uuid": "P1412_general_ARAB_REGION_93"}
+{"sub_uri": "Q1884857", "obj_uri": ["Q13955"], "sub_label": "ماهر عرار", "obj_label": ["العربية"], "country": ["Q858"], "size": 98499, "uuid": "P1412_general_ARAB_REGION_94"}
+{"sub_uri": "Q57480", "obj_uri": ["Q13955"], "sub_label": "عبد ربه منصور هادي", "obj_label": ["العربية"], "country": ["Q805"], "size": 98071, "uuid": "P1412_general_ARAB_REGION_95"}
+{"sub_uri": "Q734018", "obj_uri": ["Q13955"], "sub_label": "جمال الغيطاني", "obj_label": ["العربية"], "country": ["Q79"], "size": 97811, "uuid": "P1412_general_ARAB_REGION_96"}
+{"sub_uri": "Q294387", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد حسام ميدو", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 96919, "uuid": "P1412_general_ARAB_REGION_97"}
+{"sub_uri": "Q2316438", "obj_uri": ["Q13955", "Q25448"], "sub_label": "مصطفى الكبير", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 96903, "uuid": "P1412_general_ARAB_REGION_98"}
+{"sub_uri": "Q926452", "obj_uri": ["Q13955", "Q1860"], "sub_label": "سعد الدين الشاذلي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 95271, "uuid": "P1412_general_ARAB_REGION_99"}
+{"sub_uri": "Q1638123", "obj_uri": ["Q13955"], "sub_label": "وهبي الحريري", "obj_label": ["العربية"], "country": ["Q858"], "size": 95040, "uuid": "P1412_general_ARAB_REGION_100"}
+{"sub_uri": "Q48775", "obj_uri": ["Q9288"], "sub_label": "مردخاي فعنونو", "obj_label": ["العبرية"], "country": ["Q1028"], "size": 94694, "uuid": "P1412_general_ARAB_REGION_101"}
+{"sub_uri": "Q12244275", "obj_uri": ["Q13955"], "sub_label": "معلومة منت الميداح", "obj_label": ["العربية"], "country": ["Q1025"], "size": 94668, "uuid": "P1412_general_ARAB_REGION_102"}
+{"sub_uri": "Q3571952", "obj_uri": ["Q1194795", "Q1321", "Q13955", "Q150", "Q56426"], "sub_label": "ياسين بونو", "obj_label": ["لهجات مغاربية", "الإسبانية", "العربية", "الفرنسية", "اللهجة المغربية"], "country": ["Q1028"], "size": 94375, "uuid": "P1412_general_ARAB_REGION_103"}
+{"sub_uri": "Q107251356", "obj_uri": ["Q13955"], "sub_label": "محمد شوكت عودة", "obj_label": ["العربية"], "country": ["Q817"], "size": 93896, "uuid": "P1412_general_ARAB_REGION_104"}
+{"sub_uri": "Q268615", "obj_uri": ["Q13955", "Q29919"], "sub_label": "وردة الجزائرية", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q262", "Q79"], "size": 93791, "uuid": "P1412_general_ARAB_REGION_105"}
+{"sub_uri": "Q335523", "obj_uri": ["Q13955"], "sub_label": "أبو زبيدة", "obj_label": ["العربية"], "country": ["Q851"], "size": 93525, "uuid": "P1412_general_ARAB_REGION_106"}
+{"sub_uri": "Q3277788", "obj_uri": ["Q13955"], "sub_label": "بيرم التونسي", "obj_label": ["العربية"], "country": ["Q79", "Q948"], "size": 93489, "uuid": "P1412_general_ARAB_REGION_107"}
+{"sub_uri": "Q2324197", "obj_uri": ["Q150"], "sub_label": "جمال بلماضي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 92408, "uuid": "P1412_general_ARAB_REGION_108"}
+{"sub_uri": "Q2298768", "obj_uri": ["Q13955", "Q1860", "Q652", "Q7737"], "sub_label": "خليفة حفتر", "obj_label": ["العربية", "الإنجليزية", "الإيطالية", "الروسية"], "country": ["Q1016"], "size": 92123, "uuid": "P1412_general_ARAB_REGION_109"}
+{"sub_uri": "Q4250503", "obj_uri": ["Q150"], "sub_label": "شكري بلعيد", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 92104, "uuid": "P1412_general_ARAB_REGION_110"}
+{"sub_uri": "Q462779", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q56426", "Q652"], "sub_label": "المهدي بن عطية", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "اللهجة المغربية", "الإيطالية"], "country": ["Q1028"], "size": 91432, "uuid": "P1412_general_ARAB_REGION_111"}
+{"sub_uri": "Q284995", "obj_uri": ["Q13955", "Q150", "Q25448"], "sub_label": "لا فوين", "obj_label": ["العربية", "الفرنسية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 91363, "uuid": "P1412_general_ARAB_REGION_112"}
+{"sub_uri": "Q556137", "obj_uri": ["Q13955"], "sub_label": "بندر بن سلطان بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 90733, "uuid": "P1412_general_ARAB_REGION_113"}
+{"sub_uri": "Q296771", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "سعد الحريري", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822", "Q851"], "size": 90720, "uuid": "P1412_general_ARAB_REGION_114"}
+{"sub_uri": "Q208301", "obj_uri": ["Q13955"], "sub_label": "خالد بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 90542, "uuid": "P1412_general_ARAB_REGION_115"}
+{"sub_uri": "Q307182", "obj_uri": ["Q13955"], "sub_label": "عبد العزيز الرنتيسي", "obj_label": ["العربية"], "country": ["Q219060"], "size": 90033, "uuid": "P1412_general_ARAB_REGION_116"}
+{"sub_uri": "Q22690495", "obj_uri": ["Q13955"], "sub_label": "هيلا غزال", "obj_label": ["العربية"], "country": ["Q858"], "size": 89232, "uuid": "P1412_general_ARAB_REGION_117"}
+{"sub_uri": "Q334890", "obj_uri": ["Q150"], "sub_label": "سفيان فيغولي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 89139, "uuid": "P1412_general_ARAB_REGION_118"}
+{"sub_uri": "Q26266244", "obj_uri": ["Q13955", "Q25448"], "sub_label": "نصير مزراوي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 88269, "uuid": "P1412_general_ARAB_REGION_119"}
+{"sub_uri": "Q16230492", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هالة شكر الله", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 88226, "uuid": "P1412_general_ARAB_REGION_120"}
+{"sub_uri": "Q181182", "obj_uri": ["Q13955", "Q1860", "Q9168"], "sub_label": "حسن نصر الله", "obj_label": ["العربية", "الإنجليزية", "الفارسية"], "country": ["Q822"], "size": 87931, "uuid": "P1412_general_ARAB_REGION_121"}
+{"sub_uri": "Q152768", "obj_uri": ["Q9288"], "sub_label": "دانييل بارينبويم", "obj_label": ["العبرية"], "country": ["Q219060"], "size": 87591, "uuid": "P1412_general_ARAB_REGION_122"}
+{"sub_uri": "Q6830488", "obj_uri": ["Q13955"], "sub_label": "عمار علي حسن", "obj_label": ["العربية"], "country": ["Q79"], "size": 87132, "uuid": "P1412_general_ARAB_REGION_123"}
+{"sub_uri": "Q256870", "obj_uri": ["Q13955"], "sub_label": "ناريمان ملكة مصر القرينة", "obj_label": ["العربية"], "country": ["Q79"], "size": 86854, "uuid": "P1412_general_ARAB_REGION_124"}
+{"sub_uri": "Q319153", "obj_uri": ["Q13275", "Q1860"], "sub_label": "حسن شيخ محمود", "obj_label": ["الصومالية", "الإنجليزية"], "country": ["Q1045"], "size": 86839, "uuid": "P1412_general_ARAB_REGION_125"}
+{"sub_uri": "Q12250314", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "هيثم بن طارق", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q842"], "size": 86810, "uuid": "P1412_general_ARAB_REGION_126"}
+{"sub_uri": "Q477461", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عمرو دياب", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 86162, "uuid": "P1412_general_ARAB_REGION_127"}
+{"sub_uri": "Q435068", "obj_uri": ["Q150"], "sub_label": "آلان ميمون", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 85890, "uuid": "P1412_general_ARAB_REGION_128"}
+{"sub_uri": "Q293505", "obj_uri": ["Q13955"], "sub_label": "الناصر ناصر الدين محمد بن قلاوون", "obj_label": ["العربية"], "country": ["Q79"], "size": 85426, "uuid": "P1412_general_ARAB_REGION_129"}
+{"sub_uri": "Q107140829", "obj_uri": ["Q13955"], "sub_label": "لجينة الأصيل", "obj_label": ["العربية"], "country": ["Q858"], "size": 85285, "uuid": "P1412_general_ARAB_REGION_130"}
+{"sub_uri": "Q293679", "obj_uri": ["Q13955"], "sub_label": "الوليد بن طلال بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 84332, "uuid": "P1412_general_ARAB_REGION_131"}
+{"sub_uri": "Q2459831", "obj_uri": ["Q13955", "Q150", "Q25448"], "sub_label": "تونسيون", "obj_label": ["العربية", "الفرنسية", "اللغات الأمازيغية"], "country": ["Q948"], "size": 84146, "uuid": "P1412_general_ARAB_REGION_132"}
+{"sub_uri": "Q3052128", "obj_uri": ["Q150"], "sub_label": "وليد الركراكي", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 83305, "uuid": "P1412_general_ARAB_REGION_133"}
+{"sub_uri": "Q15452538", "obj_uri": ["Q13955"], "sub_label": "يزيد صايغ", "obj_label": ["العربية"], "country": ["Q219060"], "size": 83000, "uuid": "P1412_general_ARAB_REGION_134"}
+{"sub_uri": "Q774155", "obj_uri": ["Q13955"], "sub_label": "نانسي عجرم", "obj_label": ["العربية"], "country": ["Q822"], "size": 82442, "uuid": "P1412_general_ARAB_REGION_135"}
+{"sub_uri": "Q379857", "obj_uri": ["Q13955", "Q1860"], "sub_label": "طارق الهاشمي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 82403, "uuid": "P1412_general_ARAB_REGION_136"}
+{"sub_uri": "Q4166668", "obj_uri": ["Q13955"], "sub_label": "أحمد السقا", "obj_label": ["العربية"], "country": ["Q79"], "size": 81879, "uuid": "P1412_general_ARAB_REGION_137"}
+{"sub_uri": "Q133308", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد البرادعي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 81815, "uuid": "P1412_general_ARAB_REGION_138"}
+{"sub_uri": "Q2469378", "obj_uri": ["Q13955", "Q1516642", "Q56593"], "sub_label": "حسن معتوق", "obj_label": ["العربية", "لهجة لبنانية", "لهجات شامية"], "country": ["Q822"], "size": 81023, "uuid": "P1412_general_ARAB_REGION_139"}
+{"sub_uri": "Q22929444", "obj_uri": ["Q13955"], "sub_label": "عبد القادر عياش", "obj_label": ["العربية"], "country": ["Q858"], "size": 80536, "uuid": "P1412_general_ARAB_REGION_140"}
+{"sub_uri": "Q1347269", "obj_uri": ["Q13955"], "sub_label": "إسلام سليماني", "obj_label": ["العربية"], "country": ["Q262"], "size": 80524, "uuid": "P1412_general_ARAB_REGION_141"}
+{"sub_uri": "Q96738898", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد توفيق بلو", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 79429, "uuid": "P1412_general_ARAB_REGION_142"}
+{"sub_uri": "Q18428483", "obj_uri": ["Q1860", "Q25448"], "sub_label": "سفيان أمرابط", "obj_label": ["الإنجليزية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 79236, "uuid": "P1412_general_ARAB_REGION_143"}
+{"sub_uri": "Q12180907", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أنور الجندي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 78914, "uuid": "P1412_general_ARAB_REGION_144"}
+{"sub_uri": "Q391161", "obj_uri": ["Q1860", "Q50868"], "sub_label": "بلاك أدام", "obj_label": ["الإنجليزية", "لغة مصرية"], "country": ["Q79"], "size": 78686, "uuid": "P1412_general_ARAB_REGION_145"}
+{"sub_uri": "Q140575", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "زاهي حواس", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q79"], "size": 78638, "uuid": "P1412_general_ARAB_REGION_146"}
+{"sub_uri": "Q204487", "obj_uri": ["Q13955", "Q150"], "sub_label": "زين العابدين بن علي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q851", "Q948"], "size": 78279, "uuid": "P1412_general_ARAB_REGION_147"}
+{"sub_uri": "Q334134", "obj_uri": ["Q13955", "Q150", "Q1860", "Q9168"], "sub_label": "سمير أمين", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الفارسية"], "country": ["Q79"], "size": 78251, "uuid": "P1412_general_ARAB_REGION_148"}
+{"sub_uri": "Q3278769", "obj_uri": ["Q13955", "Q1860"], "sub_label": "دينا باول", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 77762, "uuid": "P1412_general_ARAB_REGION_149"}
+{"sub_uri": "Q524362", "obj_uri": ["Q25448", "Q35853"], "sub_label": "معطوب الوناس", "obj_label": ["اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 77252, "uuid": "P1412_general_ARAB_REGION_150"}
+{"sub_uri": "Q1455261", "obj_uri": ["Q13955", "Q1860", "Q25448"], "sub_label": "فرنتش مونتانا", "obj_label": ["العربية", "الإنجليزية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 76693, "uuid": "P1412_general_ARAB_REGION_151"}
+{"sub_uri": "Q4664778", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عبد الوهاب المسيري", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 76611, "uuid": "P1412_general_ARAB_REGION_152"}
+{"sub_uri": "Q127998", "obj_uri": ["Q13955"], "sub_label": "محمود عباس", "obj_label": ["العربية"], "country": ["Q219060"], "size": 76435, "uuid": "P1412_general_ARAB_REGION_153"}
+{"sub_uri": "Q6707595", "obj_uri": ["Q13955", "Q1860"], "sub_label": "ليديا كنعان", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q822"], "size": 76306, "uuid": "P1412_general_ARAB_REGION_154"}
+{"sub_uri": "Q368711", "obj_uri": ["Q1194795", "Q13955", "Q56426", "Q7411"], "sub_label": "بدر هاري", "obj_label": ["لهجات مغاربية", "العربية", "اللهجة المغربية", "الهولندية"], "country": ["Q1028"], "size": 75954, "uuid": "P1412_general_ARAB_REGION_155"}
+{"sub_uri": "Q462061", "obj_uri": ["Q13955"], "sub_label": "عزة الدوري", "obj_label": ["العربية"], "country": ["Q796"], "size": 75577, "uuid": "P1412_general_ARAB_REGION_156"}
+{"sub_uri": "Q12239536", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "محمد أسعد طلس", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q858"], "size": 75568, "uuid": "P1412_general_ARAB_REGION_157"}
+{"sub_uri": "Q734006", "obj_uri": ["Q13955"], "sub_label": "حسن شحاتة", "obj_label": ["العربية"], "country": ["Q79"], "size": 75467, "uuid": "P1412_general_ARAB_REGION_158"}
+{"sub_uri": "Q12182550", "obj_uri": ["Q13955"], "sub_label": "إميل يعقوب", "obj_label": ["العربية"], "country": ["Q822"], "size": 75397, "uuid": "P1412_general_ARAB_REGION_159"}
+{"sub_uri": "Q559182", "obj_uri": ["Q13955", "Q29919"], "sub_label": "مقتل خالد سعيد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 74017, "uuid": "P1412_general_ARAB_REGION_160"}
+{"sub_uri": "Q61744972", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد طنطاوي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 73678, "uuid": "P1412_general_ARAB_REGION_161"}
+{"sub_uri": "Q83905", "obj_uri": ["Q25448"], "sub_label": "هشام الكروج", "obj_label": ["اللغات الأمازيغية"], "country": ["Q1028"], "size": 73218, "uuid": "P1412_general_ARAB_REGION_162"}
+{"sub_uri": "Q754778", "obj_uri": ["Q13955"], "sub_label": "سلطان بن محمد القاسمي", "obj_label": ["العربية"], "country": ["Q878"], "size": 72964, "uuid": "P1412_general_ARAB_REGION_163"}
+{"sub_uri": "Q12230393", "obj_uri": ["Q13955"], "sub_label": "فخري البارودي", "obj_label": ["العربية"], "country": ["Q858"], "size": 72672, "uuid": "P1412_general_ARAB_REGION_164"}
+{"sub_uri": "Q26262219", "obj_uri": ["Q1194795", "Q1321", "Q13955", "Q25448", "Q56426"], "sub_label": "يوسف النصيري", "obj_label": ["لهجات مغاربية", "الإسبانية", "العربية", "اللغات الأمازيغية", "اللهجة المغربية"], "country": ["Q1028"], "size": 72086, "uuid": "P1412_general_ARAB_REGION_165"}
+{"sub_uri": "Q335460", "obj_uri": ["Q13955", "Q1860", "Q58680", "Q7737"], "sub_label": "سيف الإسلام خطاب", "obj_label": ["العربية", "الإنجليزية", "البشتوية", "الروسية"], "country": ["Q851"], "size": 71655, "uuid": "P1412_general_ARAB_REGION_166"}
+{"sub_uri": "Q3325467", "obj_uri": ["Q13955"], "sub_label": "محمد بن حمو الزياني", "obj_label": ["العربية"], "country": ["Q1028"], "size": 71503, "uuid": "P1412_general_ARAB_REGION_167"}
+{"sub_uri": "Q3774929", "obj_uri": ["Q13955"], "sub_label": "محمد عزة دروزة", "obj_label": ["العربية"], "country": ["Q79"], "size": 71302, "uuid": "P1412_general_ARAB_REGION_168"}
+{"sub_uri": "Q7176", "obj_uri": ["Q13955"], "sub_label": "نجيب محفوظ", "obj_label": ["العربية"], "country": ["Q79"], "size": 70928, "uuid": "P1412_general_ARAB_REGION_169"}
+{"sub_uri": "Q21406073", "obj_uri": ["Q13955"], "sub_label": "حزامة حبايب", "obj_label": ["العربية"], "country": ["Q219060", "Q817"], "size": 70751, "uuid": "P1412_general_ARAB_REGION_170"}
+{"sub_uri": "Q5104483", "obj_uri": ["Q13955"], "sub_label": "عبلة الكحلاوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 70571, "uuid": "P1412_general_ARAB_REGION_171"}
+{"sub_uri": "Q5336368", "obj_uri": ["Q1860"], "sub_label": "إدي العبيد", "obj_label": ["الإنجليزية"], "country": ["Q822"], "size": 70469, "uuid": "P1412_general_ARAB_REGION_172"}
+{"sub_uri": "Q42013", "obj_uri": ["Q13955", "Q1860", "Q188"], "sub_label": "محمد أنور السادات", "obj_label": ["العربية", "الإنجليزية", "الألمانية"], "country": ["Q79"], "size": 69970, "uuid": "P1412_general_ARAB_REGION_173"}
+{"sub_uri": "Q981927", "obj_uri": ["Q13955", "Q1860"], "sub_label": "الحسين بن عبد الله الثاني", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q810"], "size": 69847, "uuid": "P1412_general_ARAB_REGION_174"}
+{"sub_uri": "Q170515", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q5146", "Q652", "Q9129"], "sub_label": "عمر الشريف", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "البرتغالية", "الإيطالية", "اليونانية"], "country": ["Q79"], "size": 69793, "uuid": "P1412_general_ARAB_REGION_175"}
+{"sub_uri": "Q85302428", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "خليل أحمد خليل", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 69430, "uuid": "P1412_general_ARAB_REGION_176"}
+{"sub_uri": "Q403646", "obj_uri": ["Q13955"], "sub_label": "سلطان الأطرش", "obj_label": ["العربية"], "country": ["Q858"], "size": 69258, "uuid": "P1412_general_ARAB_REGION_177"}
+{"sub_uri": "Q2821166", "obj_uri": ["Q13955", "Q150"], "sub_label": "عبد المجيد تبون", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 69110, "uuid": "P1412_general_ARAB_REGION_178"}
+{"sub_uri": "Q25455134", "obj_uri": ["Q13955", "Q150", "Q1860", "Q25448", "Q35853"], "sub_label": "مصطفى إسحاق بوسحاقي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 68942, "uuid": "P1412_general_ARAB_REGION_179"}
+{"sub_uri": "Q28872567", "obj_uri": ["Q13955"], "sub_label": "نايف أكرد", "obj_label": ["العربية"], "country": ["Q1028"], "size": 68840, "uuid": "P1412_general_ARAB_REGION_180"}
+{"sub_uri": "Q3814907", "obj_uri": ["Q13955"], "sub_label": "خالد أبو الفضل", "obj_label": ["العربية"], "country": ["Q817"], "size": 68376, "uuid": "P1412_general_ARAB_REGION_181"}
+{"sub_uri": "Q85408665", "obj_uri": ["Q13955", "Q150", "Q1860", "Q7737"], "sub_label": "بداري كمال", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الروسية"], "country": ["Q262"], "size": 68346, "uuid": "P1412_general_ARAB_REGION_182"}
+{"sub_uri": "Q1759109", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد محمد عطا الله", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 68303, "uuid": "P1412_general_ARAB_REGION_183"}
+{"sub_uri": "Q18637185", "obj_uri": ["Q150"], "sub_label": "سفيان بوفال", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 68170, "uuid": "P1412_general_ARAB_REGION_184"}
+{"sub_uri": "Q26034345", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أمين حارث", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 67767, "uuid": "P1412_general_ARAB_REGION_185"}
+{"sub_uri": "Q2911194", "obj_uri": ["Q13955", "Q9288"], "sub_label": "يوسف قافيه", "obj_label": ["العربية", "العبرية"], "country": ["Q805"], "size": 67600, "uuid": "P1412_general_ARAB_REGION_186"}
+{"sub_uri": "Q1884989", "obj_uri": ["Q13955"], "sub_label": "محمود محمد طه", "obj_label": ["العربية"], "country": ["Q1049"], "size": 67564, "uuid": "P1412_general_ARAB_REGION_187"}
+{"sub_uri": "Q3440768", "obj_uri": ["Q150"], "sub_label": "رومان سايس", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 67511, "uuid": "P1412_general_ARAB_REGION_188"}
+{"sub_uri": "Q6812551", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد التواب يوسف", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 67080, "uuid": "P1412_general_ARAB_REGION_189"}
+{"sub_uri": "Q671162", "obj_uri": ["Q13955"], "sub_label": "فارس الخوري", "obj_label": ["العربية"], "country": ["Q858"], "size": 66837, "uuid": "P1412_general_ARAB_REGION_190"}
+{"sub_uri": "Q7462716", "obj_uri": ["Q13955"], "sub_label": "شاكر عامر", "obj_label": ["العربية"], "country": ["Q851"], "size": 66777, "uuid": "P1412_general_ARAB_REGION_191"}
+{"sub_uri": "Q4120257", "obj_uri": ["Q13955"], "sub_label": "نبوية موسى", "obj_label": ["العربية"], "country": ["Q79"], "size": 66645, "uuid": "P1412_general_ARAB_REGION_192"}
+{"sub_uri": "Q3515579", "obj_uri": ["Q13955", "Q1860"], "sub_label": "باسم يوسف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 66411, "uuid": "P1412_general_ARAB_REGION_193"}
+{"sub_uri": "Q176426", "obj_uri": ["Q13955"], "sub_label": "لخضر بلومي", "obj_label": ["العربية"], "country": ["Q262"], "size": 65965, "uuid": "P1412_general_ARAB_REGION_194"}
+{"sub_uri": "Q982696", "obj_uri": ["Q13955", "Q1860"], "sub_label": "باسل خرطبيل", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q858"], "size": 65186, "uuid": "P1412_general_ARAB_REGION_195"}
+{"sub_uri": "Q16769592", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أمل كلوني", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 65112, "uuid": "P1412_general_ARAB_REGION_196"}
+{"sub_uri": "Q970094", "obj_uri": ["Q13955", "Q1860", "Q9288"], "sub_label": "محمد دحلان", "obj_label": ["العربية", "الإنجليزية", "العبرية"], "country": ["Q219060"], "size": 64837, "uuid": "P1412_general_ARAB_REGION_197"}
+{"sub_uri": "Q231041", "obj_uri": ["Q13955", "Q25448"], "sub_label": "ليلى إل", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 64781, "uuid": "P1412_general_ARAB_REGION_198"}
+{"sub_uri": "Q569049", "obj_uri": ["Q13955"], "sub_label": "أحلام الشامسي", "obj_label": ["العربية"], "country": ["Q878"], "size": 64675, "uuid": "P1412_general_ARAB_REGION_199"}
+{"sub_uri": "Q57360", "obj_uri": ["Q13955"], "sub_label": "حمد بن خليفة آل ثاني", "obj_label": ["العربية"], "country": ["Q846"], "size": 64501, "uuid": "P1412_general_ARAB_REGION_200"}
+{"sub_uri": "Q73030804", "obj_uri": ["Q13955"], "sub_label": "أبو إبراهيم الهاشمي القرشي", "obj_label": ["العربية"], "country": ["Q796"], "size": 64462, "uuid": "P1412_general_ARAB_REGION_201"}
+{"sub_uri": "Q2574452", "obj_uri": ["Q13955", "Q150"], "sub_label": "إبراهيم معلوف", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 64255, "uuid": "P1412_general_ARAB_REGION_202"}
+{"sub_uri": "Q12240515", "obj_uri": ["Q13955"], "sub_label": "محمد رمضان", "obj_label": ["العربية"], "country": ["Q79"], "size": 63802, "uuid": "P1412_general_ARAB_REGION_203"}
+{"sub_uri": "Q727417", "obj_uri": ["Q13955", "Q25448"], "sub_label": "نبيل درار", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 63643, "uuid": "P1412_general_ARAB_REGION_204"}
+{"sub_uri": "Q6734350", "obj_uri": ["Q13955"], "sub_label": "محمود تريزيجيه", "obj_label": ["العربية"], "country": ["Q79"], "size": 63630, "uuid": "P1412_general_ARAB_REGION_205"}
+{"sub_uri": "Q244206", "obj_uri": ["Q13955"], "sub_label": "سعود بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 63464, "uuid": "P1412_general_ARAB_REGION_206"}
+{"sub_uri": "Q1355898", "obj_uri": ["Q13955", "Q1860"], "sub_label": "نسيم حميد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 63253, "uuid": "P1412_general_ARAB_REGION_207"}
+{"sub_uri": "Q67906300", "obj_uri": ["Q13955"], "sub_label": "رضوان التاغي", "obj_label": ["العربية"], "country": ["Q1028"], "size": 63142, "uuid": "P1412_general_ARAB_REGION_208"}
+{"sub_uri": "Q55749245", "obj_uri": ["Q150"], "sub_label": "طه بوحفص", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 63080, "uuid": "P1412_general_ARAB_REGION_209"}
+{"sub_uri": "Q12237722", "obj_uri": ["Q13955", "Q1516642", "Q56593"], "sub_label": "ليال عبود", "obj_label": ["العربية", "لهجة لبنانية", "لهجات شامية"], "country": ["Q822"], "size": 62631, "uuid": "P1412_general_ARAB_REGION_210"}
+{"sub_uri": "Q294765", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد شفيق", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 62477, "uuid": "P1412_general_ARAB_REGION_211"}
+{"sub_uri": "Q767469", "obj_uri": ["Q150"], "sub_label": "ياسين إبراهيمي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 62129, "uuid": "P1412_general_ARAB_REGION_212"}
+{"sub_uri": "Q2041688", "obj_uri": ["Q13955", "Q150", "Q1860", "Q188"], "sub_label": "محمدو ولد صلاحي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الألمانية"], "country": ["Q1025"], "size": 61950, "uuid": "P1412_general_ARAB_REGION_213"}
+{"sub_uri": "Q7333210", "obj_uri": ["Q13955", "Q1860"], "sub_label": "رفعة الجادرجي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 61887, "uuid": "P1412_general_ARAB_REGION_214"}
+{"sub_uri": "Q942087", "obj_uri": ["Q13955", "Q150"], "sub_label": "مصالي الحاج", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 61874, "uuid": "P1412_general_ARAB_REGION_215"}
+{"sub_uri": "Q318991", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q1860", "Q25448", "Q34152", "Q56426", "Q9288"], "sub_label": "جاد المالح", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "الإنجليزية", "اللغات الأمازيغية", "اللغة الأمازيغية", "اللهجة المغربية", "العبرية"], "country": ["Q1028"], "size": 61776, "uuid": "P1412_general_ARAB_REGION_216"}
+{"sub_uri": "Q4695962", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد عكاشة", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 61734, "uuid": "P1412_general_ARAB_REGION_217"}
+{"sub_uri": "Q12251245", "obj_uri": ["Q13955"], "sub_label": "وليد أبوالخير", "obj_label": ["العربية"], "country": ["Q851"], "size": 61593, "uuid": "P1412_general_ARAB_REGION_218"}
+{"sub_uri": "Q1527916", "obj_uri": ["Q13955"], "sub_label": "رندة قسيس", "obj_label": ["العربية"], "country": ["Q858"], "size": 61544, "uuid": "P1412_general_ARAB_REGION_219"}
+{"sub_uri": "Q149941", "obj_uri": ["Q13955", "Q29919"], "sub_label": "علاء عبد الفتاح", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 61506, "uuid": "P1412_general_ARAB_REGION_220"}
+{"sub_uri": "Q17747415", "obj_uri": ["Q13955", "Q25448"], "sub_label": "طارق تيسودالي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 61490, "uuid": "P1412_general_ARAB_REGION_221"}
+{"sub_uri": "Q111172587", "obj_uri": ["Q13955", "Q1860"], "sub_label": "نشأت الكرمي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 61318, "uuid": "P1412_general_ARAB_REGION_222"}
+{"sub_uri": "Q3275982", "obj_uri": ["Q13955"], "sub_label": "مختار بلمختار", "obj_label": ["العربية"], "country": ["Q262"], "size": 61147, "uuid": "P1412_general_ARAB_REGION_223"}
+{"sub_uri": "Q6891167", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد المصري (إمام)", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 61131, "uuid": "P1412_general_ARAB_REGION_224"}
+{"sub_uri": "Q6829735", "obj_uri": ["Q13955"], "sub_label": "قاسم حداد", "obj_label": ["العربية"], "country": ["Q398"], "size": 61103, "uuid": "P1412_general_ARAB_REGION_225"}
+{"sub_uri": "Q108535747", "obj_uri": ["Q13955"], "sub_label": "برهان الدجاني", "obj_label": ["العربية"], "country": ["Q219060"], "size": 60881, "uuid": "P1412_general_ARAB_REGION_226"}
+{"sub_uri": "Q3510820", "obj_uri": ["Q13955", "Q1568", "Q1617", "Q1860", "Q34057", "Q36236", "Q58680", "Q9168"], "sub_label": "الشعب الإماراتي", "obj_label": ["العربية", "الهندية", "الأردية", "الإنجليزية", "التاغالوغية", "الماليالامية", "البشتوية", "الفارسية"], "country": ["Q878"], "size": 60821, "uuid": "P1412_general_ARAB_REGION_227"}
+{"sub_uri": "Q107296474", "obj_uri": ["Q13955"], "sub_label": "جليل خزعل", "obj_label": ["العربية"], "country": ["Q796"], "size": 60744, "uuid": "P1412_general_ARAB_REGION_228"}
+{"sub_uri": "Q2407770", "obj_uri": ["Q13955", "Q25448"], "sub_label": "جمال السلامي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 60565, "uuid": "P1412_general_ARAB_REGION_229"}
+{"sub_uri": "Q979323", "obj_uri": ["Q13955", "Q29919"], "sub_label": "رامي عاشور", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 60304, "uuid": "P1412_general_ARAB_REGION_230"}
+{"sub_uri": "Q87455", "obj_uri": ["Q13955", "Q1860"], "sub_label": "شنودة الثالث", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 60187, "uuid": "P1412_general_ARAB_REGION_231"}
+{"sub_uri": "Q5298400", "obj_uri": ["Q1860"], "sub_label": "دوروثي إيدي", "obj_label": ["الإنجليزية"], "country": ["Q79"], "size": 60152, "uuid": "P1412_general_ARAB_REGION_232"}
+{"sub_uri": "Q294969", "obj_uri": ["Q13955"], "sub_label": "محمد ولد عبد العزيز", "obj_label": ["العربية"], "country": ["Q1025"], "size": 60142, "uuid": "P1412_general_ARAB_REGION_233"}
+{"sub_uri": "Q355416", "obj_uri": ["Q13955"], "sub_label": "ميشيل عفلق", "obj_label": ["العربية"], "country": ["Q796", "Q858"], "size": 60061, "uuid": "P1412_general_ARAB_REGION_234"}
+{"sub_uri": "Q333521", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q56593", "Q652"], "sub_label": "نسيم نقولا طالب", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "لهجات شامية", "الإيطالية"], "country": ["Q822"], "size": 60042, "uuid": "P1412_general_ARAB_REGION_235"}
+{"sub_uri": "Q17456950", "obj_uri": ["Q13955"], "sub_label": "علي الشورابي", "obj_label": ["العربية"], "country": ["Q948"], "size": 60041, "uuid": "P1412_general_ARAB_REGION_236"}
+{"sub_uri": "Q2918978", "obj_uri": ["Q13955"], "sub_label": "يعقوب صنوع", "obj_label": ["العربية"], "country": ["Q79"], "size": 60023, "uuid": "P1412_general_ARAB_REGION_237"}
+{"sub_uri": "Q1521332", "obj_uri": ["Q13955"], "sub_label": "غالب هلسا", "obj_label": ["العربية"], "country": ["Q810"], "size": 60006, "uuid": "P1412_general_ARAB_REGION_238"}
+{"sub_uri": "Q402245", "obj_uri": ["Q13955", "Q256", "Q34090", "Q36368"], "sub_label": "محمد سعيد رمضان البوطي", "obj_label": ["العربية", "التركية", "الأتراكية", "الكردية"], "country": ["Q858"], "size": 59892, "uuid": "P1412_general_ARAB_REGION_239"}
+{"sub_uri": "Q2961945", "obj_uri": ["Q13955", "Q150"], "sub_label": "الشاذلي العياري", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 59766, "uuid": "P1412_general_ARAB_REGION_240"}
+{"sub_uri": "Q12222841", "obj_uri": ["Q13955"], "sub_label": "عبد الرزاق الربيعي", "obj_label": ["العربية"], "country": ["Q842"], "size": 59724, "uuid": "P1412_general_ARAB_REGION_241"}
+{"sub_uri": "Q3571948", "obj_uri": ["Q1860"], "sub_label": "ياسين قاضي", "obj_label": ["الإنجليزية"], "country": ["Q851"], "size": 59722, "uuid": "P1412_general_ARAB_REGION_242"}
+{"sub_uri": "Q328786", "obj_uri": ["Q13955"], "sub_label": "محمد حسين فضل الله", "obj_label": ["العربية"], "country": ["Q822"], "size": 59425, "uuid": "P1412_general_ARAB_REGION_243"}
+{"sub_uri": "Q16119926", "obj_uri": ["Q13955"], "sub_label": "مولاي أحمد خليل", "obj_label": ["العربية"], "country": ["Q1025"], "size": 59328, "uuid": "P1412_general_ARAB_REGION_244"}
+{"sub_uri": "Q307193", "obj_uri": ["Q13955"], "sub_label": "عبد العزيز بن باز", "obj_label": ["العربية"], "country": ["Q851"], "size": 59319, "uuid": "P1412_general_ARAB_REGION_245"}
+{"sub_uri": "Q6399296", "obj_uri": ["Q13955", "Q29919"], "sub_label": "خالد أبو النجا", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 59299, "uuid": "P1412_general_ARAB_REGION_246"}
+{"sub_uri": "Q20740627", "obj_uri": ["Q150"], "sub_label": "إسماعيل بن ناصر", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 59116, "uuid": "P1412_general_ARAB_REGION_247"}
+{"sub_uri": "Q3137270", "obj_uri": ["Q13955"], "sub_label": "يزيد الراجحي", "obj_label": ["العربية"], "country": ["Q851"], "size": 59073, "uuid": "P1412_general_ARAB_REGION_248"}
+{"sub_uri": "Q1391107", "obj_uri": ["Q13955", "Q29919"], "sub_label": "حازم صلاح أبو إسماعيل", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 59066, "uuid": "P1412_general_ARAB_REGION_249"}
+{"sub_uri": "Q523640", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عصام الحضري", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 59033, "uuid": "P1412_general_ARAB_REGION_250"}
+{"sub_uri": "Q2821281", "obj_uri": ["Q13955"], "sub_label": "عبد الرزاق حمد الله", "obj_label": ["العربية"], "country": ["Q1028"], "size": 58887, "uuid": "P1412_general_ARAB_REGION_251"}
+{"sub_uri": "Q323344", "obj_uri": ["Q1860"], "sub_label": "نور الدين فرح", "obj_label": ["الإنجليزية"], "country": ["Q1045"], "size": 58661, "uuid": "P1412_general_ARAB_REGION_252"}
+{"sub_uri": "Q57901", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q56499"], "sub_label": "عبد المالك سلال", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "اللهجة الجزائرية"], "country": ["Q262"], "size": 58383, "uuid": "P1412_general_ARAB_REGION_253"}
+{"sub_uri": "Q15963931", "obj_uri": ["Q1321"], "sub_label": "منير الحدادي", "obj_label": ["الإسبانية"], "country": ["Q1028"], "size": 58125, "uuid": "P1412_general_ARAB_REGION_254"}
+{"sub_uri": "Q3089064", "obj_uri": ["Q13955"], "sub_label": "محمد لطفي جمعة", "obj_label": ["العربية"], "country": ["Q79"], "size": 58057, "uuid": "P1412_general_ARAB_REGION_255"}
+{"sub_uri": "Q209828", "obj_uri": ["Q13955"], "sub_label": "محمد سياد بري", "obj_label": ["العربية"], "country": ["Q1045"], "size": 58010, "uuid": "P1412_general_ARAB_REGION_256"}
+{"sub_uri": "Q12223123", "obj_uri": ["Q13955", "Q150", "Q1860", "Q7737"], "sub_label": "عبد الغني الكرمي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الروسية"], "country": ["Q219060"], "size": 57997, "uuid": "P1412_general_ARAB_REGION_257"}
+{"sub_uri": "Q12239664", "obj_uri": ["Q13955"], "sub_label": "محمد الجوادي", "obj_label": ["العربية"], "country": ["Q79"], "size": 57994, "uuid": "P1412_general_ARAB_REGION_258"}
+{"sub_uri": "Q205360", "obj_uri": ["Q13955"], "sub_label": "منتظر الزيدي", "obj_label": ["العربية"], "country": ["Q796"], "size": 57925, "uuid": "P1412_general_ARAB_REGION_259"}
+{"sub_uri": "Q328750", "obj_uri": ["Q13955"], "sub_label": "ياسر القحطاني", "obj_label": ["العربية"], "country": ["Q851"], "size": 57818, "uuid": "P1412_general_ARAB_REGION_260"}
+{"sub_uri": "Q50864477", "obj_uri": ["Q150"], "sub_label": "رضوان لكتيم", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 57784, "uuid": "P1412_general_ARAB_REGION_261"}
+{"sub_uri": "Q107302892", "obj_uri": ["Q13955"], "sub_label": "هادي حسن حمودي", "obj_label": ["العربية"], "country": ["Q796"], "size": 57783, "uuid": "P1412_general_ARAB_REGION_262"}
+{"sub_uri": "Q289706", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أسماء محفوظ", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 57774, "uuid": "P1412_general_ARAB_REGION_263"}
+{"sub_uri": "Q104622", "obj_uri": ["Q13955"], "sub_label": "توكل كرمان", "obj_label": ["العربية"], "country": ["Q805"], "size": 57339, "uuid": "P1412_general_ARAB_REGION_264"}
+{"sub_uri": "Q17612464", "obj_uri": ["Q13955", "Q1860"], "sub_label": "جون الجهادي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q817"], "size": 57293, "uuid": "P1412_general_ARAB_REGION_265"}
+{"sub_uri": "Q313182", "obj_uri": ["Q150"], "sub_label": "محمد مولسهول", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 57112, "uuid": "P1412_general_ARAB_REGION_266"}
+{"sub_uri": "Q242376", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q1860", "Q56426"], "sub_label": "فاطمة المرنيسي", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "الإنجليزية", "اللهجة المغربية"], "country": ["Q1028"], "size": 56988, "uuid": "P1412_general_ARAB_REGION_267"}
+{"sub_uri": "Q234964", "obj_uri": ["Q150"], "sub_label": "هيلين سيكسوس", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 56963, "uuid": "P1412_general_ARAB_REGION_268"}
+{"sub_uri": "Q1362093", "obj_uri": ["Q13955", "Q25448"], "sub_label": "مهدي بناني", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 56675, "uuid": "P1412_general_ARAB_REGION_269"}
+{"sub_uri": "Q28086083", "obj_uri": ["Q13955", "Q29919"], "sub_label": "مصطفى محمد أحمد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 56517, "uuid": "P1412_general_ARAB_REGION_270"}
+{"sub_uri": "Q2821062", "obj_uri": ["Q13955", "Q25448"], "sub_label": "عبد الإله الحافيظي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 56490, "uuid": "P1412_general_ARAB_REGION_271"}
+{"sub_uri": "Q2669418", "obj_uri": ["Q13955", "Q150"], "sub_label": "مصطفى كامل", "obj_label": ["العربية", "الفرنسية"], "country": ["Q79"], "size": 56448, "uuid": "P1412_general_ARAB_REGION_272"}
+{"sub_uri": "Q2464719", "obj_uri": ["Q13955"], "sub_label": "قسطنطين زريق", "obj_label": ["العربية"], "country": ["Q858"], "size": 56089, "uuid": "P1412_general_ARAB_REGION_273"}
+{"sub_uri": "Q1952218", "obj_uri": ["Q13955", "Q1860", "Q36368", "Q9043", "Q9168"], "sub_label": "الملا كريكار", "obj_label": ["العربية", "الإنجليزية", "الكردية", "النرويجية", "الفارسية"], "country": ["Q796"], "size": 55840, "uuid": "P1412_general_ARAB_REGION_274"}
+{"sub_uri": "Q738871", "obj_uri": ["Q13955"], "sub_label": "عمر بن سالم", "obj_label": ["العربية"], "country": ["Q948"], "size": 55741, "uuid": "P1412_general_ARAB_REGION_275"}
+{"sub_uri": "Q2827559", "obj_uri": ["Q25448", "Q33274"], "sub_label": "أحمد قايد صالح", "obj_label": ["اللغات الأمازيغية", "اللغة الشاوية"], "country": ["Q262"], "size": 55729, "uuid": "P1412_general_ARAB_REGION_276"}
+{"sub_uri": "Q26709658", "obj_uri": ["Q13955"], "sub_label": "كنزة مرسلي", "obj_label": ["العربية"], "country": ["Q262"], "size": 55707, "uuid": "P1412_general_ARAB_REGION_277"}
+{"sub_uri": "Q2896906", "obj_uri": ["Q1860"], "sub_label": "نعومي شهاب ناي", "obj_label": ["الإنجليزية"], "country": ["Q219060"], "size": 55557, "uuid": "P1412_general_ARAB_REGION_278"}
+{"sub_uri": "Q1391164", "obj_uri": ["Q13955"], "sub_label": "تامر حسني", "obj_label": ["العربية"], "country": ["Q79"], "size": 55314, "uuid": "P1412_general_ARAB_REGION_279"}
+{"sub_uri": "Q19352947", "obj_uri": ["Q13955", "Q150"], "sub_label": "حرمة ولد بابانا", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1025", "Q1028"], "size": 55270, "uuid": "P1412_general_ARAB_REGION_280"}
+{"sub_uri": "Q108659373", "obj_uri": ["Q13955"], "sub_label": "أمين بكير", "obj_label": ["العربية"], "country": ["Q79"], "size": 55263, "uuid": "P1412_general_ARAB_REGION_281"}
+{"sub_uri": "Q2056850", "obj_uri": ["Q13955"], "sub_label": "محمد بنيس", "obj_label": ["العربية"], "country": ["Q1028"], "size": 55088, "uuid": "P1412_general_ARAB_REGION_282"}
+{"sub_uri": "Q54861894", "obj_uri": ["Q13955", "Q29919"], "sub_label": "علاء ثابت", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 55035, "uuid": "P1412_general_ARAB_REGION_283"}
+{"sub_uri": "Q570109", "obj_uri": ["Q13955", "Q25448"], "sub_label": "مبارك بوصوفة", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 54807, "uuid": "P1412_general_ARAB_REGION_284"}
+{"sub_uri": "Q22688218", "obj_uri": ["Q13955"], "sub_label": "سالم الكتبي", "obj_label": ["العربية"], "country": ["Q878"], "size": 54701, "uuid": "P1412_general_ARAB_REGION_285"}
+{"sub_uri": "Q1710270", "obj_uri": ["Q13955"], "sub_label": "جميل مردم بك", "obj_label": ["العربية"], "country": ["Q858"], "size": 54574, "uuid": "P1412_general_ARAB_REGION_286"}
+{"sub_uri": "Q315534", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "بشير الجميل", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 54507, "uuid": "P1412_general_ARAB_REGION_287"}
+{"sub_uri": "Q2821079", "obj_uri": ["Q13955"], "sub_label": "عبد القادر بن صالح", "obj_label": ["العربية"], "country": ["Q262"], "size": 54507, "uuid": "P1412_general_ARAB_REGION_288"}
+{"sub_uri": "Q15021103", "obj_uri": ["Q13955", "Q25448"], "sub_label": "علي أنوزلا", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 54471, "uuid": "P1412_general_ARAB_REGION_289"}
+{"sub_uri": "Q4055170", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عبد الكريم الكرمي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 54341, "uuid": "P1412_general_ARAB_REGION_290"}
+{"sub_uri": "Q12052714", "obj_uri": ["Q13955", "Q29919"], "sub_label": "حكمت أبو زيد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 54030, "uuid": "P1412_general_ARAB_REGION_291"}
+{"sub_uri": "Q46213694", "obj_uri": ["Q13955"], "sub_label": "عهد التميمي", "obj_label": ["العربية"], "country": ["Q219060"], "size": 53984, "uuid": "P1412_general_ARAB_REGION_292"}
+{"sub_uri": "Q24951504", "obj_uri": ["Q13955"], "sub_label": "محمد الشريف زرقين", "obj_label": ["العربية"], "country": ["Q262"], "size": 53827, "uuid": "P1412_general_ARAB_REGION_293"}
+{"sub_uri": "Q445754", "obj_uri": ["Q13955", "Q1860"], "sub_label": "منال الشريف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 53791, "uuid": "P1412_general_ARAB_REGION_294"}
+{"sub_uri": "Q27794", "obj_uri": ["Q150"], "sub_label": "وهبي خزري", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 53676, "uuid": "P1412_general_ARAB_REGION_295"}
+{"sub_uri": "Q1362223", "obj_uri": ["Q13955"], "sub_label": "كاظم الساهر", "obj_label": ["العربية"], "country": ["Q1028", "Q796", "Q846"], "size": 53664, "uuid": "P1412_general_ARAB_REGION_296"}
+{"sub_uri": "Q4165440", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن المهدي", "obj_label": ["العربية"], "country": ["Q1049"], "size": 53597, "uuid": "P1412_general_ARAB_REGION_297"}
+{"sub_uri": "Q4116874", "obj_uri": ["Q13955"], "sub_label": "بول غليونجي", "obj_label": ["العربية"], "country": ["Q79"], "size": 53514, "uuid": "P1412_general_ARAB_REGION_298"}
+{"sub_uri": "Q3093361", "obj_uri": ["Q13955"], "sub_label": "علي عبد الله جابر", "obj_label": ["العربية"], "country": ["Q851"], "size": 53365, "uuid": "P1412_general_ARAB_REGION_299"}
+{"sub_uri": "Q19609535", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "لجين الهذلول", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q851"], "size": 53282, "uuid": "P1412_general_ARAB_REGION_300"}
+{"sub_uri": "Q350616", "obj_uri": ["Q13955"], "sub_label": "عادل تاعرابت", "obj_label": ["العربية"], "country": ["Q1028"], "size": 53236, "uuid": "P1412_general_ARAB_REGION_301"}
+{"sub_uri": "Q1371679", "obj_uri": ["Q13955", "Q28602", "Q33538", "Q35497", "Q397"], "sub_label": "ثاوذورس أبي قرة", "obj_label": ["العربية", "الآرامية", "السريانية", "الإغريقية", "اللاتينية"], "country": ["Q858"], "size": 53235, "uuid": "P1412_general_ARAB_REGION_302"}
+{"sub_uri": "Q108757254", "obj_uri": ["Q13955"], "sub_label": "عادل سمارة", "obj_label": ["العربية"], "country": ["Q219060"], "size": 53186, "uuid": "P1412_general_ARAB_REGION_303"}
+{"sub_uri": "Q307440", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن منيف", "obj_label": ["العربية"], "country": ["Q851"], "size": 53184, "uuid": "P1412_general_ARAB_REGION_304"}
+{"sub_uri": "Q12242044", "obj_uri": ["Q13955"], "sub_label": "مرتضى منصور", "obj_label": ["العربية"], "country": ["Q79"], "size": 53129, "uuid": "P1412_general_ARAB_REGION_305"}
+{"sub_uri": "Q712882", "obj_uri": ["Q13955"], "sub_label": "إلياس خوري", "obj_label": ["العربية"], "country": ["Q822"], "size": 53062, "uuid": "P1412_general_ARAB_REGION_306"}
+{"sub_uri": "Q3318857", "obj_uri": ["Q13955", "Q150", "Q1860", "Q652"], "sub_label": "محمد الطالبي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الإيطالية"], "country": ["Q948"], "size": 52935, "uuid": "P1412_general_ARAB_REGION_307"}
+{"sub_uri": "Q2070917", "obj_uri": ["Q150"], "sub_label": "أندي ديلور", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 52912, "uuid": "P1412_general_ARAB_REGION_308"}
+{"sub_uri": "Q12181927", "obj_uri": ["Q13955"], "sub_label": "إحسان عباس", "obj_label": ["العربية"], "country": ["Q810"], "size": 52749, "uuid": "P1412_general_ARAB_REGION_309"}
+{"sub_uri": "Q108884021", "obj_uri": ["Q13955", "Q1860", "Q35518"], "sub_label": "نائل حنون", "obj_label": ["العربية", "الإنجليزية", "الأكدية"], "country": ["Q796"], "size": 52726, "uuid": "P1412_general_ARAB_REGION_310"}
+{"sub_uri": "Q45107526", "obj_uri": ["Q13955", "Q150", "Q25448", "Q35853"], "sub_label": "عبد الرحمان بوسحاقي", "obj_label": ["العربية", "الفرنسية", "اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 52666, "uuid": "P1412_general_ARAB_REGION_311"}
+{"sub_uri": "Q3319151", "obj_uri": ["Q13955", "Q25448"], "sub_label": "محسن متولي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 52661, "uuid": "P1412_general_ARAB_REGION_312"}
+{"sub_uri": "Q28837265", "obj_uri": ["Q150"], "sub_label": "سفيان", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 52653, "uuid": "P1412_general_ARAB_REGION_313"}
+{"sub_uri": "Q321552", "obj_uri": ["Q150"], "sub_label": "رايس مبولحي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 52526, "uuid": "P1412_general_ARAB_REGION_314"}
+{"sub_uri": "Q312609", "obj_uri": ["Q13955", "Q150"], "sub_label": "الشاب خالد", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028", "Q262"], "size": 52466, "uuid": "P1412_general_ARAB_REGION_315"}
+{"sub_uri": "Q85514517", "obj_uri": ["Q13955"], "sub_label": "فرحان صالح", "obj_label": ["العربية"], "country": ["Q822"], "size": 52292, "uuid": "P1412_general_ARAB_REGION_316"}
+{"sub_uri": "Q57331", "obj_uri": ["Q13955", "Q1860"], "sub_label": "قابوس بن سعيد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q842"], "size": 51978, "uuid": "P1412_general_ARAB_REGION_317"}
+{"sub_uri": "Q236266", "obj_uri": ["Q13955", "Q29919"], "sub_label": "بات يور", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 51946, "uuid": "P1412_general_ARAB_REGION_318"}
+{"sub_uri": "Q22929075", "obj_uri": ["Q13955"], "sub_label": "صلاح عيسى", "obj_label": ["العربية"], "country": ["Q79"], "size": 51923, "uuid": "P1412_general_ARAB_REGION_319"}
+{"sub_uri": "Q311798", "obj_uri": ["Q13955"], "sub_label": "جعفر النميري", "obj_label": ["العربية"], "country": ["Q1049"], "size": 51832, "uuid": "P1412_general_ARAB_REGION_320"}
+{"sub_uri": "Q2019161", "obj_uri": ["Q13955"], "sub_label": "توفيق الحكيم", "obj_label": ["العربية"], "country": ["Q79"], "size": 51830, "uuid": "P1412_general_ARAB_REGION_321"}
+{"sub_uri": "Q207720", "obj_uri": ["Q13955", "Q9288"], "sub_label": "محمود درويش", "obj_label": ["العربية", "العبرية"], "country": ["Q219060"], "size": 51720, "uuid": "P1412_general_ARAB_REGION_322"}
+{"sub_uri": "Q12238118", "obj_uri": ["Q13955", "Q1860"], "sub_label": "ماجد القصبي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 51689, "uuid": "P1412_general_ARAB_REGION_323"}
+{"sub_uri": "Q1992645", "obj_uri": ["Q13955"], "sub_label": "نمر النمر", "obj_label": ["العربية"], "country": ["Q851"], "size": 51647, "uuid": "P1412_general_ARAB_REGION_324"}
+{"sub_uri": "Q2688075", "obj_uri": ["Q13955", "Q25448"], "sub_label": "محمد سعيد الريحاني", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 51618, "uuid": "P1412_general_ARAB_REGION_325"}
+{"sub_uri": "Q238514", "obj_uri": ["Q13955", "Q1860"], "sub_label": "نوال السعداوي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 51446, "uuid": "P1412_general_ARAB_REGION_326"}
+{"sub_uri": "Q2719766", "obj_uri": ["Q13955"], "sub_label": "خالد المحضار", "obj_label": ["العربية"], "country": ["Q851"], "size": 51430, "uuid": "P1412_general_ARAB_REGION_327"}
+{"sub_uri": "Q96278781", "obj_uri": ["Q13955"], "sub_label": "سارة حجازي", "obj_label": ["العربية"], "country": ["Q79"], "size": 51390, "uuid": "P1412_general_ARAB_REGION_328"}
+{"sub_uri": "Q113130435", "obj_uri": ["Q13955", "Q1860", "Q7737"], "sub_label": "قصي كمال الدين الأحمدي", "obj_label": ["العربية", "الإنجليزية", "الروسية"], "country": ["Q796"], "size": 51277, "uuid": "P1412_general_ARAB_REGION_329"}
+{"sub_uri": "Q4165378", "obj_uri": ["Q13955"], "sub_label": "طلال مداح", "obj_label": ["العربية"], "country": ["Q851"], "size": 51247, "uuid": "P1412_general_ARAB_REGION_330"}
+{"sub_uri": "Q315587", "obj_uri": ["Q13955"], "sub_label": "سلطان بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 51208, "uuid": "P1412_general_ARAB_REGION_331"}
+{"sub_uri": "Q578416", "obj_uri": ["Q1194795", "Q13955", "Q56426"], "sub_label": "سميرة سعيد", "obj_label": ["لهجات مغاربية", "العربية", "اللهجة المغربية"], "country": ["Q1028", "Q79"], "size": 51208, "uuid": "P1412_general_ARAB_REGION_332"}
+{"sub_uri": "Q1432897", "obj_uri": ["Q13955", "Q1860", "Q25448", "Q34065", "Q36151", "Q4670066", "Q56398", "Q652"], "sub_label": "الليبيون", "obj_label": ["العربية", "الإنجليزية", "اللغات الأمازيغية", "لغات طارقية", "لغة نفوسي", "لغة طارقية", "لغة أوجلية", "الإيطالية"], "country": ["Q1016"], "size": 51204, "uuid": "P1412_general_ARAB_REGION_333"}
+{"sub_uri": "Q193874", "obj_uri": ["Q13955"], "sub_label": "محمد الخامس بن يوسف", "obj_label": ["العربية"], "country": ["Q1028"], "size": 51142, "uuid": "P1412_general_ARAB_REGION_334"}
+{"sub_uri": "Q1371438", "obj_uri": ["Q13955"], "sub_label": "سري نسيبة", "obj_label": ["العربية"], "country": ["Q219060"], "size": 51138, "uuid": "P1412_general_ARAB_REGION_335"}
+{"sub_uri": "Q922291", "obj_uri": ["Q13955"], "sub_label": "هلال سوداني", "obj_label": ["العربية"], "country": ["Q262"], "size": 50907, "uuid": "P1412_general_ARAB_REGION_336"}
+{"sub_uri": "Q6899234", "obj_uri": ["Q13955"], "sub_label": "يوسف القعيد", "obj_label": ["العربية"], "country": ["Q79"], "size": 50669, "uuid": "P1412_general_ARAB_REGION_337"}
+{"sub_uri": "Q192778", "obj_uri": ["Q13955"], "sub_label": "رفيق الحريري", "obj_label": ["العربية"], "country": ["Q822", "Q851"], "size": 50644, "uuid": "P1412_general_ARAB_REGION_338"}
+{"sub_uri": "Q1400134", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هداية ملاك", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 50635, "uuid": "P1412_general_ARAB_REGION_339"}
+{"sub_uri": "Q365913", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد الفايد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 50579, "uuid": "P1412_general_ARAB_REGION_340"}
+{"sub_uri": "Q13593432", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عدلي منصور", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 50548, "uuid": "P1412_general_ARAB_REGION_341"}
+{"sub_uri": "Q7089627", "obj_uri": ["Q13955"], "sub_label": "عمر جهاد السومة", "obj_label": ["العربية"], "country": ["Q858"], "size": 50428, "uuid": "P1412_general_ARAB_REGION_342"}
+{"sub_uri": "Q519639", "obj_uri": ["Q13955"], "sub_label": "رفعت الأسد", "obj_label": ["العربية"], "country": ["Q858"], "size": 50320, "uuid": "P1412_general_ARAB_REGION_343"}
+{"sub_uri": "Q560307", "obj_uri": ["Q13955", "Q1860", "Q50868"], "sub_label": "نصر حامد أبو زيد", "obj_label": ["العربية", "الإنجليزية", "لغة مصرية"], "country": ["Q79"], "size": 50213, "uuid": "P1412_general_ARAB_REGION_344"}
+{"sub_uri": "Q15257863", "obj_uri": ["Q13955", "Q150", "Q1860", "Q188"], "sub_label": "صبحي محمصاني", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الألمانية"], "country": ["Q822"], "size": 50186, "uuid": "P1412_general_ARAB_REGION_345"}
+{"sub_uri": "Q12243383", "obj_uri": ["Q13955"], "sub_label": "مصطفى جواد", "obj_label": ["العربية"], "country": ["Q796"], "size": 50043, "uuid": "P1412_general_ARAB_REGION_346"}
+{"sub_uri": "Q28714416", "obj_uri": ["Q13955"], "sub_label": "خولة حمدي", "obj_label": ["العربية"], "country": ["Q948"], "size": 49974, "uuid": "P1412_general_ARAB_REGION_347"}
+{"sub_uri": "Q91501926", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "ديزيره سقال", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 49800, "uuid": "P1412_general_ARAB_REGION_348"}
+{"sub_uri": "Q381970", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "عماد مغنية", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 49790, "uuid": "P1412_general_ARAB_REGION_349"}
+{"sub_uri": "Q455341", "obj_uri": ["Q13955"], "sub_label": "محمد بن نايف بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 49702, "uuid": "P1412_general_ARAB_REGION_350"}
+{"sub_uri": "Q9383634", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q188", "Q256", "Q34090", "Q652"], "sub_label": "يونس بحري", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "الألمانية", "التركية", "الأتراكية", "الإيطالية"], "country": ["Q796"], "size": 49444, "uuid": "P1412_general_ARAB_REGION_351"}
+{"sub_uri": "Q2143589", "obj_uri": ["Q13955"], "sub_label": "محمود الجندي", "obj_label": ["العربية"], "country": ["Q79"], "size": 49310, "uuid": "P1412_general_ARAB_REGION_352"}
+{"sub_uri": "Q4164543", "obj_uri": ["Q13955"], "sub_label": "معروف الرصافي", "obj_label": ["العربية"], "country": ["Q796"], "size": 49290, "uuid": "P1412_general_ARAB_REGION_353"}
+{"sub_uri": "Q330884", "obj_uri": ["Q13955"], "sub_label": "نصير شمة", "obj_label": ["العربية"], "country": ["Q796"], "size": 49215, "uuid": "P1412_general_ARAB_REGION_354"}
+{"sub_uri": "Q4664731", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد الواحد الوكيل", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 49149, "uuid": "P1412_general_ARAB_REGION_355"}
+{"sub_uri": "Q58010140", "obj_uri": ["Q13955"], "sub_label": "سعود القحطاني", "obj_label": ["العربية"], "country": ["Q851"], "size": 49142, "uuid": "P1412_general_ARAB_REGION_356"}
+{"sub_uri": "Q335075", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أبو حمزة المصري", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 49051, "uuid": "P1412_general_ARAB_REGION_357"}
+{"sub_uri": "Q370005", "obj_uri": ["Q13955", "Q25448"], "sub_label": "إسماعيل العيساتي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 48996, "uuid": "P1412_general_ARAB_REGION_358"}
+{"sub_uri": "Q1891793", "obj_uri": ["Q1194795", "Q13955", "Q56426"], "sub_label": "المغربيون", "obj_label": ["لهجات مغاربية", "العربية", "اللهجة المغربية"], "country": ["Q1028"], "size": 48987, "uuid": "P1412_general_ARAB_REGION_359"}
+{"sub_uri": "Q12178866", "obj_uri": ["Q13955"], "sub_label": "أحمد دومة", "obj_label": ["العربية"], "country": ["Q79"], "size": 48981, "uuid": "P1412_general_ARAB_REGION_360"}
+{"sub_uri": "Q57306", "obj_uri": ["Q13955", "Q1860", "Q36368", "Q36811", "Q9168"], "sub_label": "جلال طالباني", "obj_label": ["العربية", "الإنجليزية", "الكردية", "لهجة كردية سورانية", "الفارسية"], "country": ["Q796"], "size": 48969, "uuid": "P1412_general_ARAB_REGION_361"}
+{"sub_uri": "Q10557534", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمود كهربا", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 48937, "uuid": "P1412_general_ARAB_REGION_362"}
+{"sub_uri": "Q3092023", "obj_uri": ["Q13955"], "sub_label": "سعاد حسني", "obj_label": ["العربية"], "country": ["Q79"], "size": 48857, "uuid": "P1412_general_ARAB_REGION_363"}
+{"sub_uri": "Q57242395", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هشام عشماوي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 48856, "uuid": "P1412_general_ARAB_REGION_364"}
+{"sub_uri": "Q4405212", "obj_uri": ["Q13955"], "sub_label": "لطفي الحفار", "obj_label": ["العربية"], "country": ["Q858"], "size": 48807, "uuid": "P1412_general_ARAB_REGION_365"}
+{"sub_uri": "Q18735049", "obj_uri": ["Q1860"], "sub_label": "ميا خليفة", "obj_label": ["الإنجليزية"], "country": ["Q822"], "size": 48785, "uuid": "P1412_general_ARAB_REGION_366"}
+{"sub_uri": "Q342137", "obj_uri": ["Q13955"], "sub_label": "الحاكم بأمر الله", "obj_label": ["العربية"], "country": ["Q79"], "size": 48639, "uuid": "P1412_general_ARAB_REGION_367"}
+{"sub_uri": "Q108628992", "obj_uri": ["Q13955"], "sub_label": "عاطف الغمري", "obj_label": ["العربية"], "country": ["Q79"], "size": 48590, "uuid": "P1412_general_ARAB_REGION_368"}
+{"sub_uri": "Q477480", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمرو خالد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 48514, "uuid": "P1412_general_ARAB_REGION_369"}
+{"sub_uri": "Q2880876", "obj_uri": ["Q13955"], "sub_label": "بليغ حمدي", "obj_label": ["العربية"], "country": ["Q79"], "size": 48383, "uuid": "P1412_general_ARAB_REGION_370"}
+{"sub_uri": "Q471044", "obj_uri": ["Q13955", "Q1860"], "sub_label": "غازي القصيبي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 48357, "uuid": "P1412_general_ARAB_REGION_371"}
+{"sub_uri": "Q28856040", "obj_uri": ["Q13955"], "sub_label": "جواد الياميق", "obj_label": ["العربية"], "country": ["Q1028"], "size": 48335, "uuid": "P1412_general_ARAB_REGION_372"}
+{"sub_uri": "Q467869", "obj_uri": ["Q13955", "Q150"], "sub_label": "علاء الأسواني", "obj_label": ["العربية", "الفرنسية"], "country": ["Q79"], "size": 48222, "uuid": "P1412_general_ARAB_REGION_373"}
+{"sub_uri": "Q7399872", "obj_uri": ["Q13955"], "sub_label": "سعيد الشهري", "obj_label": ["العربية"], "country": ["Q851"], "size": 48116, "uuid": "P1412_general_ARAB_REGION_374"}
+{"sub_uri": "Q4664230", "obj_uri": ["Q13955"], "sub_label": "شوقي إبراهيم علام", "obj_label": ["العربية"], "country": ["Q79"], "size": 47994, "uuid": "P1412_general_ARAB_REGION_375"}
+{"sub_uri": "Q1951883", "obj_uri": ["Q13955"], "sub_label": "محمد بن فهد بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 47799, "uuid": "P1412_general_ARAB_REGION_376"}
+{"sub_uri": "Q3474756", "obj_uri": ["Q13955"], "sub_label": "سيد القمني", "obj_label": ["العربية"], "country": ["Q79"], "size": 47765, "uuid": "P1412_general_ARAB_REGION_377"}
+{"sub_uri": "Q3319034", "obj_uri": ["Q150"], "sub_label": "محمد خدة", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 47653, "uuid": "P1412_general_ARAB_REGION_378"}
+{"sub_uri": "Q307613", "obj_uri": ["Q13955"], "sub_label": "عبد الله عزام", "obj_label": ["العربية"], "country": ["Q219060"], "size": 47568, "uuid": "P1412_general_ARAB_REGION_379"}
+{"sub_uri": "Q1379164", "obj_uri": ["Q13955", "Q256", "Q34090", "Q36730"], "sub_label": "تقي الدين الشامي", "obj_label": ["العربية", "التركية", "الأتراكية", "العثمانية"], "country": ["Q858"], "size": 47452, "uuid": "P1412_general_ARAB_REGION_380"}
+{"sub_uri": "Q2380190", "obj_uri": ["Q13955"], "sub_label": "أنغام", "obj_label": ["العربية"], "country": ["Q79"], "size": 47394, "uuid": "P1412_general_ARAB_REGION_381"}
+{"sub_uri": "Q19917902", "obj_uri": ["Q13955", "Q7737"], "sub_label": "عبدالله عيسى", "obj_label": ["العربية", "الروسية"], "country": ["Q219060"], "size": 47314, "uuid": "P1412_general_ARAB_REGION_382"}
+{"sub_uri": "Q15055630", "obj_uri": ["Q13955"], "sub_label": "نسيب البكري", "obj_label": ["العربية"], "country": ["Q858"], "size": 47303, "uuid": "P1412_general_ARAB_REGION_383"}
+{"sub_uri": "Q3128153", "obj_uri": ["Q150"], "sub_label": "حسن إكويسن", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 47298, "uuid": "P1412_general_ARAB_REGION_384"}
+{"sub_uri": "Q365919", "obj_uri": ["Q13955"], "sub_label": "أحمد عرابي", "obj_label": ["العربية"], "country": ["Q79"], "size": 47270, "uuid": "P1412_general_ARAB_REGION_385"}
+{"sub_uri": "Q7530002", "obj_uri": ["Q13955", "Q150"], "sub_label": "عبد الرحيم بوعبيد", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028"], "size": 47238, "uuid": "P1412_general_ARAB_REGION_386"}
+{"sub_uri": "Q6815940", "obj_uri": ["Q13955"], "sub_label": "عز الدين ميهوبي", "obj_label": ["العربية"], "country": ["Q262"], "size": 47161, "uuid": "P1412_general_ARAB_REGION_387"}
+{"sub_uri": "Q254274", "obj_uri": ["Q13955"], "sub_label": "محمود المليجي", "obj_label": ["العربية"], "country": ["Q79"], "size": 46900, "uuid": "P1412_general_ARAB_REGION_388"}
+{"sub_uri": "Q3416195", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q1860", "Q56499"], "sub_label": "رشيد نكاز", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "الإنجليزية", "اللهجة الجزائرية"], "country": ["Q262"], "size": 46897, "uuid": "P1412_general_ARAB_REGION_389"}
+{"sub_uri": "Q307587", "obj_uri": ["Q13955"], "sub_label": "عبد الله بن سعود بن عبد العزيز بن محمد آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 46836, "uuid": "P1412_general_ARAB_REGION_390"}
+{"sub_uri": "Q55831264", "obj_uri": ["Q13955", "Q36155", "Q9129"], "sub_label": "الأنبا أبيفانيوس", "obj_label": ["العربية", "القبطية", "اليونانية"], "country": ["Q79"], "size": 46668, "uuid": "P1412_general_ARAB_REGION_391"}
+{"sub_uri": "Q317948", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن السديس", "obj_label": ["العربية"], "country": ["Q851"], "size": 46521, "uuid": "P1412_general_ARAB_REGION_392"}
+{"sub_uri": "Q310855", "obj_uri": ["Q13955", "Q150"], "sub_label": "هواري بومدين", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 46520, "uuid": "P1412_general_ARAB_REGION_393"}
+{"sub_uri": "Q42948040", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أيوب الكعبي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 46456, "uuid": "P1412_general_ARAB_REGION_394"}
+{"sub_uri": "Q1951842", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد بديع", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 46438, "uuid": "P1412_general_ARAB_REGION_395"}
+{"sub_uri": "Q403528", "obj_uri": ["Q13955", "Q150", "Q1860", "Q256", "Q34090"], "sub_label": "خالد العظم", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "التركية", "الأتراكية"], "country": ["Q858"], "size": 46359, "uuid": "P1412_general_ARAB_REGION_396"}
+{"sub_uri": "Q6401163", "obj_uri": ["Q13955"], "sub_label": "مظفر النواب", "obj_label": ["العربية"], "country": ["Q796"], "size": 46329, "uuid": "P1412_general_ARAB_REGION_397"}
+{"sub_uri": "Q560078", "obj_uri": ["Q13955", "Q8748"], "sub_label": "محمد ناصر الدين الألباني", "obj_label": ["العربية", "الألبانية"], "country": ["Q810", "Q858"], "size": 46311, "uuid": "P1412_general_ARAB_REGION_398"}
+{"sub_uri": "Q365518", "obj_uri": ["Q13955", "Q29919"], "sub_label": "ياروسلاف دروبني", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 46307, "uuid": "P1412_general_ARAB_REGION_399"}
+{"sub_uri": "Q107295249", "obj_uri": ["Q13955"], "sub_label": "مجدي صابر", "obj_label": ["العربية"], "country": ["Q79"], "size": 46047, "uuid": "P1412_general_ARAB_REGION_400"}
+{"sub_uri": "Q2836102", "obj_uri": ["Q13955"], "sub_label": "علي مسيلي", "obj_label": ["العربية"], "country": ["Q262"], "size": 46027, "uuid": "P1412_general_ARAB_REGION_401"}
+{"sub_uri": "Q382312", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860"], "sub_label": "نزار قباني", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية"], "country": ["Q858"], "size": 46002, "uuid": "P1412_general_ARAB_REGION_402"}
+{"sub_uri": "Q12234902", "obj_uri": ["Q150"], "sub_label": "كريمة الصقلي", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 45977, "uuid": "P1412_general_ARAB_REGION_403"}
+{"sub_uri": "Q3469535", "obj_uri": ["Q150"], "sub_label": "صلاح حموري", "obj_label": ["الفرنسية"], "country": ["Q219060"], "size": 45819, "uuid": "P1412_general_ARAB_REGION_404"}
+{"sub_uri": "Q3335288", "obj_uri": ["Q13955"], "sub_label": "نجاة الصغيرة", "obj_label": ["العربية"], "country": ["Q79"], "size": 45756, "uuid": "P1412_general_ARAB_REGION_405"}
+{"sub_uri": "Q1355038", "obj_uri": ["Q13955"], "sub_label": "سليمان بن محمد", "obj_label": ["العربية"], "country": ["Q1028"], "size": 45490, "uuid": "P1412_general_ARAB_REGION_406"}
+{"sub_uri": "Q60216", "obj_uri": ["Q13955"], "sub_label": "محمد علي العابد", "obj_label": ["العربية"], "country": ["Q858"], "size": 45471, "uuid": "P1412_general_ARAB_REGION_407"}
+{"sub_uri": "Q540961", "obj_uri": ["Q13955", "Q25448"], "sub_label": "مروان دا كوستا", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 45450, "uuid": "P1412_general_ARAB_REGION_408"}
+{"sub_uri": "Q57734", "obj_uri": ["Q13955"], "sub_label": "حمد بن جاسم بن جبر آل ثاني", "obj_label": ["العربية"], "country": ["Q846"], "size": 45437, "uuid": "P1412_general_ARAB_REGION_409"}
+{"sub_uri": "Q57613", "obj_uri": ["Q1194795", "Q13955", "Q150", "Q25448", "Q35853", "Q56499"], "sub_label": "أحمد أويحيى", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية", "اللغات الأمازيغية", "القبائلية", "اللهجة الجزائرية"], "country": ["Q262"], "size": 45332, "uuid": "P1412_general_ARAB_REGION_410"}
+{"sub_uri": "Q447173", "obj_uri": ["Q13955"], "sub_label": "ماهر الأسد", "obj_label": ["العربية"], "country": ["Q858"], "size": 45303, "uuid": "P1412_general_ARAB_REGION_411"}
+{"sub_uri": "Q96240626", "obj_uri": ["Q13955", "Q150"], "sub_label": "عفيف دمشقية", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 45240, "uuid": "P1412_general_ARAB_REGION_412"}
+{"sub_uri": "Q3307763", "obj_uri": ["Q150"], "sub_label": "المازري حداد", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 45162, "uuid": "P1412_general_ARAB_REGION_413"}
+{"sub_uri": "Q15046878", "obj_uri": ["Q13955"], "sub_label": "سامي الدروبي", "obj_label": ["العربية"], "country": ["Q858"], "size": 45124, "uuid": "P1412_general_ARAB_REGION_414"}
+{"sub_uri": "Q651785", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هيفاء وهبي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79", "Q822"], "size": 45046, "uuid": "P1412_general_ARAB_REGION_415"}
+{"sub_uri": "Q4165651", "obj_uri": ["Q13955"], "sub_label": "تركي الفيصل", "obj_label": ["العربية"], "country": ["Q851"], "size": 45029, "uuid": "P1412_general_ARAB_REGION_416"}
+{"sub_uri": "Q15714038", "obj_uri": ["Q13955", "Q25448"], "sub_label": "باتريك دراحي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 44997, "uuid": "P1412_general_ARAB_REGION_417"}
+{"sub_uri": "Q2614690", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد قطب", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 44912, "uuid": "P1412_general_ARAB_REGION_418"}
+{"sub_uri": "Q9088382", "obj_uri": ["Q13955", "Q1860"], "sub_label": "طوني قطان", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q810"], "size": 44855, "uuid": "P1412_general_ARAB_REGION_419"}
+{"sub_uri": "Q3469546", "obj_uri": ["Q13955", "Q150"], "sub_label": "صلاح ستيتية", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 44817, "uuid": "P1412_general_ARAB_REGION_420"}
+{"sub_uri": "Q223311", "obj_uri": ["Q13955", "Q29919"], "sub_label": "إيلي كوهين", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44804, "uuid": "P1412_general_ARAB_REGION_421"}
+{"sub_uri": "Q5095345", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "شبلي ملاط", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 44686, "uuid": "P1412_general_ARAB_REGION_422"}
+{"sub_uri": "Q2920700", "obj_uri": ["Q13955", "Q29919"], "sub_label": "رأفت الهجان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44618, "uuid": "P1412_general_ARAB_REGION_423"}
+{"sub_uri": "Q328765", "obj_uri": ["Q13955", "Q150", "Q397"], "sub_label": "طه حسين", "obj_label": ["العربية", "الفرنسية", "اللاتينية"], "country": ["Q79"], "size": 44610, "uuid": "P1412_general_ARAB_REGION_424"}
+{"sub_uri": "Q3107228", "obj_uri": ["Q13955"], "sub_label": "إبراهيم نصر الله", "obj_label": ["العربية"], "country": ["Q810"], "size": 44604, "uuid": "P1412_general_ARAB_REGION_425"}
+{"sub_uri": "Q353690", "obj_uri": ["Q13955"], "sub_label": "عادل إمام", "obj_label": ["العربية"], "country": ["Q79"], "size": 44498, "uuid": "P1412_general_ARAB_REGION_426"}
+{"sub_uri": "Q2424957", "obj_uri": ["Q13955", "Q150", "Q29919"], "sub_label": "فاتن حمامة", "obj_label": ["العربية", "الفرنسية", "لهجة مصرية"], "country": ["Q79"], "size": 44474, "uuid": "P1412_general_ARAB_REGION_427"}
+{"sub_uri": "Q2738498", "obj_uri": ["Q13955", "Q150", "Q1860", "Q25448"], "sub_label": "محمد أركون", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "اللغات الأمازيغية"], "country": ["Q262"], "size": 44470, "uuid": "P1412_general_ARAB_REGION_428"}
+{"sub_uri": "Q6854038", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد عثمان الخشت", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44465, "uuid": "P1412_general_ARAB_REGION_429"}
+{"sub_uri": "Q3514407", "obj_uri": ["Q13955"], "sub_label": "قضية طل الملوحي", "obj_label": ["العربية"], "country": ["Q858"], "size": 44451, "uuid": "P1412_general_ARAB_REGION_430"}
+{"sub_uri": "Q4841803", "obj_uri": ["Q13955"], "sub_label": "بغداد بونجاح", "obj_label": ["العربية"], "country": ["Q262"], "size": 44401, "uuid": "P1412_general_ARAB_REGION_431"}
+{"sub_uri": "Q983496", "obj_uri": ["Q13955"], "sub_label": "الشاب حسني", "obj_label": ["العربية"], "country": ["Q262"], "size": 44378, "uuid": "P1412_general_ARAB_REGION_432"}
+{"sub_uri": "Q12207952", "obj_uri": ["Q13955"], "sub_label": "حسن حسني", "obj_label": ["العربية"], "country": ["Q79"], "size": 44329, "uuid": "P1412_general_ARAB_REGION_433"}
+{"sub_uri": "Q28549795", "obj_uri": ["Q1194795", "Q13955", "Q188", "Q56426"], "sub_label": "عبد الحميد صابيري", "obj_label": ["لهجات مغاربية", "العربية", "الألمانية", "اللهجة المغربية"], "country": ["Q1028"], "size": 44190, "uuid": "P1412_general_ARAB_REGION_434"}
+{"sub_uri": "Q1398046", "obj_uri": ["Q150"], "sub_label": "محمد بجاوي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 44187, "uuid": "P1412_general_ARAB_REGION_435"}
+{"sub_uri": "Q2474371", "obj_uri": ["Q13955"], "sub_label": "شكيب أرسلان", "obj_label": ["العربية"], "country": ["Q822"], "size": 44162, "uuid": "P1412_general_ARAB_REGION_436"}
+{"sub_uri": "Q4664743", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد الهادي الجزار", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44143, "uuid": "P1412_general_ARAB_REGION_437"}
+{"sub_uri": "Q18844221", "obj_uri": ["Q1194795", "Q13955", "Q150"], "sub_label": "زينب الغزوي", "obj_label": ["لهجات مغاربية", "العربية", "الفرنسية"], "country": ["Q1028"], "size": 44131, "uuid": "P1412_general_ARAB_REGION_438"}
+{"sub_uri": "Q444168", "obj_uri": ["Q13955"], "sub_label": "منصورة عز الدين", "obj_label": ["العربية"], "country": ["Q79"], "size": 44131, "uuid": "P1412_general_ARAB_REGION_439"}
+{"sub_uri": "Q307800", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد المنعم أبو الفتوح", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44092, "uuid": "P1412_general_ARAB_REGION_440"}
+{"sub_uri": "Q477498", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمرو شبانة", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 44079, "uuid": "P1412_general_ARAB_REGION_441"}
+{"sub_uri": "Q238046", "obj_uri": ["Q13955"], "sub_label": "أحمد حسن البكر", "obj_label": ["العربية"], "country": ["Q796"], "size": 43993, "uuid": "P1412_general_ARAB_REGION_442"}
+{"sub_uri": "Q56247602", "obj_uri": ["Q1194795", "Q13955", "Q56426"], "sub_label": "سفيان رحيمي", "obj_label": ["لهجات مغاربية", "العربية", "اللهجة المغربية"], "country": ["Q1028"], "size": 43908, "uuid": "P1412_general_ARAB_REGION_443"}
+{"sub_uri": "Q381150", "obj_uri": ["Q13955"], "sub_label": "نوري السعيد", "obj_label": ["العربية"], "country": ["Q796"], "size": 43897, "uuid": "P1412_general_ARAB_REGION_444"}
+{"sub_uri": "Q469299", "obj_uri": ["Q13955", "Q150", "Q1860", "Q188"], "sub_label": "حسن الترابي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الألمانية"], "country": ["Q1049"], "size": 43891, "uuid": "P1412_general_ARAB_REGION_445"}
+{"sub_uri": "Q3361991", "obj_uri": ["Q13955", "Q150"], "sub_label": "أنور وجدي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q79"], "size": 43830, "uuid": "P1412_general_ARAB_REGION_446"}
+{"sub_uri": "Q85392102", "obj_uri": ["Q13955"], "sub_label": "علي بن محمد العيثان", "obj_label": ["العربية"], "country": ["Q851"], "size": 43825, "uuid": "P1412_general_ARAB_REGION_447"}
+{"sub_uri": "Q12238493", "obj_uri": ["Q13955"], "sub_label": "مبارك الهاجري", "obj_label": ["العربية"], "country": ["Q846"], "size": 43667, "uuid": "P1412_general_ARAB_REGION_448"}
+{"sub_uri": "Q180886", "obj_uri": ["Q150"], "sub_label": "ميد هوندو", "obj_label": ["الفرنسية"], "country": ["Q1025"], "size": 43608, "uuid": "P1412_general_ARAB_REGION_449"}
+{"sub_uri": "Q149455", "obj_uri": ["Q13955", "Q29919"], "sub_label": "خالد علي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 43591, "uuid": "P1412_general_ARAB_REGION_450"}
+{"sub_uri": "Q331753", "obj_uri": ["Q13955"], "sub_label": "أسامة الملولي", "obj_label": ["العربية"], "country": ["Q948"], "size": 43514, "uuid": "P1412_general_ARAB_REGION_451"}
+{"sub_uri": "Q4120213", "obj_uri": ["Q13955"], "sub_label": "راشد الماجد", "obj_label": ["العربية"], "country": ["Q851"], "size": 43412, "uuid": "P1412_general_ARAB_REGION_452"}
+{"sub_uri": "Q717878", "obj_uri": ["Q13955"], "sub_label": "رشيد الضعيف", "obj_label": ["العربية"], "country": ["Q822"], "size": 43401, "uuid": "P1412_general_ARAB_REGION_453"}
+{"sub_uri": "Q323470", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q9027"], "sub_label": "ريدوان", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "السويدية"], "country": ["Q1028"], "size": 43303, "uuid": "P1412_general_ARAB_REGION_454"}
+{"sub_uri": "Q107344920", "obj_uri": ["Q13955"], "sub_label": "السيد مصطفى أحمد أبو الخير", "obj_label": ["العربية"], "country": ["Q79"], "size": 43289, "uuid": "P1412_general_ARAB_REGION_455"}
+{"sub_uri": "Q1391733", "obj_uri": ["Q13955"], "sub_label": "فرج فودة", "obj_label": ["العربية"], "country": ["Q79"], "size": 43261, "uuid": "P1412_general_ARAB_REGION_456"}
+{"sub_uri": "Q226868", "obj_uri": ["Q35497"], "sub_label": "زوسيموس من بانوبوليس", "obj_label": ["الإغريقية"], "country": ["Q79"], "size": 43251, "uuid": "P1412_general_ARAB_REGION_457"}
+{"sub_uri": "Q929300", "obj_uri": ["Q13955", "Q29919"], "sub_label": "سيف العدل", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 43250, "uuid": "P1412_general_ARAB_REGION_458"}
+{"sub_uri": "Q12218488", "obj_uri": ["Q13955", "Q150"], "sub_label": "شربل داغر", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 43171, "uuid": "P1412_general_ARAB_REGION_459"}
+{"sub_uri": "Q6751904", "obj_uri": ["Q13955"], "sub_label": "منصور الأطرش", "obj_label": ["العربية"], "country": ["Q858"], "size": 43049, "uuid": "P1412_general_ARAB_REGION_460"}
+{"sub_uri": "Q448937", "obj_uri": ["Q13955", "Q29919"], "sub_label": "حسام حسن", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 42959, "uuid": "P1412_general_ARAB_REGION_461"}
+{"sub_uri": "Q313159", "obj_uri": ["Q13955"], "sub_label": "كريم زياني", "obj_label": ["العربية"], "country": ["Q262"], "size": 42943, "uuid": "P1412_general_ARAB_REGION_462"}
+{"sub_uri": "Q4165667", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عصام العريان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 42926, "uuid": "P1412_general_ARAB_REGION_463"}
+{"sub_uri": "Q9250258", "obj_uri": ["Q1860"], "sub_label": "إد جونز", "obj_label": ["الإنجليزية"], "country": ["Q878"], "size": 42921, "uuid": "P1412_general_ARAB_REGION_464"}
+{"sub_uri": "Q2850118", "obj_uri": ["Q13955"], "sub_label": "أنيس منصور", "obj_label": ["العربية"], "country": ["Q79"], "size": 42842, "uuid": "P1412_general_ARAB_REGION_465"}
+{"sub_uri": "Q6894232", "obj_uri": ["Q1860"], "sub_label": "مهجة قحف", "obj_label": ["الإنجليزية"], "country": ["Q858"], "size": 42615, "uuid": "P1412_general_ARAB_REGION_466"}
+{"sub_uri": "Q965535", "obj_uri": ["Q13955", "Q1860"], "sub_label": "جبرا إبراهيم جبرا", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q796"], "size": 42498, "uuid": "P1412_general_ARAB_REGION_467"}
+{"sub_uri": "Q16728588", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "دي جي سنيك", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q262"], "size": 42488, "uuid": "P1412_general_ARAB_REGION_468"}
+{"sub_uri": "Q1130115", "obj_uri": ["Q13955", "Q36368"], "sub_label": "رؤوف رشيد عبد الرحمن", "obj_label": ["العربية", "الكردية"], "country": ["Q796"], "size": 42476, "uuid": "P1412_general_ARAB_REGION_469"}
+{"sub_uri": "Q924910", "obj_uri": ["Q13955", "Q29919"], "sub_label": "صفوت الشوادفي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 42475, "uuid": "P1412_general_ARAB_REGION_470"}
+{"sub_uri": "Q2918071", "obj_uri": ["Q13955"], "sub_label": "وضاح خنفر", "obj_label": ["العربية"], "country": ["Q219060"], "size": 42416, "uuid": "P1412_general_ARAB_REGION_471"}
+{"sub_uri": "Q80137406", "obj_uri": ["Q13955", "Q150"], "sub_label": "عمر الراضي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028"], "size": 42324, "uuid": "P1412_general_ARAB_REGION_472"}
+{"sub_uri": "Q1317911", "obj_uri": ["Q13955"], "sub_label": "نايف هزازي القرشي", "obj_label": ["العربية"], "country": ["Q851"], "size": 42309, "uuid": "P1412_general_ARAB_REGION_473"}
+{"sub_uri": "Q2398894", "obj_uri": ["Q13955", "Q25448"], "sub_label": "محسن ياجور", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 42303, "uuid": "P1412_general_ARAB_REGION_474"}
+{"sub_uri": "Q17659475", "obj_uri": ["Q13955"], "sub_label": "أبو بكر مصطفى بعيرة", "obj_label": ["العربية"], "country": ["Q1016"], "size": 42178, "uuid": "P1412_general_ARAB_REGION_475"}
+{"sub_uri": "Q21499517", "obj_uri": ["Q13955", "Q25448"], "sub_label": "عبد الحميد أبا عود", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 42130, "uuid": "P1412_general_ARAB_REGION_476"}
+{"sub_uri": "Q237143", "obj_uri": ["Q13955", "Q1860"], "sub_label": "حنان عشراوي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 41930, "uuid": "P1412_general_ARAB_REGION_477"}
+{"sub_uri": "Q253526", "obj_uri": ["Q13955"], "sub_label": "خيرت الشاطر", "obj_label": ["العربية"], "country": ["Q79"], "size": 41908, "uuid": "P1412_general_ARAB_REGION_478"}
+{"sub_uri": "Q621086", "obj_uri": ["Q13955"], "sub_label": "سليم بركات", "obj_label": ["العربية"], "country": ["Q858"], "size": 41891, "uuid": "P1412_general_ARAB_REGION_479"}
+{"sub_uri": "Q400837", "obj_uri": ["Q13955"], "sub_label": "أحمد الجلبي", "obj_label": ["العربية"], "country": ["Q796"], "size": 41857, "uuid": "P1412_general_ARAB_REGION_480"}
+{"sub_uri": "Q216980", "obj_uri": ["Q150", "Q1860", "Q36510", "Q9129"], "sub_label": "قسطنطين كفافيس", "obj_label": ["الفرنسية", "الإنجليزية", "اليونانية الحديثة", "اليونانية"], "country": ["Q79"], "size": 41798, "uuid": "P1412_general_ARAB_REGION_481"}
+{"sub_uri": "Q60616722", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أشرف داري", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 41771, "uuid": "P1412_general_ARAB_REGION_482"}
+{"sub_uri": "Q14917975", "obj_uri": ["Q150"], "sub_label": "لاكريم", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 41744, "uuid": "P1412_general_ARAB_REGION_483"}
+{"sub_uri": "Q2876432", "obj_uri": ["Q150"], "sub_label": "عيسى ماندي", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 41648, "uuid": "P1412_general_ARAB_REGION_484"}
+{"sub_uri": "Q714194", "obj_uri": ["Q150"], "sub_label": "جاك فيرجيس", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 41642, "uuid": "P1412_general_ARAB_REGION_485"}
+{"sub_uri": "Q76949", "obj_uri": ["Q13955", "Q188"], "sub_label": "رفيق شامي", "obj_label": ["العربية", "الألمانية"], "country": ["Q858"], "size": 41627, "uuid": "P1412_general_ARAB_REGION_486"}
+{"sub_uri": "Q2478007", "obj_uri": ["Q13955"], "sub_label": "آداي", "obj_label": ["العربية"], "country": ["Q858"], "size": 41551, "uuid": "P1412_general_ARAB_REGION_487"}
+{"sub_uri": "Q1257", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "بطرس بطرس غالي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q79"], "size": 41406, "uuid": "P1412_general_ARAB_REGION_488"}
+{"sub_uri": "Q29406154", "obj_uri": ["Q13955"], "sub_label": "دينا علي", "obj_label": ["العربية"], "country": ["Q851"], "size": 41391, "uuid": "P1412_general_ARAB_REGION_489"}
+{"sub_uri": "Q401107", "obj_uri": ["Q13955", "Q7411"], "sub_label": "أحمد أبو طالب", "obj_label": ["العربية", "الهولندية"], "country": ["Q1028"], "size": 41363, "uuid": "P1412_general_ARAB_REGION_490"}
+{"sub_uri": "Q41315641", "obj_uri": ["Q13955", "Q29919"], "sub_label": "خالد الشيباني", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 41357, "uuid": "P1412_general_ARAB_REGION_491"}
+{"sub_uri": "Q3430018", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "رياض الصيداوي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q948"], "size": 41308, "uuid": "P1412_general_ARAB_REGION_492"}
+{"sub_uri": "Q5642736", "obj_uri": ["Q13955"], "sub_label": "هالة دياب", "obj_label": ["العربية"], "country": ["Q1016", "Q858"], "size": 41290, "uuid": "P1412_general_ARAB_REGION_493"}
+{"sub_uri": "Q403629", "obj_uri": ["Q13955"], "sub_label": "مصطفى النحاس", "obj_label": ["العربية"], "country": ["Q79"], "size": 41265, "uuid": "P1412_general_ARAB_REGION_494"}
+{"sub_uri": "Q346635", "obj_uri": ["Q13955"], "sub_label": "عنتر يحيى", "obj_label": ["العربية"], "country": ["Q262"], "size": 41219, "uuid": "P1412_general_ARAB_REGION_495"}
+{"sub_uri": "Q266539", "obj_uri": ["Q13955"], "sub_label": "نادين لبكي", "obj_label": ["العربية"], "country": ["Q822"], "size": 41165, "uuid": "P1412_general_ARAB_REGION_496"}
+{"sub_uri": "Q22007112", "obj_uri": ["Q13955", "Q1860"], "sub_label": "نادية مراد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 41158, "uuid": "P1412_general_ARAB_REGION_497"}
+{"sub_uri": "Q2756530", "obj_uri": ["Q13955"], "sub_label": "بدر شاكر السياب", "obj_label": ["العربية"], "country": ["Q796"], "size": 41157, "uuid": "P1412_general_ARAB_REGION_498"}
+{"sub_uri": "Q47500608", "obj_uri": ["Q13955", "Q25448"], "sub_label": "يحيى جبران", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 40947, "uuid": "P1412_general_ARAB_REGION_499"}
+{"sub_uri": "Q672145", "obj_uri": ["Q13955", "Q9168"], "sub_label": "موسى الصدر", "obj_label": ["العربية", "الفارسية"], "country": ["Q796", "Q822"], "size": 40939, "uuid": "P1412_general_ARAB_REGION_500"}
+{"sub_uri": "Q24262923", "obj_uri": ["Q13955", "Q29919"], "sub_label": "جيانا لطفي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 40895, "uuid": "P1412_general_ARAB_REGION_501"}
+{"sub_uri": "Q4164538", "obj_uri": ["Q13955"], "sub_label": "محمد متولي الشعراوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 40881, "uuid": "P1412_general_ARAB_REGION_502"}
+{"sub_uri": "Q735036", "obj_uri": ["Q13955"], "sub_label": "محمد حسنين هيكل", "obj_label": ["العربية"], "country": ["Q79"], "size": 40839, "uuid": "P1412_general_ARAB_REGION_503"}
+{"sub_uri": "Q95690314", "obj_uri": ["Q13955"], "sub_label": "سالم المعوش", "obj_label": ["العربية"], "country": ["Q822"], "size": 40829, "uuid": "P1412_general_ARAB_REGION_504"}
+{"sub_uri": "Q5436161", "obj_uri": ["Q13955"], "sub_label": "الفاروق عبد العزيز", "obj_label": ["العربية"], "country": ["Q79"], "size": 40826, "uuid": "P1412_general_ARAB_REGION_505"}
+{"sub_uri": "Q6932828", "obj_uri": ["Q13955"], "sub_label": "محمد أبو الهدى اليعقوبي", "obj_label": ["العربية"], "country": ["Q858"], "size": 40812, "uuid": "P1412_general_ARAB_REGION_506"}
+{"sub_uri": "Q4696072", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد الزيات", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 40795, "uuid": "P1412_general_ARAB_REGION_507"}
+{"sub_uri": "Q107037238", "obj_uri": ["Q13955", "Q1860", "Q36368"], "sub_label": "زيارعلي", "obj_label": ["العربية", "الإنجليزية", "الكردية"], "country": ["Q796"], "size": 40770, "uuid": "P1412_general_ARAB_REGION_508"}
+{"sub_uri": "Q1751022", "obj_uri": ["Q13955"], "sub_label": "صبري العسلي", "obj_label": ["العربية"], "country": ["Q858"], "size": 40744, "uuid": "P1412_general_ARAB_REGION_509"}
+{"sub_uri": "Q231637", "obj_uri": ["Q13955"], "sub_label": "أسماء الأسد", "obj_label": ["العربية"], "country": ["Q858"], "size": 40731, "uuid": "P1412_general_ARAB_REGION_510"}
+{"sub_uri": "Q3545205", "obj_uri": ["Q150"], "sub_label": "زياد بارود", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 40679, "uuid": "P1412_general_ARAB_REGION_511"}
+{"sub_uri": "Q22934354", "obj_uri": ["Q13955", "Q1860"], "sub_label": "حسن خريشة", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 40666, "uuid": "P1412_general_ARAB_REGION_512"}
+{"sub_uri": "Q359377", "obj_uri": ["Q13955"], "sub_label": "عامر بوعزة", "obj_label": ["العربية"], "country": ["Q262"], "size": 40651, "uuid": "P1412_general_ARAB_REGION_513"}
+{"sub_uri": "Q108548602", "obj_uri": ["Q13955"], "sub_label": "أمير سعيد جودة السحار", "obj_label": ["العربية"], "country": ["Q79"], "size": 40617, "uuid": "P1412_general_ARAB_REGION_514"}
+{"sub_uri": "Q968721", "obj_uri": ["Q13955", "Q1860"], "sub_label": "مصطفى محمود", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 40612, "uuid": "P1412_general_ARAB_REGION_515"}
+{"sub_uri": "Q3183321", "obj_uri": ["Q13955"], "sub_label": "شيرين عبد الوهاب", "obj_label": ["العربية"], "country": ["Q79"], "size": 40595, "uuid": "P1412_general_ARAB_REGION_516"}
+{"sub_uri": "Q2895624", "obj_uri": ["Q13955", "Q29919"], "sub_label": "منى الطحاوي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 40585, "uuid": "P1412_general_ARAB_REGION_517"}
+{"sub_uri": "Q328734", "obj_uri": ["Q13955", "Q150"], "sub_label": "سعد زغلول", "obj_label": ["العربية", "الفرنسية"], "country": ["Q79"], "size": 40442, "uuid": "P1412_general_ARAB_REGION_518"}
+{"sub_uri": "Q18071715", "obj_uri": ["Q13955"], "sub_label": "أشرف بزناني", "obj_label": ["العربية"], "country": ["Q1028"], "size": 40340, "uuid": "P1412_general_ARAB_REGION_519"}
+{"sub_uri": "Q317832", "obj_uri": ["Q13955"], "sub_label": "نايف بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 40228, "uuid": "P1412_general_ARAB_REGION_520"}
+{"sub_uri": "Q2072385", "obj_uri": ["Q13955"], "sub_label": "خليفة بن حمد آل ثاني", "obj_label": ["العربية"], "country": ["Q846"], "size": 40133, "uuid": "P1412_general_ARAB_REGION_521"}
+{"sub_uri": "Q1574023", "obj_uri": ["Q13955"], "sub_label": "حمزة كاشغري", "obj_label": ["العربية"], "country": ["Q851"], "size": 40096, "uuid": "P1412_general_ARAB_REGION_522"}
+{"sub_uri": "Q5984787", "obj_uri": ["Q13955"], "sub_label": "إبراهيم القوصي", "obj_label": ["العربية"], "country": ["Q1049"], "size": 40072, "uuid": "P1412_general_ARAB_REGION_523"}
+{"sub_uri": "Q2919027", "obj_uri": ["Q13955"], "sub_label": "يوسف السباعي", "obj_label": ["العربية"], "country": ["Q79"], "size": 40063, "uuid": "P1412_general_ARAB_REGION_524"}
+{"sub_uri": "Q2353139", "obj_uri": ["Q13955"], "sub_label": "أصالة نصري", "obj_label": ["العربية"], "country": ["Q398", "Q79", "Q858"], "size": 40026, "uuid": "P1412_general_ARAB_REGION_525"}
+{"sub_uri": "Q25455059", "obj_uri": ["Q13955", "Q25448", "Q35853"], "sub_label": "إبراهيم بوسحاقي", "obj_label": ["العربية", "اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 39968, "uuid": "P1412_general_ARAB_REGION_526"}
+{"sub_uri": "Q16732571", "obj_uri": ["Q13955"], "sub_label": "حميد ميدو", "obj_label": ["العربية"], "country": ["Q858"], "size": 39907, "uuid": "P1412_general_ARAB_REGION_527"}
+{"sub_uri": "Q401574", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أحمد زكي يماني", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q851"], "size": 39906, "uuid": "P1412_general_ARAB_REGION_528"}
+{"sub_uri": "Q144693", "obj_uri": ["Q13955"], "sub_label": "زكي الأرسوزي", "obj_label": ["العربية"], "country": ["Q858"], "size": 39839, "uuid": "P1412_general_ARAB_REGION_529"}
+{"sub_uri": "Q298649", "obj_uri": ["Q13955"], "sub_label": "جورج حبش", "obj_label": ["العربية"], "country": ["Q219060"], "size": 39792, "uuid": "P1412_general_ARAB_REGION_530"}
+{"sub_uri": "Q108405835", "obj_uri": ["Q13955"], "sub_label": "مسعود ضاهر", "obj_label": ["العربية"], "country": ["Q822"], "size": 39774, "uuid": "P1412_general_ARAB_REGION_531"}
+{"sub_uri": "Q1393513", "obj_uri": ["Q13955"], "sub_label": "فيصل بن تركي بن عبد الله آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 39752, "uuid": "P1412_general_ARAB_REGION_532"}
+{"sub_uri": "Q2272870", "obj_uri": ["Q25448", "Q35853"], "sub_label": "إدير", "obj_label": ["اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 39718, "uuid": "P1412_general_ARAB_REGION_533"}
+{"sub_uri": "Q18686089", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد فهمي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 39621, "uuid": "P1412_general_ARAB_REGION_534"}
+{"sub_uri": "Q1942781", "obj_uri": ["Q13955"], "sub_label": "محمد مكية", "obj_label": ["العربية"], "country": ["Q796"], "size": 39601, "uuid": "P1412_general_ARAB_REGION_535"}
+{"sub_uri": "Q552347", "obj_uri": ["Q1321"], "sub_label": "المهدي كارسيلا", "obj_label": ["الإسبانية"], "country": ["Q1028"], "size": 39535, "uuid": "P1412_general_ARAB_REGION_536"}
+{"sub_uri": "Q2827651", "obj_uri": ["Q13955"], "sub_label": "أحمد رسام", "obj_label": ["العربية"], "country": ["Q262"], "size": 39510, "uuid": "P1412_general_ARAB_REGION_537"}
+{"sub_uri": "Q263261", "obj_uri": ["Q1860"], "sub_label": "فاسولا رايدن", "obj_label": ["الإنجليزية"], "country": ["Q79"], "size": 39505, "uuid": "P1412_general_ARAB_REGION_538"}
+{"sub_uri": "Q24689238", "obj_uri": ["Q13955"], "sub_label": "علي حرب", "obj_label": ["العربية"], "country": ["Q822"], "size": 39481, "uuid": "P1412_general_ARAB_REGION_539"}
+{"sub_uri": "Q3318712", "obj_uri": ["Q150"], "sub_label": "محمد مدين", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 39457, "uuid": "P1412_general_ARAB_REGION_540"}
+{"sub_uri": "Q55081149", "obj_uri": ["Q13955"], "sub_label": "علي بن فطيس المري", "obj_label": ["العربية"], "country": ["Q846"], "size": 39449, "uuid": "P1412_general_ARAB_REGION_541"}
+{"sub_uri": "Q3430005", "obj_uri": ["Q150"], "sub_label": "رياض سطوف", "obj_label": ["الفرنسية"], "country": ["Q858"], "size": 39442, "uuid": "P1412_general_ARAB_REGION_542"}
+{"sub_uri": "Q4666101", "obj_uri": ["Q13955"], "sub_label": "عبد الله الربيعة", "obj_label": ["العربية"], "country": ["Q851"], "size": 39419, "uuid": "P1412_general_ARAB_REGION_543"}
+{"sub_uri": "Q358660", "obj_uri": ["Q13955"], "sub_label": "عدلان قديورة", "obj_label": ["العربية"], "country": ["Q262"], "size": 39417, "uuid": "P1412_general_ARAB_REGION_544"}
+{"sub_uri": "Q105207556", "obj_uri": ["Q13955", "Q1860"], "sub_label": "شهد الشامري", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q817"], "size": 39356, "uuid": "P1412_general_ARAB_REGION_545"}
+{"sub_uri": "Q527870", "obj_uri": ["Q13955"], "sub_label": "جبران غسان تويني", "obj_label": ["العربية"], "country": ["Q822"], "size": 39332, "uuid": "P1412_general_ARAB_REGION_546"}
+{"sub_uri": "Q1322445", "obj_uri": ["Q13955"], "sub_label": "محمد باقر الصدر", "obj_label": ["العربية"], "country": ["Q796"], "size": 39198, "uuid": "P1412_general_ARAB_REGION_547"}
+{"sub_uri": "Q500447", "obj_uri": ["Q13955"], "sub_label": "صلاح البيطار", "obj_label": ["العربية"], "country": ["Q858"], "size": 39195, "uuid": "P1412_general_ARAB_REGION_548"}
+{"sub_uri": "Q12222664", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن أبو زهرة", "obj_label": ["العربية"], "country": ["Q79"], "size": 39174, "uuid": "P1412_general_ARAB_REGION_549"}
+{"sub_uri": "Q981905", "obj_uri": ["Q13955", "Q1860"], "sub_label": "فريد شوقي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 39163, "uuid": "P1412_general_ARAB_REGION_550"}
+{"sub_uri": "Q22930953", "obj_uri": ["Q13955"], "sub_label": "جمال حسين علي", "obj_label": ["العربية"], "country": ["Q796"], "size": 39120, "uuid": "P1412_general_ARAB_REGION_551"}
+{"sub_uri": "Q238774", "obj_uri": ["Q13955"], "sub_label": "موزا المسند", "obj_label": ["العربية"], "country": ["Q846"], "size": 39076, "uuid": "P1412_general_ARAB_REGION_552"}
+{"sub_uri": "Q46930", "obj_uri": ["Q13955"], "sub_label": "خالد مشعل", "obj_label": ["العربية"], "country": ["Q219060", "Q810"], "size": 39007, "uuid": "P1412_general_ARAB_REGION_553"}
+{"sub_uri": "Q502990", "obj_uri": ["Q13955", "Q150"], "sub_label": "رشيد طه", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 38990, "uuid": "P1412_general_ARAB_REGION_554"}
+{"sub_uri": "Q337489", "obj_uri": ["Q13955", "Q1860", "Q9168"], "sub_label": "علي السيستاني", "obj_label": ["العربية", "الإنجليزية", "الفارسية"], "country": ["Q796"], "size": 38895, "uuid": "P1412_general_ARAB_REGION_555"}
+{"sub_uri": "Q401160", "obj_uri": ["Q13955", "Q150"], "sub_label": "أحمد بلافريج", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028"], "size": 38893, "uuid": "P1412_general_ARAB_REGION_556"}
+{"sub_uri": "Q6932755", "obj_uri": ["Q13955"], "sub_label": "تقي الدين الهلالي", "obj_label": ["العربية"], "country": ["Q1028", "Q796"], "size": 38874, "uuid": "P1412_general_ARAB_REGION_557"}
+{"sub_uri": "Q223568", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمر سليمان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 38837, "uuid": "P1412_general_ARAB_REGION_558"}
+{"sub_uri": "Q108546823", "obj_uri": ["Q13955"], "sub_label": "سمير سرحان", "obj_label": ["العربية"], "country": ["Q79"], "size": 38813, "uuid": "P1412_general_ARAB_REGION_559"}
+{"sub_uri": "Q26689986", "obj_uri": ["Q1860", "Q9176"], "sub_label": "مارك لي", "obj_label": ["الإنجليزية", "الكورية"], "country": ["Q1028"], "size": 38805, "uuid": "P1412_general_ARAB_REGION_560"}
+{"sub_uri": "Q7307079", "obj_uri": ["Q1860"], "sub_label": "رفعت إسماعيل", "obj_label": ["الإنجليزية"], "country": ["Q79"], "size": 38737, "uuid": "P1412_general_ARAB_REGION_561"}
+{"sub_uri": "Q3318453", "obj_uri": ["Q13955"], "sub_label": "محمد بومزراق", "obj_label": ["العربية"], "country": ["Q262"], "size": 38624, "uuid": "P1412_general_ARAB_REGION_562"}
+{"sub_uri": "Q238539", "obj_uri": ["Q13955", "Q29919"], "sub_label": "فوزية بنت فؤاد الأول", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 38607, "uuid": "P1412_general_ARAB_REGION_563"}
+{"sub_uri": "Q7959438", "obj_uri": ["Q13955"], "sub_label": "وفيق رضا سعيد", "obj_label": ["العربية"], "country": ["Q851"], "size": 38565, "uuid": "P1412_general_ARAB_REGION_564"}
+{"sub_uri": "Q12251120", "obj_uri": ["Q13955", "Q1860"], "sub_label": "وفاء الكيلاني", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 38554, "uuid": "P1412_general_ARAB_REGION_565"}
+{"sub_uri": "Q1031954", "obj_uri": ["Q13955"], "sub_label": "إحسان عبد القدوس", "obj_label": ["العربية"], "country": ["Q79"], "size": 38550, "uuid": "P1412_general_ARAB_REGION_566"}
+{"sub_uri": "Q20718823", "obj_uri": ["Q652"], "sub_label": "أدم ماسينا", "obj_label": ["الإيطالية"], "country": ["Q1028"], "size": 38541, "uuid": "P1412_general_ARAB_REGION_567"}
+{"sub_uri": "Q57390", "obj_uri": ["Q150"], "sub_label": "إسماعيل عمر جيلي", "obj_label": ["الفرنسية"], "country": ["Q977"], "size": 38541, "uuid": "P1412_general_ARAB_REGION_568"}
+{"sub_uri": "Q307996", "obj_uri": ["Q150"], "sub_label": "عبد اللطيف كشيش", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 38505, "uuid": "P1412_general_ARAB_REGION_569"}
+{"sub_uri": "Q58401547", "obj_uri": ["Q13955"], "sub_label": "حيدر مراد", "obj_label": ["العربية"], "country": ["Q810"], "size": 38466, "uuid": "P1412_general_ARAB_REGION_570"}
+{"sub_uri": "Q3070658", "obj_uri": ["Q13955"], "sub_label": "محمد الهاشمي الحامدي", "obj_label": ["العربية"], "country": ["Q948"], "size": 38416, "uuid": "P1412_general_ARAB_REGION_571"}
+{"sub_uri": "Q41559810", "obj_uri": ["Q13955", "Q25448"], "sub_label": "بدر بانون", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 38397, "uuid": "P1412_general_ARAB_REGION_572"}
+{"sub_uri": "Q115243", "obj_uri": ["Q150", "Q1860"], "sub_label": "أمين معلوف", "obj_label": ["الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 38374, "uuid": "P1412_general_ARAB_REGION_573"}
+{"sub_uri": "Q17306422", "obj_uri": ["Q13955", "Q29919"], "sub_label": "رمضان صبحي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 38287, "uuid": "P1412_general_ARAB_REGION_574"}
+{"sub_uri": "Q12179551", "obj_uri": ["Q13955"], "sub_label": "أسامة الأزهري", "obj_label": ["العربية"], "country": ["Q79"], "size": 38276, "uuid": "P1412_general_ARAB_REGION_575"}
+{"sub_uri": "Q738921", "obj_uri": ["Q13955"], "sub_label": "هاني حنجور", "obj_label": ["العربية"], "country": ["Q851"], "size": 38212, "uuid": "P1412_general_ARAB_REGION_576"}
+{"sub_uri": "Q3196035", "obj_uri": ["Q150"], "sub_label": "خليل جريج", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 38189, "uuid": "P1412_general_ARAB_REGION_577"}
+{"sub_uri": "Q4832707", "obj_uri": ["Q13955"], "sub_label": "عزيزة جلال", "obj_label": ["العربية"], "country": ["Q1028", "Q851"], "size": 38126, "uuid": "P1412_general_ARAB_REGION_578"}
+{"sub_uri": "Q6668703", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "لقمان سليم", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 38120, "uuid": "P1412_general_ARAB_REGION_579"}
+{"sub_uri": "Q3318533", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد النني", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 38098, "uuid": "P1412_general_ARAB_REGION_580"}
+{"sub_uri": "Q338708", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أحمد الطيب", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q79"], "size": 38023, "uuid": "P1412_general_ARAB_REGION_581"}
+{"sub_uri": "Q55315533", "obj_uri": ["Q13955", "Q25448"], "sub_label": "فاطمة الزهراء بن عمر", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 37979, "uuid": "P1412_general_ARAB_REGION_582"}
+{"sub_uri": "Q4165191", "obj_uri": ["Q13955"], "sub_label": "أيمن زيدان", "obj_label": ["العربية"], "country": ["Q858"], "size": 37898, "uuid": "P1412_general_ARAB_REGION_583"}
+{"sub_uri": "Q108560990", "obj_uri": ["Q13955"], "sub_label": "كلثم بن مسعود", "obj_label": ["العربية"], "country": ["Q878"], "size": 37825, "uuid": "P1412_general_ARAB_REGION_584"}
+{"sub_uri": "Q4166600", "obj_uri": ["Q13955"], "sub_label": "سعاد الصباح", "obj_label": ["العربية"], "country": ["Q817"], "size": 37824, "uuid": "P1412_general_ARAB_REGION_585"}
+{"sub_uri": "Q315214", "obj_uri": ["Q13955", "Q1860"], "sub_label": "طارق عزيز", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 37823, "uuid": "P1412_general_ARAB_REGION_586"}
+{"sub_uri": "Q12249160", "obj_uri": ["Q13955", "Q29919"], "sub_label": "نورا أمين", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 37739, "uuid": "P1412_general_ARAB_REGION_587"}
+{"sub_uri": "Q312823", "obj_uri": ["Q13955", "Q1860", "Q29919"], "sub_label": "وائل غنيم", "obj_label": ["العربية", "الإنجليزية", "لهجة مصرية"], "country": ["Q79"], "size": 37737, "uuid": "P1412_general_ARAB_REGION_588"}
+{"sub_uri": "Q12214728", "obj_uri": ["Q13955", "Q1860"], "sub_label": "زهير الكرمي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q810"], "size": 37692, "uuid": "P1412_general_ARAB_REGION_589"}
+{"sub_uri": "Q312661", "obj_uri": ["Q150"], "sub_label": "جمال دبوز", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 37658, "uuid": "P1412_general_ARAB_REGION_590"}
+{"sub_uri": "Q365965", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمرو زكي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 37547, "uuid": "P1412_general_ARAB_REGION_591"}
+{"sub_uri": "Q438601", "obj_uri": ["Q13955"], "sub_label": "إدريس بن عبد الله", "obj_label": ["العربية"], "country": ["Q1028"], "size": 37490, "uuid": "P1412_general_ARAB_REGION_592"}
+{"sub_uri": "Q12209890", "obj_uri": ["Q13955"], "sub_label": "خالد البريكي", "obj_label": ["العربية"], "country": ["Q851"], "size": 37475, "uuid": "P1412_general_ARAB_REGION_593"}
+{"sub_uri": "Q12218187", "obj_uri": ["Q13955"], "sub_label": "شاكر عبد الحميد", "obj_label": ["العربية"], "country": ["Q79"], "size": 37423, "uuid": "P1412_general_ARAB_REGION_594"}
+{"sub_uri": "Q6734388", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمود محمد شاكر", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 37423, "uuid": "P1412_general_ARAB_REGION_595"}
+{"sub_uri": "Q3068761", "obj_uri": ["Q13955", "Q25448"], "sub_label": "ابن أبي محلي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 37413, "uuid": "P1412_general_ARAB_REGION_596"}
+{"sub_uri": "Q1859200", "obj_uri": ["Q13955", "Q1860"], "sub_label": "وليد الخالدي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 37391, "uuid": "P1412_general_ARAB_REGION_597"}
+{"sub_uri": "Q86573896", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد أحمد رمضان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 37390, "uuid": "P1412_general_ARAB_REGION_598"}
+{"sub_uri": "Q377921", "obj_uri": ["Q13955"], "sub_label": "محمد مزالي", "obj_label": ["العربية"], "country": ["Q948"], "size": 37380, "uuid": "P1412_general_ARAB_REGION_599"}
+{"sub_uri": "Q57699", "obj_uri": ["Q13955"], "sub_label": "حمادي الجبالي", "obj_label": ["العربية"], "country": ["Q948"], "size": 37268, "uuid": "P1412_general_ARAB_REGION_600"}
+{"sub_uri": "Q368416", "obj_uri": ["Q150"], "sub_label": "كارل مجاني", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 37248, "uuid": "P1412_general_ARAB_REGION_601"}
+{"sub_uri": "Q22688708", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد الله الشريف", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 37228, "uuid": "P1412_general_ARAB_REGION_602"}
+{"sub_uri": "Q149640", "obj_uri": ["Q13955"], "sub_label": "حسام الحملاوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 37203, "uuid": "P1412_general_ARAB_REGION_603"}
+{"sub_uri": "Q4118153", "obj_uri": ["Q13955"], "sub_label": "محمد محمود ولد محمدو", "obj_label": ["العربية"], "country": ["Q1025"], "size": 37197, "uuid": "P1412_general_ARAB_REGION_604"}
+{"sub_uri": "Q3270032", "obj_uri": ["Q150"], "sub_label": "ليا سلامة", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 37177, "uuid": "P1412_general_ARAB_REGION_605"}
+{"sub_uri": "Q1942564", "obj_uri": ["Q13955", "Q25448"], "sub_label": "محمد أحنصال", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 37164, "uuid": "P1412_general_ARAB_REGION_606"}
+{"sub_uri": "Q307988", "obj_uri": ["Q150"], "sub_label": "عبد الله الطايع", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 37151, "uuid": "P1412_general_ARAB_REGION_607"}
+{"sub_uri": "Q350335", "obj_uri": ["Q150"], "sub_label": "نذير بلحاج", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 37080, "uuid": "P1412_general_ARAB_REGION_608"}
+{"sub_uri": "Q15278354", "obj_uri": ["Q13955", "Q1860"], "sub_label": "سمر السقاف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 37060, "uuid": "P1412_general_ARAB_REGION_609"}
+{"sub_uri": "Q98456966", "obj_uri": ["Q13955"], "sub_label": "سليم عياش", "obj_label": ["العربية"], "country": ["Q822"], "size": 37050, "uuid": "P1412_general_ARAB_REGION_610"}
+{"sub_uri": "Q560101", "obj_uri": ["Q13955"], "sub_label": "حسن فتحي", "obj_label": ["العربية"], "country": ["Q79"], "size": 36906, "uuid": "P1412_general_ARAB_REGION_611"}
+{"sub_uri": "Q1584651", "obj_uri": ["Q13955"], "sub_label": "محمد سليم العوا", "obj_label": ["العربية"], "country": ["Q79"], "size": 36898, "uuid": "P1412_general_ARAB_REGION_612"}
+{"sub_uri": "Q7221725", "obj_uri": ["Q13955"], "sub_label": "راشد حسين", "obj_label": ["العربية"], "country": ["Q219060"], "size": 36876, "uuid": "P1412_general_ARAB_REGION_613"}
+{"sub_uri": "Q307629", "obj_uri": ["Q13955"], "sub_label": "عبيد الله المهدي", "obj_label": ["العربية"], "country": ["Q858"], "size": 36815, "uuid": "P1412_general_ARAB_REGION_614"}
+{"sub_uri": "Q12198328", "obj_uri": ["Q13955"], "sub_label": "بسام لطفي", "obj_label": ["العربية"], "country": ["Q219060", "Q858"], "size": 36793, "uuid": "P1412_general_ARAB_REGION_615"}
+{"sub_uri": "Q369971", "obj_uri": ["Q13955"], "sub_label": "محمد سيد طنطاوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 36755, "uuid": "P1412_general_ARAB_REGION_616"}
+{"sub_uri": "Q16236257", "obj_uri": ["Q13955"], "sub_label": "عمر خربين", "obj_label": ["العربية"], "country": ["Q858"], "size": 36724, "uuid": "P1412_general_ARAB_REGION_617"}
+{"sub_uri": "Q10989102", "obj_uri": ["Q13955"], "sub_label": "محمود شكوكو", "obj_label": ["العربية"], "country": ["Q79"], "size": 36698, "uuid": "P1412_general_ARAB_REGION_618"}
+{"sub_uri": "Q16147357", "obj_uri": ["Q150"], "sub_label": "أغنس مريم الصليب", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 36678, "uuid": "P1412_general_ARAB_REGION_619"}
+{"sub_uri": "Q2866586", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أشرف مروان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 36624, "uuid": "P1412_general_ARAB_REGION_620"}
+{"sub_uri": "Q12238123", "obj_uri": ["Q13955", "Q56232"], "sub_label": "ماجد المهندس", "obj_label": ["العربية", "لهجة عراقية"], "country": ["Q796", "Q851"], "size": 36614, "uuid": "P1412_general_ARAB_REGION_621"}
+{"sub_uri": "Q19606689", "obj_uri": ["Q13955"], "sub_label": "محمد بلحسين", "obj_label": ["العربية"], "country": ["Q262"], "size": 36581, "uuid": "P1412_general_ARAB_REGION_622"}
+{"sub_uri": "Q1009512", "obj_uri": ["Q13955"], "sub_label": "جورج وسوف", "obj_label": ["العربية"], "country": ["Q858"], "size": 36538, "uuid": "P1412_general_ARAB_REGION_623"}
+{"sub_uri": "Q462244", "obj_uri": ["Q13955"], "sub_label": "لبنى أحمد الحسين", "obj_label": ["العربية"], "country": ["Q1049"], "size": 36513, "uuid": "P1412_general_ARAB_REGION_624"}
+{"sub_uri": "Q22004720", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد أنور حديد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 36513, "uuid": "P1412_general_ARAB_REGION_625"}
+{"sub_uri": "Q808173", "obj_uri": ["Q13955", "Q1860", "Q36368"], "sub_label": "برهم صالح", "obj_label": ["العربية", "الإنجليزية", "الكردية"], "country": ["Q796"], "size": 36476, "uuid": "P1412_general_ARAB_REGION_626"}
+{"sub_uri": "Q149368", "obj_uri": ["Q13955", "Q29919"], "sub_label": "كمال عباس", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 36461, "uuid": "P1412_general_ARAB_REGION_627"}
+{"sub_uri": "Q4165279", "obj_uri": ["Q13955"], "sub_label": "عبد السلام الأسمر", "obj_label": ["العربية"], "country": ["Q1016"], "size": 36433, "uuid": "P1412_general_ARAB_REGION_628"}
+{"sub_uri": "Q2463959", "obj_uri": ["Q1860"], "sub_label": "بريجيت غابرييل", "obj_label": ["الإنجليزية"], "country": ["Q822"], "size": 36407, "uuid": "P1412_general_ARAB_REGION_629"}
+{"sub_uri": "Q431343", "obj_uri": ["Q13955"], "sub_label": "رابح ماجر", "obj_label": ["العربية"], "country": ["Q262"], "size": 36379, "uuid": "P1412_general_ARAB_REGION_630"}
+{"sub_uri": "Q588092", "obj_uri": ["Q13955"], "sub_label": "نوال الزغبي", "obj_label": ["العربية"], "country": ["Q822"], "size": 36343, "uuid": "P1412_general_ARAB_REGION_631"}
+{"sub_uri": "Q2575962", "obj_uri": ["Q150"], "sub_label": "جان سيناك", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 36334, "uuid": "P1412_general_ARAB_REGION_632"}
+{"sub_uri": "Q561466", "obj_uri": ["Q13955"], "sub_label": "محمود المبحوح", "obj_label": ["العربية"], "country": ["Q219060"], "size": 36328, "uuid": "P1412_general_ARAB_REGION_633"}
+{"sub_uri": "Q12250095", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "هناء الرملي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q810"], "size": 36255, "uuid": "P1412_general_ARAB_REGION_634"}
+{"sub_uri": "Q12251046", "obj_uri": ["Q13955"], "sub_label": "وسيم حرب", "obj_label": ["العربية"], "country": ["Q822"], "size": 36199, "uuid": "P1412_general_ARAB_REGION_635"}
+{"sub_uri": "Q2909597", "obj_uri": ["Q13955"], "sub_label": "رائد الكرمي", "obj_label": ["العربية"], "country": ["Q219060"], "size": 36187, "uuid": "P1412_general_ARAB_REGION_636"}
+{"sub_uri": "Q3720613", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد حسن محجوب", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 36187, "uuid": "P1412_general_ARAB_REGION_637"}
+{"sub_uri": "Q970706", "obj_uri": ["Q13955", "Q1860", "Q9288"], "sub_label": "صائب عريقات", "obj_label": ["العربية", "الإنجليزية", "العبرية"], "country": ["Q219060"], "size": 36170, "uuid": "P1412_general_ARAB_REGION_638"}
+{"sub_uri": "Q12181626", "obj_uri": ["Q13955"], "sub_label": "إبراهيم العرابي", "obj_label": ["العربية"], "country": ["Q79"], "size": 36082, "uuid": "P1412_general_ARAB_REGION_639"}
+{"sub_uri": "Q99434205", "obj_uri": ["Q13955", "Q1860"], "sub_label": "خالد بعباع", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 36067, "uuid": "P1412_general_ARAB_REGION_640"}
+{"sub_uri": "Q1112049", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "حسن حنفي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q79"], "size": 36059, "uuid": "P1412_general_ARAB_REGION_641"}
+{"sub_uri": "Q89485946", "obj_uri": ["Q13955", "Q1860"], "sub_label": "وجيه فانوس", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q822"], "size": 36035, "uuid": "P1412_general_ARAB_REGION_642"}
+{"sub_uri": "Q3139171", "obj_uri": ["Q13955"], "sub_label": "منة شلبي", "obj_label": ["العربية"], "country": ["Q79"], "size": 35954, "uuid": "P1412_general_ARAB_REGION_643"}
+{"sub_uri": "Q558522", "obj_uri": ["Q1568", "Q1860"], "sub_label": "مقبول فدا حسين", "obj_label": ["الهندية", "الإنجليزية"], "country": ["Q846"], "size": 35939, "uuid": "P1412_general_ARAB_REGION_644"}
+{"sub_uri": "Q4695887", "obj_uri": ["Q13955"], "sub_label": "أحمد خالد توفيق", "obj_label": ["العربية"], "country": ["Q79"], "size": 35935, "uuid": "P1412_general_ARAB_REGION_645"}
+{"sub_uri": "Q2879271", "obj_uri": ["Q13955"], "sub_label": "باهيا فرح", "obj_label": ["العربية"], "country": ["Q262"], "size": 35858, "uuid": "P1412_general_ARAB_REGION_646"}
+{"sub_uri": "Q4117031", "obj_uri": ["Q13955", "Q1649537"], "sub_label": "أميرة الطويل", "obj_label": ["العربية", "الإنجليزية الحديثة"], "country": ["Q851"], "size": 35857, "uuid": "P1412_general_ARAB_REGION_647"}
+{"sub_uri": "Q56783950", "obj_uri": ["Q13955"], "sub_label": "تارة فارس", "obj_label": ["العربية"], "country": ["Q796"], "size": 35845, "uuid": "P1412_general_ARAB_REGION_648"}
+{"sub_uri": "Q2720307", "obj_uri": ["Q13955"], "sub_label": "جواد سليم", "obj_label": ["العربية"], "country": ["Q796"], "size": 35821, "uuid": "P1412_general_ARAB_REGION_649"}
+{"sub_uri": "Q2821018", "obj_uri": ["Q13955", "Q150"], "sub_label": "عبد الغني هامل", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 35792, "uuid": "P1412_general_ARAB_REGION_650"}
+{"sub_uri": "Q359766", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عدنان الباجه جي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796", "Q878"], "size": 35765, "uuid": "P1412_general_ARAB_REGION_651"}
+{"sub_uri": "Q465721", "obj_uri": ["Q150"], "sub_label": "أندريه شديد", "obj_label": ["الفرنسية"], "country": ["Q79", "Q822"], "size": 35757, "uuid": "P1412_general_ARAB_REGION_652"}
+{"sub_uri": "Q4120052", "obj_uri": ["Q13955"], "sub_label": "منى واصف", "obj_label": ["العربية"], "country": ["Q858"], "size": 35730, "uuid": "P1412_general_ARAB_REGION_653"}
+{"sub_uri": "Q11259760", "obj_uri": ["Q13955"], "sub_label": "مصطفى وهبي التل", "obj_label": ["العربية"], "country": ["Q1121819", "Q810"], "size": 35718, "uuid": "P1412_general_ARAB_REGION_654"}
+{"sub_uri": "Q947548", "obj_uri": ["Q150"], "sub_label": "منير فاطمي", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 35697, "uuid": "P1412_general_ARAB_REGION_655"}
+{"sub_uri": "Q371263", "obj_uri": ["Q13955"], "sub_label": "خالد الفيصل", "obj_label": ["العربية"], "country": ["Q851"], "size": 35681, "uuid": "P1412_general_ARAB_REGION_656"}
+{"sub_uri": "Q6127617", "obj_uri": ["Q13955"], "sub_label": "جمال سليمان", "obj_label": ["العربية"], "country": ["Q858"], "size": 35661, "uuid": "P1412_general_ARAB_REGION_657"}
+{"sub_uri": "Q327016", "obj_uri": ["Q13955"], "sub_label": "علي بن فليس", "obj_label": ["العربية"], "country": ["Q262"], "size": 35551, "uuid": "P1412_general_ARAB_REGION_658"}
+{"sub_uri": "Q18062338", "obj_uri": ["Q1321"], "sub_label": "منير مهند محمدي", "obj_label": ["الإسبانية"], "country": ["Q1028"], "size": 35487, "uuid": "P1412_general_ARAB_REGION_659"}
+{"sub_uri": "Q6959062", "obj_uri": ["Q13955", "Q29919"], "sub_label": "نجيب الهلالي جوهر", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 35424, "uuid": "P1412_general_ARAB_REGION_660"}
+{"sub_uri": "Q11154007", "obj_uri": ["Q13955", "Q150", "Q1860", "Q652"], "sub_label": "رجاء الجداوي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الإيطالية"], "country": ["Q79"], "size": 35396, "uuid": "P1412_general_ARAB_REGION_661"}
+{"sub_uri": "Q271450", "obj_uri": ["Q13955", "Q1860", "Q9288"], "sub_label": "حنين زعبي", "obj_label": ["العربية", "الإنجليزية", "العبرية"], "country": ["Q219060"], "size": 35377, "uuid": "P1412_general_ARAB_REGION_662"}
+{"sub_uri": "Q317421", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن بن فيصل بن تركي آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 35373, "uuid": "P1412_general_ARAB_REGION_663"}
+{"sub_uri": "Q3816736", "obj_uri": ["Q13955"], "sub_label": "عبد العزيز سعود البابطين", "obj_label": ["العربية"], "country": ["Q817"], "size": 35346, "uuid": "P1412_general_ARAB_REGION_664"}
+{"sub_uri": "Q403707", "obj_uri": ["Q13955"], "sub_label": "مصطفى طلاس", "obj_label": ["العربية"], "country": ["Q858"], "size": 35326, "uuid": "P1412_general_ARAB_REGION_665"}
+{"sub_uri": "Q51886278", "obj_uri": ["Q13955"], "sub_label": "جميلة", "obj_label": ["العربية"], "country": ["Q262"], "size": 35324, "uuid": "P1412_general_ARAB_REGION_666"}
+{"sub_uri": "Q6041657", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد حسين", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 35318, "uuid": "P1412_general_ARAB_REGION_667"}
+{"sub_uri": "Q3574603", "obj_uri": ["Q150"], "sub_label": "زاهية ديهار", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 35304, "uuid": "P1412_general_ARAB_REGION_668"}
+{"sub_uri": "Q5076473", "obj_uri": ["Q150"], "sub_label": "شارل قرم", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 35184, "uuid": "P1412_general_ARAB_REGION_669"}
+{"sub_uri": "Q272117", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "هيا بنت الحسين", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q810"], "size": 35142, "uuid": "P1412_general_ARAB_REGION_670"}
+{"sub_uri": "Q21011188", "obj_uri": ["Q13955"], "sub_label": "المعز علي", "obj_label": ["العربية"], "country": ["Q846"], "size": 35130, "uuid": "P1412_general_ARAB_REGION_671"}
+{"sub_uri": "Q272559", "obj_uri": ["Q13955"], "sub_label": "ليلى بن علي", "obj_label": ["العربية"], "country": ["Q948"], "size": 35125, "uuid": "P1412_general_ARAB_REGION_672"}
+{"sub_uri": "Q158043", "obj_uri": ["Q50868"], "sub_label": "مرنبتاح", "obj_label": ["لغة مصرية"], "country": ["Q79"], "size": 35022, "uuid": "P1412_general_ARAB_REGION_673"}
+{"sub_uri": "Q12197726", "obj_uri": ["Q13955"], "sub_label": "بدرية طلبة", "obj_label": ["العربية"], "country": ["Q79"], "size": 34979, "uuid": "P1412_general_ARAB_REGION_674"}
+{"sub_uri": "Q48964824", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860"], "sub_label": "سولكينغ", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية"], "country": ["Q262"], "size": 34969, "uuid": "P1412_general_ARAB_REGION_675"}
+{"sub_uri": "Q57726", "obj_uri": ["Q13955", "Q1860"], "sub_label": "خليفة بن سلمان بن حمد آل خليفة", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q398"], "size": 34954, "uuid": "P1412_general_ARAB_REGION_676"}
+{"sub_uri": "Q42331352", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد كامل مرسي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34952, "uuid": "P1412_general_ARAB_REGION_677"}
+{"sub_uri": "Q335637", "obj_uri": ["Q13955"], "sub_label": "أبو القاسم الخوئي", "obj_label": ["العربية"], "country": ["Q796"], "size": 34930, "uuid": "P1412_general_ARAB_REGION_678"}
+{"sub_uri": "Q3366354", "obj_uri": ["Q13955"], "sub_label": "غازي بن محمد", "obj_label": ["العربية"], "country": ["Q810"], "size": 34870, "uuid": "P1412_general_ARAB_REGION_679"}
+{"sub_uri": "Q3571283", "obj_uri": ["Q150"], "sub_label": "عياض بن عاشور", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 34842, "uuid": "P1412_general_ARAB_REGION_680"}
+{"sub_uri": "Q4164770", "obj_uri": ["Q13955"], "sub_label": "سمير غانم", "obj_label": ["العربية"], "country": ["Q79"], "size": 34841, "uuid": "P1412_general_ARAB_REGION_681"}
+{"sub_uri": "Q559183", "obj_uri": ["Q13955", "Q25448"], "sub_label": "التهامي الكلاوي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 34839, "uuid": "P1412_general_ARAB_REGION_682"}
+{"sub_uri": "Q7403453", "obj_uri": ["Q13955"], "sub_label": "صلاح الدين حافظ", "obj_label": ["العربية"], "country": ["Q79"], "size": 34825, "uuid": "P1412_general_ARAB_REGION_683"}
+{"sub_uri": "Q467895", "obj_uri": ["Q13955"], "sub_label": "محمد عبد الوهاب", "obj_label": ["العربية"], "country": ["Q79"], "size": 34784, "uuid": "P1412_general_ARAB_REGION_684"}
+{"sub_uri": "Q112632475", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "نجيب المانع", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q796", "Q851"], "size": 34779, "uuid": "P1412_general_ARAB_REGION_685"}
+{"sub_uri": "Q4118502", "obj_uri": ["Q13955"], "sub_label": "محمود سعيد", "obj_label": ["العربية"], "country": ["Q796"], "size": 34751, "uuid": "P1412_general_ARAB_REGION_686"}
+{"sub_uri": "Q3066875", "obj_uri": ["Q150"], "sub_label": "فريد د م س دباح", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 34749, "uuid": "P1412_general_ARAB_REGION_687"}
+{"sub_uri": "Q599233", "obj_uri": ["Q13955"], "sub_label": "رامي مخلوف", "obj_label": ["العربية"], "country": ["Q858"], "size": 34747, "uuid": "P1412_general_ARAB_REGION_688"}
+{"sub_uri": "Q381486", "obj_uri": ["Q13955"], "sub_label": "نور الشريف", "obj_label": ["العربية"], "country": ["Q79"], "size": 34723, "uuid": "P1412_general_ARAB_REGION_689"}
+{"sub_uri": "Q1801569", "obj_uri": ["Q13955"], "sub_label": "الأمين وهاب", "obj_label": ["العربية"], "country": ["Q262"], "size": 34718, "uuid": "P1412_general_ARAB_REGION_690"}
+{"sub_uri": "Q5316140", "obj_uri": ["Q13955"], "sub_label": "دريد لحام", "obj_label": ["العربية"], "country": ["Q858"], "size": 34701, "uuid": "P1412_general_ARAB_REGION_691"}
+{"sub_uri": "Q307786", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد الحليم حافظ", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34699, "uuid": "P1412_general_ARAB_REGION_692"}
+{"sub_uri": "Q299555", "obj_uri": ["Q13955"], "sub_label": "سامي الجابر", "obj_label": ["العربية"], "country": ["Q851"], "size": 34621, "uuid": "P1412_general_ARAB_REGION_693"}
+{"sub_uri": "Q108604673", "obj_uri": ["Q13955"], "sub_label": "حسين محمود", "obj_label": ["العربية"], "country": ["Q79"], "size": 34586, "uuid": "P1412_general_ARAB_REGION_694"}
+{"sub_uri": "Q290220", "obj_uri": ["Q1860"], "sub_label": "ليلى أبو العلا", "obj_label": ["الإنجليزية"], "country": ["Q1049"], "size": 34573, "uuid": "P1412_general_ARAB_REGION_695"}
+{"sub_uri": "Q4165808", "obj_uri": ["Q13955"], "sub_label": "صالح العلي", "obj_label": ["العربية"], "country": ["Q858"], "size": 34571, "uuid": "P1412_general_ARAB_REGION_696"}
+{"sub_uri": "Q372035", "obj_uri": ["Q13955"], "sub_label": "إيميلي نصر الله", "obj_label": ["العربية"], "country": ["Q822"], "size": 34533, "uuid": "P1412_general_ARAB_REGION_697"}
+{"sub_uri": "Q12210092", "obj_uri": ["Q13955", "Q150"], "sub_label": "خالد زيادة", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 34523, "uuid": "P1412_general_ARAB_REGION_698"}
+{"sub_uri": "Q2821444", "obj_uri": ["Q13955"], "sub_label": "عبد الله القصيمي", "obj_label": ["العربية"], "country": ["Q851"], "size": 34516, "uuid": "P1412_general_ARAB_REGION_699"}
+{"sub_uri": "Q8761616", "obj_uri": ["Q13955"], "sub_label": "عبد الحي مسلم", "obj_label": ["العربية"], "country": ["Q810"], "size": 34456, "uuid": "P1412_general_ARAB_REGION_700"}
+{"sub_uri": "Q379962", "obj_uri": ["Q150"], "sub_label": "كاتب ياسين", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 34446, "uuid": "P1412_general_ARAB_REGION_701"}
+{"sub_uri": "Q4695287", "obj_uri": ["Q1860"], "sub_label": "أحمد بن علي", "obj_label": ["الإنجليزية"], "country": ["Q1016"], "size": 34440, "uuid": "P1412_general_ARAB_REGION_702"}
+{"sub_uri": "Q95740862", "obj_uri": ["Q13955"], "sub_label": "مها بيرقدار", "obj_label": ["العربية"], "country": ["Q858"], "size": 34415, "uuid": "P1412_general_ARAB_REGION_703"}
+{"sub_uri": "Q958831", "obj_uri": ["Q150"], "sub_label": "جيرارد دارمون", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 34407, "uuid": "P1412_general_ARAB_REGION_704"}
+{"sub_uri": "Q3380886", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عز الدين ذو الفقار", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34328, "uuid": "P1412_general_ARAB_REGION_705"}
+{"sub_uri": "Q12197694", "obj_uri": ["Q13955"], "sub_label": "بدر بن عبد المحسن آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 34321, "uuid": "P1412_general_ARAB_REGION_706"}
+{"sub_uri": "Q12241106", "obj_uri": ["Q13955"], "sub_label": "محمد ولد الغزواني", "obj_label": ["العربية"], "country": ["Q1025"], "size": 34314, "uuid": "P1412_general_ARAB_REGION_707"}
+{"sub_uri": "Q12219691", "obj_uri": ["Q13955"], "sub_label": "صباح الخالد الحمد الصباح", "obj_label": ["العربية"], "country": ["Q817"], "size": 34304, "uuid": "P1412_general_ARAB_REGION_708"}
+{"sub_uri": "Q20423647", "obj_uri": ["Q13955", "Q1860"], "sub_label": "نادية عبد العزيز السقاف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q805"], "size": 34226, "uuid": "P1412_general_ARAB_REGION_709"}
+{"sub_uri": "Q1400040", "obj_uri": ["Q13955"], "sub_label": "حمدين صباحي", "obj_label": ["العربية"], "country": ["Q79"], "size": 34202, "uuid": "P1412_general_ARAB_REGION_710"}
+{"sub_uri": "Q108674017", "obj_uri": ["Q13955"], "sub_label": "سمير عزت نصار", "obj_label": ["العربية"], "country": ["Q219060"], "size": 34188, "uuid": "P1412_general_ARAB_REGION_711"}
+{"sub_uri": "Q5357929", "obj_uri": ["Q150"], "sub_label": "أحمد مهساس", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 34155, "uuid": "P1412_general_ARAB_REGION_712"}
+{"sub_uri": "Q313816", "obj_uri": ["Q13955", "Q1860"], "sub_label": "إياد علاوي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 34101, "uuid": "P1412_general_ARAB_REGION_713"}
+{"sub_uri": "Q3126625", "obj_uri": ["Q13955"], "sub_label": "حمزة بن العباس بودشيش", "obj_label": ["العربية"], "country": ["Q1028"], "size": 34081, "uuid": "P1412_general_ARAB_REGION_714"}
+{"sub_uri": "Q456647", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد المحمدي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34080, "uuid": "P1412_general_ARAB_REGION_715"}
+{"sub_uri": "Q3536580", "obj_uri": ["Q13955"], "sub_label": "هيفاء زنكنة", "obj_label": ["العربية"], "country": ["Q796"], "size": 34077, "uuid": "P1412_general_ARAB_REGION_716"}
+{"sub_uri": "Q312611", "obj_uri": ["Q13955"], "sub_label": "يوسف شاهين", "obj_label": ["العربية"], "country": ["Q79"], "size": 34071, "uuid": "P1412_general_ARAB_REGION_717"}
+{"sub_uri": "Q42231", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد حسن", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34057, "uuid": "P1412_general_ARAB_REGION_718"}
+{"sub_uri": "Q4119344", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد البلتاجي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34056, "uuid": "P1412_general_ARAB_REGION_719"}
+{"sub_uri": "Q6853899", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد سعيد العريان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34050, "uuid": "P1412_general_ARAB_REGION_720"}
+{"sub_uri": "Q22690878", "obj_uri": ["Q13955", "Q1860"], "sub_label": "يوسف عز الدين السامرائي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 34044, "uuid": "P1412_general_ARAB_REGION_721"}
+{"sub_uri": "Q16038552", "obj_uri": ["Q13955", "Q150", "Q1860", "Q652"], "sub_label": "نايدي فرشيو", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الإيطالية"], "country": ["Q948"], "size": 34042, "uuid": "P1412_general_ARAB_REGION_722"}
+{"sub_uri": "Q554331", "obj_uri": ["Q13955", "Q1860"], "sub_label": "مصطفى البرغوثي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 34037, "uuid": "P1412_general_ARAB_REGION_723"}
+{"sub_uri": "Q2827556", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد جمال الدين موسى", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 34037, "uuid": "P1412_general_ARAB_REGION_724"}
+{"sub_uri": "Q4118090", "obj_uri": ["Q13955"], "sub_label": "ربيع جابر", "obj_label": ["العربية"], "country": ["Q822"], "size": 34017, "uuid": "P1412_general_ARAB_REGION_725"}
+{"sub_uri": "Q330939", "obj_uri": ["Q13955"], "sub_label": "فؤاد المهندس", "obj_label": ["العربية"], "country": ["Q79"], "size": 33977, "uuid": "P1412_general_ARAB_REGION_726"}
+{"sub_uri": "Q733686", "obj_uri": ["Q13955"], "sub_label": "سمير جعجع", "obj_label": ["العربية"], "country": ["Q822"], "size": 33972, "uuid": "P1412_general_ARAB_REGION_727"}
+{"sub_uri": "Q110701176", "obj_uri": ["Q13955"], "sub_label": "ياسر رزق", "obj_label": ["العربية"], "country": ["Q79"], "size": 33955, "uuid": "P1412_general_ARAB_REGION_728"}
+{"sub_uri": "Q16192933", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد اشتية", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 33945, "uuid": "P1412_general_ARAB_REGION_729"}
+{"sub_uri": "Q1624921", "obj_uri": ["Q150"], "sub_label": "مرزاق علواش", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 33943, "uuid": "P1412_general_ARAB_REGION_730"}
+{"sub_uri": "Q4165830", "obj_uri": ["Q13955"], "sub_label": "شادية", "obj_label": ["العربية"], "country": ["Q79"], "size": 33924, "uuid": "P1412_general_ARAB_REGION_731"}
+{"sub_uri": "Q269922", "obj_uri": ["Q13955"], "sub_label": "سارة عطار", "obj_label": ["العربية"], "country": ["Q851"], "size": 33870, "uuid": "P1412_general_ARAB_REGION_732"}
+{"sub_uri": "Q6087274", "obj_uri": ["Q13955"], "sub_label": "أحمد سعداوي", "obj_label": ["العربية"], "country": ["Q796"], "size": 33867, "uuid": "P1412_general_ARAB_REGION_733"}
+{"sub_uri": "Q3473945", "obj_uri": ["Q13955", "Q256", "Q34090", "Q36730"], "sub_label": "ساطع الحصري", "obj_label": ["العربية", "التركية", "الأتراكية", "العثمانية"], "country": ["Q796", "Q858"], "size": 33838, "uuid": "P1412_general_ARAB_REGION_734"}
+{"sub_uri": "Q5648183", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هاني السباعي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 33824, "uuid": "P1412_general_ARAB_REGION_735"}
+{"sub_uri": "Q21403452", "obj_uri": ["Q13955"], "sub_label": "آدم وناس", "obj_label": ["العربية"], "country": ["Q262"], "size": 33795, "uuid": "P1412_general_ARAB_REGION_736"}
+{"sub_uri": "Q7934206", "obj_uri": ["Q13955"], "sub_label": "أبو محمد الجولاني", "obj_label": ["العربية"], "country": ["Q858"], "size": 33791, "uuid": "P1412_general_ARAB_REGION_737"}
+{"sub_uri": "Q867245", "obj_uri": ["Q150"], "sub_label": "سفير تايدر", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 33782, "uuid": "P1412_general_ARAB_REGION_738"}
+{"sub_uri": "Q15838609", "obj_uri": ["Q13955", "Q29919"], "sub_label": "ضحى هاني", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 33758, "uuid": "P1412_general_ARAB_REGION_739"}
+{"sub_uri": "Q1342082", "obj_uri": ["Q13955"], "sub_label": "يوسف زيدان", "obj_label": ["العربية"], "country": ["Q79"], "size": 33722, "uuid": "P1412_general_ARAB_REGION_740"}
+{"sub_uri": "Q62217177", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860"], "sub_label": "آمنة الميزوني", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية"], "country": ["Q948"], "size": 33716, "uuid": "P1412_general_ARAB_REGION_741"}
+{"sub_uri": "Q1362148", "obj_uri": ["Q13955"], "sub_label": "عمر بكري فستق", "obj_label": ["العربية"], "country": ["Q858"], "size": 33701, "uuid": "P1412_general_ARAB_REGION_742"}
+{"sub_uri": "Q157313", "obj_uri": ["Q150"], "sub_label": "آسيا جبار", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 33670, "uuid": "P1412_general_ARAB_REGION_743"}
+{"sub_uri": "Q3186498", "obj_uri": ["Q150"], "sub_label": "رشيد غزال", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 33647, "uuid": "P1412_general_ARAB_REGION_744"}
+{"sub_uri": "Q273696", "obj_uri": ["Q1860"], "sub_label": "منى حاطوم", "obj_label": ["الإنجليزية"], "country": ["Q219060"], "size": 33633, "uuid": "P1412_general_ARAB_REGION_745"}
+{"sub_uri": "Q18719399", "obj_uri": ["Q13955"], "sub_label": "محمد فارس", "obj_label": ["العربية"], "country": ["Q262"], "size": 33628, "uuid": "P1412_general_ARAB_REGION_746"}
+{"sub_uri": "Q102228052", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عبد الله صلاح", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q810"], "size": 33596, "uuid": "P1412_general_ARAB_REGION_747"}
+{"sub_uri": "Q2919015", "obj_uri": ["Q13955", "Q1860"], "sub_label": "مجدي يعقوب", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 33589, "uuid": "P1412_general_ARAB_REGION_748"}
+{"sub_uri": "Q108372737", "obj_uri": ["Q13955"], "sub_label": "كارم يحيى", "obj_label": ["العربية"], "country": ["Q79"], "size": 33551, "uuid": "P1412_general_ARAB_REGION_749"}
+{"sub_uri": "Q2118574", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمار الشريعي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 33521, "uuid": "P1412_general_ARAB_REGION_750"}
+{"sub_uri": "Q112111869", "obj_uri": ["Q13955"], "sub_label": "عبد الحسين القطيفي", "obj_label": ["العربية"], "country": ["Q796"], "size": 33446, "uuid": "P1412_general_ARAB_REGION_751"}
+{"sub_uri": "Q111521941", "obj_uri": ["Q13955", "Q150"], "sub_label": "محمد رحمون", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 33436, "uuid": "P1412_general_ARAB_REGION_752"}
+{"sub_uri": "Q110552321", "obj_uri": ["Q4783411"], "sub_label": "أبو فلة", "obj_label": ["مد القاموس"], "country": ["Q817"], "size": 33431, "uuid": "P1412_general_ARAB_REGION_753"}
+{"sub_uri": "Q597054", "obj_uri": ["Q150"], "sub_label": "لويزة إغيل أحريز", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 33424, "uuid": "P1412_general_ARAB_REGION_754"}
+{"sub_uri": "Q3516439", "obj_uri": ["Q13955"], "sub_label": "الطيب الصديقي", "obj_label": ["العربية"], "country": ["Q1028"], "size": 33413, "uuid": "P1412_general_ARAB_REGION_755"}
+{"sub_uri": "Q1567862", "obj_uri": ["Q13955", "Q28602", "Q29440", "Q34090", "Q36368", "Q8785", "Q9267"], "sub_label": "عراقيون", "obj_label": ["العربية", "الآرامية", "لهجة آرامية آشورية حديثة", "الأتراكية", "الكردية", "الأرمنية", "التركمانية"], "country": ["Q796"], "size": 33366, "uuid": "P1412_general_ARAB_REGION_756"}
+{"sub_uri": "Q981846", "obj_uri": ["Q13955"], "sub_label": "مقرن بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 33327, "uuid": "P1412_general_ARAB_REGION_757"}
+{"sub_uri": "Q20396204", "obj_uri": ["Q1321", "Q13955", "Q150", "Q1860", "Q29919"], "sub_label": "غادة والي", "obj_label": ["الإسبانية", "العربية", "الفرنسية", "الإنجليزية", "لهجة مصرية"], "country": ["Q79"], "size": 33321, "uuid": "P1412_general_ARAB_REGION_758"}
+{"sub_uri": "Q317332", "obj_uri": ["Q13955"], "sub_label": "عبد الكريم الجيلي", "obj_label": ["العربية"], "country": ["Q796", "Q805"], "size": 33275, "uuid": "P1412_general_ARAB_REGION_759"}
+{"sub_uri": "Q22211683", "obj_uri": ["Q13955"], "sub_label": "ناجي الجرف", "obj_label": ["العربية"], "country": ["Q858"], "size": 33221, "uuid": "P1412_general_ARAB_REGION_760"}
+{"sub_uri": "Q4118522", "obj_uri": ["Q13955"], "sub_label": "كوليت خوري", "obj_label": ["العربية"], "country": ["Q858"], "size": 33216, "uuid": "P1412_general_ARAB_REGION_761"}
+{"sub_uri": "Q106782689", "obj_uri": ["Q13955", "Q1860"], "sub_label": "أحمد ناصر الريسي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q878"], "size": 33187, "uuid": "P1412_general_ARAB_REGION_762"}
+{"sub_uri": "Q105179346", "obj_uri": ["Q13955", "Q1860"], "sub_label": "محمد سعيد الجمل", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 33171, "uuid": "P1412_general_ARAB_REGION_763"}
+{"sub_uri": "Q2273577", "obj_uri": ["Q13955"], "sub_label": "أبو مصعب السوري", "obj_label": ["العربية"], "country": ["Q858"], "size": 33155, "uuid": "P1412_general_ARAB_REGION_764"}
+{"sub_uri": "Q364194", "obj_uri": ["Q13955"], "sub_label": "مروان البرغوثي", "obj_label": ["العربية"], "country": ["Q219060"], "size": 33153, "uuid": "P1412_general_ARAB_REGION_765"}
+{"sub_uri": "Q17544625", "obj_uri": ["Q13955"], "sub_label": "أبو محمد العدناني", "obj_label": ["العربية"], "country": ["Q858"], "size": 33149, "uuid": "P1412_general_ARAB_REGION_766"}
+{"sub_uri": "Q28709456", "obj_uri": ["Q13955", "Q150"], "sub_label": "عصام محفوظ", "obj_label": ["العربية", "الفرنسية"], "country": ["Q822"], "size": 33134, "uuid": "P1412_general_ARAB_REGION_767"}
+{"sub_uri": "Q68773", "obj_uri": ["Q13955"], "sub_label": "مقبل بن هادي الوادعي", "obj_label": ["العربية"], "country": ["Q805"], "size": 33090, "uuid": "P1412_general_ARAB_REGION_768"}
+{"sub_uri": "Q5435249", "obj_uri": ["Q13955", "Q25448"], "sub_label": "فريد العلاغي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 33058, "uuid": "P1412_general_ARAB_REGION_769"}
+{"sub_uri": "Q458709", "obj_uri": ["Q652"], "sub_label": "مجدي علام", "obj_label": ["الإيطالية"], "country": ["Q79"], "size": 33057, "uuid": "P1412_general_ARAB_REGION_770"}
+{"sub_uri": "Q2745723", "obj_uri": ["Q13955"], "sub_label": "نور الدين مصالحة", "obj_label": ["العربية"], "country": ["Q219060"], "size": 33041, "uuid": "P1412_general_ARAB_REGION_771"}
+{"sub_uri": "Q2083523", "obj_uri": ["Q13955"], "sub_label": "ناصر الشمراني", "obj_label": ["العربية"], "country": ["Q851"], "size": 33028, "uuid": "P1412_general_ARAB_REGION_772"}
+{"sub_uri": "Q4696081", "obj_uri": ["Q13955"], "sub_label": "أحمد المديني", "obj_label": ["العربية"], "country": ["Q1028"], "size": 33000, "uuid": "P1412_general_ARAB_REGION_773"}
+{"sub_uri": "Q2836240", "obj_uri": ["Q13955"], "sub_label": "علي حداد", "obj_label": ["العربية"], "country": ["Q262"], "size": 32950, "uuid": "P1412_general_ARAB_REGION_774"}
+{"sub_uri": "Q1690771", "obj_uri": ["Q188"], "sub_label": "جوان العمري", "obj_label": ["الألمانية"], "country": ["Q822"], "size": 32932, "uuid": "P1412_general_ARAB_REGION_775"}
+{"sub_uri": "Q2414493", "obj_uri": ["Q13955"], "sub_label": "وائل الشهري", "obj_label": ["العربية"], "country": ["Q851"], "size": 32917, "uuid": "P1412_general_ARAB_REGION_776"}
+{"sub_uri": "Q108549231", "obj_uri": ["Q13955"], "sub_label": "مصطفى عبيد", "obj_label": ["العربية"], "country": ["Q79"], "size": 32914, "uuid": "P1412_general_ARAB_REGION_777"}
+{"sub_uri": "Q27654948", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عبد الله حمدوك", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q1049"], "size": 32826, "uuid": "P1412_general_ARAB_REGION_778"}
+{"sub_uri": "Q2444800", "obj_uri": ["Q13955", "Q25448"], "sub_label": "عبد المجيد الظلمي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 32810, "uuid": "P1412_general_ARAB_REGION_779"}
+{"sub_uri": "Q2827620", "obj_uri": ["Q13955"], "sub_label": "أحمد معنينو", "obj_label": ["العربية"], "country": ["Q1028"], "size": 32767, "uuid": "P1412_general_ARAB_REGION_780"}
+{"sub_uri": "Q1982200", "obj_uri": ["Q13955"], "sub_label": "عائض القرني", "obj_label": ["العربية"], "country": ["Q851"], "size": 32729, "uuid": "P1412_general_ARAB_REGION_781"}
+{"sub_uri": "Q1750619", "obj_uri": ["Q13955", "Q1860", "Q29919"], "sub_label": "فاروق الباز", "obj_label": ["العربية", "الإنجليزية", "لهجة مصرية"], "country": ["Q79"], "size": 32725, "uuid": "P1412_general_ARAB_REGION_782"}
+{"sub_uri": "Q380173", "obj_uri": ["Q150"], "sub_label": "مهدي النفطي", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 32719, "uuid": "P1412_general_ARAB_REGION_783"}
+{"sub_uri": "Q16119232", "obj_uri": ["Q13955"], "sub_label": "أحمد بهاء الدين", "obj_label": ["العربية"], "country": ["Q79"], "size": 32718, "uuid": "P1412_general_ARAB_REGION_784"}
+{"sub_uri": "Q12230095", "obj_uri": ["Q13955"], "sub_label": "فاروق الفيشاوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 32691, "uuid": "P1412_general_ARAB_REGION_785"}
+{"sub_uri": "Q1753931", "obj_uri": ["Q13955", "Q150"], "sub_label": "عبد الله العروي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028"], "size": 32689, "uuid": "P1412_general_ARAB_REGION_786"}
+{"sub_uri": "Q5997864", "obj_uri": ["Q13955", "Q29919"], "sub_label": "إلهام شاهين", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 32668, "uuid": "P1412_general_ARAB_REGION_787"}
+{"sub_uri": "Q456482", "obj_uri": ["Q13955", "Q25448"], "sub_label": "يوسف العربي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 32663, "uuid": "P1412_general_ARAB_REGION_788"}
+{"sub_uri": "Q3327484", "obj_uri": ["Q13955"], "sub_label": "محمد العريفي", "obj_label": ["العربية"], "country": ["Q851"], "size": 32638, "uuid": "P1412_general_ARAB_REGION_789"}
+{"sub_uri": "Q2895310", "obj_uri": ["Q13955", "Q1860"], "sub_label": "غادة الكرمي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 32615, "uuid": "P1412_general_ARAB_REGION_790"}
+{"sub_uri": "Q3138954", "obj_uri": ["Q13955", "Q150"], "sub_label": "حسين زياني", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 32606, "uuid": "P1412_general_ARAB_REGION_791"}
+{"sub_uri": "Q26202388", "obj_uri": ["Q150", "Q1860", "Q652", "Q7850"], "sub_label": "قدور نعيمي", "obj_label": ["الفرنسية", "الإنجليزية", "الإيطالية", "الصينية"], "country": ["Q262"], "size": 32516, "uuid": "P1412_general_ARAB_REGION_792"}
+{"sub_uri": "Q108620104", "obj_uri": ["Q13955"], "sub_label": "شحاتة صيام", "obj_label": ["العربية"], "country": ["Q79"], "size": 32503, "uuid": "P1412_general_ARAB_REGION_793"}
+{"sub_uri": "Q926820", "obj_uri": ["Q13955"], "sub_label": "سامي عنان", "obj_label": ["العربية"], "country": ["Q79"], "size": 32499, "uuid": "P1412_general_ARAB_REGION_794"}
+{"sub_uri": "Q12252048", "obj_uri": ["Q13955", "Q1860"], "sub_label": "يوسف الشريف", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 32449, "uuid": "P1412_general_ARAB_REGION_795"}
+{"sub_uri": "Q6809376", "obj_uri": ["Q13955"], "sub_label": "مهدي زفان", "obj_label": ["العربية"], "country": ["Q262"], "size": 32428, "uuid": "P1412_general_ARAB_REGION_796"}
+{"sub_uri": "Q15975932", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمد عبد المجيد إسماعيل", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 32398, "uuid": "P1412_general_ARAB_REGION_797"}
+{"sub_uri": "Q47035332", "obj_uri": ["Q13955", "Q1860"], "sub_label": "سماح جبر", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 32304, "uuid": "P1412_general_ARAB_REGION_798"}
+{"sub_uri": "Q981918", "obj_uri": ["Q13955"], "sub_label": "حسين سالم", "obj_label": ["العربية"], "country": ["Q79"], "size": 32299, "uuid": "P1412_general_ARAB_REGION_799"}
+{"sub_uri": "Q85872487", "obj_uri": ["Q13955"], "sub_label": "حنان عبد الرحيم الأحمدي", "obj_label": ["العربية"], "country": ["Q851"], "size": 32297, "uuid": "P1412_general_ARAB_REGION_800"}
+{"sub_uri": "Q50280749", "obj_uri": ["Q13955"], "sub_label": "عصام أبو زكي", "obj_label": ["العربية"], "country": ["Q822"], "size": 32297, "uuid": "P1412_general_ARAB_REGION_801"}
+{"sub_uri": "Q113246", "obj_uri": ["Q13955", "Q25448"], "sub_label": "كريم الأحمدي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 32295, "uuid": "P1412_general_ARAB_REGION_802"}
+{"sub_uri": "Q316395", "obj_uri": ["Q150"], "sub_label": "رفيق جبور", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 32290, "uuid": "P1412_general_ARAB_REGION_803"}
+{"sub_uri": "Q1398150", "obj_uri": ["Q13955"], "sub_label": "محمد بن صالح العثيمين", "obj_label": ["العربية"], "country": ["Q851"], "size": 32279, "uuid": "P1412_general_ARAB_REGION_804"}
+{"sub_uri": "Q149760", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد صبحي منصور", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 32277, "uuid": "P1412_general_ARAB_REGION_805"}
+{"sub_uri": "Q107338113", "obj_uri": ["Q13955"], "sub_label": "نزار بنات", "obj_label": ["العربية"], "country": ["Q219060"], "size": 32230, "uuid": "P1412_general_ARAB_REGION_806"}
+{"sub_uri": "Q12227911", "obj_uri": ["Q13955"], "sub_label": "علي الطنطاوي", "obj_label": ["العربية"], "country": ["Q851", "Q858"], "size": 32171, "uuid": "P1412_general_ARAB_REGION_807"}
+{"sub_uri": "Q80568438", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "جودت حيدر", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q822"], "size": 32165, "uuid": "P1412_general_ARAB_REGION_808"}
+{"sub_uri": "Q108566681", "obj_uri": ["Q13955"], "sub_label": "أحمد بهاء الدين شعبان", "obj_label": ["العربية"], "country": ["Q79"], "size": 32165, "uuid": "P1412_general_ARAB_REGION_809"}
+{"sub_uri": "Q7405426", "obj_uri": ["Q13955"], "sub_label": "سلمان العودة", "obj_label": ["العربية"], "country": ["Q851"], "size": 32146, "uuid": "P1412_general_ARAB_REGION_810"}
+{"sub_uri": "Q444230", "obj_uri": ["Q13955"], "sub_label": "روزا ياسين حسن", "obj_label": ["العربية"], "country": ["Q858"], "size": 32133, "uuid": "P1412_general_ARAB_REGION_811"}
+{"sub_uri": "Q288793", "obj_uri": ["Q1860"], "sub_label": "غادة عامر", "obj_label": ["الإنجليزية"], "country": ["Q79"], "size": 32094, "uuid": "P1412_general_ARAB_REGION_812"}
+{"sub_uri": "Q4868142", "obj_uri": ["Q13955", "Q56232", "Q9168"], "sub_label": "باسم الكربلائي", "obj_label": ["العربية", "لهجة عراقية", "الفارسية"], "country": ["Q796"], "size": 32088, "uuid": "P1412_general_ARAB_REGION_813"}
+{"sub_uri": "Q16012037", "obj_uri": ["Q13955", "Q1516642", "Q56593"], "sub_label": "توفيق يوسف عواد", "obj_label": ["العربية", "لهجة لبنانية", "لهجات شامية"], "country": ["Q822"], "size": 32061, "uuid": "P1412_general_ARAB_REGION_814"}
+{"sub_uri": "Q387953", "obj_uri": ["Q13955"], "sub_label": "الصادق المهدي", "obj_label": ["العربية"], "country": ["Q1049"], "size": 32058, "uuid": "P1412_general_ARAB_REGION_815"}
+{"sub_uri": "Q106352810", "obj_uri": ["Q13955", "Q1860"], "sub_label": "للي كرنيك", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 32008, "uuid": "P1412_general_ARAB_REGION_816"}
+{"sub_uri": "Q3155690", "obj_uri": ["Q13955", "Q150"], "sub_label": "يسعد ربراب", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 31988, "uuid": "P1412_general_ARAB_REGION_817"}
+{"sub_uri": "Q741850", "obj_uri": ["Q13955", "Q150"], "sub_label": "الشاب فضيل", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028", "Q262"], "size": 31977, "uuid": "P1412_general_ARAB_REGION_818"}
+{"sub_uri": "Q108541194", "obj_uri": ["Q13955"], "sub_label": "إيهاب عبد الحميد", "obj_label": ["العربية"], "country": ["Q79"], "size": 31960, "uuid": "P1412_general_ARAB_REGION_819"}
+{"sub_uri": "Q6406143", "obj_uri": ["Q13955"], "sub_label": "علي الوردي", "obj_label": ["العربية"], "country": ["Q796"], "size": 31938, "uuid": "P1412_general_ARAB_REGION_820"}
+{"sub_uri": "Q12208208", "obj_uri": ["Q13955"], "sub_label": "حسين سرحان", "obj_label": ["العربية"], "country": ["Q851"], "size": 31928, "uuid": "P1412_general_ARAB_REGION_821"}
+{"sub_uri": "Q193043", "obj_uri": ["Q13955", "Q150"], "sub_label": "فرحات عباس", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 31918, "uuid": "P1412_general_ARAB_REGION_822"}
+{"sub_uri": "Q107355643", "obj_uri": ["Q13955", "Q150"], "sub_label": "فتحية دبش", "obj_label": ["العربية", "الفرنسية"], "country": ["Q948"], "size": 31891, "uuid": "P1412_general_ARAB_REGION_823"}
+{"sub_uri": "Q3793274", "obj_uri": ["Q13955", "Q150"], "sub_label": "أحمد بن الصديق الغماري", "obj_label": ["العربية", "الفرنسية"], "country": ["Q1028"], "size": 31837, "uuid": "P1412_general_ARAB_REGION_824"}
+{"sub_uri": "Q1770896", "obj_uri": ["Q13955"], "sub_label": "فضيلة الشابي", "obj_label": ["العربية"], "country": ["Q948"], "size": 31807, "uuid": "P1412_general_ARAB_REGION_825"}
+{"sub_uri": "Q206433", "obj_uri": ["Q150"], "sub_label": "كريم بلقاسم", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 31795, "uuid": "P1412_general_ARAB_REGION_826"}
+{"sub_uri": "Q57158407", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عمرو جمال", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q805"], "size": 31794, "uuid": "P1412_general_ARAB_REGION_827"}
+{"sub_uri": "Q166458", "obj_uri": ["Q13955"], "sub_label": "جمال البنا", "obj_label": ["العربية"], "country": ["Q79"], "size": 31773, "uuid": "P1412_general_ARAB_REGION_828"}
+{"sub_uri": "Q12178750", "obj_uri": ["Q13955"], "sub_label": "أحمد عبد الغفور عطار", "obj_label": ["العربية"], "country": ["Q851"], "size": 31756, "uuid": "P1412_general_ARAB_REGION_829"}
+{"sub_uri": "Q22069434", "obj_uri": ["Q13955", "Q36368"], "sub_label": "رقية حسن محمد", "obj_label": ["العربية", "الكردية"], "country": ["Q858"], "size": 31751, "uuid": "P1412_general_ARAB_REGION_830"}
+{"sub_uri": "Q2325242", "obj_uri": ["Q13955"], "sub_label": "شكيب خليل", "obj_label": ["العربية"], "country": ["Q262"], "size": 31743, "uuid": "P1412_general_ARAB_REGION_831"}
+{"sub_uri": "Q19577829", "obj_uri": ["Q13955", "Q1860", "Q29919"], "sub_label": "ميار شريف", "obj_label": ["العربية", "الإنجليزية", "لهجة مصرية"], "country": ["Q79"], "size": 31739, "uuid": "P1412_general_ARAB_REGION_832"}
+{"sub_uri": "Q108661604", "obj_uri": ["Q13955"], "sub_label": "مصطفى حسين باهي", "obj_label": ["العربية"], "country": ["Q79"], "size": 31659, "uuid": "P1412_general_ARAB_REGION_833"}
+{"sub_uri": "Q12250776", "obj_uri": ["Q13955", "Q1860"], "sub_label": "وجيه غالي", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 31652, "uuid": "P1412_general_ARAB_REGION_834"}
+{"sub_uri": "Q4664585", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن الشهبندر", "obj_label": ["العربية"], "country": ["Q858"], "size": 31648, "uuid": "P1412_general_ARAB_REGION_835"}
+{"sub_uri": "Q2894558", "obj_uri": ["Q1860"], "sub_label": "سوزان أبو الهوى", "obj_label": ["الإنجليزية"], "country": ["Q219060"], "size": 31647, "uuid": "P1412_general_ARAB_REGION_836"}
+{"sub_uri": "Q18173445", "obj_uri": ["Q150"], "sub_label": "ليلى السليماني", "obj_label": ["الفرنسية"], "country": ["Q1028"], "size": 31640, "uuid": "P1412_general_ARAB_REGION_837"}
+{"sub_uri": "Q25391268", "obj_uri": ["Q13955", "Q150", "Q1860", "Q652"], "sub_label": "يوسف الشاهد", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "الإيطالية"], "country": ["Q948"], "size": 31603, "uuid": "P1412_general_ARAB_REGION_838"}
+{"sub_uri": "Q23017706", "obj_uri": ["Q1860"], "sub_label": "روزيلا أيان", "obj_label": ["الإنجليزية"], "country": ["Q1028"], "size": 31562, "uuid": "P1412_general_ARAB_REGION_839"}
+{"sub_uri": "Q7015528", "obj_uri": ["Q13955"], "sub_label": "دلال أبو آمنة", "obj_label": ["العربية"], "country": ["Q219060"], "size": 31556, "uuid": "P1412_general_ARAB_REGION_840"}
+{"sub_uri": "Q12224793", "obj_uri": ["Q13955", "Q7918"], "sub_label": "عز الدين المناصرة", "obj_label": ["العربية", "البلغارية"], "country": ["Q219060"], "size": 31537, "uuid": "P1412_general_ARAB_REGION_841"}
+{"sub_uri": "Q551779", "obj_uri": ["Q150"], "sub_label": "ألبير قصيري", "obj_label": ["الفرنسية"], "country": ["Q79"], "size": 31527, "uuid": "P1412_general_ARAB_REGION_842"}
+{"sub_uri": "Q47499729", "obj_uri": ["Q13955", "Q150", "Q1860", "Q25448", "Q35853"], "sub_label": "معمر بالطيب", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 31474, "uuid": "P1412_general_ARAB_REGION_843"}
+{"sub_uri": "Q12251509", "obj_uri": ["Q13955"], "sub_label": "ياسر المصري", "obj_label": ["العربية"], "country": ["Q810"], "size": 31441, "uuid": "P1412_general_ARAB_REGION_844"}
+{"sub_uri": "Q3327503", "obj_uri": ["Q13955"], "sub_label": "محمد علوي المالكي", "obj_label": ["العربية"], "country": ["Q851"], "size": 31440, "uuid": "P1412_general_ARAB_REGION_845"}
+{"sub_uri": "Q107362531", "obj_uri": ["Q13955"], "sub_label": "رغدة حسن", "obj_label": ["العربية"], "country": ["Q858"], "size": 31422, "uuid": "P1412_general_ARAB_REGION_846"}
+{"sub_uri": "Q2821766", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أبو بكر الجامعي", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q1028"], "size": 31403, "uuid": "P1412_general_ARAB_REGION_847"}
+{"sub_uri": "Q440316", "obj_uri": ["Q13955", "Q150", "Q1860", "Q256", "Q34090", "Q9129"], "sub_label": "إيتيل عدنان", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "التركية", "الأتراكية", "اليونانية"], "country": ["Q822"], "size": 31397, "uuid": "P1412_general_ARAB_REGION_848"}
+{"sub_uri": "Q2571610", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محمود الجوهري", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 31365, "uuid": "P1412_general_ARAB_REGION_849"}
+{"sub_uri": "Q6081187", "obj_uri": ["Q1860"], "sub_label": "إيزيس (دي سي كومكس)", "obj_label": ["الإنجليزية"], "country": ["Q79"], "size": 31363, "uuid": "P1412_general_ARAB_REGION_850"}
+{"sub_uri": "Q6127532", "obj_uri": ["Q13955", "Q25448"], "sub_label": "جمال بن صديق", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 31355, "uuid": "P1412_general_ARAB_REGION_851"}
+{"sub_uri": "Q12228258", "obj_uri": ["Q13955"], "sub_label": "عماد عبد السلام رؤوف", "obj_label": ["العربية"], "country": ["Q796"], "size": 31339, "uuid": "P1412_general_ARAB_REGION_852"}
+{"sub_uri": "Q2827590", "obj_uri": ["Q150"], "sub_label": "أحمد جدي", "obj_label": ["الفرنسية"], "country": ["Q948"], "size": 31337, "uuid": "P1412_general_ARAB_REGION_853"}
+{"sub_uri": "Q6892907", "obj_uri": ["Q13955"], "sub_label": "محمد الشارخ", "obj_label": ["العربية"], "country": ["Q817"], "size": 31273, "uuid": "P1412_general_ARAB_REGION_854"}
+{"sub_uri": "Q1276579", "obj_uri": ["Q1860"], "sub_label": "مايكل أنسارا", "obj_label": ["الإنجليزية"], "country": ["Q858"], "size": 31262, "uuid": "P1412_general_ARAB_REGION_855"}
+{"sub_uri": "Q2843157", "obj_uri": ["Q13955"], "sub_label": "عامر هاشمي", "obj_label": ["العربية"], "country": ["Q262"], "size": 31251, "uuid": "P1412_general_ARAB_REGION_856"}
+{"sub_uri": "Q2820946", "obj_uri": ["Q13955"], "sub_label": "عبد الحليم محمود", "obj_label": ["العربية"], "country": ["Q79"], "size": 31238, "uuid": "P1412_general_ARAB_REGION_857"}
+{"sub_uri": "Q108667596", "obj_uri": ["Q13955"], "sub_label": "سناء أبو شرار", "obj_label": ["العربية"], "country": ["Q219060"], "size": 31227, "uuid": "P1412_general_ARAB_REGION_858"}
+{"sub_uri": "Q20385277", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "أحمد العسيري", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q851"], "size": 31219, "uuid": "P1412_general_ARAB_REGION_859"}
+{"sub_uri": "Q21592509", "obj_uri": ["Q13955"], "sub_label": "وليد الجفالي", "obj_label": ["العربية"], "country": ["Q851"], "size": 31218, "uuid": "P1412_general_ARAB_REGION_860"}
+{"sub_uri": "Q6932837", "obj_uri": ["Q13955"], "sub_label": "محمد بن عبد الكريم العيسى", "obj_label": ["العربية"], "country": ["Q851"], "size": 31182, "uuid": "P1412_general_ARAB_REGION_861"}
+{"sub_uri": "Q43033007", "obj_uri": ["Q13955", "Q1860"], "sub_label": "عباس السيد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 31146, "uuid": "P1412_general_ARAB_REGION_862"}
+{"sub_uri": "Q7244308", "obj_uri": ["Q1860"], "sub_label": "زيد بن رعد بن زيد", "obj_label": ["الإنجليزية"], "country": ["Q810"], "size": 31142, "uuid": "P1412_general_ARAB_REGION_863"}
+{"sub_uri": "Q16235966", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عمرو وردة", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 31137, "uuid": "P1412_general_ARAB_REGION_864"}
+{"sub_uri": "Q3032782", "obj_uri": ["Q13955"], "sub_label": "جمال زيتوني", "obj_label": ["العربية"], "country": ["Q262"], "size": 31124, "uuid": "P1412_general_ARAB_REGION_865"}
+{"sub_uri": "Q4119354", "obj_uri": ["Q13955"], "sub_label": "فكري باشا أباظة", "obj_label": ["العربية"], "country": ["Q79"], "size": 31115, "uuid": "P1412_general_ARAB_REGION_866"}
+{"sub_uri": "Q1638114", "obj_uri": ["Q13955", "Q1860", "Q25448", "Q34152"], "sub_label": "عزيز أخنوش", "obj_label": ["العربية", "الإنجليزية", "اللغات الأمازيغية", "اللغة الأمازيغية"], "country": ["Q1028"], "size": 31090, "uuid": "P1412_general_ARAB_REGION_867"}
+{"sub_uri": "Q6473903", "obj_uri": ["Q13955"], "sub_label": "ليلى العثمان", "obj_label": ["العربية"], "country": ["Q817"], "size": 31023, "uuid": "P1412_general_ARAB_REGION_868"}
+{"sub_uri": "Q7409260", "obj_uri": ["Q13955"], "sub_label": "سميرة عزيز", "obj_label": ["العربية"], "country": ["Q851"], "size": 31014, "uuid": "P1412_general_ARAB_REGION_869"}
+{"sub_uri": "Q12249758", "obj_uri": ["Q13955", "Q1860"], "sub_label": "هبة رؤوف عزت", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 30991, "uuid": "P1412_general_ARAB_REGION_870"}
+{"sub_uri": "Q542171", "obj_uri": ["Q13955"], "sub_label": "باية", "obj_label": ["العربية"], "country": ["Q262"], "size": 30931, "uuid": "P1412_general_ARAB_REGION_871"}
+{"sub_uri": "Q313496", "obj_uri": ["Q13955", "Q150"], "sub_label": "نور الدين مرسلي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 30890, "uuid": "P1412_general_ARAB_REGION_872"}
+{"sub_uri": "Q3336604", "obj_uri": ["Q150", "Q1860"], "sub_label": "نتالي حنظل", "obj_label": ["الفرنسية", "الإنجليزية"], "country": ["Q219060"], "size": 30843, "uuid": "P1412_general_ARAB_REGION_873"}
+{"sub_uri": "Q336347", "obj_uri": ["Q13955"], "sub_label": "قصي صدام حسين", "obj_label": ["العربية"], "country": ["Q796"], "size": 30830, "uuid": "P1412_general_ARAB_REGION_874"}
+{"sub_uri": "Q104122153", "obj_uri": ["Q13955", "Q9288"], "sub_label": "عبد الحميد الرجوب", "obj_label": ["العربية", "العبرية"], "country": ["Q219060", "Q810"], "size": 30796, "uuid": "P1412_general_ARAB_REGION_875"}
+{"sub_uri": "Q22909192", "obj_uri": ["Q13955", "Q1860", "Q2143071", "Q56593"], "sub_label": "مارام سوسلى", "obj_label": ["العربية", "الإنجليزية", "العربية السورية", "لهجات شامية"], "country": ["Q858"], "size": 30786, "uuid": "P1412_general_ARAB_REGION_876"}
+{"sub_uri": "Q12216722", "obj_uri": ["Q13955"], "sub_label": "سليمان فليح السبيعي", "obj_label": ["العربية"], "country": ["Q817", "Q851"], "size": 30785, "uuid": "P1412_general_ARAB_REGION_877"}
+{"sub_uri": "Q96573383", "obj_uri": ["Q13955"], "sub_label": "أحمد محمد عبيد", "obj_label": ["العربية"], "country": ["Q878"], "size": 30748, "uuid": "P1412_general_ARAB_REGION_878"}
+{"sub_uri": "Q2903315", "obj_uri": ["Q13955"], "sub_label": "طه جابر العلواني", "obj_label": ["العربية"], "country": ["Q796"], "size": 30730, "uuid": "P1412_general_ARAB_REGION_879"}
+{"sub_uri": "Q1745687", "obj_uri": ["Q13955"], "sub_label": "يوسف العظمة", "obj_label": ["العربية"], "country": ["Q858"], "size": 30720, "uuid": "P1412_general_ARAB_REGION_880"}
+{"sub_uri": "Q401491", "obj_uri": ["Q13955"], "sub_label": "أحمد شوقي", "obj_label": ["العربية"], "country": ["Q79"], "size": 30697, "uuid": "P1412_general_ARAB_REGION_881"}
+{"sub_uri": "Q149067", "obj_uri": ["Q1860", "Q652", "Q7737"], "sub_label": "بافيل دوروف", "obj_label": ["الإنجليزية", "الإيطالية", "الروسية"], "country": ["Q878"], "size": 30634, "uuid": "P1412_general_ARAB_REGION_882"}
+{"sub_uri": "Q12249079", "obj_uri": ["Q13955"], "sub_label": "نواف بن فيصل بن فهد آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 30633, "uuid": "P1412_general_ARAB_REGION_883"}
+{"sub_uri": "Q86932669", "obj_uri": ["Q1860"], "sub_label": "هادي غندور", "obj_label": ["الإنجليزية"], "country": ["Q822"], "size": 30628, "uuid": "P1412_general_ARAB_REGION_884"}
+{"sub_uri": "Q3192364", "obj_uri": ["Q150"], "sub_label": "كمال داود", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 30626, "uuid": "P1412_general_ARAB_REGION_885"}
+{"sub_uri": "Q2843466", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أمير عبد الحميد", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 30615, "uuid": "P1412_general_ARAB_REGION_886"}
+{"sub_uri": "Q390272", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "هشام جعيط", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q948"], "size": 30565, "uuid": "P1412_general_ARAB_REGION_887"}
+{"sub_uri": "Q6853096", "obj_uri": ["Q13955", "Q29919"], "sub_label": "محب الدين الخطيب", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79", "Q858"], "size": 30552, "uuid": "P1412_general_ARAB_REGION_888"}
+{"sub_uri": "Q107308888", "obj_uri": ["Q13955"], "sub_label": "عطيات فتحي أبو العينين", "obj_label": ["العربية"], "country": ["Q79"], "size": 30546, "uuid": "P1412_general_ARAB_REGION_889"}
+{"sub_uri": "Q152378", "obj_uri": ["Q13955"], "sub_label": "إسماعيل هنية", "obj_label": ["العربية"], "country": ["Q219060"], "size": 30524, "uuid": "P1412_general_ARAB_REGION_890"}
+{"sub_uri": "Q16123020", "obj_uri": ["Q13955"], "sub_label": "بخروش بن علاس", "obj_label": ["العربية"], "country": ["Q851"], "size": 30511, "uuid": "P1412_general_ARAB_REGION_891"}
+{"sub_uri": "Q2918967", "obj_uri": ["Q13955"], "sub_label": "تحية كاريوكا", "obj_label": ["العربية"], "country": ["Q79"], "size": 30503, "uuid": "P1412_general_ARAB_REGION_892"}
+{"sub_uri": "Q4165854", "obj_uri": ["Q13955"], "sub_label": "ميرفت أمين", "obj_label": ["العربية"], "country": ["Q79"], "size": 30488, "uuid": "P1412_general_ARAB_REGION_893"}
+{"sub_uri": "Q2847257", "obj_uri": ["Q150"], "sub_label": "أندريه بيركوف", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 30473, "uuid": "P1412_general_ARAB_REGION_894"}
+{"sub_uri": "Q725337", "obj_uri": ["Q150", "Q1860"], "sub_label": "محمد سيفاوي", "obj_label": ["الفرنسية", "الإنجليزية"], "country": ["Q262"], "size": 30443, "uuid": "P1412_general_ARAB_REGION_895"}
+{"sub_uri": "Q48973353", "obj_uri": ["Q13955", "Q29919"], "sub_label": "بسمة عبد العزيز", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 30439, "uuid": "P1412_general_ARAB_REGION_896"}
+{"sub_uri": "Q12239770", "obj_uri": ["Q13955"], "sub_label": "محمد السيد سعيد", "obj_label": ["العربية"], "country": ["Q79"], "size": 30437, "uuid": "P1412_general_ARAB_REGION_897"}
+{"sub_uri": "Q108535741", "obj_uri": ["Q13955"], "sub_label": "مصطفى ماهر", "obj_label": ["العربية"], "country": ["Q79"], "size": 30403, "uuid": "P1412_general_ARAB_REGION_898"}
+{"sub_uri": "Q3470835", "obj_uri": ["Q13955"], "sub_label": "سمير فرنجية", "obj_label": ["العربية"], "country": ["Q822"], "size": 30400, "uuid": "P1412_general_ARAB_REGION_899"}
+{"sub_uri": "Q6812538", "obj_uri": ["Q13955"], "sub_label": "عبد الباسط عبد المعطي", "obj_label": ["العربية"], "country": ["Q79"], "size": 30307, "uuid": "P1412_general_ARAB_REGION_900"}
+{"sub_uri": "Q107615933", "obj_uri": ["Q13955"], "sub_label": "أدهم العبودي", "obj_label": ["العربية"], "country": ["Q79"], "size": 30276, "uuid": "P1412_general_ARAB_REGION_901"}
+{"sub_uri": "Q20065264", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أشرف بن شرقي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 30268, "uuid": "P1412_general_ARAB_REGION_902"}
+{"sub_uri": "Q3032881", "obj_uri": ["Q150"], "sub_label": "جميلة بن حبيب", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 30261, "uuid": "P1412_general_ARAB_REGION_903"}
+{"sub_uri": "Q4117193", "obj_uri": ["Q13955"], "sub_label": "منصور الجمري", "obj_label": ["العربية"], "country": ["Q398"], "size": 30259, "uuid": "P1412_general_ARAB_REGION_904"}
+{"sub_uri": "Q3945419", "obj_uri": ["Q13955"], "sub_label": "سالم الدوسري", "obj_label": ["العربية"], "country": ["Q851"], "size": 30259, "uuid": "P1412_general_ARAB_REGION_905"}
+{"sub_uri": "Q314722", "obj_uri": ["Q13955"], "sub_label": "رفيق حليش", "obj_label": ["العربية"], "country": ["Q262"], "size": 30258, "uuid": "P1412_general_ARAB_REGION_906"}
+{"sub_uri": "Q168663", "obj_uri": ["Q13955", "Q150"], "sub_label": "ياسف سعدي", "obj_label": ["العربية", "الفرنسية"], "country": ["Q262"], "size": 30231, "uuid": "P1412_general_ARAB_REGION_907"}
+{"sub_uri": "Q11047654", "obj_uri": ["Q13955"], "sub_label": "سعيد صالح", "obj_label": ["العربية"], "country": ["Q79"], "size": 30194, "uuid": "P1412_general_ARAB_REGION_908"}
+{"sub_uri": "Q983159", "obj_uri": ["Q150"], "sub_label": "كاد ميراد", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 30183, "uuid": "P1412_general_ARAB_REGION_909"}
+{"sub_uri": "Q12222098", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عائشة راتب", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 30144, "uuid": "P1412_general_ARAB_REGION_910"}
+{"sub_uri": "Q2900120", "obj_uri": ["Q13955"], "sub_label": "مردوخ أبو سرور", "obj_label": ["العربية"], "country": ["Q1028"], "size": 30140, "uuid": "P1412_general_ARAB_REGION_911"}
+{"sub_uri": "Q107117833", "obj_uri": ["Q13955"], "sub_label": "محمود بقشيش", "obj_label": ["العربية"], "country": ["Q79"], "size": 30132, "uuid": "P1412_general_ARAB_REGION_912"}
+{"sub_uri": "Q60474193", "obj_uri": ["Q13955", "Q1860"], "sub_label": "رهف القنون", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q851"], "size": 30116, "uuid": "P1412_general_ARAB_REGION_913"}
+{"sub_uri": "Q17007872", "obj_uri": ["Q13955"], "sub_label": "قضية ندى الأهدل", "obj_label": ["العربية"], "country": ["Q805"], "size": 30096, "uuid": "P1412_general_ARAB_REGION_914"}
+{"sub_uri": "Q56281603", "obj_uri": ["Q13955", "Q150", "Q1860"], "sub_label": "فوزية (مغنية)", "obj_label": ["العربية", "الفرنسية", "الإنجليزية"], "country": ["Q1028"], "size": 30066, "uuid": "P1412_general_ARAB_REGION_915"}
+{"sub_uri": "Q3918522", "obj_uri": ["Q13955"], "sub_label": "مهدي عاكف", "obj_label": ["العربية"], "country": ["Q79"], "size": 30057, "uuid": "P1412_general_ARAB_REGION_916"}
+{"sub_uri": "Q2484011", "obj_uri": ["Q150"], "sub_label": "فوزي غلام", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 30048, "uuid": "P1412_general_ARAB_REGION_917"}
+{"sub_uri": "Q36757674", "obj_uri": ["Q13955"], "sub_label": "محمود الورفلي", "obj_label": ["العربية"], "country": ["Q1016"], "size": 30046, "uuid": "P1412_general_ARAB_REGION_918"}
+{"sub_uri": "Q970044", "obj_uri": ["Q13955"], "sub_label": "سمر بدوي", "obj_label": ["العربية"], "country": ["Q851"], "size": 30033, "uuid": "P1412_general_ARAB_REGION_919"}
+{"sub_uri": "Q894939", "obj_uri": ["Q13955", "Q25448"], "sub_label": "بوحمارة", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 30001, "uuid": "P1412_general_ARAB_REGION_920"}
+{"sub_uri": "Q54670295", "obj_uri": ["Q13955"], "sub_label": "رزان النجار", "obj_label": ["العربية"], "country": ["Q219060"], "size": 29968, "uuid": "P1412_general_ARAB_REGION_921"}
+{"sub_uri": "Q868919", "obj_uri": ["Q13955"], "sub_label": "حسين السبع", "obj_label": ["العربية"], "country": ["Q851"], "size": 29963, "uuid": "P1412_general_ARAB_REGION_922"}
+{"sub_uri": "Q68097779", "obj_uri": ["Q13955", "Q1860"], "sub_label": "أسامة السيد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 29955, "uuid": "P1412_general_ARAB_REGION_923"}
+{"sub_uri": "Q13532014", "obj_uri": ["Q13955"], "sub_label": "أحمد جمال", "obj_label": ["العربية"], "country": ["Q79"], "size": 29931, "uuid": "P1412_general_ARAB_REGION_924"}
+{"sub_uri": "Q542197", "obj_uri": ["Q13955"], "sub_label": "هنادي زكريا هندي", "obj_label": ["العربية"], "country": ["Q851"], "size": 29930, "uuid": "P1412_general_ARAB_REGION_925"}
+{"sub_uri": "Q27892157", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أيمن برقوق", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 29913, "uuid": "P1412_general_ARAB_REGION_926"}
+{"sub_uri": "Q18600381", "obj_uri": ["Q13955"], "sub_label": "سعوديون", "obj_label": ["العربية"], "country": ["Q851"], "size": 29907, "uuid": "P1412_general_ARAB_REGION_927"}
+{"sub_uri": "Q12235829", "obj_uri": ["Q13955", "Q1860"], "sub_label": "كلود صالحاني", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q79"], "size": 29885, "uuid": "P1412_general_ARAB_REGION_928"}
+{"sub_uri": "Q4120512", "obj_uri": ["Q13955"], "sub_label": "سلاف فواخرجي", "obj_label": ["العربية"], "country": ["Q858"], "size": 29876, "uuid": "P1412_general_ARAB_REGION_929"}
+{"sub_uri": "Q3896121", "obj_uri": ["Q13955"], "sub_label": "أبو تراب الظاهري", "obj_label": ["العربية"], "country": ["Q851"], "size": 29850, "uuid": "P1412_general_ARAB_REGION_930"}
+{"sub_uri": "Q3039492", "obj_uri": ["Q13955", "Q25448"], "sub_label": "إدريس الضحاك", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 29841, "uuid": "P1412_general_ARAB_REGION_931"}
+{"sub_uri": "Q3438372", "obj_uri": ["Q150"], "sub_label": "رودولف سعادة", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 29815, "uuid": "P1412_general_ARAB_REGION_932"}
+{"sub_uri": "Q7278668", "obj_uri": ["Q13955"], "sub_label": "رابح صقر", "obj_label": ["العربية"], "country": ["Q851"], "size": 29808, "uuid": "P1412_general_ARAB_REGION_933"}
+{"sub_uri": "Q496165", "obj_uri": ["Q13955"], "sub_label": "محمود المسعدي", "obj_label": ["العربية"], "country": ["Q948"], "size": 29803, "uuid": "P1412_general_ARAB_REGION_934"}
+{"sub_uri": "Q107309427", "obj_uri": ["Q13955"], "sub_label": "الأزهر زناد", "obj_label": ["العربية"], "country": ["Q948"], "size": 29800, "uuid": "P1412_general_ARAB_REGION_935"}
+{"sub_uri": "Q1337578", "obj_uri": ["Q13955"], "sub_label": "إبراهيم هنانو", "obj_label": ["العربية"], "country": ["Q858"], "size": 29800, "uuid": "P1412_general_ARAB_REGION_936"}
+{"sub_uri": "Q6880732", "obj_uri": ["Q13955"], "sub_label": "ناهض حتر", "obj_label": ["العربية"], "country": ["Q810"], "size": 29795, "uuid": "P1412_general_ARAB_REGION_937"}
+{"sub_uri": "Q2690428", "obj_uri": ["Q150"], "sub_label": "زياد تقي الدين", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 29792, "uuid": "P1412_general_ARAB_REGION_938"}
+{"sub_uri": "Q45917", "obj_uri": ["Q13955"], "sub_label": "محمد حسين طنطاوي", "obj_label": ["العربية"], "country": ["Q79"], "size": 29782, "uuid": "P1412_general_ARAB_REGION_939"}
+{"sub_uri": "Q10995100", "obj_uri": ["Q13955"], "sub_label": "يحيى الفخراني", "obj_label": ["العربية"], "country": ["Q79"], "size": 29732, "uuid": "P1412_general_ARAB_REGION_940"}
+{"sub_uri": "Q6762719", "obj_uri": ["Q13955", "Q1860"], "sub_label": "حسام الخطيب", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060", "Q858"], "size": 29700, "uuid": "P1412_general_ARAB_REGION_941"}
+{"sub_uri": "Q76866", "obj_uri": ["Q188"], "sub_label": "محمد زيدان", "obj_label": ["الألمانية"], "country": ["Q79"], "size": 29696, "uuid": "P1412_general_ARAB_REGION_942"}
+{"sub_uri": "Q5521555", "obj_uri": ["Q13955", "Q29919"], "sub_label": "جنزير", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29510, "uuid": "P1412_general_ARAB_REGION_943"}
+{"sub_uri": "Q431320", "obj_uri": ["Q5146"], "sub_label": "فرانسيلودو سانتوس", "obj_label": ["البرتغالية"], "country": ["Q948"], "size": 29499, "uuid": "P1412_general_ARAB_REGION_944"}
+{"sub_uri": "Q7689265", "obj_uri": ["Q13955"], "sub_label": "توفيق الربيعة", "obj_label": ["العربية"], "country": ["Q851"], "size": 29495, "uuid": "P1412_general_ARAB_REGION_945"}
+{"sub_uri": "Q240575", "obj_uri": ["Q1860"], "sub_label": "نور الحسين", "obj_label": ["الإنجليزية"], "country": ["Q810"], "size": 29492, "uuid": "P1412_general_ARAB_REGION_946"}
+{"sub_uri": "Q20393533", "obj_uri": ["Q13955", "Q29919"], "sub_label": "حسن طوبار", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29484, "uuid": "P1412_general_ARAB_REGION_947"}
+{"sub_uri": "Q3675589", "obj_uri": ["Q36368"], "sub_label": "مروان حلبجاي", "obj_label": ["الكردية"], "country": ["Q796"], "size": 29470, "uuid": "P1412_general_ARAB_REGION_948"}
+{"sub_uri": "Q17007230", "obj_uri": ["Q1860"], "sub_label": "نديم كرم", "obj_label": ["الإنجليزية"], "country": ["Q822"], "size": 29463, "uuid": "P1412_general_ARAB_REGION_949"}
+{"sub_uri": "Q30131862", "obj_uri": ["Q13955", "Q150", "Q1860", "Q25448", "Q35853"], "sub_label": "رشيد دريش", "obj_label": ["العربية", "الفرنسية", "الإنجليزية", "اللغات الأمازيغية", "القبائلية"], "country": ["Q262"], "size": 29460, "uuid": "P1412_general_ARAB_REGION_950"}
+{"sub_uri": "Q307940", "obj_uri": ["Q13955"], "sub_label": "عبد القادر فرحاوي", "obj_label": ["العربية"], "country": ["Q262"], "size": 29450, "uuid": "P1412_general_ARAB_REGION_951"}
+{"sub_uri": "Q311165", "obj_uri": ["Q1860"], "sub_label": "ألكسندر صديق", "obj_label": ["الإنجليزية"], "country": ["Q1049"], "size": 29427, "uuid": "P1412_general_ARAB_REGION_952"}
+{"sub_uri": "Q47519718", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هشام سلام", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29423, "uuid": "P1412_general_ARAB_REGION_953"}
+{"sub_uri": "Q4120159", "obj_uri": ["Q13955"], "sub_label": "معز مسعود", "obj_label": ["العربية"], "country": ["Q79"], "size": 29383, "uuid": "P1412_general_ARAB_REGION_954"}
+{"sub_uri": "Q4116141", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عبد السلام النابلسي", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29382, "uuid": "P1412_general_ARAB_REGION_955"}
+{"sub_uri": "Q26703622", "obj_uri": ["Q13955", "Q29919"], "sub_label": "بهي الدين حسن", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29375, "uuid": "P1412_general_ARAB_REGION_956"}
+{"sub_uri": "Q12208555", "obj_uri": ["Q13955", "Q25448"], "sub_label": "هاشم مستور", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 29365, "uuid": "P1412_general_ARAB_REGION_957"}
+{"sub_uri": "Q307814", "obj_uri": ["Q13955"], "sub_label": "عبد الرحمن عزام", "obj_label": ["العربية"], "country": ["Q79"], "size": 29349, "uuid": "P1412_general_ARAB_REGION_958"}
+{"sub_uri": "Q5643934", "obj_uri": ["Q13955"], "sub_label": "حمد الجاسر", "obj_label": ["العربية"], "country": ["Q851"], "size": 29330, "uuid": "P1412_general_ARAB_REGION_959"}
+{"sub_uri": "Q12181418", "obj_uri": ["Q13955"], "sub_label": "أيمن العتوم", "obj_label": ["العربية"], "country": ["Q810"], "size": 29321, "uuid": "P1412_general_ARAB_REGION_960"}
+{"sub_uri": "Q12236294", "obj_uri": ["Q13955"], "sub_label": "كندة علوش", "obj_label": ["العربية"], "country": ["Q858"], "size": 29318, "uuid": "P1412_general_ARAB_REGION_961"}
+{"sub_uri": "Q359381", "obj_uri": ["Q13955"], "sub_label": "عدنان خاشقجي", "obj_label": ["العربية"], "country": ["Q851"], "size": 29305, "uuid": "P1412_general_ARAB_REGION_962"}
+{"sub_uri": "Q62458783", "obj_uri": ["Q13955"], "sub_label": "عزة فهمي", "obj_label": ["العربية"], "country": ["Q79"], "size": 29296, "uuid": "P1412_general_ARAB_REGION_963"}
+{"sub_uri": "Q712690", "obj_uri": ["Q13955"], "sub_label": "طلال بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 29286, "uuid": "P1412_general_ARAB_REGION_964"}
+{"sub_uri": "Q6831628", "obj_uri": ["Q13955"], "sub_label": "إبراهيم الأسطى عمر", "obj_label": ["العربية"], "country": ["Q1016"], "size": 29271, "uuid": "P1412_general_ARAB_REGION_965"}
+{"sub_uri": "Q2221519", "obj_uri": ["Q13955"], "sub_label": "نزار نيوف", "obj_label": ["العربية"], "country": ["Q858"], "size": 29271, "uuid": "P1412_general_ARAB_REGION_966"}
+{"sub_uri": "Q5438811", "obj_uri": ["Q13955"], "sub_label": "فواز حداد", "obj_label": ["العربية"], "country": ["Q858"], "size": 29251, "uuid": "P1412_general_ARAB_REGION_967"}
+{"sub_uri": "Q3148855", "obj_uri": ["Q150"], "sub_label": "عماد لحود", "obj_label": ["الفرنسية"], "country": ["Q822"], "size": 29250, "uuid": "P1412_general_ARAB_REGION_968"}
+{"sub_uri": "Q1572537", "obj_uri": ["Q13955", "Q29919"], "sub_label": "أحمد ماهر باشا", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29232, "uuid": "P1412_general_ARAB_REGION_969"}
+{"sub_uri": "Q67015966", "obj_uri": ["Q13955", "Q29919"], "sub_label": "طلعت شاهين", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29215, "uuid": "P1412_general_ARAB_REGION_970"}
+{"sub_uri": "Q2820977", "obj_uri": ["Q13955"], "sub_label": "عبد العزيز بنعبد الله", "obj_label": ["العربية"], "country": ["Q1028"], "size": 29213, "uuid": "P1412_general_ARAB_REGION_971"}
+{"sub_uri": "Q3029103", "obj_uri": ["Q13955"], "sub_label": "صابر الرباعي", "obj_label": ["العربية"], "country": ["Q948"], "size": 29210, "uuid": "P1412_general_ARAB_REGION_972"}
+{"sub_uri": "Q312179", "obj_uri": ["Q13955"], "sub_label": "محمد الدعيع", "obj_label": ["العربية"], "country": ["Q851"], "size": 29208, "uuid": "P1412_general_ARAB_REGION_973"}
+{"sub_uri": "Q1850464", "obj_uri": ["Q13955", "Q29919"], "sub_label": "شيكابالا", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29203, "uuid": "P1412_general_ARAB_REGION_974"}
+{"sub_uri": "Q459838", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هادية حسني", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 29155, "uuid": "P1412_general_ARAB_REGION_975"}
+{"sub_uri": "Q716409", "obj_uri": ["Q13955"], "sub_label": "خلفان إبراهيم", "obj_label": ["العربية"], "country": ["Q846"], "size": 29083, "uuid": "P1412_general_ARAB_REGION_976"}
+{"sub_uri": "Q4121779", "obj_uri": ["Q13955", "Q36368"], "sub_label": "بختيار علي", "obj_label": ["العربية", "الكردية"], "country": ["Q796"], "size": 29065, "uuid": "P1412_general_ARAB_REGION_977"}
+{"sub_uri": "Q3281834", "obj_uri": ["Q13955", "Q1860", "Q188"], "sub_label": "مالك جندلي", "obj_label": ["العربية", "الإنجليزية", "الألمانية"], "country": ["Q858"], "size": 29051, "uuid": "P1412_general_ARAB_REGION_978"}
+{"sub_uri": "Q733091", "obj_uri": ["Q150", "Q2606511"], "sub_label": "وجدي معوض", "obj_label": ["الفرنسية", "الشعب اللبناني"], "country": ["Q822"], "size": 29043, "uuid": "P1412_general_ARAB_REGION_979"}
+{"sub_uri": "Q18386149", "obj_uri": ["Q13955"], "sub_label": "سهيل الحسن", "obj_label": ["العربية"], "country": ["Q858"], "size": 29032, "uuid": "P1412_general_ARAB_REGION_980"}
+{"sub_uri": "Q20127674", "obj_uri": ["Q13955", "Q1860"], "sub_label": "خليل الدباغ", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q796"], "size": 29015, "uuid": "P1412_general_ARAB_REGION_981"}
+{"sub_uri": "Q6809430", "obj_uri": ["Q13955", "Q29919"], "sub_label": "صلاح الدين سلطان", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 28998, "uuid": "P1412_general_ARAB_REGION_982"}
+{"sub_uri": "Q24298163", "obj_uri": ["Q13955"], "sub_label": "لمياء معطوب", "obj_label": ["العربية"], "country": ["Q262"], "size": 28972, "uuid": "P1412_general_ARAB_REGION_983"}
+{"sub_uri": "Q4119552", "obj_uri": ["Q13955"], "sub_label": "جمال حمدان", "obj_label": ["العربية"], "country": ["Q79"], "size": 28931, "uuid": "P1412_general_ARAB_REGION_984"}
+{"sub_uri": "Q307132", "obj_uri": ["Q13955", "Q25448"], "sub_label": "عبد العزيز بن الحسن", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 28917, "uuid": "P1412_general_ARAB_REGION_985"}
+{"sub_uri": "Q12198100", "obj_uri": ["Q13955"], "sub_label": "برهان الدين العبوشي", "obj_label": ["العربية"], "country": ["Q219060"], "size": 28880, "uuid": "P1412_general_ARAB_REGION_986"}
+{"sub_uri": "Q2845479", "obj_uri": ["Q13955", "Q25448"], "sub_label": "أنس الزنيتي", "obj_label": ["العربية", "اللغات الأمازيغية"], "country": ["Q1028"], "size": 28862, "uuid": "P1412_general_ARAB_REGION_987"}
+{"sub_uri": "Q110890404", "obj_uri": ["Q13955", "Q1860"], "sub_label": "سعادة الجلاد", "obj_label": ["العربية", "الإنجليزية"], "country": ["Q219060"], "size": 28861, "uuid": "P1412_general_ARAB_REGION_988"}
+{"sub_uri": "Q107348013", "obj_uri": ["Q13955"], "sub_label": "فيصل الأحمر", "obj_label": ["العربية"], "country": ["Q262"], "size": 28861, "uuid": "P1412_general_ARAB_REGION_989"}
+{"sub_uri": "Q314688", "obj_uri": ["Q13955"], "sub_label": "الشاذلي بن جديد", "obj_label": ["العربية"], "country": ["Q262"], "size": 28851, "uuid": "P1412_general_ARAB_REGION_990"}
+{"sub_uri": "Q3571334", "obj_uri": ["Q13955", "Q28602", "Q33538"], "sub_label": "يحيى بن عدي", "obj_label": ["العربية", "الآرامية", "السريانية"], "country": ["Q858"], "size": 28847, "uuid": "P1412_general_ARAB_REGION_991"}
+{"sub_uri": "Q4119524", "obj_uri": ["Q13955", "Q29919"], "sub_label": "هبة سليم", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 28846, "uuid": "P1412_general_ARAB_REGION_992"}
+{"sub_uri": "Q280412", "obj_uri": ["Q13955", "Q29919"], "sub_label": "عماد الدين إسماعيل", "obj_label": ["العربية", "لهجة مصرية"], "country": ["Q79"], "size": 28845, "uuid": "P1412_general_ARAB_REGION_993"}
+{"sub_uri": "Q12240469", "obj_uri": ["Q13955"], "sub_label": "محمد راتب النابلسي", "obj_label": ["العربية"], "country": ["Q858"], "size": 28838, "uuid": "P1412_general_ARAB_REGION_994"}
+{"sub_uri": "Q4116187", "obj_uri": ["Q13955"], "sub_label": "فهد المولد", "obj_label": ["العربية"], "country": ["Q851"], "size": 28822, "uuid": "P1412_general_ARAB_REGION_995"}
+{"sub_uri": "Q4732", "obj_uri": ["Q150"], "sub_label": "ياسين بنزية", "obj_label": ["الفرنسية"], "country": ["Q262"], "size": 28806, "uuid": "P1412_general_ARAB_REGION_996"}
+{"sub_uri": "Q401645", "obj_uri": ["Q13955"], "sub_label": "أحمد بن عبد العزيز آل سعود", "obj_label": ["العربية"], "country": ["Q851"], "size": 28787, "uuid": "P1412_general_ARAB_REGION_997"}
+{"sub_uri": "Q1827333", "obj_uri": ["Q13955"], "sub_label": "شذى حسون", "obj_label": ["العربية"], "country": ["Q1028", "Q796"], "size": 28748, "uuid": "P1412_general_ARAB_REGION_998"}
+{"sub_uri": "Q108535748", "obj_uri": ["Q13955"], "sub_label": "رياض القاضي", "obj_label": ["العربية"], "country": ["Q796"], "size": 28716, "uuid": "P1412_general_ARAB_REGION_999"}

@@ -1,0 +1,1000 @@
+{"sub_label": "Beyoncé", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Ricky Martin", "obj_label": ["SME", "Columbia", "Sony Music", "Sony Música", "Columbia Records", "SM", "Sony Music Entertainment"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Taylor Swift", "obj_label": ["Republic", "Big Machine Records", "Big Machine Records, LLC", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Lady Gaga", "obj_label": ["Interscope Records", "Interscope", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music", "UMG"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Dolores O'Riordan", "obj_label": ["Interscope", "Sanctuary Records", "Interscope Records", "Sanctuary Records Group Ltd."], "gpt4_choices": ["bmg"]}
+{"sub_label": "Johnny Hallyday", "obj_label": ["Koninklijke Philips Electronics N.V.", "PHILIPS", "Warner", "Warner Music Group Corp.", "Philips Electronics N.V.", "Royal Philips Electronics", "Firma Philips, Eindhoven", "Koninklijke Philips NV", "Firma Philips", "Warner Music Group", "WMG", "Philips", "Warner Music", "Royal Philips"], "gpt4_choices": ["warner music france"]}
+{"sub_label": "Drake", "obj_label": ["Ca$h Money Records", "Cash Money Records", "Republic", "Republic Records", "Universal Motown Records", "Young Money Entertainment"], "gpt4_choices": ["young money entertainment"]}
+{"sub_label": "Carrie Underwood", "obj_label": ["Arista Records", "Arista"], "gpt4_choices": ["arista nashville"]}
+{"sub_label": "Mariah Carey", "obj_label": ["Columbia", "Def Jam", "Sony Music", "UMG Recordings, Inc.", "def jam records", "Columbia Records", "LC 33687", "Virgin Records", "Island", "Universal Music Group", "Epic Records", "LC 0407", "LC 00407", "Island Records", "Universal Music", "Epic", "UMG", "Def Jam Recordings"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Frank Sinatra", "obj_label": ["RCA", "RCA Records, Inc.", "LC 00305", "Columbia", "Capitol", "Columbia Records", "LC 0305", "Capitol Records", "Warner Bros. Records", "Philips Records", "Reprise Records"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "David Bowie", "obj_label": ["RCA", "Parlophone UK", "LC 0171", "Decca", "The Decca Record Company Limited", "Virgin Records", "Parlophone Records", "The Decca Record Company", "Decca Record Company", "Decca Records", "EMI Music", "BMG Music Publishing", "Bertelsmann Music Group Company", "EMI Records", "EMI Records, Ltd.", "Parlophone Communications", "EMI Records Limited", "BMG", "Mercury Music Group", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "DECCA", "Parlophone", "EMI", "LC 00171", "Mercury Records", "RCA Records, Inc.", "Columbia Records", "LC 33687", "BMG Pictures", "Bertelsmann Music Group"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Britney Spears", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Jive", "Sony Music"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Brian Wilson", "obj_label": ["LC 03228", "Sire", "LC 3228", "Capitol", "Sire Records", "Capitol Records", "Reprise Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Michael Jackson", "obj_label": ["Motown", "Motown Records", "Sony Music", "UMG Recordings, Inc.", "Sony BMG", "Universal Music Group", "Epic Records", "Epic", "Universal Music", "UMG", "Sony BMG Music Entertainment"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Prince Michael Jackson I", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["prince michael jackson i is not signed to any record label."]}
+{"sub_label": "Cher", "obj_label": ["LC 00121", "LC 0121", "LC 7266", "MCA Records", "Warner Music", "Atlantic Records", "Warner", "Warner Music Group Corp.", "Geffen Records", "Columbia", "Atco Records", "LC 07266", "Atlantic", "LC 01056", "LC 1056", "Columbia Records", "Warner Music Group", "Warner Bros. Records", "WMG"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Katy Perry", "obj_label": ["The Island Def Jam Music Group", "Columbia", "Capitol", "Columbia Records", "LC 0407", "Capitol Records", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Eminem", "obj_label": ["Aftermath", "Interscope Records", "Interscope", "Aftermath Entertainment", "Shady Records"], "gpt4_choices": ["aftermath entertainment"]}
+{"sub_label": "Selena Gomez", "obj_label": ["LC 10025", "Interscope Records", "Walt Disney Records", "WDR", "Interscope", "Hollywood Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Adele", "obj_label": ["LC 5667", "SME", "Columbia", "Sony Music", "LC 05667", "Columbia Records", "Sony Música", "SM", "Sony Music Entertainment", "XL Recordings"], "gpt4_choices": ["xl recordings"]}
+{"sub_label": "Jennifer Lopez", "obj_label": ["Capitol", "LC 0407", "LC 00407", "Epic Records", "Capitol Records", "Island Records", "Epic", "Island"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Paul McCartney", "obj_label": ["Parlophone UK", "Columbia", "Apple Records", "Capitol", "LC 1074", "LC 01074", "Columbia Records", "Parlophone Records", "Capitol Records", "Parlophone Communications", "Parlophone"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Bob Dylan", "obj_label": ["Asylum Records", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Anggun", "obj_label": ["SME", "Warner", "Warner Music Group Corp.", "Sony Music", "UMG Recordings, Inc.", "Sony Música", "SM", "Warner Music Group", "Universal Music Group", "Sony Music Entertainment", "WMG", "Universal Music", "Warner Music", "UMG"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Justin Bieber", "obj_label": ["def jam records", "LC 0407", "LC 00407", "Island Records", "Def Jam", "Def Jam Recordings", "Island"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Nicki Minaj", "obj_label": ["Ca$h Money Records", "Cash Money Records", "Republic", "Republic Records", "Young Money Entertainment"], "gpt4_choices": ["young money entertainment"]}
+{"sub_label": "Whitney Houston", "obj_label": ["RCA", "Arista Records", "RCA Records, Inc.", "Arista"], "gpt4_choices": ["arista records"]}
+{"sub_label": "Ariana Grande", "obj_label": ["UMG Recordings, Inc.", "Republic", "Universal Music Group", "Republic Records", "Universal Music", "UMG"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Avril Lavigne", "obj_label": ["RCA", "Elektra", "RCA Records, Inc.", "LC 00192", "Arista Records", "Arista", "LC 0192", "Epic Records", "Epic", "Elektra Records"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Bruno Mars", "obj_label": ["LC 00121", "Elektra", "Motown", "Motown Records", "LC 00192", "Atlantic", "LC 0121", "LC 0192", "Universal Motown Records", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Usher", "obj_label": ["LaFace Records", "La Face Records", "LaFace", "Arista Records", "La Face", "Arista"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Christina Aguilera", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Elvis Presley", "obj_label": ["Sun Records", "Sun"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "John Cena", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "XXXTentacion", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["empire distribution"]}
+{"sub_label": "Madonna", "obj_label": ["LC 03228", "Interscope Records", "Live Nation Entertainment, Inc.", "Live Nation Entertainment", "Sire", "LC 3228", "Warner", "Warner Music Group Corp.", "Interscope", "Warner Music Group", "Sire Records", "Warner Bros. Records", "WMG", "Warner Music"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Prince", "obj_label": ["EMI Music", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Arista Records", "Sony Music", "UMG Recordings, Inc.", "Columbia Records", "Arista", "EMI Records", "Universal Music Group", "EMI Records, Ltd.", "Warner Bros. Records", "EMI Records Limited", "Universal Music", "UMG", "EMI"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Paris Hilton", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["cash money records"]}
+{"sub_label": "Muhammad Ali", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["muhammad ali was not signed to any record label as he was a professional boxer, not a musician."]}
+{"sub_label": "Justin Timberlake", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Zomba Group of Companies", "Jive", "Zomba Books"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Kendrick Lamar", "obj_label": ["Aftermath", "Interscope Records", "Top Dawg Entertainment", "Interscope", "Aftermath Entertainment"], "gpt4_choices": ["top dawg entertainment"]}
+{"sub_label": "Alicia Keys", "obj_label": ["RCA", "J Records", "RCA Records, Inc.", "Columbia", "Arista Records", "Columbia Records", "Arista"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Kanye West", "obj_label": ["GOOD Music", "def jam records", "GOOD Music, Inc.", "idk", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["good music"]}
+{"sub_label": "Chris Cornell", "obj_label": ["Sub Pop", "Sub Pop Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Elton John", "obj_label": ["LC 00305", "LC 7266", "MCA Records", "A&M (record label)", "Def Jam Recordings", "A and M Records", "A&M Records", "LC 1626", "The Rocket Record Company", "A & M Records", "LC 00407", "Philips Records", "Island", "Rocket Records", "Geffen Records", "A&M/Interscope Records", "Mercury Music Group", "LC 07266", "LC 01056", "LC 03053", "def jam records", "LC 1056", "LC 0305", "LC 0407", "Island Records", "Mercury Records", "A&M Recordings", "LC 3053", "Chrysalis Records", "Def Jam"], "gpt4_choices": ["rocket records"]}
+{"sub_label": "Marilyn Manson", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["loma vista recordings"]}
+{"sub_label": "Céline Dion", "obj_label": ["Epic", "Epic Records", "Columbia", "Columbia Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Bryan Adams", "obj_label": ["LC 0171", "Polydor Records", "Polydor", "Decca", "The Decca Record Company Limited", "The Decca Record Company", "A&M (record label)", "Decca Record Company", "A and M Records", "Decca Records", "A&M Records", "A & M Records", "Universal Music Group", "Universal Music Division Polydor", "UMG", "A&M/Interscope Records", "DECCA", "UMG Recordings, Inc.", "Verve Records", "LC 00171", "A&M Recordings", "Universal Music"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "R. Kelly", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Jive"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Miley Cyrus", "obj_label": ["RCA", "RCA Records, Inc.", "LC 10025", "Walt Disney Records", "Columbia", "WDR", "Columbia Records", "Hollywood Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "The Weeknd", "obj_label": ["XO Records", "XO, Inc.", "Republic", "Republic Records", "XO"], "gpt4_choices": ["xo"]}
+{"sub_label": "Kid Cudi", "obj_label": ["GOOD Music", "Republic", "GOOD Music, Inc.", "Republic Records", "Universal Motown Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Ed Sheeran", "obj_label": ["LC 00121", "Elektra", "LC 00192", "Atlantic", "Asylum Records", "LC 0121", "LC 0192", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Naya Rivera", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Janet Jackson", "obj_label": ["A and M Records", "Mercury Records", "A&M/Interscope Records", "Mercury Music Group", "A&M Records", "A&M Recordings", "LC 33687", "Virgin Records", "A & M Records", "LC 0407", "LC 00407", "Island Records", "A&M (record label)", "Island"], "gpt4_choices": ["rhythm nation"]}
+{"sub_label": "Brigitte Bardot", "obj_label": ["LC 00305", "MGM Records", "LC 0305", "M-G-M Records", "Philips Records", "MGM"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Shaquille O'Neal", "obj_label": ["Jive Records", "A and M Records", "A&M/Interscope Records", "BAA", "Interscope Records", "Nat'l Basketball Assn.", "A&M Records", "Jive", "A&M Recordings", "Interscope", "A & M Records", "National Basketball Assn.", "NBA", "Basketball Association of America", "A&M (record label)", "National Basketball Association"], "gpt4_choices": ["jive records"]}
+{"sub_label": "Kylie Minogue", "obj_label": ["Parlophone UK", "LC 7266", "Parlophone Records", "Warner Music", "BMG Music Publishing", "EMI Music", "Bertelsmann Music Group Company", "Capitol", "Warner", "Warner Music Group Corp.", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "Parlophone Communications", "BMG", "Geffen Records", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 07266", "Parlophone", "EMI", "Astralwerks", "Warner Music Group", "Warner Bros. Records", "WMG", "BMG Pictures", "Bertelsmann Music Group"], "gpt4_choices": ["bmg rights management"]}
+{"sub_label": "Demi Lovato", "obj_label": ["Hollywood Records", "LC 10025", "Walt Disney Records", "WDR", "Republic", "LC 0407", "Roc Nation", "LC 00407", "Republic Records", "Island Records", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Billie Eilish", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Carly Simon", "obj_label": ["Elektra", "LC 00192", "Arista Records", "Arista", "LC 0192", "Epic Records", "Warner Bros. Records", "Epic", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Scarlett Johansson", "obj_label": ["Atco Records"], "gpt4_choices": ["atco records"]}
+{"sub_label": "\"Weird Al\" Yankovic", "obj_label": ["Capitol", "RCA", "RCA Records, Inc.", "Capitol Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Adam Lambert", "obj_label": ["RCA", "RCA Records, Inc.", "Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["empire distribution"]}
+{"sub_label": "Tina Arena", "obj_label": ["EMI Music", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Columbia Records", "Sony BMG", "EMI Records", "Epic Records", "EMI Records, Ltd.", "EMI Records Limited", "Epic", "EMI", "Sony BMG Music Entertainment"], "gpt4_choices": ["emi"]}
+{"sub_label": "Amy Winehouse", "obj_label": ["UMG Recordings, Inc.", "Republic", "Universal Music Group", "LC 0407", "LC 00407", "Republic Records", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Van Morrison", "obj_label": ["LC 0171", "Mercury Records", "Decca Records", "Mercury Music Group", "Decca", "The Decca Record Company Limited", "Warner Bros. Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["exile productions ltd."]}
+{"sub_label": "Dua Lipa", "obj_label": ["Warner Records Inc.", "Warner Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Harry Styles", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "MC Hammer", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "Death Row", "Death Row Records", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "Tha Row", "Reprise Records", "EMI"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Linda Ronstadt", "obj_label": ["Capitol", "Capitol Records", "Asylum Records"], "gpt4_choices": ["asylum records"]}
+{"sub_label": "Woody Allen", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Mick Jagger", "obj_label": ["UMG", "UMG Recordings, Inc.", "LC 33687", "Virgin Records", "Universal Music Group", "Universal Music", "ABKCO Records", "ABKCO"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Lana Del Rey", "obj_label": ["Polydor Records", "Interscope Records", "Interscope", "Polydor", "Universal Music Division Polydor"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Laura Pausini", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Eric Clapton", "obj_label": ["Polydor Records", "Atco Records", "Polydor", "Universal Music Division Polydor", "Warner Bros. Records"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "M.I.A.", "obj_label": ["LC 5667", "Polydor Records", "Mercury Records", "Interscope Records", "Mercury Music Group", "Virgin EMI Records", "Virgin", "LC 05667", "Interscope", "Polydor", "Universal Music Division Polydor", "Roc Nation", "XL Recordings"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Yoko Ono", "obj_label": ["Polydor Records", "Geffen Records", "Astralwerks", "Apple Records", "LC 07266", "LC 1074", "LC 01074", "Polydor", "LC 7266", "Universal Music Division Polydor"], "gpt4_choices": ["apple records"]}
+{"sub_label": "50 Cent", "obj_label": ["Aftermath", "Interscope Records", "G-Unit Records", "Columbia", "Capitol", "Interscope", "G Unit", "Columbia Records", "Aftermath Entertainment", "Shady Records", "Capitol Records"], "gpt4_choices": ["shady records"]}
+{"sub_label": "Bruce Springsteen", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Lauryn Hill", "obj_label": ["Columbia", "Columbia Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Halsey", "obj_label": ["Virgin EMI Records", "Capitol", "Astralwerks", "Virgin", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Jerry Cantrell", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Peter Cetera", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Snoop Dogg", "obj_label": ["RCA", "RCA Records, Inc.", "Geffen Records", "Interscope Records", "Death Row", "Priority Records", "LC 07266", "Interscope", "Death Row Records", "LC 7266", "Tha Row"], "gpt4_choices": ["doggystyle records"]}
+{"sub_label": "Anthony Perkins", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["anthony perkins was an actor and not known to be signed to any record label."]}
+{"sub_label": "Frank Zappa", "obj_label": ["Verve Records", "Warner Bros. Records"], "gpt4_choices": ["barking pumpkin records"]}
+{"sub_label": "Olivia Newton-John", "obj_label": ["LC 1056", "MCA Records", "LC 01056"], "gpt4_choices": ["emi"]}
+{"sub_label": "Franco Battiato", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Morrissey", "obj_label": ["LC 0171", "Decca Records", "Decca Record Company", "Decca", "The Decca Record Company Limited", "LC 0407", "LC 00407", "The Decca Record Company", "Island Records", "DECCA", "LC 00171", "Island"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Kelly Clarkson", "obj_label": ["LC 00121", "RCA", "RCA Records, Inc.", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Lucio Dalla", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Phil Collins", "obj_label": ["LC 00121", "LC 10025", "Walt Disney Records", "Warner Records", "WDR", "Atlantic", "LC 0121", "LC 33687", "Virgin Records", "Rhino Entertainment", "Warner Records Inc.", "Atlantic Records", "Rhino Entertainment Company"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Chris Brown", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Jive"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Alice Cooper", "obj_label": ["LC 00121", "Warner Records", "Warner", "Warner Music Group Corp.", "Atlantic", "LC 0121", "LC 01056", "LC 1056", "Warner Music Group", "MCA Records", "Epic Records", "Warner Records Inc.", "WMG", "Epic", "Warner Music", "Atlantic Records"], "gpt4_choices": ["ear music"]}
+{"sub_label": "Kate Bush", "obj_label": ["Harvest", "Columbia", "Columbia Records", "LC 01305", "Harvest Records"], "gpt4_choices": ["emi"]}
+{"sub_label": "Jimi Hendrix", "obj_label": ["MCA", "Reprise Records", "MCA, Inc.", "MCA Inc."], "gpt4_choices": ["experience hendrix, l.l.c."]}
+{"sub_label": "Cardi B", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Shakira", "obj_label": ["RCA", "RCA Records, Inc.", "Live Nation Entertainment, Inc.", "Live Nation Entertainment", "Columbia", "Sony Music", "Columbia Records", "Sony BMG", "Epic Records", "Epic", "Sony BMG Music Entertainment"], "gpt4_choices": ["sony music\n"]}
+{"sub_label": "Lindsey Stirling", "obj_label": ["Capitol", "Concord Records", "Capitol Records", "LC 15025"], "gpt4_choices": ["bmg rights management"]}
+{"sub_label": "Leonard Cohen", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Dr. Dre", "obj_label": ["Aftermath", "Interscope Records", "Death Row", "Priority Records", "Interscope", "Death Row Records", "Aftermath Entertainment", "Ruthless Records", "Tha Row"], "gpt4_choices": ["aftermath entertainment"]}
+{"sub_label": "John Mayer", "obj_label": ["Columbia", "Arista Records", "Sony Music", "Columbia Records", "Arista", "Sony BMG", "Sony BMG Music Entertainment"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Sam Fender", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "John Lennon", "obj_label": ["Parlophone UK", "Polydor Records", "Polydor", "LC 7266", "Parlophone Records", "EMI Music", "Apple Records", "Capitol", "LC 01074", "EMI Records", "EMI Records, Ltd.", "Universal Music Division Polydor", "Capitol Records", "EMI Records Limited", "Parlophone Communications", "Geffen Records", "Vee Jay Records", "EMI Records Ltd.", "Atco Records", "EMI (United Kingdom)", "LC 07266", "Vee-Jay Records", "Parlophone", "EMI", "LC 1074"], "gpt4_choices": ["apple records"]}
+{"sub_label": "J Cole", "obj_label": ["Interscope Records", "Columbia", "Sony Music", "Interscope", "Columbia Records", "Roc Nation"], "gpt4_choices": ["dreamville records"]}
+{"sub_label": "Tina Turner", "obj_label": ["Parlophone UK", "Capitol", "Parlophone Records", "Parlophone Communications", "Capitol Records", "Parlophone"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Brian May", "obj_label": ["Parlophone UK", "Parlophone Records", "Parlophone Communications", "Hollywood Records", "Parlophone"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Jackie Evancho", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Jay-Z", "obj_label": ["LC 00121", "Atlantic", "LC 0121", "Roc Nation", "idk", "Atlantic Records"], "gpt4_choices": ["roc nation"]}
+{"sub_label": "Neil Young", "obj_label": ["LC 00121", "Geffen Records", "Warner", "Atco Records", "Motown", "Warner Music Group Corp.", "LC 07266", "Motown Records", "Atlantic", "LC 0121", "Warner Music Group", "Warner Music", "LC 7266", "Warner Bros. Records", "WMG", "Reprise Records", "Atlantic Records"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Monty Python", "obj_label": ["Arista Records", "Arista"], "gpt4_choices": ["charisma records"]}
+{"sub_label": "T.I.", "obj_label": ["Columbia", "Grand Hustle Records", "Columbia Records"], "gpt4_choices": ["grand hustle records"]}
+{"sub_label": "Adriano Celentano", "obj_label": ["Ariola", "UMG Recordings, Inc.", "Sony BMG", "Universal Music Group", "Bertelsmann Schallplattenring", "Ariola Records", "Sony BMG Music Entertainment", "Universal Music", "UMG", "BMG Ariola", "Ariola Express"], "gpt4_choices": ["clan celentano"]}
+{"sub_label": "Doja Cat", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["kemosabe records"]}
+{"sub_label": "Jerry Lewis", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["jerry lewis was not known to be signed to a specific record label as he was primarily a comedian and actor, not a musician."]}
+{"sub_label": "George Harrison", "obj_label": ["Parlophone UK", "Vee Jay Records", "Apple Records", "Capitol", "LC 1074", "LC 01074", "Vee-Jay Records", "Parlophone Records", "Capitol Records", "Parlophone Communications", "Parlophone"], "gpt4_choices": ["apple records"]}
+{"sub_label": "Dave Mustaine", "obj_label": ["Roadrunner Records", "Sanctuary Records", "Sanctuary Records Group Ltd.", "Capitol", "Capitol Records"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Tupac Shakur", "obj_label": ["Interscope Records", "Death Row", "Interscope", "Death Row Records", "Tha Row"], "gpt4_choices": ["death row records"]}
+{"sub_label": "Mandy Moore", "obj_label": ["LC 03228", "EMI Music", "Sire", "LC 3228", "EMI (United Kingdom)", "Sony Music", "EMI Records Ltd.", "Sire Records", "EMI Records", "Epic Records", "EMI Records, Ltd.", "EMI Records Limited", "Epic", "EMI"], "gpt4_choices": ["verve forecast records"]}
+{"sub_label": "Grimes", "obj_label": ["4AD"], "gpt4_choices": ["4ad"]}
+{"sub_label": "Adam Levine", "obj_label": ["A and M Records", "J Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["222 records"]}
+{"sub_label": "Andrea Bocelli", "obj_label": ["LC 0171", "Decca Records", "DECCA", "UMG Recordings, Inc.", "Decca", "The Decca Record Company Limited", "Universal Music Group", "PolyGram", "The Decca Record Company", "Universal Music", "UMG", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Freddie Mercury", "obj_label": ["Parlophone UK", "Polydor Records", "EMI Music", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Polydor", "Columbia Records", "EMI Records", "EMI Records, Ltd.", "Universal Music Division Polydor", "Parlophone Records", "EMI Records Limited", "Parlophone Communications", "Hollywood Records", "Parlophone", "EMI"], "gpt4_choices": ["emi records"]}
+{"sub_label": "George Martin", "obj_label": ["Parlophone UK", "Apple Records", "Capitol", "LC 1074", "LC 01074", "Parlophone Records", "Capitol Records", "Parlophone Communications", "Parlophone"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Serge Gainsbourg", "obj_label": ["LC 00305", "Mercury Records", "Mercury Music Group", "LC 0305", "Philips Records"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Lil Wayne", "obj_label": ["Ca$h Money Records", "UMG Recordings, Inc.", "Cash Money Records", "Republic", "Universal Music Group", "Republic Records", "Universal Music", "UMG", "Young Money Entertainment"], "gpt4_choices": ["young money entertainment"]}
+{"sub_label": "Robin Williams", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["robin williams was an actor and comedian, not a recording artist, so he was not signed to any record label."]}
+{"sub_label": "Melanie C", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["red girl records"]}
+{"sub_label": "Selena", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "EMI"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Gwen Stefani", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Haley Reinhart", "obj_label": ["Concord Records", "LC 15025"], "gpt4_choices": ["concord records"]}
+{"sub_label": "Aaliyah", "obj_label": ["Jive Records", "LC 00121", "Jive", "Atlantic", "LC 0121", "LC 33687", "Virgin Records", "Atlantic Records"], "gpt4_choices": ["blackground records"]}
+{"sub_label": "Irene Dunne", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["irene dunne was an actress and singer active from the 1930s to the 1960s, but there's no specific record label associated with her."]}
+{"sub_label": "Seth MacFarlane", "obj_label": ["Republic", "Verve Records", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Alexa Bliss", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["alexa bliss is not signed to any record label as she is a professional wrestler, not a musician."]}
+{"sub_label": "James Brown", "obj_label": ["KING RECORDS", "Polydor Records", "LC 00305", "Polydor", "LC 19403", "LC 0305", "Universal Music Division Polydor", "Kingrecords", "Philips Records", "King Records"], "gpt4_choices": ["king records"]}
+{"sub_label": "Little Richard", "obj_label": ["Mercury Records", "Mercury Music Group", "Vee Jay Records", "Apple Records", "LC 1074", "LC 01074", "Vee-Jay Records", "Reprise Records"], "gpt4_choices": ["specialty records"]}
+{"sub_label": "Karlheinz Stockhausen", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Hilary Duff", "obj_label": ["LC 10025", "DMG", "Walt Disney Records", "Disney Music Group", "WDR", "Buena Vista Music Group", "Walt Disney Music Publishing", "Hollywood Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Janis Joplin", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Albert Schweitzer", "obj_label": ["LC 00305", "Columbia", "Columbia Records", "LC 0305", "Philips Records"], "gpt4_choices": ["albert schweitzer was not signed to any record label as he was a theologian, organist, writer, humanitarian, philosopher, and physician, not a recording artist."]}
+{"sub_label": "Hans Werner Henze", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Kurt Cobain", "obj_label": ["Sub Pop", "David Geffen Company", "Sub Pop Records", "DGC Records"], "gpt4_choices": ["dgc records"]}
+{"sub_label": "Barbra Streisand", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "London Recordings", "London Records", "The Decca Record Company", "DECCA", "London", "LC 00171", "Decca Record Company"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Nicole Scherzinger", "obj_label": ["RCA", "A and M Records", "Polydor Records", "RCA Records, Inc.", "A&M/Interscope Records", "Interscope Records", "A&M Records", "A&M Recordings", "Interscope", "Polydor", "A & M Records", "Epic Records", "Universal Music Division Polydor", "Epic", "A&M (record label)"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Lil' Kim", "obj_label": ["LC 00121", "G-Unit Records", "Interscope Records", "Universal Republic Records", "Interscope", "UMG Recordings, Inc.", "Atlantic", "LC 0121", "G Unit", "Universal Music Group", "Universal Music", "UMG", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Meghan Trainor", "obj_label": ["RCA", "Epic", "RCA Records, Inc.", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Robert Smith", "obj_label": ["Polydor Records", "Geffen Records", "LC 07266", "UMG Recordings, Inc.", "Polydor", "LC 7266", "Universal Music Group", "Universal Music Division Polydor", "Universal Music", "UMG"], "gpt4_choices": ["fiction records"]}
+{"sub_label": "Liam Gallagher", "obj_label": ["Epic", "Epic Records", "Creation Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Dolly Parton", "obj_label": ["LC 0171", "Mercury Records", "Decca Records", "Mercury Music Group", "Columbia", "Decca", "Asylum Records", "Columbia Records", "The Decca Record Company Limited", "Warner Bros. Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Stevie Nicks", "obj_label": ["LC 00121", "Polydor Records", "Atco Records", "Polydor", "Atlantic", "LC 0121", "Universal Music Division Polydor", "Atlantic Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Willie Nelson", "obj_label": ["LC 00121", "RCA", "Blue Note Records", "RCA Records, Inc.", "Columbia", "LC 0133", "LC 00133", "Atlantic", "Columbia Records", "Blue Note", "Island", "LC 0121", "LC 0407", "LC 00407", "Island Records", "Atlantic Records"], "gpt4_choices": ["legacy recordings"]}
+{"sub_label": "Cheryl", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Marilyn Monroe", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["marilyn monroe was not signed to any record label as she was an actress and not a professional singer."]}
+{"sub_label": "Emma Marrone", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["universal music italy"]}
+{"sub_label": "Ennio Morricone", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Lindsay Lohan", "obj_label": ["Universal Motown Records"], "gpt4_choices": ["casablanca records"]}
+{"sub_label": "Joni Mitchell", "obj_label": ["Geffen Records", "Warner", "Warner Music Group Corp.", "LC 07266", "Asylum Records", "Warner Music Group", "Warner Music", "LC 7266", "WMG", "Reprise Records"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "George Michael", "obj_label": ["DreamWorks Records", "Polydor Records", "Columbia", "Sony Music", "Polydor", "Columbia Records", "LC 33687", "Virgin Records", "Epic Records", "Universal Music Division Polydor", "Epic"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Idina Menzel", "obj_label": ["Hollywood Records", "Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Kelly Rowland", "obj_label": ["Columbia", "Columbia Records", "Republic", "Sony BMG", "LC 0407", "LC 00407", "Republic Records", "Island Records", "Universal Motown Records", "Sony BMG Music Entertainment", "Island"], "gpt4_choices": ["motown records"]}
+{"sub_label": "Shania Twain", "obj_label": ["Polydor Records", "UMG Recordings, Inc.", "Polydor", "Universal Music Group", "Universal Music Division Polydor", "Universal Music", "UMG"], "gpt4_choices": ["mercury nashville"]}
+{"sub_label": "Ike Turner", "obj_label": ["Chess Records"], "gpt4_choices": ["sue records"]}
+{"sub_label": "Benjamin Britten", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Sia", "obj_label": ["Astralwerks"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Cliff Richard", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["emi records"]}
+{"sub_label": "Ozzy Osbourne", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Susan Boyle", "obj_label": ["SME", "Columbia", "Sony Music", "Sony Música", "Columbia Records", "SM", "Sony Music Entertainment"], "gpt4_choices": ["syco music"]}
+{"sub_label": "Travis Scott", "obj_label": ["Grand Hustle Records", "GOOD Music", "Epic Records", "GOOD Music, Inc.", "Epic"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Tammy Wynette", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Eddie Vedder", "obj_label": ["Republic", "J Records", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Leonard Bernstein", "obj_label": ["Deutsche Grammophon GmbH", "Columbia", "Columbia Records", "Deutsche Grammophon", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Brandy Norwood", "obj_label": ["LC 00121", "RCA", "RCA Records, Inc.", "Atlantic", "LC 0121", "Epic Records", "Epic", "Atlantic Records"], "gpt4_choices": ["brand nu entertainment"]}
+{"sub_label": "Billy Joel", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Pierre Boulez", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Cat Stevens", "obj_label": ["LC 00121", "LC 0171", "LC 0121", "Decca", "The Decca Record Company Limited", "The Decca Record Company", "A&M (record label)", "Atlantic Records", "Decca Record Company", "A and M Records", "Decca Records", "A&M Records", "A & M Records", "LC 00407", "Island", "A&M/Interscope Records", "Atlantic", "LC 0407", "Island Records", "DECCA", "LC 00171", "A&M Recordings"], "gpt4_choices": ["island records"]}
+{"sub_label": "Reba McEntire", "obj_label": ["Big Machine Records", "Mercury Records", "Mercury Music Group", "Big Machine Records, LLC"], "gpt4_choices": ["big machine records"]}
+{"sub_label": "Jeon So-mi", "obj_label": ["JYP Entertainment", "JYP", "YG", "Y.G Entertainment Inc.", "YG PLUS", "YG Entertainment", "YGENT"], "gpt4_choices": ["the black label"]}
+{"sub_label": "John Wayne", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["john wayne is not known to be signed to any record label as he was an actor, not a musician."]}
+{"sub_label": "Édith Piaf", "obj_label": ["Polydor Records", "LC 00305", "Columbia", "Capitol", "Polydor", "Columbia Records", "LC 0305", "Universal Music Division Polydor", "Capitol Records", "Philips Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Diana Ross", "obj_label": ["Motown", "Motown Records"], "gpt4_choices": ["motown"]}
+{"sub_label": "Ciara", "obj_label": ["Jive Records", "LaFace Records", "La Face Records", "Jive", "LaFace", "La Face", "Sony Music", "Epic Records", "Epic"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Lea Michele", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Ringo Starr", "obj_label": ["LC 00121", "Parlophone UK", "Polydor Records", "Polydor", "LC 0121", "Parlophone Records", "Atlantic Records", "Swan", "Apple Records", "Capitol", "LC 01074", "Universal Music Division Polydor", "Capitol Records", "Parlophone Communications", "Mercury Music Group", "Vee Jay Records", "Atlantic", "Vee-Jay Records", "Parlophone", "Mercury Records", "LC 1074", "Swan Records"], "gpt4_choices": ["emi"]}
+{"sub_label": "Charles Aznavour", "obj_label": ["Polydor Records", "Mercury Records", "EMI Music", "Mercury Music Group", "EMI Records Ltd.", "EMI (United Kingdom)", "Polydor", "EMI Records", "EMI Records, Ltd.", "Universal Music Division Polydor", "EMI Records Limited", "EMI"], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Trent Reznor", "obj_label": ["Interscope Records", "Columbia", "Interscope", "UMG Recordings, Inc.", "TVT Records", "Columbia Records", "Universal Music Group", "LC 0407", "LC 00407", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Thom Yorke", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["xl recordings"]}
+{"sub_label": "Judy Garland", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Miles Davis", "obj_label": ["LC 00305", "Columbia", "Capitol", "Columbia Records", "LC 0305", "Capitol Records", "Philips Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Bill Cosby", "obj_label": ["Capitol", "Capitol Records", "Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Noel Gallagher", "obj_label": ["Creation Records"], "gpt4_choices": ["sour mash records"]}
+{"sub_label": "Billie Holiday", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Capitol", "MGM Records", "Decca", "Columbia Records", "The Decca Record Company Limited", "M-G-M Records", "Capitol Records", "The Decca Record Company", "DECCA", "Verve Records", "MGM", "LC 00171", "Decca Record Company"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Perry Como", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Aretha Franklin", "obj_label": ["LC 00121", "Columbia", "Warner", "Warner Music Group Corp.", "Arista Records", "Atlantic", "Columbia Records", "LC 0121", "Arista", "Warner Music Group", "WMG", "Warner Music", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Rod Stewart", "obj_label": ["LC 00121", "Mercury Records", "Mercury Music Group", "Capitol", "Atlantic", "LC 0121", "Capitol Records", "Warner Bros. Records", "Atlantic Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Kesha", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Darren Criss", "obj_label": ["Sony Music"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Gucci Mane", "obj_label": ["LC 00121", "Atlantic", "Asylum Records", "LC 0121", "Warner Bros. Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Captain Beefheart", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["straight records"]}
+{"sub_label": "Will Smith", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Interscope Records", "SME", "Columbia", "Jive", "Sony Music", "Interscope", "UMG Recordings, Inc.", "Columbia Records", "Sony Música", "SM", "Universal Music Group", "Sony Music Entertainment", "Universal Music", "UMG"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Siouxsie Sioux", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Vanessa Hudgens", "obj_label": ["Hollywood Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "France Gall", "obj_label": ["LC 00121", "LC 0171", "LC 00305", "LC 0121", "Decca", "The Decca Record Company Limited", "The Decca Record Company", "Warner Music", "Atlantic Records", "Decca Record Company", "Decca Records", "Warner", "Warner Music Group Corp.", "Universal Music Group", "Philips Records", "UMG", "Atlantic", "LC 0305", "DECCA", "UMG Recordings, Inc.", "LC 00171", "Warner Music Group", "WMG", "Universal Music"], "gpt4_choices": ["polydor"]}
+{"sub_label": "Jim Morrison", "obj_label": ["Elektra", "Columbia", "LC 00192", "Columbia Records", "LC 0192", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Meat Loaf", "obj_label": ["Polydor Records", "Mercury Records", "Sanctuary Records", "Mercury Music Group", "Sanctuary Records Group Ltd.", "Motown", "Arista Records", "MCA, Inc.", "Motown Records", "Polydor", "LC 33687", "Arista", "Virgin Records", "Epic Records", "Universal Music Division Polydor", "MCA Inc.", "Epic", "MCA"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Johnny Cash", "obj_label": ["Columbia", "Columbia Records", "American Recordings", "Sun Records", "American/Columbia Records", "Sun"], "gpt4_choices": ["sun records"]}
+{"sub_label": "Brian Eno", "obj_label": ["Polydor Records", "Astralwerks", "Polydor", "Universal Music Division Polydor", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["warp records"]}
+{"sub_label": "Cyndi Lauper", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Michelle Williams", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Wilhelm Furtwängler", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Bono", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Tony Bennett", "obj_label": ["Concord Records", "LC 15025", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Jessica Mauboy", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music australia"]}
+{"sub_label": "Rob Zombie", "obj_label": ["LC 07266", "Geffen Records", "Roadrunner Records", "LC 7266"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Stevie Wonder", "obj_label": ["Motown", "Motown Records"], "gpt4_choices": ["motown"]}
+{"sub_label": "Utada Hikaru", "obj_label": ["Kabushiki kaisha Īemuai Myūjikku Japan", "EMI Music Japan Inc.", "The Island Def Jam Music Group", "UMG Recordings, Inc.", "Universal Music Group", "EMI Music Japan", "LC 0407", "LC 00407", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Ellie Goulding", "obj_label": ["Polydor Records", "Interscope Records", "Interscope", "Polydor", "Cherrytree Records", "Universal Music Division Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Soulja Boy", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["sodmg"]}
+{"sub_label": "Whoopi Goldberg", "obj_label": ["LC 1056", "MCA Records", "LC 01056"], "gpt4_choices": ["whoopi goldberg is not signed to any record label as she is primarily an actress and comedian, not a musician."]}
+{"sub_label": "Donald Glover", "obj_label": ["RCA", "RCA Records, Inc.", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Pink", "obj_label": ["Jive Records", "LaFace Records", "RCA", "RCA Records, Inc.", "La Face Records", "Jive", "LaFace", "Arista Records", "La Face", "Arista"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Sean Combs", "obj_label": ["LC 00121", "Bad Boy Records", "Interscope Records", "Arista Records", "Interscope", "UMG Recordings, Inc.", "Atlantic", "LC 0121", "Arista", "Bad Boy Entertainment", "Universal Music Group", "Epic Records", "Epic", "Universal Music", "UMG", "Atlantic Records"], "gpt4_choices": ["bad boy records"]}
+{"sub_label": "Blake Shelton", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner music nashville"]}
+{"sub_label": "Bing Crosby", "obj_label": ["RCA", "LC 0171", "RCA Records, Inc.", "Decca Records", "Columbia", "Capitol", "Reprise Records", "Decca", "Columbia Records", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "Verve Records", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Philip Glass", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["orange mountain music"]}
+{"sub_label": "Mika", "obj_label": ["UMG Recordings, Inc.", "Republic", "Universal Music Group", "LC 0407", "LC 00407", "Republic Records", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["casablanca records"]}
+{"sub_label": "6ix9ine", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["10k projects"]}
+{"sub_label": "Peter Gabriel", "obj_label": ["LC 00121", "Geffen Records", "Atco Records", "LC 07266", "Atlantic", "LC 0121", "LC 7266", "Atlantic Records"], "gpt4_choices": ["real world records"]}
+{"sub_label": "Robbie Williams", "obj_label": ["Virgin Records", "EMI Music", "LC 1626", "Capitol", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "LC 00407", "Island", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Sony Music", "LC 0407", "Island Records", "EMI", "Columbia Records", "LC 33687", "Chrysalis Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Beck", "obj_label": ["LC 5667", "Geffen Records", "Interscope Records", "LC 07266", "LC 05667", "Interscope", "LC 7266", "XL Recordings", "David Geffen Company", "DGC Records"], "gpt4_choices": ["dgc records"]}
+{"sub_label": "Corbin Bleu", "obj_label": ["Hollywood Records", "WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Luciano Pavarotti", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Félix Leclerc", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Igor Stravinsky", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Lorde", "obj_label": ["UMG Recordings, Inc.", "Republic", "Universal Music Group", "Republic Records", "Lava Records", "Universal Music", "UMG"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jordin Sparks", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Jive"], "gpt4_choices": ["19 recordings"]}
+{"sub_label": "Missy Elliott", "obj_label": ["LC 00121", "Elektra", "LC 00192", "LC 0121", "Atlantic", "LC 0192", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Joan Rivers", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["joan rivers was signed to geffen records."]}
+{"sub_label": "Marvin Gaye", "obj_label": ["Motown", "Motown Records", "Columbia", "Columbia Records"], "gpt4_choices": ["motown"]}
+{"sub_label": "Robbie Robertson", "obj_label": ["Geffen Records", "Warner Bros. Film Productions Germany", "Capitol", "LC 07266", "Warner Bros. Pictures", "Warner Bros.", "Warner Bros. Entertainment, Inc.", "Warner Bros. Studios", "Warner Bros. Entertainment Inc.", "LC 7266", "Capitol Records", "WB", "Warner Brothers"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Hailee Steinfeld", "obj_label": ["Republic", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Josephine Baker", "obj_label": ["RCA", "Mercury Records", "RCA Records, Inc.", "Mercury Music Group", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Normani", "obj_label": ["RCA", "Epic", "RCA Records, Inc.", "Epic Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Flea", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Mary J. Blige", "obj_label": ["Geffen Records", "LC 07266", "UMG Recordings, Inc.", "LC 01056", "Republic", "LC 1056", "LC 7266", "MCA Records", "Universal Music Group", "Republic Records", "Universal Music", "UMG"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Dusty Springfield", "obj_label": ["LC 00121", "Parlophone UK", "Mercury Records", "LC 00305", "Mercury Music Group", "Atlantic", "LC 0121", "LC 0305", "Parlophone Records", "ABC Records", "Parlophone Communications", "Philips Records", "Parlophone", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Janelle Monáe", "obj_label": ["LC 00121", "Bad Boy Records", "Bad Boy Entertainment", "Atlantic", "LC 0121", "Epic Records", "Epic", "Atlantic Records"], "gpt4_choices": ["wondaland arts society"]}
+{"sub_label": "Dennis Miller", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["dennis miller is not known to be signed to any record label."]}
+{"sub_label": "Charli XCX", "obj_label": ["LC 00121", "Warner", "Warner Music Group Corp.", "Atlantic", "Asylum Records", "LC 0121", "Warner Music Group", "WMG", "Warner Music", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Sting", "obj_label": ["A and M Records", "A&M/Interscope Records", "Deutsche Grammophon GmbH", "A&M Records", "A&M Recordings", "UMG", "UMG Recordings, Inc.", "A & M Records", "Universal Music Group", "Universal Music", "Deutsche Grammophon", "A&M (record label)", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Natalia Oreiro", "obj_label": ["Ariola", "Warner", "Warner Music Group Corp.", "Warner Music Group", "Bertelsmann Schallplattenring", "WMG", "Ariola Records", "Warner Music", "BMG Ariola", "Ariola Express"], "gpt4_choices": ["sony music"]}
+{"sub_label": "John Mellencamp", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Leona Lewis", "obj_label": ["CBS Records"], "gpt4_choices": ["syco music"]}
+{"sub_label": "Kid Rock", "obj_label": ["Jive Records", "LC 00121", "Jive", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "The Game", "obj_label": ["Geffen Records", "Aftermath", "Interscope Records", "LC 07266", "Interscope", "Aftermath Entertainment", "LC 7266", "David Geffen Company", "DGC Records"], "gpt4_choices": ["eone music"]}
+{"sub_label": "Christina Grimmie", "obj_label": ["UMG Recordings, Inc.", "Republic", "Universal Music Group", "LC 0407", "LC 00407", "Republic Records", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Zendaya", "obj_label": ["Hollywood Records", "Republic", "Republic Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Lin-Manuel Miranda", "obj_label": ["WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Steven Tyler", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Carmen Miranda", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["decca records"]}
+{"sub_label": "Jean-Jacques Goldman", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Mýa", "obj_label": ["Universal Motown Records", "Interscope", "Interscope Records"], "gpt4_choices": ["planet 9"]}
+{"sub_label": "Iggy Azalea", "obj_label": ["Mercury Records", "The Island Def Jam Music Group", "Grand Hustle Records", "Virgin EMI Records", "Mercury Music Group", "Virgin", "def jam records", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["bad dreams records"]}
+{"sub_label": "Noemi", "obj_label": ["Sony Music", "Columbia", "Columbia Records"], "gpt4_choices": ["sony music italy"]}
+{"sub_label": "Wanda Jackson", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Ralph Vaughan Williams", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["ralph vaughan williams is not signed to any record label as he passed away in 1958."]}
+{"sub_label": "Juice WRLD", "obj_label": ["Polydor Records", "Interscope Records", "Interscope", "Polydor", "Universal Music Division Polydor"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Nas", "obj_label": ["Columbia", "def jam records", "Columbia Records", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["mass appeal records"]}
+{"sub_label": "Lily Allen", "obj_label": ["Parlophone UK", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "London Recordings", "EMI Records", "EMI", "EMI Records, Ltd.", "Capitol Records", "Warner Bros. Records", "EMI Records Limited", "Parlophone Records", "Parlophone Communications", "London Records", "Parlophone", "London"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Megan Thee Stallion", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["300 entertainment"]}
+{"sub_label": "Mylène Farmer", "obj_label": ["RCA", "Polydor Records", "RCA Records, Inc.", "UMG Recordings, Inc.", "Polydor", "Universal Music Group", "Universal Music Division Polydor", "Universal Music", "UMG"], "gpt4_choices": ["polydor"]}
+{"sub_label": "Roger Waters", "obj_label": ["Harvest", "Columbia", "Capitol", "Sony Music", "Columbia Records", "LC 01305", "Capitol Records", "Harvest Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Renée Fleming", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Dave Grohl", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Marina Diamandis", "obj_label": ["LC 00121", "Elektra", "LC 00192", "LC 0121", "Atlantic", "LC 0192", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Patsy Cline", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Jimmy Page", "obj_label": ["LC 00121", "Swan Song Records", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "A$AP Rocky", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Keith Richards", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Alanis Morissette", "obj_label": ["LC 1056", "MCA Records", "Warner Bros. Records", "LC 01056"], "gpt4_choices": ["maverick records"]}
+{"sub_label": "Gloria Estefan", "obj_label": ["Epic", "Sony Music", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Tom Waits", "obj_label": ["Epitaph Records", "Asylum Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["anti-"]}
+{"sub_label": "Jack White", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["third man records"]}
+{"sub_label": "Barry Manilow", "obj_label": ["Arista Records", "Concord Records", "LC 15025", "Arista"], "gpt4_choices": ["arista records"]}
+{"sub_label": "Yvonne De Carlo", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["yvonne de carlo was not known to be signed to any specific record label."]}
+{"sub_label": "Slash", "obj_label": ["RCA", "Geffen Records", "EMI Music", "Roadrunner Records", "RCA Records, Inc.", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 07266", "EMI Records", "EMI Records, Ltd.", "LC 7266", "EMI Records Limited", "EMI"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Paula Abdul", "obj_label": ["Mercury Records", "Mercury Music Group", "Concord Records", "LC 33687", "Virgin Records", "LC 15025"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Léo Ferré", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Post Malone", "obj_label": ["Republic", "Mercury Records", "Mercury Music Group", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Celeste", "obj_label": ["Polydor Records", "Interscope Records", "Interscope", "Polydor", "Universal Music Division Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Angélique Kidjo", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Phil Spector", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "Apple Records", "A&M Recordings", "LC 1074", "LC 01074", "A & M Records", "A&M (record label)"], "gpt4_choices": ["philles records"]}
+{"sub_label": "Stephen Hillenburg", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["stephen hillenburg was not signed to any record label as he was an animator and marine biology teacher, best known for creating the nickelodeon animated television series spongebob squarepants."]}
+{"sub_label": "Lil Uzi Vert", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Roc Nation", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Stevie Ray Vaughan", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Bruce Dickinson", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["sanctuary records"]}
+{"sub_label": "Rosalía", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Tate McRae", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Glenn Gould", "obj_label": ["CBS Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Sinéad O'Connor", "obj_label": ["LC 1626", "Chrysalis Records"], "gpt4_choices": ["chrysalis records"]}
+{"sub_label": "Leighton Meester", "obj_label": ["Universal Republic Records"], "gpt4_choices": ["universal republic records"]}
+{"sub_label": "Jean-Michel Jarre", "obj_label": ["Polydor Records", "Polydor", "Epic Records", "Universal Music Division Polydor", "Epic"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Michel Fugain", "obj_label": ["Sony Music", "Columbia", "Columbia Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Axl Rose", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Joan Baez", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["vanguard records"]}
+{"sub_label": "Xuxa", "obj_label": ["LC 00305", "Sony Music", "LC 0305", "PolyGram", "Philips Records"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Merle Haggard", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Iggy Pop", "obj_label": ["Elektra", "A and M Records", "A&M/Interscope Records", "A&M Records", "LC 1626", "A&M Recordings", "Arista Records", "LC 00192", "LC 33687", "Arista", "Chrysalis Records", "Virgin Records", "A & M Records", "LC 0192", "A&M (record label)", "Elektra Records"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Delta Goodrem", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Louis Armstrong", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "ABC Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Syd Barrett", "obj_label": ["Harvest", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "LC 01305", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "Harvest Records", "EMI"], "gpt4_choices": ["emi"]}
+{"sub_label": "Dionne Warwick", "obj_label": ["Warner Records Inc.", "Warner Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Gary Barlow", "obj_label": ["Sony Music"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Raffaella Carrà", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["sony music italy"]}
+{"sub_label": "Glenn Miller", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Christina Milian", "obj_label": ["Ca$h Money Records", "Murder Inc. Records", "Interscope Records", "Interscope", "def jam records", "Cash Money Records", "Island", "LC 0407", "LC 00407", "Island Records", "Def Jam", "Def Jam Recordings", "The Inc. Records", "Young Money Entertainment"], "gpt4_choices": ["young money entertainment"]}
+{"sub_label": "Bridgit Mendler", "obj_label": ["WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Paul Simon", "obj_label": ["Warner Bros. Records", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Pete Townshend", "obj_label": ["LC 00121", "LC 0171", "Decca Records", "Decca Record Company", "Atco Records", "Atlantic", "Decca", "LC 0121", "The Decca Record Company Limited", "Warner Bros. Records", "The Decca Record Company", "DECCA", "LC 00171", "Atlantic Records"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Lenny Kravitz", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "LC 33687", "Virgin Records", "Atlantic Records"], "gpt4_choices": ["roxie records"]}
+{"sub_label": "Camila Cabello", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Bette Davis", "obj_label": ["M-G-M Records", "MGM", "MGM Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Leon Russell", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["shelter records"]}
+{"sub_label": "Zucchero Fornaciari", "obj_label": ["Polydor Records", "UMG Recordings, Inc.", "Polydor", "Universal Music Group", "Universal Music Division Polydor", "Universal Music", "UMG"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Victoria Beckham", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "DMX", "obj_label": ["Columbia", "Ruff Ryders Entertainment", "def jam records", "Columbia Records", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Billy Corgan", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["sumerian records"]}
+{"sub_label": "Sarah Brightman", "obj_label": ["A and M Records", "A&M/Interscope Records", "EMI Music", "A&M Records", "EMI Records Ltd.", "EMI (United Kingdom)", "A&M Recordings", "EMI Records", "EMI Records, Ltd.", "A & M Records", "EMI Records Limited", "A&M (record label)", "EMI"], "gpt4_choices": ["emi records"]}
+{"sub_label": "Al Jolson", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["brunswick records"]}
+{"sub_label": "Elvis Costello", "obj_label": ["Deutsche Grammophon GmbH", "Columbia", "Columbia Records", "Warner Bros. Records", "Deutsche Grammophon", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Irving Berlin", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["irving berlin passed away in 1989 and is not currently signed to any record label. during his lifetime, he had music published with various companies, but he was not typically associated with a specific record label as artists are today."]}
+{"sub_label": "Robin Thicke", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Garth Brooks", "obj_label": ["Capitol", "Big Machine Records", "Capitol Records", "Big Machine Records, LLC"], "gpt4_choices": ["pearl records"]}
+{"sub_label": "Lil Nas X", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Bob Geldof", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Steve Martin", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["rounder records"]}
+{"sub_label": "Jackie Gleason", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Jessica Simpson", "obj_label": ["EMI Music", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Columbia Records", "Sony BMG", "EMI Records", "Epic Records", "EMI Records, Ltd.", "EMI Records Limited", "Epic", "EMI", "Sony BMG Music Entertainment"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Jared Leto", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "UMG Recordings, Inc.", "LC 33687", "Virgin Records", "EMI Records", "Universal Music Group", "EMI Records, Ltd.", "EMI Records Limited", "Universal Music", "UMG", "EMI"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Henry Lau", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["monster entertainment group"]}
+{"sub_label": "Lou Reed", "obj_label": ["RCA", "RCA Records, Inc.", "LC 03228", "Metro-Goldwyn-Mayer", "Sire", "LC 3228", "Arista Records", "MGM Records", "Arista", "Metro Goldwyn Mayer", "Sire Records", "M-G-M Records", "Warner Bros. Records", "Verve Records", "MGM"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Allie X", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["twin music inc."]}
+{"sub_label": "Dr. Seuss", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["dr. seuss is not signed to any record label as he was an author, not a musician."]}
+{"sub_label": "Adam Ant", "obj_label": ["Sony Corp.", "Eye Network", "CBS Records", "Sony Corporation", "MCA Records", "Sony Corporation (Tokyo)", "EMI Music", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "Tokyo Telecommunications Engineering Corporation", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 01056", "LC 1056", "Tokyo Tsushin Kogyo K.K.", "Totsuko", "Sony", "EMI", "Tiffany Network", "Columbia Broadcasting System", "CBS", "Columbia Records", "Black Rock"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Mahalia Jackson", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["apollo records"]}
+{"sub_label": "Stephen Gately", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Jonny Greenwood", "obj_label": ["LC 5667", "Parlophone UK", "Capitol", "LC 05667", "Parlophone Records", "Capitol Records", "Parlophone Communications", "XL Recordings", "Parlophone"], "gpt4_choices": ["xl recordings"]}
+{"sub_label": "Rick Wakeman", "obj_label": ["A and M Records", "A&M/Interscope Records", "EMI Music", "A&M Records", "EMI Records Ltd.", "EMI (United Kingdom)", "A&M Recordings", "EMI Records", "EMI Records, Ltd.", "A & M Records", "EMI Records Limited", "A&M (record label)", "EMI"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Georges Brassens", "obj_label": ["LC 00305", "LC 0305", "Philips Records"], "gpt4_choices": ["polygram"]}
+{"sub_label": "Alexandra Burke", "obj_label": ["Sony Music"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Machine Gun Kelly", "obj_label": ["Bad Boy Entertainment", "Bad Boy Records", "Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Kelis", "obj_label": ["Jive Records", "LaFace Records", "Geffen Records", "La Face Records", "Interscope Records", "Jive", "LaFace", "Arista Records", "La Face", "LC 07266", "Interscope", "LC 33687", "Arista", "Virgin Records", "LC 7266"], "gpt4_choices": ["ninja tune"]}
+{"sub_label": "Julie Andrews", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["walt disney records"]}
+{"sub_label": "Carole King", "obj_label": ["RCA", "Epic Records", "A&M (record label)", "A and M Records", "EMI Music", "A&M Records", "Priority Records", "Sony Música", "EMI Records", "EMI Records, Ltd.", "A & M Records", "EMI Records Limited", "Epic", "A&M/Interscope Records", "SME", "EMI Records Ltd.", "EMI (United Kingdom)", "Sony Music", "Sony Music Entertainment", "EMI", "RCA Records, Inc.", "A&M Recordings", "SM"], "gpt4_choices": ["ode records"]}
+{"sub_label": "Lil Peep", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Solange Knowles", "obj_label": ["Interscope Geffen A&M", "Columbia", "Columbia Records"], "gpt4_choices": ["saint records"]}
+{"sub_label": "Elliott Smith", "obj_label": ["DreamWorks Records", "Virgin Records", "LC 33687"], "gpt4_choices": ["kill rock stars"]}
+{"sub_label": "Frank Ocean", "obj_label": ["Def Jam", "def jam records", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Jewel", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Big Machine Records, LLC", "Big Machine Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Clay Aiken", "obj_label": ["RCA", "LC 0171", "RCA Records, Inc.", "Decca Records", "Decca", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca records"]}
+{"sub_label": "John Williams", "obj_label": ["LC 00305", "Columbia", "LC 01056", "Columbia Records", "LC 1056", "MCA Records", "LC 0305", "Philips Records"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "Becky G", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["kemosabe records"]}
+{"sub_label": "Zayn Malik", "obj_label": ["RCA", "RCA Records, Inc.", "Columbia", "Columbia Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Rolf Harris", "obj_label": ["Columbia", "Capitol", "Columbia Records", "EMI Records", "Epic Records", "Capitol Records", "Epic"], "gpt4_choices": ["emi records"]}
+{"sub_label": "Jimmy Fallon", "obj_label": ["DreamWorks Records", "Warner Bros. Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Jeff Buckley", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Damon Albarn", "obj_label": ["Parlophone UK", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 33687", "Virgin Records", "EMI Records", "EMI Records, Ltd.", "Parlophone Records", "Parlophone Communications", "EMI Records Limited", "Parlophone", "EMI"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "David Gilmour", "obj_label": ["Harvest", "SME", "Columbia", "Capitol", "Sony Music", "Columbia Records", "Sony Música", "LC 01305", "SM", "Sony Music Entertainment", "Capitol Records", "Harvest Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Robert Johnson", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["vocalion"]}
+{"sub_label": "Layne Staley", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Duke Ellington", "obj_label": ["LC 0171", "LC 00305", "Decca Records", "Columbia", "Columbia Records", "Decca", "The Decca Record Company Limited", "LC 0305", "The Decca Record Company", "Philips Records", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Ted Nugent", "obj_label": ["Spitfire", "Supermarine 300", "Supermarine Type 300", "Sony Music", "Spitfire fighter", "Epic Records", "Spitfire aircraft", "Supermarine Spitfire", "Epic", "Type 300 Spitfire"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Annie Lennox", "obj_label": ["RCA", "LC 0171", "RCA Records, Inc.", "Decca Records", "Arista Records", "Decca", "The Decca Record Company Limited", "Arista", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Bix Beiderbecke", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["okeh records"]}
+{"sub_label": "Jacques Brel", "obj_label": ["LC 00305", "UMG Recordings, Inc.", "Universal Music Group", "LC 0305", "Philips Records", "Universal Music", "UMG"], "gpt4_choices": ["barclay records"]}
+{"sub_label": "David Guetta", "obj_label": ["Parlophone UK", "Virgin EMI Records", "Virgin", "Parlophone Records", "Warner Music", "EMI Music", "Warner", "Warner Music Group Corp.", "EMI Records", "EMI Records, Ltd.", "Parlophone Communications", "EMI Records Limited", "EMI Records Ltd.", "EMI (United Kingdom)", "Parlophone", "EMI", "Astralwerks", "Warner Music Group", "WMG"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Patti Smith", "obj_label": ["Arista Records", "Arista", "Columbia", "Columbia Records"], "gpt4_choices": ["arista records"]}
+{"sub_label": "LL Cool J", "obj_label": ["Def Jam", "def jam records", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Boy George", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Hayley Williams", "obj_label": ["LC 00121", "Fueled by Ramen", "Fueled By Ramen, LLC", "FBR", "Atlantic", "LC 0121", "Fueled By Ramen LLC", "Atlantic Records"], "gpt4_choices": ["fueled by ramen"]}
+{"sub_label": "Mae West", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Young Thug", "obj_label": ["LC 00121", "Ca$h Money Records", "Atlantic", "Cash Money Records", "LC 0121", "Atlantic Records"], "gpt4_choices": ["300 entertainment"]}
+{"sub_label": "Sara Bareilles", "obj_label": ["Sony Music"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Anthony Kiedis", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Warner", "Warner Music Group Corp.", "Warner Music Group", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "WMG", "Warner Music", "EMI"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Ice-T", "obj_label": ["LC 03228", "Sire", "Priority Records", "LC 3228", "Sire Records", "Warner Bros. Records"], "gpt4_choices": ["sire records"]}
+{"sub_label": "Nile Rodgers", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["warner records"]}
+{"sub_label": "PJ Harvey", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Louis Tomlinson", "obj_label": ["Columbia", "Arista Records", "Columbia Records", "Arista", "Epic Records", "Epic"], "gpt4_choices": ["syco music"]}
+{"sub_label": "Daniel Barenboim", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Robert Plant", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Alaska", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["sorry, your question is a bit unclear. could you please specify which \"alaska\" you are referring to? it could be a band, a singer, or a song."]}
+{"sub_label": "Tim McGraw", "obj_label": ["Big Machine Records", "Big Machine Records, LLC"], "gpt4_choices": ["big machine records"]}
+{"sub_label": "Anna Netrebko", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "The Notorious B.I.G.", "obj_label": ["Arista Records", "Bad Boy Records", "Bad Boy Entertainment", "Arista"], "gpt4_choices": ["bad boy records"]}
+{"sub_label": "John Frusciante", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Joaquín Sabina", "obj_label": ["Ariola", "Epic Records", "Bertelsmann Schallplattenring", "Ariola Records", "Epic", "BMG Ariola", "Ariola Express"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Anastacia", "obj_label": ["Mercury Records", "Mercury Music Group", "Sony Music", "UMG Recordings, Inc.", "Universal Music Group", "Epic Records", "Epic", "Universal Music", "UMG"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Logic", "obj_label": ["Def Jam", "def jam records", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Ashley Tisdale", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Aaron Copland", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "David Carradine", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["david carradine was an actor and not known to be signed to any record label."]}
+{"sub_label": "RuPaul", "obj_label": ["Rhino Entertainment", "Rhino Entertainment Company"], "gpt4_choices": ["world of wonder"]}
+{"sub_label": "Sheila", "obj_label": ["LC 00305", "Warner", "Warner Music Group Corp.", "Warner Music Group", "LC 0305", "WMG", "Philips Records", "Warner Music"], "gpt4_choices": ["as an ai, i need more specific information to provide an accurate answer. there are several artists named sheila and they could be signed to different record labels."]}
+{"sub_label": "Marco Mengoni", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music italy"]}
+{"sub_label": "Enrique Iglesias", "obj_label": ["Polydor Records", "Interscope Records", "Universal Republic Records", "Interscope", "Polydor", "Universal Music Division Polydor"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Annie Cordy", "obj_label": ["Sony Corp.", "CBS Records", "Sony Corporation", "Tokyo Tsushin Kogyo K.K.", "Tokyo Telecommunications Engineering Corporation", "Totsuko", "Sony", "Sony Corporation (Tokyo)"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Jennifer Hudson", "obj_label": ["Jive Records", "RCA", "J Records", "RCA Records, Inc.", "Jive", "Arista Records", "Arista"], "gpt4_choices": ["arista records"]}
+{"sub_label": "Miranda Lambert", "obj_label": ["Epic", "Epic Records", "Columbia", "Columbia Records"], "gpt4_choices": ["rca records nashville"]}
+{"sub_label": "Keri Hilson", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "James Taylor", "obj_label": ["Columbia", "Apple Records", "Capitol", "Sony Music", "LC 1074", "LC 01074", "Columbia Records", "Capitol Records", "Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Barbara", "obj_label": ["LC 0171", "LC 00305", "Decca Records", "DECCA", "UMG Recordings, Inc.", "Decca", "The Decca Record Company Limited", "Universal Music Group", "LC 0305", "The Decca Record Company", "Philips Records", "Universal Music", "UMG", "LC 00171", "Decca Record Company"], "gpt4_choices": ["your question is too vague. there are many artists named barbara. please provide more specific information."]}
+{"sub_label": "George Strait", "obj_label": ["MCA", "MCA, Inc.", "MCA Inc."], "gpt4_choices": ["mca nashville"]}
+{"sub_label": "21 Savage", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Solomon Burke", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Chess Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Scott Weiland", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["scott weiland passed away in 2015. during his career, he was signed to several record labels, including atlantic records."]}
+{"sub_label": "Hayden Panettiere", "obj_label": ["Hollywood Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Shawn Mendes", "obj_label": ["UMG Recordings, Inc.", "Universal Music Group", "LC 0407", "LC 00407", "Island Records", "Universal Music", "UMG", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Tori Amos", "obj_label": ["LC 00121", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft", "Atlantic", "LC 0121", "Island", "Epic Records", "LC 0407", "LC 00407", "Island Records", "Epic", "Deutsche Grammophon", "Atlantic Records"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Katharine McPhee", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["verve forecast records"]}
+{"sub_label": "Queen Latifah", "obj_label": ["A and M Records", "A&M/Interscope Records", "Interscope Records", "A&M Records", "Motown", "A&M Recordings", "Motown Records", "Interscope", "A & M Records", "PolyGram", "Verve Records", "A&M (record label)"], "gpt4_choices": ["motown records"]}
+{"sub_label": "Rita Ora", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Roc Nation", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "St. Vincent", "obj_label": ["Beggars Banquet Records", "4AD"], "gpt4_choices": ["loma vista recordings"]}
+{"sub_label": "Joe Walsh", "obj_label": ["LC 00121", "Atlantic", "Asylum Records", "LC 0121", "Epic Records", "ABC Records", "Warner Bros. Records", "Epic", "Atlantic Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Loretta Lynn", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Steven Van Zandt", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["wicked cool records"]}
+{"sub_label": "Jean Ferrat", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Tom Jones", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca Record Company", "Decca", "Columbia Records", "The Decca Record Company Limited", "Epic Records", "LC 0407", "LC 00407", "The Decca Record Company", "Island Records", "DECCA", "Epic", "LC 00171", "Island"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Joan Manuel Serrat", "obj_label": ["Ariola", "SME", "Sony Music", "Sony Música", "SM", "Sony Music Entertainment", "Bertelsmann Schallplattenring", "Ariola Records", "BMG Ariola", "Ariola Express"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Brandi Carlile", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["low country sound"]}
+{"sub_label": "Bonnie Tyler", "obj_label": ["RCA", "RCA Records, Inc.", "Columbia", "LC 1626", "Columbia Records", "Chrysalis Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Dwight Yoakam", "obj_label": ["Reprise Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Fred Astaire", "obj_label": ["M-G-M Records", "MGM", "MGM Records"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Barry Gibb", "obj_label": ["Polydor Records", "Atco Records", "Polydor", "LC 01056", "LC 1056", "MCA Records", "Universal Music Division Polydor"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Toni Braxton", "obj_label": ["LC 00121", "Arista Records", "UMG Recordings, Inc.", "Atlantic", "LC 0121", "Arista", "Universal Music Group", "Universal Music", "UMG", "Atlantic Records"], "gpt4_choices": ["island records"]}
+{"sub_label": "Chester Bennington", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Jeanette MacDonald", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["jeanette macdonald was signed to rca victor."]}
+{"sub_label": "Emma Roberts", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["emma roberts is not signed to any record label."]}
+{"sub_label": "Brian Epstein", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["brian epstein was not signed to any record label as he was a manager, not a recording artist. he managed bands such as the beatles."]}
+{"sub_label": "Chuck Berry", "obj_label": ["Chess Records", "Atco Records", "Mercury Records", "Mercury Music Group"], "gpt4_choices": ["chess records"]}
+{"sub_label": "Sheryl Crow", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["big machine records"]}
+{"sub_label": "Tony Iommi", "obj_label": ["Sanctuary Records", "Sanctuary Records Group Ltd."], "gpt4_choices": ["sanctuary records"]}
+{"sub_label": "JoJo", "obj_label": ["LC 00121", "Interscope Records", "Warner Records", "Interscope", "Atlantic", "LC 0121", "Warner Records Inc.", "Universal Motown Records", "Atlantic Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Patton Oswalt", "obj_label": ["Sub Pop", "Sub Pop Records", "Warner Bros. Records"], "gpt4_choices": ["sub pop"]}
+{"sub_label": "Enya", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "Peter Murphy", "obj_label": ["Beggars Banquet Records"], "gpt4_choices": ["beggars banquet records"]}
+{"sub_label": "Dannii Minogue", "obj_label": ["Warner", "Warner Music Group Corp.", "UMG Recordings, Inc.", "LC 01056", "LC 1056", "Warner Music Group", "Universal Music Group", "MCA Records", "London Records", "WMG", "London Recordings", "Universal Music", "Warner Music", "UMG", "London"], "gpt4_choices": ["all around the world"]}
+{"sub_label": "B.o.B", "obj_label": ["LC 00121", "Grand Hustle Records", "Atlantic", "LC 0121", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Juliette Gréco", "obj_label": ["LC 00305", "UMG Recordings, Inc.", "Universal Music Group", "LC 0305", "Philips Records", "Universal Music", "UMG"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Rosé", "obj_label": ["Interscope Records", "Interscope", "YG", "Y.G Entertainment Inc.", "YG PLUS", "YG Entertainment", "YGENT"], "gpt4_choices": ["yg entertainment"]}
+{"sub_label": "Dr. John", "obj_label": ["Arista/GRP", "Blue Note Records", "Warner", "Atco Records", "Warner Music Group Corp.", "Concord Records", "MCA/GRP", "LC 0133", "LC 00133", "Blue Note", "Warner Music Group", "WMG", "GRP Records", "Warner Music", "LC 15025", "GRP Records, Inc."], "gpt4_choices": ["atco records"]}
+{"sub_label": "Ray Charles", "obj_label": ["LC 00121", "LC 00305", "Atlantic", "LC 0121", "LC 0305", "ABC Records", "Warner Bros. Records", "Philips Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Charlie Puth", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Azealia Banks", "obj_label": ["LC 5667", "Parlophone UK", "Polydor Records", "Interscope Records", "LC 05667", "Interscope", "Polydor", "Universal Music Division Polydor", "Parlophone Records", "Parlophone Communications", "XL Recordings", "Parlophone"], "gpt4_choices": ["entertainment one"]}
+{"sub_label": "Chloe x Halle", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["parkwood entertainment"]}
+{"sub_label": "Grace VanderWaal", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Pitbull", "obj_label": ["RCA", "J Records", "RCA Records, Inc.", "SME", "Sony Music", "TVT Records", "Sony Música", "SM", "Sony Music Entertainment"], "gpt4_choices": ["mr. 305 inc."]}
+{"sub_label": "Joss Stone", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["s-curve records"]}
+{"sub_label": "Gene Autry", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Joan Jett", "obj_label": ["Warner", "Warner Music Group Corp.", "LC 01056", "LC 1056", "Warner Music Group", "MCA Records", "Epic Records", "WMG", "Epic", "Warner Music"], "gpt4_choices": ["blackheart records"]}
+{"sub_label": "Rick Ross", "obj_label": ["LC 00121", "Bad Boy Records", "Def Jam", "Bad Boy Entertainment", "Atlantic", "LC 0121", "def jam records", "Epic Records", "Atlantic Records", "Epic", "Def Jam Recordings"], "gpt4_choices": ["maybach music group"]}
+{"sub_label": "Tyler, the Creator", "obj_label": ["LC 5667", "SME", "Columbia", "Sony Music", "LC 05667", "Columbia Records", "Sony Música", "SM", "Sony Music Entertainment", "XL Recordings"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Kacey Musgraves", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["mca nashville"]}
+{"sub_label": "John Farnham", "obj_label": ["BMG Music Publishing", "EMI Music", "Bertelsmann Music Group Company", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Columbia Records", "EMI Records", "EMI Records, Ltd.", "BMG", "EMI Records Limited", "BMG Pictures", "Bertelsmann Music Group", "EMI"], "gpt4_choices": ["sony bmg"]}
+{"sub_label": "Michael Bublé", "obj_label": ["Warner", "Warner Music Group Corp.", "Reprise Records", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Bea Miller", "obj_label": ["Hollywood Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "John Coltrane", "obj_label": ["LC 00121", "Blue Note Records", "LC 0133", "LC 00133", "Atlantic", "LC 0121", "Blue Note", "Impulse! Records", "ABC Records", "Impulse!", "Atlantic Records"], "gpt4_choices": ["impulse! records"]}
+{"sub_label": "Arturo Toscanini", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Bill Evans", "obj_label": ["Concord Records", "Warner Bros. Records", "LC 15025"], "gpt4_choices": ["riverside records"]}
+{"sub_label": "David Archuleta", "obj_label": ["Jive Records", "Jive"], "gpt4_choices": ["jive records"]}
+{"sub_label": "Roy Orbison", "obj_label": ["Mercury Records", "Mercury Music Group", "MGM", "MGM Records", "Asylum Records", "LC 33687", "Virgin Records", "Sun Records", "PolyGram", "M-G-M Records", "London Records", "London Recordings", "London", "Sun"], "gpt4_choices": ["monument records"]}
+{"sub_label": "George Carlin", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Thomas Beecham, 2nd Baronet", "obj_label": ["RCA", "LC 00305", "RCA Records, Inc.", "LC 0305", "Philips Records"], "gpt4_choices": ["emi records"]}
+{"sub_label": "Sara Evans", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Roger Daltrey", "obj_label": ["LC 00121", "LC 0171", "Decca Records", "Decca Record Company", "Atco Records", "Atlantic", "Decca", "LC 0121", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Atlantic Records"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Apollo Crews", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["apollo crews is not associated with any record label as he is a professional wrestler, not a musician."]}
+{"sub_label": "Emma Bunton", "obj_label": ["UMG Recordings, Inc.", "LC 33687", "Virgin Records", "Universal Music Group", "Universal Music", "UMG"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Jerry Lee Lewis", "obj_label": ["Elektra", "Mercury Records", "Mercury Music Group", "LC 00192", "LC 01056", "LC 1056", "Sun Records", "MCA Records", "LC 0192", "Elektra Records", "Sun"], "gpt4_choices": ["sun records"]}
+{"sub_label": "Alesha Dixon", "obj_label": ["LC 00121", "Polydor Records", "Polydor", "Asylum Records", "Atlantic", "LC 0121", "Universal Music Division Polydor", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Jody Watley", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "LC 01056", "LC 1056", "MCA Records", "Atlantic Records"], "gpt4_choices": ["avitone records"]}
+{"sub_label": "Krist Novoselic", "obj_label": ["Sub Pop", "Sub Pop Records"], "gpt4_choices": ["sub pop"]}
+{"sub_label": "Jo Stafford", "obj_label": ["LC 00305", "Columbia", "Capitol", "Columbia Records", "LC 0305", "Capitol Records", "Philips Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Travis Barker", "obj_label": ["David Geffen Company", "DGC Records"], "gpt4_choices": ["dgc records"]}
+{"sub_label": "Ja Rule", "obj_label": ["Murder Inc. Records", "The Inc. Records"], "gpt4_choices": ["murder inc. records"]}
+{"sub_label": "Alyssa Milano", "obj_label": ["Pony Canyon", "Pony Canyon, Inc.", "Ponican", "PONY CANYON INC."], "gpt4_choices": ["casablanca records"]}
+{"sub_label": "Vera Lynn", "obj_label": ["LC 0171", "Decca Records", "Decca", "The Decca Record Company Limited", "London Recordings", "London Records", "The Decca Record Company", "DECCA", "London", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Billie Piper", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["innocent records"]}
+{"sub_label": "Hank Williams", "obj_label": ["M-G-M Records", "MGM", "MGM Records"], "gpt4_choices": ["mgm records"]}
+{"sub_label": "Shirley Bassey", "obj_label": ["LC 0171", "LC 00305", "Geffen Records", "Decca Records", "Columbia", "LC 07266", "Columbia Records", "Decca", "The Decca Record Company Limited", "LC 7266", "LC 0305", "The Decca Record Company", "Philips Records", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Sade Adu", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Robin Gibb", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Atco Records", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Myles Kennedy", "obj_label": ["EMI Music", "Roadrunner Records", "Universal Republic Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "Epic Records", "EMI Records Limited", "Epic", "EMI"], "gpt4_choices": ["napalm records"]}
+{"sub_label": "Gary Numan", "obj_label": ["Beggars Banquet Records", "Atco Records"], "gpt4_choices": ["beggars banquet"]}
+{"sub_label": "Doris Day", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "French Montana", "obj_label": ["Bad Boy Records", "Interscope Records", "Interscope", "Bad Boy Entertainment", "Epic Records", "Epic"], "gpt4_choices": ["bad boy records"]}
+{"sub_label": "Lena Meyer-Landrut", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jenny Morris", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["warner music australia"]}
+{"sub_label": "Natalie Bassingthwaighte", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music australia"]}
+{"sub_label": "Frankie Laine", "obj_label": ["Mercury Records", "LC 00305", "Mercury Music Group", "Columbia", "Capitol", "Columbia Records", "LC 0305", "ABC Records", "Capitol Records", "Philips Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Donna Summer", "obj_label": ["LC 00121", "Mercury Records", "Geffen Records", "Mercury Music Group", "LC 07266", "Atlantic", "LC 0121", "LC 7266", "Epic Records", "Epic", "Atlantic Records"], "gpt4_choices": ["casablanca records"]}
+{"sub_label": "Olivier Messiaen", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Belinda Peregrín", "obj_label": ["Capitol", "Sony BMG", "Capitol Records", "Sony BMG Music Entertainment"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Kris Allen", "obj_label": ["Jive Records", "Jive"], "gpt4_choices": ["19 recordings"]}
+{"sub_label": "André Previn", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Neil Peart", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["anthem records"]}
+{"sub_label": "Andrew W.K.", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["napalm records"]}
+{"sub_label": "Stephen Stills", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Patrick Stump", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Chris Rock", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["netflix studios"]}
+{"sub_label": "Mark Wahlberg", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["mark wahlberg is not currently signed to any record label."]}
+{"sub_label": "Diplo", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Atlantic Records"], "gpt4_choices": ["mad decent"]}
+{"sub_label": "Joe Strummer", "obj_label": ["Sony Music", "Epitaph Records"], "gpt4_choices": ["hellcat records"]}
+{"sub_label": "Neil Diamond", "obj_label": ["Capitol", "Capitol Records", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Mike Shinoda", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "deadmau5", "obj_label": ["Parlophone UK", "Astralwerks", "LC 33687", "Virgin Records", "Parlophone Records", "Parlophone Communications", "Parlophone"], "gpt4_choices": ["mau5trap"]}
+{"sub_label": "James Last", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Lupe Fiasco", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Bette Midler", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Warner Bros. Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Faith Hill", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "Warner Bros. Records", "WMG", "Warner Music"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Lindsey Buckingham", "obj_label": ["Reprise Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Regis Philbin", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "JoeyStarr", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["def jam recordings france"]}
+{"sub_label": "Gary Moore", "obj_label": ["Virgin Records", "LC 33687"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Trisha Yearwood", "obj_label": ["LC 01056", "LC 1056", "MCA Records", "Big Machine Records, LLC", "Big Machine Records"], "gpt4_choices": ["mca nashville"]}
+{"sub_label": "Waylon Jennings", "obj_label": ["RCA", "A and M Records", "RCA Records, Inc.", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "LC 01056", "LC 1056", "A & M Records", "MCA Records", "Epic Records", "Epic", "A&M (record label)"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Lisa Gerrard", "obj_label": ["4AD", "Warner Bros. Records"], "gpt4_choices": ["4ad"]}
+{"sub_label": "Jennifer Love Hewitt", "obj_label": ["Jive Records", "LC 00121", "Jive", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Sammy Davis Jr.", "obj_label": ["RCA", "LC 0171", "RCA Records, Inc.", "Decca Records", "Motown", "Reprise Records", "Motown Records", "MGM Records", "Decca", "The Decca Record Company Limited", "M-G-M Records", "The Decca Record Company", "DECCA", "Verve Records", "MGM", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Francesca Michielin", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music italy"]}
+{"sub_label": "Bruce Willis", "obj_label": ["Motown", "Motown Records"], "gpt4_choices": ["motown records"]}
+{"sub_label": "Les Paul", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Capitol", "Decca", "Columbia Records", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Common", "obj_label": ["GOOD Music", "Warner Bros. Pictures", "LC 7266", "MCA Records", "Warner Brothers", "Warner Music", "Warner Bros. Film Productions Germany", "Warner", "Warner Music Group Corp.", "MCA, Inc.", "Warner Bros.", "Warner Bros. Studios", "Universal Music Group", "GOOD Music, Inc.", "WB", "UMG", "Geffen Records", "LC 07266", "Warner Bros. Entertainment, Inc.", "LC 01056", "LC 1056", "MCA Inc.", "UMG Recordings, Inc.", "Warner Music Group", "Warner Bros. Entertainment Inc.", "Warner Bros. Records", "WMG", "Universal Music", "MCA"], "gpt4_choices": ["loma vista recordings"]}
+{"sub_label": "Jimmy Buffett", "obj_label": ["RCA", "RCA Records, Inc.", "LC 01056", "LC 1056", "MCA Records", "PolyGram", "ABC Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["mailboat records"]}
+{"sub_label": "Lemmy", "obj_label": ["SPV Recordings", "SPV GmbH", "SPV/Steamhammer", "SPV"], "gpt4_choices": ["motörhead music"]}
+{"sub_label": "Pete Best", "obj_label": ["Apple Records", "LC 1074", "LC 01074"], "gpt4_choices": ["savage records"]}
+{"sub_label": "Nelly Furtado", "obj_label": ["DreamWorks Records", "Geffen Records", "Interscope Records", "LC 07266", "Interscope", "LC 7266"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Melanie Brown", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 33687", "Virgin Records", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Hozier", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["rubyworks records"]}
+{"sub_label": "Dove Cameron", "obj_label": ["LC 10025", "Walt Disney Records", "Columbia", "WDR", "Columbia Records"], "gpt4_choices": ["disruptor records"]}
+{"sub_label": "Olly Murs", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "Epic Records", "EMI Records Limited", "Epic", "EMI"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Roy Harper", "obj_label": ["Beggars Banquet Records", "Chrysalis Records", "LC 1626"], "gpt4_choices": ["science friction"]}
+{"sub_label": "Richard Pryor", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["laff records"]}
+{"sub_label": "Dana Rosemary Scallon", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["dmg tv"]}
+{"sub_label": "Jane Birkin", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Carlos Santana", "obj_label": ["Arista Records", "Arista", "Columbia", "Columbia Records"], "gpt4_choices": ["arista records"]}
+{"sub_label": "Otis Redding", "obj_label": ["LC 00121", "Stax Records", "Atco Records", "Atlantic", "LC 0121", "Atlantic Records", "Stax"], "gpt4_choices": ["stax records"]}
+{"sub_label": "Wiley", "obj_label": ["Virgin Records", "Warner Music", "Warner", "Warner Music Group Corp.", "Asylum Records", "Universal Music Group", "LC 00407", "UMG", "Island", "LC 0407", "Island Records", "UMG Recordings, Inc.", "XL Recordings", "LC 5667", "LC 05667", "LC 33687", "Warner Music Group", "WMG", "Universal Music"], "gpt4_choices": ["wiley is signed to warner records."]}
+{"sub_label": "Julio Iglesias", "obj_label": ["LC 0171", "LC 00305", "Decca Records", "Columbia", "CBS Records", "Sony Music", "Columbia Records", "Decca", "The Decca Record Company Limited", "LC 0305", "The Decca Record Company", "Philips Records", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Mark Knopfler", "obj_label": ["Mercury Records", "Vertigo Records", "Mercury Music Group", "Vertigo Berlin", "LC 1633", "LC 01633", "Warner Bros. Records", "Reprise Records", "Vertigo"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Lance Bass", "obj_label": ["Jive Records", "Jive"], "gpt4_choices": ["freelance entertainment"]}
+{"sub_label": "Pete Doherty", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["rough trade records"]}
+{"sub_label": "Duffy", "obj_label": ["A and M Records", "Polydor Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "Polydor", "A & M Records", "Universal Music Division Polydor", "A&M (record label)"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "B.B. King", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Billie Joe Armstrong", "obj_label": ["Reprise Records"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Debbie Reynolds", "obj_label": ["M-G-M Records", "MGM", "MGM Records"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Rafael Riqueni", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["nuevos medios"]}
+{"sub_label": "KT Tunstall", "obj_label": ["Blue Note", "LC 0133", "Blue Note Records", "LC 00133"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Blake Lewis", "obj_label": ["Arista Records", "Arista"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Crystal Gayle", "obj_label": ["Elektra", "LC 0171", "Decca Records", "Columbia", "Capitol", "LC 00192", "Decca", "Columbia Records", "The Decca Record Company Limited", "LC 0192", "Capitol Records", "The Decca Record Company", "DECCA", "Elektra Records", "LC 00171", "Decca Record Company"], "gpt4_choices": ["united artists records"]}
+{"sub_label": "Tom DeLonge", "obj_label": ["David Geffen Company", "DGC Records"], "gpt4_choices": ["to the stars"]}
+{"sub_label": "Marianne Faithfull", "obj_label": ["LC 0171", "Decca Records", "Decca Record Company", "Decca", "The Decca Record Company Limited", "LC 0407", "LC 00407", "The Decca Record Company", "Island Records", "DECCA", "LC 00171", "Island"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Bryan Ferry", "obj_label": ["LC 00121", "Astralwerks", "Atlantic", "LC 0121", "Island", "LC 0407", "LC 00407", "Island Records", "Atlantic Records"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Corey Taylor", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Laura Marano", "obj_label": ["LC 10025", "Walt Disney Records", "Republic Records", "WDR", "Republic", "Big Machine Records, LLC", "Big Machine Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Geri Halliwell", "obj_label": ["Capitol", "LC 33687", "Virgin Records", "EMI Records", "Capitol Records"], "gpt4_choices": ["emi"]}
+{"sub_label": "Bella Thorne", "obj_label": ["LC 10025", "Walt Disney Records", "WDR", "Epic Records", "Hollywood Records", "Epic"], "gpt4_choices": ["filthy fangs"]}
+{"sub_label": "John Legend", "obj_label": ["SME", "GOOD Music", "Columbia", "Sony Music", "Columbia Records", "Sony Música", "SM", "Sony Music Entertainment", "GOOD Music, Inc."], "gpt4_choices": ["columbia records"]}
+{"sub_label": "John Zorn", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["tzadik"]}
+{"sub_label": "Florence Welch", "obj_label": ["Universal Republic Records", "Virgin EMI Records", "Virgin", "Republic", "LC 0407", "LC 00407", "Republic Records", "Island Records", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Coolio", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["tommy boy records"]}
+{"sub_label": "Joan Sutherland", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Glen Campbell", "obj_label": ["LC 00121", "Capitol", "Atlantic", "LC 0121", "LC 01056", "LC 1056", "MCA Records", "Capitol Records", "Atlantic Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Lynn Anderson", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Quincy Jones", "obj_label": ["A and M Records", "Mercury Records", "A&M/Interscope Records", "Interscope Records", "Mercury Music Group", "A&M Records", "Columbia", "A&M Recordings", "Interscope", "Columbia Records", "A & M Records", "Epic Records", "ABC Records", "Epic", "A&M (record label)"], "gpt4_choices": ["quincy jones productions"]}
+{"sub_label": "Dimebag Darrell", "obj_label": ["Atco Records"], "gpt4_choices": ["pantera, the band dimebag darrell was a part of, was signed to atco records."]}
+{"sub_label": "Nolwenn Leroy", "obj_label": ["LC 0171", "Mercury Records", "Decca Records", "Mercury Music Group", "Universal City Studios LLC", "Universal Film Manufacturing Company", "Universal-International Pictures Inc.", "Decca", "The Decca Record Company Limited", "Universal Studios", "Universal Pictures", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Adam Young", "obj_label": ["Republic", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Juliette Lewis", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["american recordings"]}
+{"sub_label": "Dion DeMucci", "obj_label": ["Arista Records", "Arista", "Columbia", "Columbia Records"], "gpt4_choices": ["laurie records"]}
+{"sub_label": "Fantasia Barrino", "obj_label": ["J Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Terry Wogan", "obj_label": ["LC 00305", "LC 0305", "Philips Records"], "gpt4_choices": ["bbc records"]}
+{"sub_label": "Jay Sean", "obj_label": ["Ca$h Money Records", "Universal Republic Records", "Motown", "Motown Records", "def jam records", "Cash Money Records", "LC 33687", "Virgin Records", "Republic", "Republic Records", "Def Jam", "Universal Motown Records", "Def Jam Recordings"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Dinah Shore", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Buckethead", "obj_label": ["Sony Music"], "gpt4_choices": ["pikes series"]}
+{"sub_label": "Emmylou Harris", "obj_label": ["Elektra", "Warner", "Warner Music Group Corp.", "LC 00192", "Asylum Records", "Rhino Entertainment", "Warner Music Group", "Warner Music", "LC 0192", "WMG", "Reprise Records", "Elektra Records", "Rhino Entertainment Company"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Jessica Jung", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["coridel entertainment"]}
+{"sub_label": "Art Tatum", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "Verve Records", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Suzi Quatro", "obj_label": ["Arista Records", "Mercury Records", "Mercury Music Group", "Arista"], "gpt4_choices": ["chrysalis records"]}
+{"sub_label": "Buddy Holly", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Fergie", "obj_label": ["RCA", "A and M Records", "RCA Records, Inc.", "A&M/Interscope Records", "Interscope Records", "A&M Records", "A&M Recordings", "Interscope", "A & M Records", "A&M (record label)"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Earl Hines", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["bluebird records"]}
+{"sub_label": "Georg Solti", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Olivia Rodrigo", "obj_label": ["Geffen Records", "Interscope Records", "LC 07266", "Interscope", "LC 7266"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Carla Bruni", "obj_label": ["LC 1801", "V2 Records", "V2 Records Benelux", "LC 01801"], "gpt4_choices": ["naïve records"]}
+{"sub_label": "Lisa Loeb", "obj_label": ["A and M Records", "Geffen Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "LC 07266", "LC 7266", "A & M Records", "A&M (record label)"], "gpt4_choices": ["furious rose productions"]}
+{"sub_label": "China Anne McClain", "obj_label": ["Hollywood Records", "WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Ben Platt", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Luke Bryan", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol nashville"]}
+{"sub_label": "Melissa Etheridge", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Mark Ronson", "obj_label": ["Roc Nation", "Columbia", "Columbia Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "will.i.am", "obj_label": ["LC 00121", "Interscope", "LC 0121", "Ruthless Records", "LC 7266", "A&M (record label)", "Atlantic Records", "A and M Records", "A&M Records", "A & M Records", "Universal Music Group", "UMG", "Geffen Records", "A&M/Interscope Records", "Interscope Records", "Columbia", "LC 07266", "Atlantic", "UMG Recordings, Inc.", "A&M Recordings", "Columbia Records", "Universal Music"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Howlin' Wolf", "obj_label": ["Chess Records"], "gpt4_choices": ["chess records"]}
+{"sub_label": "Keyshia Cole", "obj_label": ["Interscope Geffen A&M", "Interscope", "Sony BMG", "LC 7266", "Epic Records", "A&M (record label)", "A and M Records", "A&M Records", "Sony Música", "A & M Records", "Universal Music Group", "Epic", "Sony BMG Music Entertainment", "UMG", "Geffen Records", "A&M/Interscope Records", "Interscope Records", "SME", "LC 07266", "Sony Music", "Sony Music Entertainment", "UMG Recordings, Inc.", "A&M Recordings", "SM", "Universal Music"], "gpt4_choices": ["epic records"]}
+{"sub_label": "David Crosby", "obj_label": ["LC 00121", "A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "LC 0121", "Atlantic", "A & M Records", "A&M (record label)", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Melanie Martinez", "obj_label": ["LC 00121", "Warner", "Warner Music Group Corp.", "LC 0121", "Atlantic", "Warner Music Group", "WMG", "Warner Music", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Dean Martin", "obj_label": ["EMI Music", "MGM", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "MGM Records", "EMI Records", "EMI Records, Ltd.", "M-G-M Records", "Capitol Records", "EMI Records Limited", "Reprise Records", "EMI"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Ne-Yo", "obj_label": ["Motown", "Motown Records"], "gpt4_choices": ["motown records"]}
+{"sub_label": "James Blunt", "obj_label": ["LC 00121", "Warner", "Warner Music Group Corp.", "LC 0121", "Atlantic", "Warner Music Group", "WMG", "Warner Music", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Jhené Aiko", "obj_label": ["def jam records", "Epic Records", "Epic", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Keke Palmer", "obj_label": ["LC 00121", "Interscope Records", "Interscope", "Atlantic", "LC 0121", "Island", "LC 0407", "LC 00407", "Island Records", "Atlantic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Kenny Rogers", "obj_label": ["LC 00121", "RCA", "RCA Records, Inc.", "Mercury Records", "Mercury Music Group", "Capitol", "Warner", "Warner Music Group Corp.", "Atlantic", "LC 0121", "Warner Music Group", "Warner Music", "Capitol Records", "Warner Bros. Records", "WMG", "Reprise Records", "Atlantic Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "David Cross", "obj_label": ["Sub Pop", "Sub Pop Records"], "gpt4_choices": ["sub pop"]}
+{"sub_label": "Mark Lanegan", "obj_label": ["Sub Pop", "Sub Pop Records"], "gpt4_choices": ["heavenly recordings"]}
+{"sub_label": "Liberace", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "David Cook", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Natasha Bedingfield", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["epic records"]}
+{"sub_label": "Billy Bragg", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["cooking vinyl"]}
+{"sub_label": "John Denver", "obj_label": ["Mercury Records", "BMG Music Publishing", "Mercury Music Group", "Bertelsmann Music Group Company", "BMG", "BMG Pictures", "Bertelsmann Music Group"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Pop Smoke", "obj_label": ["Republic", "Republic Records"], "gpt4_choices": ["victor victor worldwide"]}
+{"sub_label": "Jason Mraz", "obj_label": ["LC 00121", "Elektra", "LC 00192", "LC 0121", "Atlantic", "LC 0192", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Alizée", "obj_label": ["Jive Records", "RCA", "Polydor Records", "RCA Records, Inc.", "Jive", "Sony Music", "UMG Recordings, Inc.", "Polydor", "Universal Music Group", "Epic Records", "Universal Music Division Polydor", "Epic", "Universal Music", "UMG"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Ava Max", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Ice Cube", "obj_label": ["Capitol", "Ruthless Records", "Capitol Records"], "gpt4_choices": ["priority records"]}
+{"sub_label": "Laurie Anderson", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Raven-Symoné", "obj_label": ["LC 10025", "Walt Disney Records", "WDR", "LC 01056", "LC 1056", "MCA Records", "Hollywood Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Gilbert Bécaud", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["emi"]}
+{"sub_label": "Van Dyke Parks", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "George Jones", "obj_label": ["Mercury Records", "Mercury Music Group", "Asylum Records", "Epic Records", "Epic"], "gpt4_choices": ["starday records"]}
+{"sub_label": "Labrinth", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["syco music"]}
+{"sub_label": "Benee", "obj_label": ["Republic", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Amaia", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["universal music spain"]}
+{"sub_label": "Sturgill Simpson", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Lizzo", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Tiffany Young", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["transparent arts"]}
+{"sub_label": "Ella Fitzgerald", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "Verve Records", "LC 00171", "Decca Record Company"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Mac Miller", "obj_label": ["Rostrum Records", "Warner Bros. Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Falco", "obj_label": ["A and M Records", "A&M/Interscope Records", "SME", "A&M Records", "A&M Recordings", "Sony Music", "Sony Música", "SM", "A & M Records", "Sony Music Entertainment", "A&M (record label)"], "gpt4_choices": ["gig records"]}
+{"sub_label": "Randy Rhoads", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["jet records"]}
+{"sub_label": "Rufus Wainwright", "obj_label": ["LC 0171", "Geffen Records", "Decca Records", "LC 07266", "Decca", "The Decca Record Company Limited", "LC 7266", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Riccardo Muti", "obj_label": ["LC 00305", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "LC 0305", "EMI Records, Ltd.", "EMI Records Limited", "Philips Records", "EMI"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "Michael Hutchence", "obj_label": ["Atco Records"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "NF", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol cmg"]}
+{"sub_label": "Fred Durst", "obj_label": ["Geffen Records", "Interscope Records", "LC 07266", "Interscope", "LC 7266"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Paco de Lucía", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["universal music spain"]}
+{"sub_label": "Etta James", "obj_label": ["RCA", "Elektra", "RCA Records, Inc.", "LC 00192", "Elektra Records", "LC 0192", "LC 0407", "LC 00407", "Island Records", "Chess Records", "Island"], "gpt4_choices": ["chess records"]}
+{"sub_label": "Patty Loveless", "obj_label": ["LC 1056", "MCA Records", "LC 01056"], "gpt4_choices": ["mca nashville"]}
+{"sub_label": "Jean Gabin", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["jean gabin was not signed to any record label as he was an actor, not a musician."]}
+{"sub_label": "John Cale", "obj_label": ["A and M Records", "Island Records", "A&M/Interscope Records", "A&M Records", "Columbia", "A&M Recordings", "Columbia Records", "EMI Records", "A & M Records", "LC 0407", "LC 00407", "Beggars Banquet Records", "Reprise Records", "A&M (record label)", "Island"], "gpt4_choices": ["domino recording company"]}
+{"sub_label": "Keith Urban", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records nashville"]}
+{"sub_label": "Gram Parsons", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "Reprise Records", "A&M (record label)"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Mike Oldfield", "obj_label": ["Mercury Records", "Mercury Music Group", "Virgin EMI Records", "Warner", "Warner Music Group Corp.", "Virgin", "LC 33687", "Virgin Records", "Warner Music Group", "Warner Bros. Records", "WMG", "Warner Music"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Nia Jax", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["nia jax is not signed to any record label as she is a professional wrestler, not a musician."]}
+{"sub_label": "Maurice White", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Marshmello", "obj_label": ["RCA", "Spinnin Rec", "Interscope", "Spinnin' Records", "Def Jam Recordings", "Monstercat Media", "Asylum Records", "Monstercat", "Spinnin Records", "Interscope Records", "Monstercat Silk", "def jam records", "Spinnin' Recs", "RCA Records, Inc.", "Spinnin' Rec", "Astralwerks", "MCAT", "Def Jam", "Spinnin’ Records"], "gpt4_choices": ["joytime collective"]}
+{"sub_label": "Claudio Abbado", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Big Sean", "obj_label": ["GOOD Music", "def jam records", "GOOD Music, Inc.", "Roc Nation", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["good music"]}
+{"sub_label": "Donovan", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Eve", "obj_label": ["Sony Corp.", "Aftermath", "Interscope Records", "Sony Corporation", "Interscope", "Aftermath Entertainment", "Tokyo Tsushin Kogyo K.K.", "Tokyo Telecommunications Engineering Corporation", "Totsuko", "Sony", "Sony Corporation (Tokyo)", "Ruff Ryders Entertainment"], "gpt4_choices": ["ruff ryders entertainment"]}
+{"sub_label": "Timbaland", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["mosley music group"]}
+{"sub_label": "Steve Harvey", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["steve harvey is not signed to any record label as he is not a musician."]}
+{"sub_label": "Neil Sedaka", "obj_label": ["RCA", "Elektra", "Polydor Records", "RCA Records, Inc.", "Rocket Records", "LC 00192", "The Rocket Record Company", "Polydor", "LC 03053", "LC 3053", "LC 0192", "Universal Music Division Polydor", "Elektra Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Busta Rhymes", "obj_label": ["Elektra", "J Records", "Ca$h Money Records", "Aftermath", "Interscope Records", "LC 00192", "Interscope", "Cash Money Records", "Republic", "Aftermath Entertainment", "LC 0192", "Epic Records", "Republic Records", "Epic", "Universal Motown Records", "Elektra Records", "Young Money Entertainment"], "gpt4_choices": ["empire"]}
+{"sub_label": "Jeff Beck", "obj_label": ["Epic", "Atco Records", "Epic Records"], "gpt4_choices": ["rhino entertainment"]}
+{"sub_label": "Tino Rossi", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "SZA", "obj_label": ["Top Dawg Entertainment"], "gpt4_choices": ["top dawg entertainment"]}
+{"sub_label": "Connie Talbot", "obj_label": ["WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["evolution media ltd."]}
+{"sub_label": "Akon", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Republic", "Republic Records", "Atlantic Records"], "gpt4_choices": ["konvict muzik"]}
+{"sub_label": "Jaden Smith", "obj_label": ["Roc Nation", "Columbia", "Columbia Records"], "gpt4_choices": ["roc nation"]}
+{"sub_label": "Gene Simmons", "obj_label": ["Sanctuary Records", "Sanctuary Records Group Ltd."], "gpt4_choices": ["kiss records"]}
+{"sub_label": "Sophie Ellis-Bextor", "obj_label": ["Polydor Records", "Interscope Records", "Interscope", "Polydor", "Universal Music Division Polydor", "Hollywood Records"], "gpt4_choices": ["ebgb's"]}
+{"sub_label": "Eros Ramazzotti", "obj_label": ["BMG Music Publishing", "Bertelsmann Music Group Company", "Arista Records", "Arista", "BMG", "BMG Pictures", "Bertelsmann Music Group"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Monica", "obj_label": ["RCA", "J Records", "RCA Records, Inc.", "Arista Records", "Arista"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Mary Chapin Carpenter", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Patrick Bruel", "obj_label": ["SME", "Sony Music", "Sony Música", "SM", "Sony Music Entertainment"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Jessie J", "obj_label": ["Universal Republic Records", "Lava Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Debbie Gibson", "obj_label": ["LC 00121", "Sony Music Entertainment Japan", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Sony Music Entertainment (Japan) Inc.", "Atlantic", "LC 0121", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI", "Sony Music Japan", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "2 Chainz", "obj_label": ["GOOD Music", "UMG Recordings, Inc.", "def jam records", "Universal Music Group", "GOOD Music, Inc.", "Universal Music", "Def Jam", "UMG", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Liam Payne", "obj_label": ["Columbia", "Capitol", "Columbia Records", "Republic", "Capitol Records", "Republic Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Hayley Westenra", "obj_label": ["LC 0171", "Decca Records", "DECCA", "UMG Recordings, Inc.", "Decca", "The Decca Record Company Limited", "Universal Music Group", "The Decca Record Company", "Universal Music", "UMG", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca music group"]}
+{"sub_label": "Alejandro Sanz", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Toby Keith", "obj_label": ["DreamWorks Records"], "gpt4_choices": ["show dog nashville"]}
+{"sub_label": "Naughty Boy", "obj_label": ["Virgin", "Virgin EMI Records"], "gpt4_choices": ["virgin emi records"]}
+{"sub_label": "Steve Aoki", "obj_label": ["Spinnin' Rec", "Spinnin Rec", "Spinnin' Recs", "Spinnin' Records", "Spinnin Records", "Spinnin’ Records"], "gpt4_choices": ["dim mak records"]}
+{"sub_label": "Brian Jones", "obj_label": ["LC 0171", "Decca Records", "Atco Records", "Decca", "The Decca Record Company Limited", "London Recordings", "London Records", "The Decca Record Company", "DECCA", "London", "LC 00171", "Decca Record Company"], "gpt4_choices": ["brian jones was a member of the rolling stones and was signed to decca records."]}
+{"sub_label": "James Levine", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Ailee", "obj_label": ["Warner Music Japan", "WEA Japan", "Warner-Pioneer", "Warner Bros.-Pioneer"], "gpt4_choices": ["rocket3 entertainment"]}
+{"sub_label": "David Byrne", "obj_label": ["LC 03228", "Sire", "LC 3228", "Sire Records", "Warner Bros. Records"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Five for Fighting", "obj_label": ["Sony Music"], "gpt4_choices": ["aware records"]}
+{"sub_label": "Ashlee Simpson", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["geffen records"]}
+{"sub_label": "Kodak Black", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Dave Lombardo", "obj_label": ["American Recordings", "American/Columbia Records"], "gpt4_choices": ["nuclear blast"]}
+{"sub_label": "Dizzee Rascal", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["dirtee stank"]}
+{"sub_label": "Thomas Anders", "obj_label": ["Polydor Records", "BMG Music Publishing", "Bertelsmann Music Group Company", "Polydor", "Universal Music Division Polydor", "BMG", "BMG Pictures", "Bertelsmann Music Group"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "Luther Vandross", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Wang Leehom", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Suge Knight", "obj_label": ["Death Row", "Tha Row", "Death Row Records"], "gpt4_choices": ["death row records"]}
+{"sub_label": "Otto Klemperer", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["emi classics"]}
+{"sub_label": "Pablo Alborán", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Sid Vicious", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 33687", "Virgin Records", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["virgin records"]}
+{"sub_label": "Lara Fabian", "obj_label": ["Polydor Records", "SME", "Sony Music", "UMG Recordings, Inc.", "Polydor", "Sony Música", "SM", "Universal Music Group", "Universal Music Division Polydor", "Sony Music Entertainment", "Universal Music", "UMG"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Joe Perry", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Sonny Rollins", "obj_label": ["Blue Note", "LC 0133", "Blue Note Records", "LC 00133"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Vanessa Williams", "obj_label": ["LC 00121", "Polydor Records", "Mercury Records", "Mercury Music Group", "Concord Records", "Polydor", "Atlantic", "LC 0121", "Universal Music Division Polydor", "Lava Records", "LC 15025", "Atlantic Records"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Marc Bolan", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Pusha T", "obj_label": ["GOOD Music", "def jam records", "GOOD Music, Inc.", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["good music"]}
+{"sub_label": "La Toya Jackson", "obj_label": ["RCA", "Polydor Records", "RCA Records, Inc.", "Polydor", "Epic Records", "Universal Music Division Polydor", "Epic"], "gpt4_choices": ["private-i records"]}
+{"sub_label": "Aimee Mann", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["superego records"]}
+{"sub_label": "Nat King Cole", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Kris Wu", "obj_label": ["Interscope Records", "Interscope", "S.M. Entertainment", "SM Entertainment", "LC 0407", "LC 00407", "Island Records", "Star Museum Entertainment", "Island"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Ben Folds", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Alan Menken", "obj_label": ["WDR", "LC 10025", "Warner Bros. Records", "Walt Disney Records"], "gpt4_choices": ["walt disney records"]}
+{"sub_label": "Herbert von Karajan", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Gordon Lightfoot", "obj_label": ["Reprise Records", "Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Kenny Chesney", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["blue chair records"]}
+{"sub_label": "Porter Robinson", "obj_label": ["Astralwerks"], "gpt4_choices": ["astralwerks"]}
+{"sub_label": "Regina Spektor", "obj_label": ["Sire", "Sire Records", "LC 03228", "LC 3228"], "gpt4_choices": ["sire records"]}
+{"sub_label": "Lisa Marie Presley", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Joe Satriani", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Herbie Hancock", "obj_label": ["Blue Note Records", "Mercury Records", "Mercury Music Group", "Columbia", "LC 0133", "LC 00133", "Columbia Records", "Blue Note", "Sony BMG", "PolyGram", "Warner Bros. Records", "Sony BMG Music Entertainment", "Verve Records"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Dan Balan", "obj_label": ["Sony Music"], "gpt4_choices": ["mediapro music"]}
+{"sub_label": "Billy Ray Cyrus", "obj_label": ["Mercury Records", "LC 10025", "Mercury Music Group", "Walt Disney Records", "Disney Music Group", "DMG", "WDR", "Buena Vista Music Group", "Walt Disney Music Publishing", "Warner Bros. Records"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Sam Smith", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Billy Preston", "obj_label": ["LC 00121", "Motown Records", "LC 0121", "A&M (record label)", "Atlantic Records", "A and M Records", "A&M Records", "Apple Records", "Capitol", "LC 01074", "A & M Records", "Capitol Records", "A&M/Interscope Records", "Vee Jay Records", "Atlantic", "Vee-Jay Records", "Motown", "A&M Recordings", "LC 1074"], "gpt4_choices": ["apple records"]}
+{"sub_label": "Ai", "obj_label": ["EMI Records"], "gpt4_choices": ["sony music entertainment japan"]}
+{"sub_label": "Ashanti", "obj_label": ["Jive Records", "Murder Inc. Records", "Jive", "Epic Records", "Epic", "The Inc. Records"], "gpt4_choices": ["murder inc. records"]}
+{"sub_label": "Sunny", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["your question is a bit vague as there are many artists named sunny. however, if you're referring to sunny from the south korean girl group girls' generation, she is signed to sm entertainment."]}
+{"sub_label": "FKA Twigs", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["young turks"]}
+{"sub_label": "Rick Astley", "obj_label": ["RCA", "Polydor Records", "RCA Records, Inc.", "Sony Music", "Polydor", "Universal Music Division Polydor"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Leopold Stokowski", "obj_label": ["LC 0171", "LC 00305", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "London Recordings", "LC 0305", "London Records", "Capitol Records", "The Decca Record Company", "Philips Records", "DECCA", "London", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Judy Collins", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Cab Calloway", "obj_label": ["ABC Records"], "gpt4_choices": ["brunswick records"]}
+{"sub_label": "Gladys Knight", "obj_label": ["Columbia", "Motown", "Motown Records", "LC 01056", "Columbia Records", "LC 1056", "MCA Records"], "gpt4_choices": ["motown"]}
+{"sub_label": "Joe Jonas", "obj_label": ["LC 10025", "Walt Disney Records", "WDR", "Republic", "Republic Records", "Hollywood Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Giorgio Moroder", "obj_label": ["LC 00305", "London Recordings", "LC 0305", "London Records", "Philips Records", "London"], "gpt4_choices": ["casablanca records"]}
+{"sub_label": "Esperanza Spalding", "obj_label": ["Concord Records", "LC 15025"], "gpt4_choices": ["concord jazz"]}
+{"sub_label": "T-Pain", "obj_label": ["Jive Records", "RCA", "RCA Records, Inc.", "Jive"], "gpt4_choices": ["nappy boy entertainment"]}
+{"sub_label": "CeeLo Green", "obj_label": ["LC 00121", "Arista Records", "LC 0121", "Atlantic", "Arista", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Tamar Braxton", "obj_label": ["Epic", "DreamWorks Records", "Epic Records", "Universal Republic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Amy Grant", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Liza Minnelli", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Petula Clark", "obj_label": ["LC 0171", "Decca Records", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "Warner Bros. Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Jason Aldean", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["broken bow records"]}
+{"sub_label": "Krystal Jung", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["sm entertainment"]}
+{"sub_label": "Sophie", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["future classic"]}
+{"sub_label": "Coco Lee", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Hayley Kiyoko", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Alex Lifeson", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["anthem records"]}
+{"sub_label": "Amanda Palmer", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["8ft. records"]}
+{"sub_label": "Future", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Nick Drake", "obj_label": ["Elektra", "LC 00192", "LC 0192", "LC 0407", "LC 00407", "Island Records", "Elektra Records", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Mahmood", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["universal music italia"]}
+{"sub_label": "Peter Ustinov", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["peter ustinov was not known to be signed to any record label. he was an actor, writer, and director."]}
+{"sub_label": "Steve Reich", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Nick Carter", "obj_label": ["Jive Records", "Sony Music", "Jive"], "gpt4_choices": ["kaotic inc"]}
+{"sub_label": "Eddie Murphy", "obj_label": ["Motown", "Motown Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Adrian Boult", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["emi records"]}
+{"sub_label": "John Barry", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["emi records"]}
+{"sub_label": "Bill Bruford", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["winterfold records"]}
+{"sub_label": "Burt Bacharach", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "Columbia", "A&M Recordings", "Columbia Records", "A & M Records", "A&M (record label)"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Choi Woo-shik", "obj_label": ["Management SOOP"], "gpt4_choices": ["management soop"]}
+{"sub_label": "Sabrina Carpenter", "obj_label": ["Hollywood Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Uffie", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["ed banger records"]}
+{"sub_label": "Jackson Browne", "obj_label": ["Elektra", "LC 00192", "Asylum Records", "LC 0192", "Elektra Records"], "gpt4_choices": ["asylum records"]}
+{"sub_label": "Beverley Knight", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["warner music uk"]}
+{"sub_label": "Jonathan Winters", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["jonathan winters was not known to be signed to any record label as he was a comedian and actor, not a musician."]}
+{"sub_label": "Kim Gordon", "obj_label": ["Matador", "Matador Records"], "gpt4_choices": ["matador records"]}
+{"sub_label": "Jon Anderson", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Atlantic Records"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Tones and I", "obj_label": ["Elektra", "SME", "Warner", "Warner Music Group Corp.", "LC 00192", "Sony Music", "Sony Música", "SM", "Warner Music Group", "LC 0192", "Sony Music Entertainment", "WMG", "Warner Music", "Elektra Records"], "gpt4_choices": ["bad batch records"]}
+{"sub_label": "Conan Gray", "obj_label": ["Republic", "Republic Records"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Ludacris", "obj_label": ["Def Jam", "Def Jam Recordings", "def jam records", "Disturbing tha Peace"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Sandy Denny", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "LC 0407", "LC 00407", "Island Records", "A&M (record label)", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Eddie Van Halen", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "BT", "obj_label": ["Reprise Records"], "gpt4_choices": ["black hole recordings"]}
+{"sub_label": "Jennette McCurdy", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records nashville"]}
+{"sub_label": "Gavin DeGraw", "obj_label": ["RCA", "J Records", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "György Ligeti", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["wergo"]}
+{"sub_label": "Rob Thomas", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Norah Jones", "obj_label": ["Blue Note", "LC 0133", "Blue Note Records", "LC 00133"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Rico Nasty", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Charles Trenet", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Willy DeVille", "obj_label": ["LC 00121", "Capitol", "Atlantic", "LC 0121", "Capitol Records", "Atlantic Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "K. K. Downing", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "DaBaby", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Fiona Apple", "obj_label": ["Epic", "Epic Records", "Columbia", "Columbia Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Geddy Lee", "obj_label": ["LC 00121", "Mercury Records", "Mercury Music Group", "Atlantic", "LC 0121", "Atlantic Records"], "gpt4_choices": ["anthem records"]}
+{"sub_label": "Daniel Powter", "obj_label": ["Warner Bros. Records", "Avex Group"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Janis Ian", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Verve Records", "Atlantic Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Joey Jordison", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Lucy Hale", "obj_label": ["Jive Records", "Hollywood Records", "Jive"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Patti LaBelle", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Pat Benatar", "obj_label": ["LC 1626", "Chrysalis Records"], "gpt4_choices": ["chrysalis records"]}
+{"sub_label": "Johnnie Ray", "obj_label": ["LC 00305", "Columbia", "Columbia Records", "LC 0305", "Philips Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Tory Lanez", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Ella Mai", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["10 summers records"]}
+{"sub_label": "Engelbert Humperdinck", "obj_label": ["LC 0171", "Decca Records", "Decca", "The Decca Record Company Limited", "Epic Records", "The Decca Record Company", "Epic", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Michel Legrand", "obj_label": ["LC 00305", "Columbia", "Columbia Records", "LC 0305", "Philips Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Yo-Yo Ma", "obj_label": ["RCA", "RCA Records, Inc.", "Columbia", "Columbia Records"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "ScHoolboy Q", "obj_label": ["Interscope", "Interscope Records", "Top Dawg Entertainment"], "gpt4_choices": ["top dawg entertainment"]}
+{"sub_label": "Dorothy Dandridge", "obj_label": ["Verve Records"], "gpt4_choices": ["dorothy dandridge was not officially signed to any record label."]}
+{"sub_label": "Jason Derulo", "obj_label": ["LC 00121", "Geffen Records", "Warner", "Warner Music Group Corp.", "LC 07266", "Atlantic", "Asylum Records", "LC 0121", "Warner Music Group", "LC 7266", "Warner Bros. Records", "WMG", "Warner Music", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Bonnie Raitt", "obj_label": ["Capitol", "Capitol Records", "Warner Bros. Records"], "gpt4_choices": ["redwing records"]}
+{"sub_label": "Joe McElderry", "obj_label": ["Sony Music"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Adrienne Bailon", "obj_label": ["The Island Def Jam Music Group"], "gpt4_choices": ["island def jam"]}
+{"sub_label": "Steve Perry", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Karen Carpenter", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Ritchie Blackmore", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Swizz Beatz", "obj_label": ["LC 00121", "DreamWorks Records", "Warner", "Warner Music Group Corp.", "Ruff Ryders Entertainment", "Atlantic", "LC 0121", "Warner Music Group", "Epic Records", "WMG", "Epic", "Warner Music", "Universal Motown Records", "Atlantic Records"], "gpt4_choices": ["ruff ryders entertainment"]}
+{"sub_label": "Buddy Rich", "obj_label": ["Blue Note", "LC 0133", "Blue Note Records", "LC 00133"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Paul Kantner", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Malcolm McLaren", "obj_label": ["LC 0407", "Epic Records", "LC 00407", "Island Records", "Epic", "Island"], "gpt4_choices": ["charisma records"]}
+{"sub_label": "Dan Reynolds", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Peter Frampton", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "James Blake", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Buffy Sainte-Marie", "obj_label": ["LC 1626", "Capitol", "LC 01056", "Chrysalis Records", "LC 1056", "MCA Records", "LC 0407", "Capitol Records", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["vanguard records"]}
+{"sub_label": "Jim Nabors", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Lena Horne", "obj_label": ["RCA", "LC 0171", "Blue Note Records", "RCA Records, Inc.", "Decca Records", "LC 0133", "LC 00133", "MGM Records", "Decca", "Blue Note", "The Decca Record Company Limited", "M-G-M Records", "Warner Bros. Records", "The Decca Record Company", "DECCA", "MGM", "LC 00171", "Decca Record Company"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Scott Walker", "obj_label": ["4AD", "LC 00305", "LC 0305", "Philips Records"], "gpt4_choices": ["4ad"]}
+{"sub_label": "Niall Horan", "obj_label": ["Capitol", "Capitol Records", "Columbia", "Columbia Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Bobby Brown", "obj_label": ["Interscope Records", "MCA, Inc.", "Interscope", "LC 01056", "LC 1056", "MCA Records", "MCA Inc.", "MCA"], "gpt4_choices": ["mca records"]}
+{"sub_label": "Nick Cannon", "obj_label": ["Jive Records", "Columbia", "Jive", "Sony Music", "Columbia Records", "Republic", "Republic Records"], "gpt4_choices": ["ncredible entertainment"]}
+{"sub_label": "Gerard Way", "obj_label": ["Reprise Records", "Warner Bros. Records"], "gpt4_choices": ["reprise records"]}
+{"sub_label": "Sammy Hagar", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["frontiers records"]}
+{"sub_label": "Isaac Hayes", "obj_label": ["Stax Records", "Columbia", "Columbia Records", "ABC Records", "Stax"], "gpt4_choices": ["stax records"]}
+{"sub_label": "Cat Power", "obj_label": ["Matador", "Matador Records"], "gpt4_choices": ["matador records"]}
+{"sub_label": "George Gershwin", "obj_label": ["Victor Talking Machine Company", "VTM", "The Victor Talking Machine Company"], "gpt4_choices": ["george gershwin passed away in 1937, before the modern concept of a record label signing an artist existed. therefore, he was not signed to any record label."]}
+{"sub_label": "Jamie Foxx", "obj_label": ["RCA", "J Records", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Mike McCready", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Debby Ryan", "obj_label": ["WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Bruce Hornsby", "obj_label": ["RCA", "RCA Records, Inc.", "Columbia", "Columbia Records"], "gpt4_choices": ["zappo productions"]}
+{"sub_label": "Macy Gray", "obj_label": ["LC 00121", "Concord Records", "Atlantic", "LC 0121", "Epic Records", "Epic", "LC 15025", "Atlantic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Little Boots", "obj_label": ["LC 00121", "Elektra", "LC 00192", "LC 0121", "Atlantic", "LC 0192", "Elektra Records", "Atlantic Records"], "gpt4_choices": ["on repeat records"]}
+{"sub_label": "Emmy Rossum", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Travis Tritt", "obj_label": ["Warner Bros. Records", "Columbia", "Columbia Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Nico", "obj_label": ["Elektra", "Island Records", "LC 00192", "LC 0192", "LC 0407", "LC 00407", "Beggars Banquet Records", "Verve Records", "Elektra Records", "Island"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Connie Britton", "obj_label": ["Big Machine Records", "Big Machine Records, LLC"], "gpt4_choices": ["big machine records"]}
+{"sub_label": "Mike WiLL Made-It", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "David Foster", "obj_label": ["LC 00121", "Reprise Records", "Atlantic", "LC 0121", "Verve Records", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "LP", "obj_label": ["Warner Records Inc.", "Warner Records"], "gpt4_choices": ["vagrant records"]}
+{"sub_label": "Cody Simpson", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Charlotte Gainsbourg", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["because music"]}
+{"sub_label": "Fat Joe", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Herb Alpert", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Serj Tankian", "obj_label": ["Columbia", "Columbia Records", "American Recordings", "American/Columbia Records", "Reprise Records"], "gpt4_choices": ["serjical strike records"]}
+{"sub_label": "Adrian Belew", "obj_label": ["LC 00121", "Atlantic", "LC 0121", "LC 0407", "LC 00407", "Island Records", "Atlantic Records", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "Paloma Faith", "obj_label": ["RCA", "Epic", "RCA Records, Inc.", "Epic Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Troye Sivan", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["emi music australia"]}
+{"sub_label": "Brooke Candy", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Art Garfunkel", "obj_label": ["Atco Records", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Bob Seger", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Nelly", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jazmine Sullivan", "obj_label": ["RCA", "J Records", "RCA Records, Inc.", "Arista Records", "Arista"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Bessie Smith", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Richard Thompson", "obj_label": ["Capitol", "LC 0407", "LC 00407", "Capitol Records", "Island Records", "Island"], "gpt4_choices": ["proper records"]}
+{"sub_label": "Steve Howe", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Pete Wentz", "obj_label": ["Decaydance Records", "DCD2 Records"], "gpt4_choices": ["dcd2 records"]}
+{"sub_label": "Bernard Cribbins", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Laura Mvula", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Foxy Brown", "obj_label": ["Bad Boy Records", "Bad Boy Entertainment", "def jam records", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "James Hetfield", "obj_label": ["Elektra", "Warner Bros. Film Productions Germany", "LC 00192", "Warner Bros. Pictures", "Warner Bros.", "Warner Bros. Entertainment, Inc.", "Warner Bros. Studios", "Warner Bros. Entertainment Inc.", "LC 0192", "WB", "Warner Brothers", "Elektra Records"], "gpt4_choices": ["blackened recordings"]}
+{"sub_label": "Gotye", "obj_label": ["Universal Republic Records"], "gpt4_choices": ["eleven: a music company"]}
+{"sub_label": "Alexz Johnson", "obj_label": ["Capitol", "Epic", "Epic Records", "Capitol Records"], "gpt4_choices": ["laydee spencer music"]}
+{"sub_label": "Chris Martin", "obj_label": ["LC 00121", "Parlophone UK", "LC 0121", "Parlophone Records", "Warner Music", "Atlantic Records", "EMI Music", "Capitol", "Warner", "Warner Music Group Corp.", "EMI Records", "Universal Music Group", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "Parlophone Communications", "UMG", "EMI Records Ltd.", "EMI (United Kingdom)", "Atlantic", "UMG Recordings, Inc.", "Parlophone", "EMI", "Warner Music Group", "WMG", "Universal Music"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Harry Connick Jr.", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Michel Delpech", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Véronique Sanson", "obj_label": ["Warner", "Warner Music Group Corp.", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["warner music france"]}
+{"sub_label": "Carl Perkins", "obj_label": ["LC 0171", "Sun", "Mercury Records", "Decca Records", "Mercury Music Group", "Columbia", "Decca", "Columbia Records", "The Decca Record Company Limited", "Sun Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["sun records"]}
+{"sub_label": "Vince Neil", "obj_label": ["Elektra", "Warner", "Warner Music Group Corp.", "LC 00192", "Warner Music Group", "LC 0192", "Warner Bros. Records", "WMG", "Warner Music", "Elektra Records"], "gpt4_choices": ["mötley records"]}
+{"sub_label": "Tricky", "obj_label": ["Epitaph Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["false idols"]}
+{"sub_label": "Thelonious Monk", "obj_label": ["Blue Note Records", "Columbia", "LC 0133", "LC 00133", "Columbia Records", "Blue Note"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Ronan Keating", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Eric Church", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "EMI"], "gpt4_choices": ["emi records nashville"]}
+{"sub_label": "Maren Morris", "obj_label": ["Sony Music", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia nashville"]}
+{"sub_label": "John Fogerty", "obj_label": ["Geffen Records", "Warner", "Warner Music Group Corp.", "LC 07266", "Asylum Records", "Warner Music Group", "LC 7266", "WMG", "Warner Music"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Rita Wilson", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["singing serpent"]}
+{"sub_label": "Kathleen Ferrier", "obj_label": ["LC 0171", "Decca Records", "The Decca Record Company Limited", "Decca", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Courtney Barnett", "obj_label": ["Matador", "Matador Records"], "gpt4_choices": ["marathon artists"]}
+{"sub_label": "Muni Long", "obj_label": ["Capitol", "def jam records", "Capitol Records", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["supergiant records"]}
+{"sub_label": "Bebe Rexha", "obj_label": ["Parlophone UK", "The Island Def Jam Music Group", "STMPD RCRDS", "Stmpd Rcrds", "Decaydance Records", "Parlophone Records", "Warner Bros. Records", "Parlophone Communications", "Stamped Records", "Parlophone", "DCD2 Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "RZA", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["wu-tang productions"]}
+{"sub_label": "Killer Mike", "obj_label": ["LC 00121", "Columbia", "Atlantic", "Columbia Records", "LC 0121", "Atlantic Records"], "gpt4_choices": ["run the jewels, inc."]}
+{"sub_label": "Dave Brubeck", "obj_label": ["Concord Records", "LC 15025", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Mr. T", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Alessia Cara", "obj_label": ["Def Jam", "def jam records", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Jussie Smollett", "obj_label": ["Billboard", "The Billboard", "Columbia", "Columbia Records", "Billboard.com"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Jon Batiste", "obj_label": ["Verve Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Vanessa Amorosi", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["universal music australia"]}
+{"sub_label": "Darius Rucker", "obj_label": ["LC 00121", "Capitol", "Atlantic", "LC 0121", "Capitol Records", "Atlantic Records"], "gpt4_choices": ["capitol records nashville"]}
+{"sub_label": "Eartha Kitt", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Carol Channing", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["decca records"]}
+{"sub_label": "Sheridan Smith", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["east west records"]}
+{"sub_label": "Skylar Grey", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Lena Park", "obj_label": ["Kakao Entertainment", "Seoul Records", "LOEN Entertainment", "Avex Group"], "gpt4_choices": ["planith sound"]}
+{"sub_label": "Montserrat Caballé", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Carly Rae Jepsen", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Francis Cabrel", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Cree Summer", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["work group"]}
+{"sub_label": "Levon Helm", "obj_label": ["ABC Records", "Capitol Records", "Capitol"], "gpt4_choices": ["vanguard records"]}
+{"sub_label": "David A. Stewart", "obj_label": ["J Records"], "gpt4_choices": ["bmg rights management"]}
+{"sub_label": "Cass Elliot", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["dunhill records"]}
+{"sub_label": "Rory Gallagher", "obj_label": ["LC 00121", "Polydor Records", "Atlantic", "Polydor", "LC 0121", "Universal Music Division Polydor", "Atlantic Records"], "gpt4_choices": ["chess records"]}
+{"sub_label": "Celia Cruz", "obj_label": ["Sony Music"], "gpt4_choices": ["fania records"]}
+{"sub_label": "The Kid Laroi", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Kelly Osbourne", "obj_label": ["Epic", "Sanctuary Records", "Epic Records", "Sanctuary Records Group Ltd."], "gpt4_choices": ["sanctuary records"]}
+{"sub_label": "Count Basie", "obj_label": ["RCA", "LC 0171", "Mercury Records", "RCA Records, Inc.", "Mercury Music Group", "Decca Records", "Decca", "The Decca Record Company Limited", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["roulette records"]}
+{"sub_label": "Theodore Bikel", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Laura Branigan", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Flo Rida", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Sarah McLachlan", "obj_label": ["RCA", "RCA Records, Inc.", "Arista Records", "Sony Music", "Arista", "Verve Records"], "gpt4_choices": ["nettwerk"]}
+{"sub_label": "Natalie Imbruglia", "obj_label": ["RCA", "RCA Records, Inc.", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Waka Flocka Flame", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Warner Bros. Records", "Atlantic Records"], "gpt4_choices": ["1017 brick squad"]}
+{"sub_label": "Halle Bailey", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["parkwood entertainment"]}
+{"sub_label": "Rebecca Black", "obj_label": ["Columbia", "Warner", "Warner Music Group Corp.", "UMG Recordings, Inc.", "Columbia Records", "Warner Music Group", "Universal Music Group", "WMG", "Universal Music", "Warner Music", "UMG"], "gpt4_choices": ["rebecca black is an independent artist and not currently signed to any record label."]}
+{"sub_label": "Ryan Tedder", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Kris Kristofferson", "obj_label": ["Mercury Records", "Mercury Music Group", "Columbia", "Warner", "Warner Music Group Corp.", "Columbia Records", "Warner Music Group", "WMG", "Warner Music"], "gpt4_choices": ["monument records"]}
+{"sub_label": "Sky Ferreira", "obj_label": ["Parlophone UK", "Capitol", "Parlophone Records", "Parlophone Communications", "Capitol Records", "Parlophone"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Taylor Hawkins", "obj_label": ["LC 07266", "Geffen Records", "LC 7266"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Jack Bruce", "obj_label": ["Polydor Records", "EMI Music", "EMI Records Ltd.", "Atco Records", "EMI (United Kingdom)", "Polydor", "EMI Records", "EMI Records, Ltd.", "Universal Music Division Polydor", "EMI Records Limited", "EMI"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Bob Newhart", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Mick Taylor", "obj_label": ["LC 00121", "LC 0171", "CBS Records", "LC 0121", "Decca", "The Decca Record Company Limited", "Virgin Records", "The Decca Record Company", "Atlantic Records", "Decca Record Company", "Decca Records", "EMI Music", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "Columbia", "EMI Records Ltd.", "EMI (United Kingdom)", "Atlantic", "DECCA", "EMI", "LC 00171", "Columbia Records", "LC 33687"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Q-Tip", "obj_label": ["Jive Records", "GOOD Music", "Jive", "Arista Records", "def jam records", "Arista", "Epic Records", "GOOD Music, Inc.", "Epic", "Def Jam", "Universal Motown Records", "Def Jam Recordings"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Steve Lukather", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["mascot label group"]}
+{"sub_label": "YoungBoy Never Broke Again", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Wilson Pickett", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Prince Royce", "obj_label": ["SME", "Sony Music", "Sony Música", "SM", "Sony Music Entertainment"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Seal", "obj_label": ["LC 03228", "Sire", "LC 3228", "Sire Records", "Warner Bros. Records", "Reprise Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Ansel Elgort", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["island records"]}
+{"sub_label": "James Horner", "obj_label": ["LC 1056", "MCA Records", "LC 01056"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "Ross Lynch", "obj_label": ["Hollywood Records", "WDR", "LC 10025", "Walt Disney Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Maggie Rogers", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Chaka Khan", "obj_label": ["ABC Records", "Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Calum Scott", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Billy Idol", "obj_label": ["LC 1626", "Chrysalis Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Don Henley", "obj_label": ["Asylum Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Herbert Grönemeyer", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "EMI"], "gpt4_choices": ["grönland records"]}
+{"sub_label": "Chloe Bailey", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["parkwood entertainment"]}
+{"sub_label": "David Lee Roth", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Charlotte Church", "obj_label": ["Sony Music", "Columbia", "Columbia Records"], "gpt4_choices": ["sony bmg"]}
+{"sub_label": "Tyler Joseph", "obj_label": ["Fueled By Ramen, LLC", "Fueled by Ramen", "Fueled By Ramen LLC", "FBR"], "gpt4_choices": ["fueled by ramen"]}
+{"sub_label": "Anita Bryant", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Jakob Dylan", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Richard Ashcroft", "obj_label": ["Parlophone UK", "LC 33687", "Virgin Records", "Parlophone Records", "Parlophone Communications", "Parlophone"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Mark Tremonti", "obj_label": ["Roadrunner Records", "EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Republic", "EMI Records", "EMI Records, Ltd.", "EMI Records Limited", "Republic Records", "EMI"], "gpt4_choices": ["napalm records"]}
+{"sub_label": "Harry Nilsson", "obj_label": ["RCA", "Mercury Records", "Mercury Music Group", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Camélia Jordana", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music france"]}
+{"sub_label": "John Paul Jones", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["led zeppelin records"]}
+{"sub_label": "Debbie Harry", "obj_label": ["LC 1626", "Chrysalis Records"], "gpt4_choices": ["chrysalis records"]}
+{"sub_label": "Bret Michaels", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["poison spyder records"]}
+{"sub_label": "Connie Francis", "obj_label": ["M-G-M Records", "MGM", "MGM Records"], "gpt4_choices": ["mgm records"]}
+{"sub_label": "Sofia Carson", "obj_label": ["Hollywood Records", "Republic", "Republic Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Robert Mitchum", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Lulu", "obj_label": ["LC 0171", "Decca Records", "Atco Records", "Decca", "The Decca Record Company Limited", "Epic Records", "The Decca Record Company", "Epic", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Dido", "obj_label": ["RCA", "RCA Records, Inc.", "Arista Records", "Sony Music", "Arista"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Bhad Bhabie", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Edurne", "obj_label": ["SME", "Sony Music", "Sony Música", "SM", "Sony Music Entertainment"], "gpt4_choices": ["sony music spain"]}
+{"sub_label": "Dizzy Gillespie", "obj_label": ["Pablo", "RCA", "RCA Records, Inc.", "Capitol", "Pablo Records", "Savoy Records", "Capitol Records", "Verve Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Bobby Womack", "obj_label": ["XL Recordings", "LC 5667", "LC 05667"], "gpt4_choices": ["mca records"]}
+{"sub_label": "Tyga", "obj_label": ["Ca$h Money Records", "GOOD Music", "Columbia", "def jam records", "Columbia Records", "Cash Money Records", "GOOD Music, Inc.", "Young Money Entertainment", "Def Jam", "Def Jam Recordings"], "gpt4_choices": ["last kings records"]}
+{"sub_label": "Gary Clark Jr.", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner records"]}
+{"sub_label": "Tinie Tempah", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["parlophone"]}
+{"sub_label": "Paul Weller", "obj_label": ["Parlophone UK", "Parlophone", "Parlophone Records", "Parlophone Communications"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Paul Whiteman", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["victor talking machine company"]}
+{"sub_label": "Rob Halford", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Victor de Sabata", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["emi classics"]}
+{"sub_label": "Andy Williams", "obj_label": ["Sony Music", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Anne Murray", "obj_label": ["EMI Music", "EMI Records Ltd.", "EMI (United Kingdom)", "Capitol", "EMI Records", "EMI Records, Ltd.", "Capitol Records", "EMI Records Limited", "EMI"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Jarvis Cocker", "obj_label": ["Island Records", "LC 0407", "LC 00407", "Island"], "gpt4_choices": ["rough trade records"]}
+{"sub_label": "Charlie Parker", "obj_label": ["Verve Records", "Mercury Records", "Savoy Records", "Mercury Music Group"], "gpt4_choices": ["savoy records"]}
+{"sub_label": "Betty Who", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["awal"]}
+{"sub_label": "Maxwell", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Kirk Hammett", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["blackened recordings"]}
+{"sub_label": "Trevor Rabin", "obj_label": ["Elektra", "Varèse Sarabande", "Atco Records", "LC 1626", "LC 00192", "Varese Sarabande", "Chrysalis Records", "LC 0192", "Hollywood Records", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Clarence Clemons", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Sarah Vaughan", "obj_label": ["Mercury Records", "Mercury Music Group", "Columbia", "Columbia Records"], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Rakim", "obj_label": ["Aftermath", "LC 01056", "Aftermath Entertainment", "LC 1056", "MCA Records", "LC 0407", "LC 00407", "Island Records", "Island"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jason Newsted", "obj_label": ["Elektra", "LC 00192", "Metal Blade Records", "LC 0192", "Elektra Records"], "gpt4_choices": ["chophouse records"]}
+{"sub_label": "Taryn Manning", "obj_label": ["DreamWorks Records"], "gpt4_choices": ["dreamscape records"]}
+{"sub_label": "Jenifer", "obj_label": ["Universal Music", "UMG", "Universal Music Group", "UMG Recordings, Inc."], "gpt4_choices": ["mercury records"]}
+{"sub_label": "Peggy Lee", "obj_label": ["LC 0171", "Decca Records", "Capitol", "Decca", "The Decca Record Company Limited", "Capitol Records", "The Decca Record Company", "DECCA", "LC 00171", "Decca Record Company"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Mireille Mathieu", "obj_label": ["LC 00121", "Polydor Records", "LC 00305", "Polydor", "LC 0121", "BMG Ariola", "Atlantic Records", "Capitol", "Universal Music Division Polydor", "Capitol Records", "Bertelsmann Schallplattenring", "Philips Records", "Ariola", "Columbia", "Atlantic", "LC 0305", "Ariola Records", "Columbia Records", "Ariola Express"], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Paul Butterfield", "obj_label": ["LC 00192", "Elektra", "LC 0192", "Elektra Records"], "gpt4_choices": ["elektra records"]}
+{"sub_label": "Thomas Neuwirth", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Amber Liu", "obj_label": ["SM Entertainment", "Star Museum Entertainment", "S.M. Entertainment"], "gpt4_choices": ["steel wool entertainment"]}
+{"sub_label": "Robert Goulet", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Chad Gable", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["wwe"]}
+{"sub_label": "Santigold", "obj_label": ["Roc Nation"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Rick James", "obj_label": ["Mercury Records", "Mercury Music Group", "Motown", "Motown Records", "Reprise Records"], "gpt4_choices": ["motown"]}
+{"sub_label": "Nicola Roberts", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Father John Misty", "obj_label": ["Sub Pop", "Sub Pop Records"], "gpt4_choices": ["sub pop"]}
+{"sub_label": "Cœur de pirate", "obj_label": ["UMG Recordings, Inc.", "Cherrytree Records", "Universal Music Group", "Universal Music", "UMG"], "gpt4_choices": ["dare to care records"]}
+{"sub_label": "Ronnie James Dio", "obj_label": ["Warner Bros. Film Productions Germany", "Warner Bros. Pictures", "Warner Bros.", "Warner Bros. Entertainment, Inc.", "Warner Bros. Studios", "Warner Bros. Entertainment Inc.", "WB", "Warner Brothers"], "gpt4_choices": ["niji entertainment group"]}
+{"sub_label": "Luigi Nono", "obj_label": ["Deutsche Grammophon Gesellschaft", "Deutsche Grammophon", "Deutsche Grammophon GmbH"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Miranda Cosgrove", "obj_label": ["Epic", "Epic Records", "Columbia", "Columbia Records"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Ezekiel", "obj_label": ["Columbia", "Columbia Records"], "gpt4_choices": ["sorry, i couldn't find information on a musician named ezekiel and the record label they are signed to."]}
+{"sub_label": "Charley Pride", "obj_label": ["RCA", "RCA Records, Inc."], "gpt4_choices": ["rca records"]}
+{"sub_label": "Jordan Fisher", "obj_label": ["Hollywood Records"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Trey Songz", "obj_label": ["LC 00121", "LC 0121", "Atlantic", "Atlantic Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Maurice Gibb", "obj_label": ["Polydor Records", "Universal Music Division Polydor", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Matisyahu", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["fallen sparks records"]}
+{"sub_label": "Vanessa Carlton", "obj_label": ["A and M Records", "A&M/Interscope Records", "A&M Records", "A&M Recordings", "A & M Records", "A&M (record label)"], "gpt4_choices": ["dine alone records"]}
+{"sub_label": "Herbert Kegel", "obj_label": ["LC 00305", "LC 0305", "Philips Records"], "gpt4_choices": ["berlin classics"]}

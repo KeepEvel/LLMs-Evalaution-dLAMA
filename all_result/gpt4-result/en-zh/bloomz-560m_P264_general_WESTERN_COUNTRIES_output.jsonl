@@ -1,0 +1,3 @@
+{"sub_uri": "Q36153", "obj_uri": ["Q183387"], "sub_label": "Beyoncé", "obj_label": ["Columbia Records"], "country": ["Q30"], "size": 381340, "uuid": "P264_general_WESTERN_COUNTRIES_0", "bloom_choices": ["Interscope Records"]}
+{"sub_uri": "Q128799", "obj_uri": ["Q183387", "Q330629", "Q56760250"], "sub_label": "Ricky Martin", "obj_label": ["Columbia Records", "Sony Music", "Sony Music"], "country": ["Q29"], "size": 356931, "uuid": "P264_general_WESTERN_COUNTRIES_1", "bloom_choices": ["Virgin Records"]}
+{"sub_uri": "Q26876", "obj_uri": ["Q2902300", "Q4413456"], "sub_label": "Taylor Swift", "obj_label": ["Big Machine Records", "Republic Records"], "country": ["Q30"], "size": 344112, "uuid": "P264_general_WESTERN_COUNTRIES_2", "bloom_choices": ["Virgin Records"]}

@@ -1,0 +1,3 @@
+{"sub_uri": "Q10132", "obj_uri": ["Q29"], "sub_label": "Rafael Nadal", "obj_label": ["Spain"], "country": ["Q29"], "size": 606662, "uuid": "P27_general_WESTERN_COUNTRIES_0", "bloom_choices": ["Spain"]}
+{"sub_uri": "Q311634", "obj_uri": ["Q142"], "sub_label": "Gilles de Rais", "obj_label": ["France"], "country": ["Q142"], "size": 482212, "uuid": "P27_general_WESTERN_COUNTRIES_1", "bloom_choices": ["France"]}
+{"sub_uri": "Q5829", "obj_uri": ["Q142"], "sub_label": "Jean-Luc Mélenchon", "obj_label": ["France"], "country": ["Q142"], "size": 436799, "uuid": "P27_general_WESTERN_COUNTRIES_2", "bloom_choices": ["France"]}

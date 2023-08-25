@@ -1,0 +1,12 @@
+{"sub_label": "Chile", "obj_label": ["Santiago", "Santiago de Chile", "Greater Santiago", "Santiago, Chile"], "gpt4_choices": ["santiago"]}
+{"sub_label": "Venezuela", "obj_label": ["Santiago de León de Caracas", "Santiago de Leon de Caracas", "CCS", "Caracas"], "gpt4_choices": ["caracas"]}
+{"sub_label": "Peru", "obj_label": ["Lima", "City of the Kings"], "gpt4_choices": ["lima"]}
+{"sub_label": "Uruguay", "obj_label": ["Montevideo"], "gpt4_choices": ["montevideo"]}
+{"sub_label": "Bolivia", "obj_label": ["The Illustrious and Heroic Sucre", "La Paz", "La Paz, Bolivia", "Nuestra Señora de La Paz", "La Plata", "Chuquisaca", "Charcas", "Sucre"], "gpt4_choices": ["sucre"]}
+{"sub_label": "Ecuador", "obj_label": ["Quito", "UIO", "San Francisco de Quito", "Quito, Ecuador"], "gpt4_choices": ["quito"]}
+{"sub_label": "Colombia", "obj_label": ["Bogota", "Bogota, Colombia", "Bogotá, D.C.", "Bogotá", "Santafé de Bogotá", "Santa Fe de Bogotá"], "gpt4_choices": ["bogotá"]}
+{"sub_label": "Brazil", "obj_label": ["Brasília"], "gpt4_choices": ["brasilia"]}
+{"sub_label": "Argentina", "obj_label": ["Ciudad Autonoma de Buenos Aires", "Buenos Aires", "Buenos Aires city"], "gpt4_choices": ["buenos aires"]}
+{"sub_label": "Paraguay", "obj_label": ["Asunción", "Asuncion", "Assumption", "Asu"], "gpt4_choices": ["asunción"]}
+{"sub_label": "Suriname", "obj_label": ["Paramaribo"], "gpt4_choices": ["paramaribo"]}
+{"sub_label": "Guyana", "obj_label": ["Georgetown", "Georgetown, British Guiana", "Garden City of the Caribbean"], "gpt4_choices": ["georgetown"]}

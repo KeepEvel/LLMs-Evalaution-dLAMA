@@ -1,0 +1,13 @@
+{"sub_label": "Japan", "obj_label": ["Tōkyō-to", "Tokyo Metropolis", "Tokio", "Tôkyô", "Tokyo, Japan", "Tokyo Prefecture", "Tōkyō", "Tokyo-to", "Tokyo Metropolitan prefecture", "Tokei", "Tokyo (Japan)", "Tôkyô-to", "Tokyo"], "gpt4_choices": ["tokyo"]}
+{"sub_label": "People's Republic of China", "obj_label": ["Pe-king", "Khanbalik", "Yan-ching", "Beijing", "Peip'ing", "Peiping", "Zhongdu", "Khanbaliq", "Chungtu", "BJ", "Peking", "Yanjing", "Beiping", "Shuntian Fu", "Chung-tu", "Shuntianfu", "Shun-t'ien", "Pei-p'ing", "Shuntian", "Pekin", "Yanking", "Pei-ching", "Shun-tien", "Pei-ping"], "gpt4_choices": ["beijing"]}
+{"sub_label": "Taiwan", "obj_label": ["The City of Azaleas", "City of Taipei", "Taipei City", "Taibei", "Taipei"], "gpt4_choices": ["taipei"]}
+{"sub_label": "Thailand", "obj_label": ["Sia-Yut'hia", "Krung Thep Maha Nakhon", "Krung Thep", "Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit", "Bangkok"], "gpt4_choices": ["bangkok"]}
+{"sub_label": "Philippines", "obj_label": ["City of Manila", "Pearl of the Orient", "Queen City of the Pacific and others", "Manila"], "gpt4_choices": ["manila"]}
+{"sub_label": "Vietnam", "obj_label": ["Hanoi", "Ha Noi", "Đại La", "Hà Nội", "Tonkin", "Thang Long", "Dong Do"], "gpt4_choices": ["hanoi"]}
+{"sub_label": "Singapore", "obj_label": ["Garden City", "Singapore", "🇸🇬", "S'pore", "SG", "Singapore City", "SIN", "sg", "Republic of Singapore", "Lion City", "SGP"], "gpt4_choices": ["singapore"]}
+{"sub_label": "South Korea", "obj_label": ["Keijō", "Sŏul T'ŭkpyŏlsi", "Seoul City", "Hanseong", "Namgyeong", "Gyeongseong", "Hanyang", "Wiryeseong", "Seoul", "Keijou"], "gpt4_choices": ["seoul"]}
+{"sub_label": "North Korea", "obj_label": ["Pyongyang", "Capital of Revolution", "Ryugyong"], "gpt4_choices": ["pyongyang"]}
+{"sub_label": "Myanmar", "obj_label": ["Nay Pyi Taw", "Naypyidaw", "Naypyitaw"], "gpt4_choices": ["naypyidaw"]}
+{"sub_label": "Indonesia", "obj_label": ["Jakarta", "Special Capital Region of Jakarta", "Jakarta, Indonesia", "Djakarta", "JKT", "Jacarta", "Jakarta Province"], "gpt4_choices": ["jakarta"]}
+{"sub_label": "Malaysia", "obj_label": ["KL", "Federal Territory of Kuala Lumpur", "Kuala Lumpur", "K.L."], "gpt4_choices": ["kuala lumpur"]}
+{"sub_label": "Mongolia", "obj_label": ["Ulan Bator", "Wulan Batuo", "Ulan-Bator", "Kulun", "East Hüree", "Khan of Urga", "Niislel Hüree", "Ulaanbaatar", "Ih Huree", "Hüree"], "gpt4_choices": ["ulaanbaatar"]}

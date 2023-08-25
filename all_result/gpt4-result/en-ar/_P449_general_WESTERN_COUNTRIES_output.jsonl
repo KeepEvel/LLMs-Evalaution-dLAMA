@@ -1,0 +1,1000 @@
+{"sub_label": "Game of Thrones", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Agents of S.H.I.E.L.D.", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Grey's Anatomy", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "WandaVision", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Anything Goes", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["broadway"]}
+{"sub_label": "The Lord of the Rings: The Rings of Power", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "SpongeBob SquarePants", "obj_label": ["Globo", "Pinwheel", "Rede Globo", "Nick", "Sistema Brasileiro de Televisão", "Brazilian TV Globo", "SBT", "TV Globo", "Nickelodeon"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Gute Zeiten, schlechte Zeiten", "obj_label": ["RTL Fernsehen", "RTL", "RTL Television GmbH", "RTL Television", "RTL plus", "Radio Télé Luxemburg", "Radio Télévision Luxembourg"], "gpt4_choices": ["rtl television"]}
+{"sub_label": "American Idol", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Elementary", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Star Trek: Discovery", "obj_label": ["CBS All Access", "Tiffany Network", "Paramount Plus", "CBS", "Paramount+", "Columbia Broadcasting System", "10 All Access", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs all access"]}
+{"sub_label": "EastEnders", "obj_label": ["BBC Television Service", "BBC2", "BBC One", "BBC1", "BBC TV", "BBC Two", "BBC 1", "BBC 2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Walking Dead", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Fort Boyard", "obj_label": ["A2", "Antenne 2", "France 2"], "gpt4_choices": ["antenne 2"]}
+{"sub_label": "The Masked Singer", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Simpsons", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "A Million Little Things", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "American Horror Story", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Doctor Who", "obj_label": ["BBC HD", "BBC Television Service", "BBC1", "BBC One", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "New Amsterdam", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Adventure Time", "obj_label": ["Teletoon", "Nicktoons Network", "Cartoon Network", "Nicktoons TV", "Nicktoons"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Halt and Catch Fire", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "The Falcon and the Winter Soldier", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Mayday", "obj_label": ["Discovery.com", "Discovery", "The Discovery Channel", "TV National Geographic Channel Animal in Germany", "Discovery Channel", "Discovery Korea", "National Geographic Channel"], "gpt4_choices": ["discovery channel"]}
+{"sub_label": "The Amazing Race", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Glee", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Invader Zim", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Judge Judy", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["cbs television distribution"]}
+{"sub_label": "Lucky Luke", "obj_label": ["France 3"], "gpt4_choices": ["france 3"]}
+{"sub_label": "Stranger Things", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Breaking Bad", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Parks and Recreation", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "The Office", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "30 for 30", "obj_label": ["Entertainment and Sports Programming Network", "ESPN"], "gpt4_choices": ["espn"]}
+{"sub_label": "Black Mirror", "obj_label": ["C4", "Net Flix", "Netflix.com", "Channel 4", "Netflix"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "House", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "She-Hulk: Attorney at Law", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["she-hulk: attorney at law is not a television show, so it has not aired on any network."]}
+{"sub_label": "Supernatural", "obj_label": ["TNT USA", "TNT", "The CW Television Network", "The CW", "Turner Network Television"], "gpt4_choices": ["the wb television network"]}
+{"sub_label": "Arrow", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Sopranos", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Friends", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Mad Men", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "The Daily Show", "obj_label": ["Comedy Central"], "gpt4_choices": ["comedy central"]}
+{"sub_label": "The X-Files", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Succession", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Game of Thrones, season 6", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Manifest", "obj_label": ["Net Flix", "Netflix.com", "NBC", "Netflix", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Moon Knight", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Saturday Night Live", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Bold Type", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["freeform"]}
+{"sub_label": "Sanremo Music Festival", "obj_label": ["Programma Nazionale (1952-1976)", "Rete 1 (1976-1983)", "Rai Uno", "Rai 1"], "gpt4_choices": ["rai 1"]}
+{"sub_label": "Lost", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Oprah with Meghan and Harry", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Family Guy", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Neighbours", "obj_label": ["10 Peach", "10 TV Australia", "Channel Ten", "Channel Seven", "Network 7", "Network Ten", "Network 10", "Channel 10", "10 Network", "Seven head Network", "Independent Television System", "Seven Network", "0-10 Network", "Channel 7", "Seven", "7", "Network Seven"], "gpt4_choices": ["seven network"]}
+{"sub_label": "Forever", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["abc (american broadcasting company)"]}
+{"sub_label": "Steven Universe", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Euphoria", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "South Park", "obj_label": ["Comedy Central"], "gpt4_choices": ["comedy central"]}
+{"sub_label": "Adult Swim", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Física o Química", "obj_label": ["Antena 3"], "gpt4_choices": ["antena 3"]}
+{"sub_label": "Father Knows Best", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs radio"]}
+{"sub_label": "The Great British Baking Show", "obj_label": ["Public Broadcasting System", "PBS", "BBC Television Service", "pbs.org", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Sex/Life", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Alles was zählt", "obj_label": ["RTL Fernsehen", "RTL", "RTL Television GmbH", "RTL Television", "RTL plus", "Radio Télé Luxemburg", "Radio Télévision Luxembourg"], "gpt4_choices": ["rtl television"]}
+{"sub_label": "Verbotene Liebe", "obj_label": ["Deutsches Fernsehen", "Erstes Deutsches Fernsehen", "Das Erste"], "gpt4_choices": ["das erste"]}
+{"sub_label": "The Big Bang Theory", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Flash", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Snowpiercer", "obj_label": ["TNT USA", "Turner Network Television", "TNT"], "gpt4_choices": ["tnt"]}
+{"sub_label": "Luke Cage, season 1", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Plus belle la vie", "obj_label": ["France 3"], "gpt4_choices": ["france 3"]}
+{"sub_label": "Riverdale", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Ultimate Beastmaster", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Doctor Who, series 5", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "WWE Hall of Fame", "obj_label": ["Spike Television", "Spike", "Spike TV", "USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Coronation Street", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv (independent television)"]}
+{"sub_label": "Tatort", "obj_label": ["Deutsches Fernsehen", "Erstes Deutsches Fernsehen", "Das Erste"], "gpt4_choices": ["das erste"]}
+{"sub_label": "America's Got Talent", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Better Call Saul", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc"]}
+{"sub_label": "What We Do in the Shadows", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx networks"]}
+{"sub_label": "Survivor", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Unter uns", "obj_label": ["RTL Fernsehen", "RTL", "RTL Television GmbH", "RTL Television", "RTL plus", "Radio Télé Luxemburg", "Radio Télévision Luxembourg"], "gpt4_choices": ["das erste"]}
+{"sub_label": "Money Heist", "obj_label": ["Antena 3"], "gpt4_choices": ["antena 3"]}
+{"sub_label": "Scandal", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Community", "obj_label": ["Yahoo! Screen", "NBC", "Yahoo! View", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Marvelous Mrs. Maisel", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Star Trek: The Original Series", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Defenders", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Marienhof", "obj_label": ["Deutsches Fernsehen", "Erstes Deutsches Fernsehen", "Das Erste"], "gpt4_choices": ["das erste"]}
+{"sub_label": "Ozark", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Good Trouble", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["freeform"]}
+{"sub_label": "Top of the Pops", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Handmaid's Tale", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Watchmen", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Jeopardy!", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "House of the Dragon", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "stinky", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["stinky & dirty show"]}
+{"sub_label": "My Favorite Martian", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["columbia broadcasting system"]}
+{"sub_label": "Black Lightning", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "My Little Pony: Friendship Is Magic", "obj_label": ["Discovery Family", "Discovery Kids Channel", "Discovery Kids", "Hub Network", "The Hub"], "gpt4_choices": ["the hub network"]}
+{"sub_label": "How I Met Your Mother", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "RuPaul's Drag Race", "obj_label": ["VH-1: Video Hits One", "MTV", "VH1", "VH1: Music First", "Music Television", "Video Hits One", "VI+1"], "gpt4_choices": ["logo tv"]}
+{"sub_label": "Batman: The Animated Series", "obj_label": ["Fox Kids", "Foxkids"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Red Dwarf", "obj_label": ["BBC 2", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Miss France", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["tf1"]}
+{"sub_label": "Daredevil", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Infinite Monkey Cage", "obj_label": ["Radio Four", "BBC Radio Four", "BBC Radio 4", "Radio 4"], "gpt4_choices": ["bbc radio 4"]}
+{"sub_label": "Buffy the Vampire Slayer", "obj_label": ["United Paramount Network", "UPN"], "gpt4_choices": ["the wb television network"]}
+{"sub_label": "Supergirl", "obj_label": ["Tiffany Network", "Columbia Broadcasting System", "CBS", "The CW Television Network", "The CW", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "What If...?", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "13 Reasons Why", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Fringe", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Legend of Korra", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Ms. Marvel", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["ms. marvel originally aired on disney+."]}
+{"sub_label": "Captain Scarlet and the Mysterons", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Downton Abbey", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv"]}
+{"sub_label": "Sense8", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "House of Cards", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Futurama", "obj_label": ["Comedy Central", "FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Good Girls", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "The Last of Us", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["the last of us is not a television show, it's a video game originally released on playstation 3."]}
+{"sub_label": "Outlander", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "Big Sky", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Legends of Tomorrow", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "FBI: Most Wanted", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "30 Rock", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Witcher", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Gilmore Girls", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the wb television network"]}
+{"sub_label": "Superbook", "obj_label": ["CBN", "Christian Broadcasting Network"], "gpt4_choices": ["tokyo broadcasting system television"]}
+{"sub_label": "Gravity Falls", "obj_label": ["The Disney Channel", "Disney XD", "Disney Channel", "Disney", "Baxik TV"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Law & Order: Special Victims Unit", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Mandalorian", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Bridgerton", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "All My Children", "obj_label": ["hulu.com", "Apple iTunes", "American Broadcasting Company", "Hulu", "iTunes", "ABC"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Zoey's Extraordinary Playlist", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "You", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["lifetime"]}
+{"sub_label": "Stargate SG-1", "obj_label": ["SciFi", "Sci-Fi Channel", "Syfy", "Sci Fi", "SHO", "SciFi Entertainment", "Showtime Networks", "Showtime", "Showtime TV"], "gpt4_choices": ["showtime"]}
+{"sub_label": "The Good Wife", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Star Trek: The Next Generation", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["paramount television"]}
+{"sub_label": "Desperate Housewives", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Obi-Wan Kenobi", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["star wars: episode iv - a new hope"]}
+{"sub_label": "The West Wing", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Firefly", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Modern Family", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Peacemaker", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "Westworld", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Mr. Robot", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Got Talent", "obj_label": ["Independent Television", "NBC", "ITV", "National Broadcasting Company"], "gpt4_choices": ["america's got talent"]}
+{"sub_label": "I Love Lucy", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["columbia broadcasting system"]}
+{"sub_label": "A Series of Unfortunate Events", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Days of Our Lives", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Barry", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Crown", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Seinfeld", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Killing Eve", "obj_label": ["BBC America"], "gpt4_choices": ["british broadcasting corporation america"]}
+{"sub_label": "Pose", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "101 Dalmatian Street", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Hawkeye", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "The Great North", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Wire", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Star Trek: Picard", "obj_label": ["10 All Access", "Paramount+", "CBS All Access", "Paramount Plus"], "gpt4_choices": ["cbs all access"]}
+{"sub_label": "The O.C.", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Gossip Girl", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Voice", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Mulan", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["walt disney pictures"]}
+{"sub_label": "The Ultimate Fighter", "obj_label": ["Spike TV", "Spike", "Spike Television"], "gpt4_choices": ["spike tv"]}
+{"sub_label": "Sherlock", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Don't Look Up", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Harley Quinn", "obj_label": ["dcuniverse.com", "DC Universe"], "gpt4_choices": ["batman: the animated series"]}
+{"sub_label": "Twin Peaks", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "American Dad!", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Carmen Sandiego", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "Nashville", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Game of Thrones, season 8", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Mapping the World", "obj_label": ["Arte", "Association relative à la télévision européenne", "ARTE France"], "gpt4_choices": ["arte"]}
+{"sub_label": "The Man in the High Castle", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Star Trek: Enterprise", "obj_label": ["United Paramount Network", "UPN"], "gpt4_choices": ["upn (united paramount network)"]}
+{"sub_label": "Doom Patrol", "obj_label": ["dcuniverse.com", "DC Universe"], "gpt4_choices": ["dc universe"]}
+{"sub_label": "Les Guignols de l'info", "obj_label": ["Canal+", "Canal+ HD", "CANAL+"], "gpt4_choices": ["canal+"]}
+{"sub_label": "Justice League Action", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Kim Possible", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "The Blacklist", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Umbrella Academy", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "True Blood", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "New Girl", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Better Things", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Blue Peter", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Unikitty!", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The 100", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Love, Death & Robots", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "How to Get Away with Murder", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Jessica Jones", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Sinner", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Archer", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Home and Away", "obj_label": ["Channel Seven", "Network 7", "Seven head Network", "Seven Network", "Seven", "7", "Channel 7", "Network Seven"], "gpt4_choices": ["seven network"]}
+{"sub_label": "True Detective, season 1", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Big Little Lies", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Rick and Morty", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "One Tree Hill", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the wb television network"]}
+{"sub_label": "Destroyed in Seconds", "obj_label": ["Discovery.com", "Discovery", "The Discovery Channel", "Discovery Channel", "Discovery Korea"], "gpt4_choices": ["discovery channel"]}
+{"sub_label": "American Song Contest", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Blue's Clues & You!", "obj_label": ["Nickelodeon", "Pinwheel", "Nick", "Nick Jr."], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "iCarly", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Degrassi: The Next Generation", "obj_label": ["CTV (Canadian Television Network)", "CTV Television Network"], "gpt4_choices": ["ctv television network"]}
+{"sub_label": "Good Game", "obj_label": ["Australian Broadcasting Corporation", "ABC", "Australian Broadcasting Company", "Australian Broadcasting Commission"], "gpt4_choices": ["australian broadcasting corporation"]}
+{"sub_label": "Brookside", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "One Life to Live", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Fear the Walking Dead", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Cleopatra in Space (TV series)", "obj_label": ["Peacock"], "gpt4_choices": ["peacock (streaming service)"]}
+{"sub_label": "Once Upon a Time", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Pretty Little Liarss", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["american broadcasting company family"]}
+{"sub_label": "Heroes", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Cobra Kai", "obj_label": ["YT Premium", "YouTube Premium", "YT Red", "YouTube Red", "YTP"], "gpt4_choices": ["youtube premium"]}
+{"sub_label": "Top Gear", "obj_label": ["BBC Television Service", "BBC2", "BBC One", "BBC1", "BBC TV", "British Broadcasting Corporation", "BBC Two", "BBC 1", "BBC 2", "BBC"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Game of Thrones, season 7", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Snowfall", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "The Bill", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv (independent television)"]}
+{"sub_label": "Betty in NY", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["abc (american broadcasting company)"]}
+{"sub_label": "Game of Thrones, season 1", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Sam & Cat", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Daredevil, season 2", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Roseanne", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Homeland", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Dexter's Laboratory", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Americans", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "American Ninja Warrior", "obj_label": ["G4", "G4 TV", "G4tv"], "gpt4_choices": ["g4 (tv network)"]}
+{"sub_label": "ThunderCats", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Andor", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["as an encyclopedia, i must inform you that \"andor\" has not been released yet, so it's not possible to provide the name of the platform it originally aired on. however, it is known that it will be released on disney+."]}
+{"sub_label": "Crazy Ex-Girlfriend", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw"]}
+{"sub_label": "Criminal Minds", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Winx Club", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["rai 2"]}
+{"sub_label": "Central Park", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Dark", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Mysterious Cities of Gold", "obj_label": ["nhk.or.jp", "Nippon Hōsō Kyōkai", "NHK", "Japan Broadcasting Corporation", "Nippon Hoso Kyokai"], "gpt4_choices": ["nhk"]}
+{"sub_label": "His Dark Materials", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Jimmy Kimmel Live!", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Chernobyl", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Hannah Montana", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Daredevil, season 1", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Only Fools and Horses", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Claws", "obj_label": ["TNT USA", "Turner Network Television", "TNT"], "gpt4_choices": ["tnt (turner network television)"]}
+{"sub_label": "Thomas & Friends: All Engines Go", "obj_label": ["Netflix", "Cartoon Network", "Net Flix", "Netflix.com"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Quantico", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "High School Musical: The Musical: The Series", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "90210", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Two and a Half Men", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Siren", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["freeform"]}
+{"sub_label": "Avatar: The Last Airbender", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Tom and Jerry", "obj_label": ["Cartoon Network"], "gpt4_choices": ["metro-goldwyn-mayer"]}
+{"sub_label": "The Promise", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["the promise originally aired on channel 4."]}
+{"sub_label": "60 Minutes", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Today", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Hawaii Five-0", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Luke Cage", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "What a Cartoon!", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Law & Order", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Veronica Mars", "obj_label": ["hulu.com", "United Paramount Network", "UPN", "The CW Television Network", "Hulu", "The CW"], "gpt4_choices": ["upn (united paramount network)"]}
+{"sub_label": "The X Factor", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv"]}
+{"sub_label": "Shameless", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Sons of Anarchy", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Keeping Up with the Kardashians", "obj_label": ["E! Entertaiment", "E! Online", "E!", "E! Entertainment Television", "E! Network"], "gpt4_choices": ["e! entertainment television"]}
+{"sub_label": "The White Lotus", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Stranger Things, season 4", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Young and the Restless", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Angelo Rules", "obj_label": ["France 3"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Expanse", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["syfy"]}
+{"sub_label": "Yellowjackets", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Star Trek: Deep Space Nine", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["paramount television"]}
+{"sub_label": "Titans", "obj_label": ["dcuniverse.com", "DC Universe"], "gpt4_choices": ["dc universe"]}
+{"sub_label": "Wheel of Fortune", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Golden Girls", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Loki", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Pocoyo", "obj_label": ["La 2"], "gpt4_choices": ["clan tve"]}
+{"sub_label": "The Sandman", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Tagesschau", "obj_label": ["Deutsches Fernsehen", "Erstes Deutsches Fernsehen", "Das Erste"], "gpt4_choices": ["das erste"]}
+{"sub_label": "Miami Vice", "obj_label": ["USA", "NBC", "USA Network", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Servant", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "The Dukes of Hazzard", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Good Doctor", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Ninjago", "obj_label": ["Pinwheel", "Teletoon", "YTV", "Nick", "Cartoon Network", "Nickelodeon"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Star Trek: Strange New Worlds", "obj_label": ["10 All Access", "Paramount+", "CBS All Access", "Paramount Plus"], "gpt4_choices": ["paramount+"]}
+{"sub_label": "Hannibal", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "United States of Al", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Mega Man: Fully Charged", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Wizards of Waverly Place", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Stranger Things, season 3", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Vampire Diaries", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Young Turks", "obj_label": ["youtu.be", "YT", "www.youtube.com", "Youtube.com", "YouTube", "YouTube.com", "Youtube", "youtube.com"], "gpt4_choices": ["sirius satellite radio"]}
+{"sub_label": "Perry Mason", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "The Queen's Gambit", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Batman", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["detective comics"]}
+{"sub_label": "American Crime Story", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Game of Thrones, season 4", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Game of Thrones, season 2", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Book of Boba Fett", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "Prison Break", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Real Adventures of Jonny Quest", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Anthony Bourdain: Parts Unknown", "obj_label": ["CNN USA", "Cable News Network", "CNN", "CNN/U.S.", "CNN News"], "gpt4_choices": ["cnn"]}
+{"sub_label": "Legion", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Hospital Central", "obj_label": ["Telecinco"], "gpt4_choices": ["telecinco"]}
+{"sub_label": "PAW Patrol", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Ringer", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Schitt's Creek", "obj_label": ["CBC Television"], "gpt4_choices": ["canadian broadcasting corporation"]}
+{"sub_label": "Young Justice", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Sex and the City", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "CSI: Crime Scene Investigation", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Rise of the Teenage Mutant Ninja Turtles", "obj_label": ["Pinwheel", "Nick", "Nicktoons Network", "Nicktoons TV", "Nickelodeon", "Nicktoons"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Yes Minister", "obj_label": ["BBC 2", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Agent Carter", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Boys", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Star Trek: Voyager", "obj_label": ["United Paramount Network", "UPN"], "gpt4_choices": ["upn (united paramount network)"]}
+{"sub_label": "Side Hustle", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Last Week Tonight with John Oliver", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "W.I.T.C.H.", "obj_label": ["The Disney Channel", "Disney Channel", "Disney", "ABC Family Mornings", "Toon Disney Primetime", "Jetix"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Bob's Burgers", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Peyton Place", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "So You Think You Can Dance", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Orange Is the New Black", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Star Wars Resistance", "obj_label": ["Baxik TV", "Disney XD"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "For All Mankind", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Phineas and Ferb", "obj_label": ["The Disney Channel", "Disney XD", "Disney Channel", "Disney", "Baxik TV"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Cowboy Bebop", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["tv tokyo"]}
+{"sub_label": "Emily in Paris", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Cheers", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "MasterChef", "obj_label": ["British Broadcasting Corporation", "BBC"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Genius", "obj_label": ["TV National Geographic Channel Animal in Germany", "National Geographic Channel"], "gpt4_choices": ["national geographic channel"]}
+{"sub_label": "Power Rangers Samurai", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Hey Duggee", "obj_label": ["CBeebies"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Orphan Black", "obj_label": ["BBC America"], "gpt4_choices": ["space channel"]}
+{"sub_label": "Animaniacs", "obj_label": ["Kids' WB"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Chicago Fire", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Friday Night Lights", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Good Place", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "The Tonight Show", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Dallas", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "High Guardian Spice", "obj_label": ["Crunchyroll, Inc.", "crunchyroll.com", "Crunchyroll"], "gpt4_choices": ["crunchyroll"]}
+{"sub_label": "Attack on Titan, season 4", "obj_label": ["NHK General TV", "NHK G"], "gpt4_choices": ["nhk general tv"]}
+{"sub_label": "Good Omens", "obj_label": ["Amazon Instant Video", "Amazon Prime Video", "Amazon Video", "BBC2", "Amazon Prime", "BBC 2", "BBC Two", "Amazon Unbox", "Amazon Video On Demand"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "The Alienist: Angel of Darkness", "obj_label": ["TNT USA", "Turner Network Television", "TNT"], "gpt4_choices": ["tnt"]}
+{"sub_label": "All in the Family", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Dark Shadows", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "NCIS: Hawaiʻi", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Only Murders in the Building", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Arrested Development", "obj_label": ["Fox Broadcasting Company", "Net Flix", "FOX", "Netflix.com", "Netflix"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Empire", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Atypical", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Tonight Show Starring Jimmy Fallon", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Oobi", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["noggin"]}
+{"sub_label": "Shark Tank", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "NCIS: Los Angeles", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "BoJack Horseman", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Path", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "El Ministerio del Tiempo", "obj_label": ["La 1"], "gpt4_choices": ["televisión española"]}
+{"sub_label": "Colony", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "The Great Global Warming Swindle", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "Castle Rock", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Battlestar Galactica", "obj_label": ["Sci-Fi Channel", "Syfy", "Sci Fi", "SciFi Entertainment", "SciFi"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Chilling Adventures of Sabrina", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Knots Landing", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The City on the Edge of Forever", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Locke & Key", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "True Detective", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Judging Amy", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Ed Sullivan Show", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Chuck", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Master of None", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Castlevania", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Girls", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "91st Academy Awards", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["abc (american broadcasting company)"]}
+{"sub_label": "Castle", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Walking Dead, season 11", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Lovecraft Country", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Another World", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "America's Funniest Home Videos", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Miraculous: Tales of Ladybug & Cat Noir", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["ebs1"]}
+{"sub_label": "Bones", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "WWE Tough Enough", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["mtv"]}
+{"sub_label": "Rocko's Modern Life", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Dynasty", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Wheel of Time", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Chicago P.D.", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "The Walking Dead, season 9", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Total Drama Presents: The Ridonculous Race", "obj_label": ["Teletoon"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "She-Ra and the Princesses of Power", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Mom", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "200", "obj_label": ["Comedy Central"], "gpt4_choices": ["stargate sg-1"]}
+{"sub_label": "Dynasty", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Dragon Prince", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Abbott Elementary", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Ugly Betty", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Power Rangers Dino Charge", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "The Grand Tour", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "San Junipero", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["black mirror"]}
+{"sub_label": "Teenage Mutant Ninja Turtles", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Cuphead Show!", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Will & Grace", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "CSI: Miami", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Hell on Wheels", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc"]}
+{"sub_label": "Anne with an E", "obj_label": ["CBC Television"], "gpt4_choices": ["canadian broadcasting corporation"]}
+{"sub_label": "The Powerpuff Girls", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "MythBusters", "obj_label": ["Discovery.com", "Discovery", "The Discovery Channel", "Discovery Channel", "Discovery Korea"], "gpt4_choices": ["discovery channel"]}
+{"sub_label": "Scrubs", "obj_label": ["ABC", "NBC", "American Broadcasting Company", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Isabel", "obj_label": ["La 1"], "gpt4_choices": ["la 1"]}
+{"sub_label": "The Middle", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Superstore", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Project Runway", "obj_label": ["Lifetime"], "gpt4_choices": ["bravo"]}
+{"sub_label": "The Addams Family", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Rick and Morty, season 3", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "Gotham", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Wednesday", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["your question seems to be about a tv show or series named \"wednesday\", but it's not clear which one you're referring to. could you please provide more details?"]}
+{"sub_label": "Last Man Standing", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Mare of Easttown", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "It's Pony", "obj_label": ["Pinwheel", "Nickelodeon", "YTV", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Star Wars: The Clone Wars", "obj_label": ["Disney+ Hotstar (India & Asia)", "Net Flix", "Disney+ Star (Europe & Asia)", "Netflix.com", "Cartoon Network", "Disney+", "Netflix", "Disney Plus"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Un village français", "obj_label": ["France 3"], "gpt4_choices": ["france 3"]}
+{"sub_label": "Virgin River", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Sex Education", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Walking with Dinosaurs", "obj_label": ["British Broadcasting Corporation", "BBC"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "WWE Monday Night RAW", "obj_label": ["USA", "WWE Network", "RTL9", "Tvoyo Novoye Televideniye", "AB Channel 1", "TNT", "THT", "USA Network", "AB 1", "Paramount Network", "AB1"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Beverly Hills, 90210", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Titan Games", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Designated Survivor", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Touch", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Trollhunters: Tales of Arcadia", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Britain's Got Talent", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv (independent television)"]}
+{"sub_label": "Fargo, season 2", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "The Owl House", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Popeye the Sailor", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["king features syndicate"]}
+{"sub_label": "USS Callister", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Emmerdale", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["independent television (itv)"]}
+{"sub_label": "Dexter", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "PBS NewsHour", "obj_label": ["Public Broadcasting System", "PBS", "pbs.org"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "Who Is America?", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "The Morning Show", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "USA Today", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["usa today is not a television program, so it did not air on any network. it is a nationally distributed american daily middle-market newspaper that serves as the flagship publication of its owner, the gannett company."]}
+{"sub_label": "Superhuman Samurai Syber-Squad", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Tiger King: Murder, Mayhem and Madness", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Elite", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Love, Victor", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Fawlty Towers", "obj_label": ["BBC 2", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Wallace and Gromit", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Power Rangers Ninja Steel", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "The Ellen DeGeneres Show", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Shadowhunters", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["freeform"]}
+{"sub_label": "Princess Gwenevere and the Jewel Riders", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["bohbot entertainment"]}
+{"sub_label": "Life on Mars", "obj_label": ["BBC 4", "BBC Television Service", "BBC4", "BBC One", "BBC Four", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Younger", "obj_label": ["TV Land", "CBS All Access", "Paramount Plus", "Paramount+", "10 All Access"], "gpt4_choices": ["tv land"]}
+{"sub_label": "The Great", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Sesame Street", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "The OA", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Married... with Children", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Bonanza", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Ren & Stimpy Show", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Last of the Summer Wine", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Fungies!", "obj_label": ["HBO Max"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Ghost and Molly McGee", "obj_label": ["Disney+ Hotstar (India & Asia)", "The Disney Channel", "Disney Channel", "Disney", "Disney+ Star (Europe & Asia)", "Disney+", "Disney Plus"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Rugrats", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Ted Lasso", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "The Leftovers", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Grim & Evil", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Hollyoaks", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "Never Have I Ever", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Polly Pocket", "obj_label": ["Family", "Family Channel"], "gpt4_choices": ["gulli"]}
+{"sub_label": "Batwoman", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Teenage Mutant Ninja Turtles", "obj_label": ["Pinwheel", "Nick", "Nicktoons Network", "Nicktoons TV", "Nickelodeon", "Nicktoons"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Iron Fist", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Veep", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo (home box office)"]}
+{"sub_label": "Star Trek: Lower Decks", "obj_label": ["10 All Access", "Paramount+", "CBS All Access", "Paramount Plus"], "gpt4_choices": ["cbs all access"]}
+{"sub_label": "Happy Days", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Pride and Prejudice", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["pride and prejudice originally aired on british broadcasting corporation."]}
+{"sub_label": "The Loud House", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Damages", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Mission: Impossible", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Cosmos: A Spacetime Odyssey", "obj_label": ["TV National Geographic Channel Animal in Germany", "FOX", "Fox Broadcasting Company", "National Geographic Channel"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Resident", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Terra Nova", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Monty Python's Flying Circus", "obj_label": ["BBC Television Service", "BBC2", "BBC One", "BBC1", "BBC TV", "BBC Two", "BBC 1", "BBC 2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Transformers: Prime", "obj_label": ["Discovery Family", "Discovery Kids Channel", "Discovery Kids", "Hub Network", "The Hub"], "gpt4_choices": ["the hub network"]}
+{"sub_label": "Reaper", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Fosters", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["freeform"]}
+{"sub_label": "The Girlfriend Experience", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "Peaky Blinders", "obj_label": ["BBC 2", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Pennyworth", "obj_label": ["Epix"], "gpt4_choices": ["epix"]}
+{"sub_label": "Young Sheldon", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Jungle Book", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["the jungle book was not originally aired on any platform as it is a collection of stories written by rudyard kipling in 1894. however, the most famous adaptation, the 1967 animated film by walt disney productions, was released in theaters."]}
+{"sub_label": "Alaska: The Last Frontier", "obj_label": ["Discovery.com", "Discovery", "The Discovery Channel", "Discovery Channel", "Discovery Korea"], "gpt4_choices": ["discovery channel"]}
+{"sub_label": "Heartstopper", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Flintstones", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "2 Broke Girls", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "King of the Hill", "obj_label": ["[adult swim]", "Adult Swim", "Fox Broadcasting Company", "FOX"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Yellowstone", "obj_label": ["Paramount Network"], "gpt4_choices": ["paramount network"]}
+{"sub_label": "Supernoobs", "obj_label": ["Cartoon Network"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "Lost in Space", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Voltron: Legendary Defender", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Warrior", "obj_label": ["HBO Max", "Max", "Cinemax"], "gpt4_choices": ["cinemax"]}
+{"sub_label": "The Hills", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["mtv"]}
+{"sub_label": "The Voice UK", "obj_label": ["Independent Television", "BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1", "ITV"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Kid Cosmic", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Toonami", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Terror", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Demain nous appartient", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["tf1"]}
+{"sub_label": "Inside Amy Schumer", "obj_label": ["Comedy Central"], "gpt4_choices": ["comedy central"]}
+{"sub_label": "The Rookie", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Flight Attendant", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "The Shield", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Lucifer", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Shooter", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "The Crystal Maze", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "The Walking Dead, season 6", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Las Vegas", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The People v. O. J. Simpson: American Crime Story", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Turbo FAST", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "FlashForward", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Happy Endings", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Altered Carbon", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Go, Diego, Go!", "obj_label": ["Nickelodeon", "Pinwheel", "Nick", "Nick Jr."], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Highlander: The Series", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["rysher entertainment"]}
+{"sub_label": "Mister Rogers' Neighborhood", "obj_label": ["Public Broadcasting System", "PBS", "pbs.org"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "NCIS", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Dark Angel", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Magnum, P.I.", "obj_label": ["National Broadcasting Company", "Tiffany Network", "CBS", "NBC", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["columbia broadcasting system"]}
+{"sub_label": "Thomas & Friends", "obj_label": ["ITV", "ITV1"], "gpt4_choices": ["itv network"]}
+{"sub_label": "Nikita", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Jane the Virgin", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw"]}
+{"sub_label": "See", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Q-Force", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Mysticons", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Constantine", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Biggest Loser", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Medici: Masters of Florence", "obj_label": ["Programma Nazionale (1952-1976)", "Rete 1 (1976-1983)", "Rai Uno", "Rai 1"], "gpt4_choices": ["rai 1"]}
+{"sub_label": "Ed, Edd n Eddy", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Spain in the Eurovision Song Contest 2009", "obj_label": ["La 1"], "gpt4_choices": ["televisión española"]}
+{"sub_label": "El señor de los cielos", "obj_label": ["Telemundo"], "gpt4_choices": ["telemundo"]}
+{"sub_label": "Jack Ryan", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "The Walking Dead: World Beyond", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Superman & Lois", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The New Woody Woodpecker Show", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Over the Garden Wall", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Penny Dreadful", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Stargate Atlantis", "obj_label": ["Sci-Fi Channel", "Syfy", "Sci Fi", "SciFi Entertainment", "SciFi"], "gpt4_choices": ["sci fi channel"]}
+{"sub_label": "Silicon Valley", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Be Cool, Scooby-Doo!", "obj_label": ["Boomerang", "Boomerang from Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Planet Earth", "obj_label": ["British Broadcasting Corporation", "BBC"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "My Perfect Family", "obj_label": ["Dubai 33", "Dubai Channel 33", "Dubai One TV", "One TV", "Ch33", "Dubai Ch33", "NBC", "Dubai One", "Channel 33", "National Broadcasting Company"], "gpt4_choices": ["south african broadcasting corporation"]}
+{"sub_label": "How to Get Away with Murder, season 2", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Band of Brothers", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Knightfall", "obj_label": ["History", "The History Channel", "history.com", "History Channel"], "gpt4_choices": ["history channel"]}
+{"sub_label": "Person of Interest", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Pac-Man and the Ghostly Adventures", "obj_label": ["Baxik TV", "Disney XD"], "gpt4_choices": ["disney xd"]}
+{"sub_label": "General Hospital", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Queen of Miami", "obj_label": ["Canal 7", "TVN 7", "NBC", "Television Nacional de Chile", "Televisión Nacional de Chile", "TVN", "National Broadcasting Company"], "gpt4_choices": ["telemundo"]}
+{"sub_label": "Star Wars Rebels", "obj_label": ["Baxik TV", "Disney XD"], "gpt4_choices": ["disney xd"]}
+{"sub_label": "Family Guy, season 8", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Mask: Animated Series", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Malcolm in the Middle", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Gormiti", "obj_label": ["Italia 1"], "gpt4_choices": ["giochi preziosi"]}
+{"sub_label": "John Adams", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Oprah Winfrey Show", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Xena: Warrior Princess", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["syndication"]}
+{"sub_label": "Adventure Time, season 1", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Dead to Me", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "24: Live Another Day", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Columbo", "obj_label": ["ABC", "NBC", "American Broadcasting Company", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Gossip Girl", "obj_label": ["HBO Max"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Teletubbies", "obj_label": ["BBC 2", "CBeebies", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Orville", "obj_label": ["hulu.com", "FOX", "Hulu", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Life Unexpected", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Big Mouth", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Narcos", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Severance", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Feud", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "W.I.T.C.H.", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Hacks", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "GLOW", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Prisoner", "obj_label": ["10 TV Australia", "Channel Ten", "Network Ten", "Network 10", "Channel 10", "10 Network", "Independent Television System", "0-10 Network"], "gpt4_choices": ["itv (independent television)"]}
+{"sub_label": "The Assassination of Gianni Versace: American Crime Story", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "It's Always Sunny in Philadelphia", "obj_label": ["FX", "Fox extended", "fX", "FXX", "FX network"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Victorious", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Frasier", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Flashpoint", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["ctv television network"]}
+{"sub_label": "Katy Keene", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw"]}
+{"sub_label": "Lost, season 6", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Charlie's Angels", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Infinity Train", "obj_label": ["HBO Max", "Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Mr. Bean", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "NYPD Blue", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Mindhunter", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Why Women Kill", "obj_label": ["10 All Access", "Paramount+", "CBS All Access", "Paramount Plus"], "gpt4_choices": ["cbs all access"]}
+{"sub_label": "Terminator: The Sarah Connor Chronicles", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "90th Academy Awards", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "JoJo's Circus", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["playhouse disney"]}
+{"sub_label": "Hill Street Blues", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "JAG", "obj_label": ["National Broadcasting Company", "Tiffany Network", "CBS", "NBC", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Secret Circle", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The A-Team", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Brooklyn Nine-Nine", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Hot in Cleveland", "obj_label": ["TV Land"], "gpt4_choices": ["tv land"]}
+{"sub_label": "Late Show with David Letterman", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "BBC Sports Personality of the Year", "obj_label": ["British Broadcasting Corporation", "BBC"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Total Drama Island", "obj_label": ["Cartoon Network"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "Regular Show", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Nanny", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Beavis and Butt-Head", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["mtv"]}
+{"sub_label": "Queer as Folk", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "Inside Job", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Entourage", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Punisher", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Kipo and the Age of Wonderbeasts", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "NCIS: New Orleans", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The X Factor", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["itv"]}
+{"sub_label": "Boardwalk Empire", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Battle of the Bastards", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Rome", "obj_label": ["HBO", "HBO Family", "BBC2", "Home Box Office", "BBC 2", "BBC Two"], "gpt4_choices": ["hbo (home box office)"]}
+{"sub_label": "Passions", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "La Brea", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Suits", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "PJ Masks", "obj_label": ["Disney Junior"], "gpt4_choices": ["disney junior"]}
+{"sub_label": "Blindspot", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Hilda", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Hollywood Squares", "obj_label": ["radio syndication", "NBC", "syndication", "broadcast syndication", "TV syndication", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Grimm", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Don't Trust the B---- in Apartment 23", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "MacGyver", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Dear White People", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "WWE Smackdown", "obj_label": ["SciFi", "Fox Deportes", "Fox Broadcasting Company", "United Paramount Network", "Syfy", "FOX", "UPN", "Sci-Fi Channel", "Sci Fi", "The CW Television Network", "USA Network", "SciFi Entertainment", "The CW", "USA"], "gpt4_choices": ["united paramount network"]}
+{"sub_label": "Teen Wolf", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["mtv"]}
+{"sub_label": "Wayward Pines", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Pink Panther and Pals", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Samurai Jack", "obj_label": ["Cartoon Network", "Adult Swim", "[adult swim]"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Late Night with Seth Meyers", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "Mao Mao: Heroes of Pure Heart", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Billions", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Unbreakable Kimmy Schmidt", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Sharp Objects", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "12 Monkeys", "obj_label": ["Sci-Fi Channel", "Syfy", "Sci Fi", "SciFi Entertainment", "SciFi"], "gpt4_choices": ["syfy"]}
+{"sub_label": "The Daltons", "obj_label": ["France 3"], "gpt4_choices": ["xilam animation"]}
+{"sub_label": "The Legend of Tarzan", "obj_label": ["United Paramount Network", "UPN", "radio syndication", "syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["kids' wb"]}
+{"sub_label": "Da Vinci's Demons", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "The Twilight Zone", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Are You Afraid of the Dark?", "obj_label": ["YTV"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "WWE NXT", "obj_label": ["WWE Network", "hulu.com", "Sci-Fi Channel", "Syfy", "Sci Fi", "USA Network", "Hulu", "SciFi Entertainment", "SciFi", "USA"], "gpt4_choices": ["syfy"]}
+{"sub_label": "How Do They Do It?", "obj_label": ["Discovery.com", "Discovery", "The Discovery Channel", "Discovery Channel", "Discovery Korea"], "gpt4_choices": ["discovery channel"]}
+{"sub_label": "Primal", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "The Guild", "obj_label": ["youtu.be", "YT", "www.youtube.com", "Youtube.com", "msn", "YouTube", "XBL", "YouTube.com", "Youtube", "youtube.com", "The Microsoft Network", "Xbox network", "Xbox Live", "msn.com", "MSN"], "gpt4_choices": ["youtube"]}
+{"sub_label": "The Emperor's New School", "obj_label": ["The Disney Channel", "Disney XD", "Disney Channel", "Disney", "American Broadcasting Company", "Baxik TV", "ABC"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "The Cosby Show", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Fresh Prince of Bel-Air", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Taratata", "obj_label": ["France 2"], "gpt4_choices": ["france 2"]}
+{"sub_label": "Alias", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "ThunderCats Roar", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "On My Block", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Nosedive", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["black mirror"]}
+{"sub_label": "DuckTales", "obj_label": ["The Disney Channel", "Disney Channel", "Disney", "American Broadcasting Company", "radio syndication", "syndication", "ABC", "broadcast syndication", "TV syndication"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "Jessie", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "All American", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw"]}
+{"sub_label": "Captain Flamingo", "obj_label": ["Communication", "YTV", "GMA 7", "Global Media Arts Network", "Kapuso Network", "GMA Network"], "gpt4_choices": ["ytv"]}
+{"sub_label": "LoliRock", "obj_label": ["France 3"], "gpt4_choices": ["france 3"]}
+{"sub_label": "The Walking Dead, season 7", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Revolution", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Adventures of Sonic the Hedgehog", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["boomerang"]}
+{"sub_label": "American Horror Story: Cult", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Distant Lands", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "Sonic the Hedgehog", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["sega genesis"]}
+{"sub_label": "That's So Raven", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "My Brilliant Friend", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "M*A*S*H", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["columbia broadcasting system"]}
+{"sub_label": "Six Feet Under", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Jericho", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "As the World Turns", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "The Pacific", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo (home box office)"]}
+{"sub_label": "Captain Power and the Soldiers of the Future", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["ctv television network"]}
+{"sub_label": "Soap", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Atlanta", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Guiding Light", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Dad's Army", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Walking Dead, season 1", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Lindenstraße", "obj_label": ["Deutsches Fernsehen", "Erstes Deutsches Fernsehen", "Das Erste"], "gpt4_choices": ["das erste"]}
+{"sub_label": "Inspector Gadget", "obj_label": ["France 3", "radio syndication", "syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["dic entertainment"]}
+{"sub_label": "Gerry Anderson's New Captain Scarlet", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv network"]}
+{"sub_label": "Blue Bloods", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Di-Gata Defenders", "obj_label": ["Teletoon"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "Narcos: Mexico", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Legacies", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Wiseguy", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "DuckTales", "obj_label": ["The Disney Channel", "Disney XD", "Disney Channel", "Disney", "Baxik TV"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "The Gifted", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Reign", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Mysterious Benedict Society", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "The Bridge", "obj_label": ["SVT", "Sveriges Television", "DR1", "svt", "Sverige Television"], "gpt4_choices": ["fx network"]}
+{"sub_label": "The Stand", "obj_label": ["HBO", "CBS All Access", "Paramount Plus", "HBO Family", "Home Box Office", "Paramount+", "10 All Access"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "666 Park Avenue", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "American Gods", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "I Didn't Know That", "obj_label": ["TV National Geographic Channel Animal in Germany", "National Geographic Channel"], "gpt4_choices": ["national geographic channel"]}
+{"sub_label": "The X Factor", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv"]}
+{"sub_label": "The Killing", "obj_label": ["DR1"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Stargate Universe", "obj_label": ["Sci-Fi Channel", "Syfy", "Sci Fi", "SciFi Entertainment", "SciFi"], "gpt4_choices": ["syfy"]}
+{"sub_label": "Hunters", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Fleabag", "obj_label": ["BBC 3", "BBC3", "BBC Three"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Breaking Bad, season 5", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc"]}
+{"sub_label": "The Borgias", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Invincible", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "L.A. Law", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "American Horror Stories", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Everybody Loves Raymond", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Gunsmoke", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Santa Clarita Diet", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Level Up", "obj_label": ["The CW", "Cartoon Network", "The CW Television Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "SAINT SEIYA: Knights of the Zodiac", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["tv asahi"]}
+{"sub_label": "Outer Banks", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Darkwing Duck", "obj_label": ["The Disney Channel", "Disney Channel", "Disney", "American Broadcasting Company", "radio syndication", "syndication", "ABC", "broadcast syndication", "TV syndication"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "The Last Man on Earth", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Bible", "obj_label": ["History", "The History Channel", "history.com", "History Channel"], "gpt4_choices": ["the history channel"]}
+{"sub_label": "Longmire", "obj_label": ["Net Flix", "A&E", "Arts & Entertainment Network", "Netflix.com", "A&E Television Network", "Arts & Entertainment", "Netflix", "A&E TV"], "gpt4_choices": ["a&e network"]}
+{"sub_label": "Shadow and Bone", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Bold and the Beautiful", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Cable Girls", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Good Morning America", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "American Horror Story: Apocalypse", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Avatar: The Last Airbender, season 1", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Power Rangers Turbo", "obj_label": ["Fox Kids", "FOX", "Foxkids", "Fox Broadcasting Company"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Shaun the Sheep", "obj_label": ["CBBC", "BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1", "Children's BBC", "Children's British Broadcasting Corporation"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Under the Dome", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Social Dilemma", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Swiss Family Robinson: Flone of the Mysterious Island", "obj_label": ["Fuji Television Network, Inc.", "Meerkats", "Fuji TV", "CX", "JOCX", "Fuji Television", "Fuji Television Network"], "gpt4_choices": ["fuji television"]}
+{"sub_label": "Madam Secretary", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Fargo", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Homecoming", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "The Penguins of Madagascar", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Joey", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc (national broadcasting company)"]}
+{"sub_label": "The Jetsons", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Dot.", "obj_label": ["CBC Television"], "gpt4_choices": ["sprout"]}
+{"sub_label": "The Spectacular Spider-Man", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Madres. Amor y vida", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Bloodline", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Room 104", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Sabrina: The Animated Series", "obj_label": ["ABC", "United Paramount Network", "American Broadcasting Company", "UPN"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Monsters vs. Aliens", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["dreamworks animation"]}
+{"sub_label": "The Tudors", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Travelers", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["showcase"]}
+{"sub_label": "Street Football", "obj_label": ["France 3"], "gpt4_choices": ["france 2"]}
+{"sub_label": "Jellystone!", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "Bewitched", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Larry Sanders Show", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "I Am Weasel", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Space Force", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Fairly OddParents", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Roots", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Planet Earth II", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Up Series", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["granada television"]}
+{"sub_label": "Ultimate Spider-Man", "obj_label": ["Baxik TV", "Disney XD"], "gpt4_choices": ["disney xd"]}
+{"sub_label": "The Wonderful Wizard of Oz", "obj_label": ["TX", "Television Tokyo", "Teleto", "Television Tokyo Channel", "Digital7", "Tokyo TV", "TV Tokyo"], "gpt4_choices": ["the wonderful wizard of oz is a novel and did not originally air on any platform."]}
+{"sub_label": "Being Human", "obj_label": ["BBC 3", "BBC3", "BBC Three"], "gpt4_choices": ["british broadcasting corporation three"]}
+{"sub_label": "The Secret Life of the American Teenager", "obj_label": ["CBN Satellite Service", "Family Channel (USA)", "CBN Cable Network", "CBN Cable", "CBN Television Network", "Freeform", "Fox Family", "ABC Family", "Family Channel (United States)", "The Family Channel USA"], "gpt4_choices": ["abc family"]}
+{"sub_label": "The Newsroom", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Talk", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "A Place to Call Home", "obj_label": ["Channel Seven", "Network 7", "Seven head Network", "Seven Network", "Seven", "7", "Channel 7", "Network Seven"], "gpt4_choices": ["seven network"]}
+{"sub_label": "Dickinson", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Fear Factor", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Chip 'n Dale Rescue Rangers", "obj_label": ["The Disney Channel", "Disney Channel", "Disney", "radio syndication", "syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "Home Improvement", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Lupin", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Clémentine", "obj_label": ["A2", "Antenne 2"], "gpt4_choices": ["france 3"]}
+{"sub_label": "The Rockford Files", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Merlin", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "The Wacky World of Tex Avery", "obj_label": ["radio syndication", "syndication", "M6", "broadcast syndication", "TV syndication"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Looney Tunes", "obj_label": ["Cartoon Network"], "gpt4_choices": ["warner bros. pictures"]}
+{"sub_label": "Let's Go Luna!", "obj_label": ["TVOKids"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "Spider-Man", "obj_label": ["Fox Kids", "FOX", "Foxkids", "Fox Broadcasting Company"], "gpt4_choices": ["spider-man: the animated series"]}
+{"sub_label": "The Spanish Princess", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "Documentary Now!", "obj_label": ["IFC.com", "IFC TV", "IFC", "Independent Film Channel", "IFC Channel"], "gpt4_choices": ["independent film channel"]}
+{"sub_label": "Pushing Daisies", "obj_label": ["CTV (Canadian Television Network)", "CTV Television Network"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Baskets", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Children in Need", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Call My Agent!", "obj_label": ["France 2"], "gpt4_choices": ["france 2"]}
+{"sub_label": "Clarence", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Doctor Doctor", "obj_label": ["Channel Nine", "9 Network", "Channel 9", "9", "Nine"], "gpt4_choices": ["nine network"]}
+{"sub_label": "Star Trek: The Animated Series", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Max Steel", "obj_label": ["Baxik TV", "Disney XD"], "gpt4_choices": ["kids' wb"]}
+{"sub_label": "The White Queen", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Another Period", "obj_label": ["Comedy Central"], "gpt4_choices": ["comedy central"]}
+{"sub_label": "VeggieTales", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["veggietales did not originally air on a specific network. it was initially released directly to home video."]}
+{"sub_label": "For the People", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Saved by the Bell", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Dirk Gently's Holistic Detective Agency", "obj_label": ["BBC America"], "gpt4_choices": ["bbc four"]}
+{"sub_label": "The Suite Life on Deck", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Vicky the Viking", "obj_label": ["Second German Television", "Zweites Deutsches Fernsehen", "Zweites deutsches Fernsehen", "2DF", "das Zweite", "ZDF"], "gpt4_choices": ["zdf (zweites deutsches fernsehen)"]}
+{"sub_label": "Blackadder", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Falling Skies", "obj_label": ["TNT USA", "Turner Network Television", "TNT"], "gpt4_choices": ["tnt (turner network television)"]}
+{"sub_label": "Family Guy, season 20", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["as an ai developed by openai, i don't have real-time data or the ability to access current or future programming schedules. as of my last update in october 2021, the latest season of family guy that had aired was season 19. please check the latest sources for the most current information."]}
+{"sub_label": "Diff'rent Strokes", "obj_label": ["ABC", "NBC", "American Broadcasting Company", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Revenge", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Lonelygirl15", "obj_label": ["youtu.be", "YT", "www.youtube.com", "Youtube.com", "YouTube", "YouTube.com", "Youtube", "youtube.com"], "gpt4_choices": ["youtube"]}
+{"sub_label": "Ben 10: Secret of the Omnitrix", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Outsider", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Apprentice", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Fairly Legal", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Marco Polo", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Mindy Project", "obj_label": ["hulu.com", "FOX", "Hulu", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Gilded Age", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Grand Hotel", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["abc (american broadcasting company)"]}
+{"sub_label": "Chicago Med", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Dota: Dragon's Blood", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "201", "obj_label": ["Comedy Central"], "gpt4_choices": ["south park"]}
+{"sub_label": "Your Pretty Face Is Going to Hell", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "Power Rangers Megaforce", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Back to the Future", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["back to the future is a film, not a television series, so it didn't air on a tv network. it was originally released in theaters by universal pictures."]}
+{"sub_label": "Beware the Batman", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Smurfs", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Numbers", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "The Walking Dead, season 2", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["american movie classics"]}
+{"sub_label": "Karma's World", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Rules of Engagement", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Wayside", "obj_label": ["Teletoon"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Black-ish", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Monsters at Work", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["disney+"]}
+{"sub_label": "The Wall", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Powerpuff Girls", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "ER", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The Hitchhiker's Guide to the Galaxy", "obj_label": ["Radio Four", "BBC Radio Four", "BBC Radio 4", "Radio 4"], "gpt4_choices": ["bbc radio 4"]}
+{"sub_label": "Lego Nexo Knights", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Alvin and the Chipmunks", "obj_label": ["M6"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Mixels", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Godzilla: The Series", "obj_label": ["Fox Kids", "Foxkids"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Code Lyoko", "obj_label": ["France 3"], "gpt4_choices": ["france 3"]}
+{"sub_label": "Amphibia", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Close Enough", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "Sonic Boom", "obj_label": ["Boomerang", "Boomerang from Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Lucy Show", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Fifi and the Flowertots", "obj_label": ["Nick Jr."], "gpt4_choices": ["nick jr. uk"]}
+{"sub_label": "Malcolm & Eddie", "obj_label": ["United Paramount Network", "UPN"], "gpt4_choices": ["united paramount network"]}
+{"sub_label": "Agatha Christie's Poirot", "obj_label": ["ITV", "ITV1"], "gpt4_choices": ["itv"]}
+{"sub_label": "Skins", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["e4"]}
+{"sub_label": "Lassie", "obj_label": ["Tiffany Network", "CBS", "radio syndication", "syndication", "Columbia Broadcasting System", "broadcast syndication", "TV syndication", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Wings", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Station 19", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Buzz Lightyear of Star Command", "obj_label": ["United Paramount Network", "American Broadcasting Company", "UPN", "radio syndication", "syndication", "ABC", "broadcast syndication", "TV syndication"], "gpt4_choices": ["upn (united paramount network)"]}
+{"sub_label": "NXT 2.0", "obj_label": ["World Wrestling Federation", "WWE Network", "hulu.com", "WWE, Inc.", "Titan Sports, Inc.", "webcast", "Syfy", "webcasting", "Sci-Fi Channel", "Sci Fi", "WWF", "USA Network", "Hulu", "SciFi Entertainment", "SciFi", "World Wrestling Entertainment", "USA", "WWE"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Amazing Stories", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "Arthur", "obj_label": ["Public Broadcasting System", "PBS", "pbs.org"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "Workin' Moms", "obj_label": ["CBC Television"], "gpt4_choices": ["canadian broadcasting corporation"]}
+{"sub_label": "Redwall", "obj_label": ["France 3"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "Mickey Mouse Works", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Foster's Home for Imaginary Friends", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Scream Queens", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Secret Invasion", "obj_label": ["Disney+ Hotstar (India & Asia)", "Disney Plus", "Disney+", "Disney+ Star (Europe & Asia)"], "gpt4_choices": ["secret invasion is a comic book series by marvel comics and as of my knowledge up to 2021, it has not been aired on any platform. however, a television series adaptation of the same name is announced to be released on disney+."]}
+{"sub_label": "Gormiti: The Lords Of Nature Return!", "obj_label": ["Italia 1"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Lion Guard", "obj_label": ["Disney Junior"], "gpt4_choices": ["disney junior"]}
+{"sub_label": "Wipeout", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Apprentice (franchise)", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Bunsen Is a Beast", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Street Sharks", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["syndication"]}
+{"sub_label": "Taz-Mania", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Lindsay Lohan's Beach Club", "obj_label": ["Music Television", "MTV"], "gpt4_choices": ["mtv"]}
+{"sub_label": "Sky Rojo", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Helluva Boss", "obj_label": ["youtu.be", "YT", "www.youtube.com", "Youtube.com", "YouTube", "YouTube.com", "Youtube", "youtube.com"], "gpt4_choices": ["youtube"]}
+{"sub_label": "Lost, season 1", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Mike & Molly", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Yin Yang Yo!", "obj_label": ["ABC Family Mornings", "Toon Disney Primetime", "Jetix"], "gpt4_choices": ["jetix"]}
+{"sub_label": "The Muppet Show", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["associated television"]}
+{"sub_label": "Full House", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "The Jeremy Kyle Show", "obj_label": ["Independent Television", "ITV"], "gpt4_choices": ["itv"]}
+{"sub_label": "T.U.F.F. Puppy", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Stalin", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["joseph stalin is a historical figure, not a television show or series, so he did not \"air\" on any network."]}
+{"sub_label": "Weeds", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Fear the Walking Dead, season 2", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "Miss BG", "obj_label": ["France 5", "TVOKids", "F5", "La Cinquième", "France·5"], "gpt4_choices": ["teletoon"]}
+{"sub_label": "The Boondocks", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "Arkangel", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["black mirror"]}
+{"sub_label": "Star Wars: Clone Wars", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "The Amazing World of Gumball", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Gargoyles", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Ben 10", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Skatoony", "obj_label": ["Cartoon Network", "Cartoon Network UK & Ireland"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Austria in the Eurovision Song Contest 2016", "obj_label": ["FS 1", "ORF 1 HD", "ORF1", "ORFeins", "ORF 1"], "gpt4_choices": ["österreichischer rundfunk"]}
+{"sub_label": "Frozen Planet", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "High School Musical", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Star-Crossed", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "The Proud Family", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Psych", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "The Tomorrow War", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "This Is Us", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Nancy Drew", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "North and South", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Glitch Techs", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Veronica Mars, season 3", "obj_label": ["United Paramount Network", "UPN"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Grace and Frankie", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Raven's Home", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "Law & Order: Criminal Intent", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "Higglytown Heroes", "obj_label": ["Playhouse Disney"], "gpt4_choices": ["disney junior"]}
+{"sub_label": "Harper's Island", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Toopy and Binoo", "obj_label": ["Treehouse TV"], "gpt4_choices": ["treehouse tv"]}
+{"sub_label": "Mythic Quest", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "Carnival Row", "obj_label": ["Amazon Video On Demand", "Amazon Prime Video", "Amazon Video", "Amazon Prime", "Amazon Unbox", "Amazon Instant Video"], "gpt4_choices": ["amazon prime video"]}
+{"sub_label": "Star vs. the Forces of Evil", "obj_label": ["The Disney Channel", "Disney XD", "Disney Channel", "Disney", "Baxik TV"], "gpt4_choices": ["disney xd"]}
+{"sub_label": "Foundation", "obj_label": ["Apple TV Plus", "AppleTV+", "Apple TV+"], "gpt4_choices": ["apple tv+"]}
+{"sub_label": "American Horror Story: 1984", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Top Cat", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["hanna-barbera productions"]}
+{"sub_label": "Helstrom", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Arcane", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Tower Prep", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Little Fires Everywhere", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Codename: Kids Next Door", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "NASCAR on Fox", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Barney Miller", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Monk", "obj_label": ["USA Network", "USA"], "gpt4_choices": ["usa network"]}
+{"sub_label": "Penny Dreadful: City of Angels", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Spartacus", "obj_label": ["Starz", "STARZ!"], "gpt4_choices": ["starz"]}
+{"sub_label": "The Originals", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the cw television network"]}
+{"sub_label": "Californication", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["showtime"]}
+{"sub_label": "Littlest Pet Shop", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["discovery family"]}
+{"sub_label": "The Haunting of Hill House", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "CSI: Vegas", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "The Octonauts", "obj_label": ["British Broadcasting Corporation", "BBC"], "gpt4_choices": ["cbeebies"]}
+{"sub_label": "Storm Hawks", "obj_label": ["YTV"], "gpt4_choices": ["ytv"]}
+{"sub_label": "Robot and Monster", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Superman: The Animated Series", "obj_label": ["Kids' WB"], "gpt4_choices": ["kids' wb"]}
+{"sub_label": "Bunk'd", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "ReBoot", "obj_label": ["YTV"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Murphy Brown", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs (columbia broadcasting system)"]}
+{"sub_label": "Batman: The Brave and the Bold", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Horseland", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Halo", "obj_label": ["10 All Access", "Paramount+", "CBS All Access", "Paramount Plus"], "gpt4_choices": ["halo originally aired on xbox."]}
+{"sub_label": "Curb Your Enthusiasm", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["hbo"]}
+{"sub_label": "Be Right Back", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["black mirror"]}
+{"sub_label": "Captain Simian & the Space Monkeys", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Moonlighting", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Fear the Walking Dead, season 3", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "7th Heaven", "obj_label": ["The CW", "The CW Television Network"], "gpt4_choices": ["the wb television network"]}
+{"sub_label": "Prison Break, season 5", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Goof Troop", "obj_label": ["American Broadcasting Company", "radio syndication", "syndication", "ABC", "broadcast syndication", "TV syndication"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "The Killing", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "The End of the F***ing World", "obj_label": ["C4", "Channel 4"], "gpt4_choices": ["channel 4"]}
+{"sub_label": "Breaking Bad, season 4", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc"]}
+{"sub_label": "Zak Storm", "obj_label": ["Canal J"], "gpt4_choices": ["discovery family"]}
+{"sub_label": "Lost, season 5", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Dora the Explorer", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Great News", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["nbc"]}
+{"sub_label": "The Night Manager", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Murder, She Wrote", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Magnum, P.I.", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["columbia broadcasting system"]}
+{"sub_label": "Pyramid", "obj_label": ["Tiffany Network", "CBS", "American Broadcasting Company", "radio syndication", "syndication", "Columbia Broadcasting System", "ABC", "broadcast syndication", "TV syndication", "Black Rock", "Eye Network"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "To Catch a Predator", "obj_label": ["Microsoft National Broadcasting Company", "MSNBC"], "gpt4_choices": ["dateline nbc"]}
+{"sub_label": "Blue Planet II", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Paradise PD", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Pam & Tommy", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Johnny Test", "obj_label": ["Teletoon"], "gpt4_choices": ["kids' wb"]}
+{"sub_label": "Walker, Texas Ranger", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Liberty's Kids", "obj_label": ["Public Broadcasting System", "PBS", "pbs.org"], "gpt4_choices": ["public broadcasting service"]}
+{"sub_label": "Mummies Alive!", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["the disney channel"]}
+{"sub_label": "Ramy", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["hulu"]}
+{"sub_label": "Mega Man", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["capcom"]}
+{"sub_label": "The Last Dance", "obj_label": ["Entertainment and Sports Programming Network", "ESPN"], "gpt4_choices": ["espn"]}
+{"sub_label": "The Good Guys", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Tiny Toon Adventures", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Totally Spies!", "obj_label": ["Télévision française 1", "TF1"], "gpt4_choices": ["abc family"]}
+{"sub_label": "Diagnosis: Murder", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs"]}
+{"sub_label": "Wings", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The League", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "Power Players", "obj_label": ["Cartoon Network"], "gpt4_choices": ["cartoon network"]}
+{"sub_label": "Wicked City", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "I Dream of Jeannie", "obj_label": ["NBC", "National Broadcasting Company"], "gpt4_choices": ["national broadcasting company"]}
+{"sub_label": "The First Lady", "obj_label": ["Showtime Networks", "Showtime TV", "SHO", "Showtime"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Preacher", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["amc (american movie classics)"]}
+{"sub_label": "American Vandal", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "The Eric André Show", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "The Six Million Dollar Man", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Normal People", "obj_label": ["hulu.com", "Hulu"], "gpt4_choices": ["bbc three"]}
+{"sub_label": "Raised by Wolves", "obj_label": ["HBO Max"], "gpt4_choices": ["hbo max"]}
+{"sub_label": "The Power of Nightmares", "obj_label": ["BBC 2", "BBC Two", "BBC2"], "gpt4_choices": ["british broadcasting corporation"]}
+{"sub_label": "Henry Danger", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Duel", "obj_label": ["ABC", "American Broadcasting Company"], "gpt4_choices": ["american broadcasting company"]}
+{"sub_label": "Alcatraz", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "The Little Mermaid", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["the little mermaid originally aired on the disney channel."]}
+{"sub_label": "NASCAR Racers", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox kids"]}
+{"sub_label": "Devious Maids", "obj_label": ["Lifetime"], "gpt4_choices": ["lifetime"]}
+{"sub_label": "Help Wanted", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Doug", "obj_label": ["Pinwheel", "Nick", "American Broadcasting Company", "Nickelodeon", "ABC"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Saul Gone", "obj_label": ["AMC (television channel)", "AMC (TV Network)", "American Movie Classics", "AMC (TV network)", "AMC Network", "AMC network", "AMC", "Filmcritic.com", "American Movie Channel"], "gpt4_choices": ["better call saul"]}
+{"sub_label": "Industry", "obj_label": ["HBO", "HBO Family", "BBC2", "Home Box Office", "BBC 2", "BBC Two"], "gpt4_choices": ["hbo"]}
+{"sub_label": "The Strain", "obj_label": ["fX", "FX network", "FX", "Fox extended"], "gpt4_choices": ["fx network"]}
+{"sub_label": "A Country Practice", "obj_label": ["10 TV Australia", "Channel Ten", "Channel Seven", "Network 7", "Network Ten", "Network 10", "Channel 10", "10 Network", "Seven head Network", "Independent Television System", "Seven Network", "0-10 Network", "Channel 7", "Seven", "7", "Network Seven"], "gpt4_choices": ["seven network"]}
+{"sub_label": "Bates Motel", "obj_label": ["A&E", "Arts & Entertainment Network", "A&E Television Network", "Arts & Entertainment", "A&E TV"], "gpt4_choices": ["a&e network"]}
+{"sub_label": "Bodyguard", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Austin & Ally", "obj_label": ["Disney Channel", "Disney", "The Disney Channel"], "gpt4_choices": ["disney channel"]}
+{"sub_label": "14 - Diaries of the Great War", "obj_label": ["Arte", "Association relative à la télévision européenne", "ARTE France"], "gpt4_choices": ["arte"]}
+{"sub_label": "City Homicide", "obj_label": ["Channel Seven", "Network 7", "Seven head Network", "Seven Network", "Seven", "7", "Channel 7", "Network Seven"], "gpt4_choices": ["seven network"]}
+{"sub_label": "Swamp Thing", "obj_label": ["dcuniverse.com", "DC Universe"], "gpt4_choices": ["dc universe"]}
+{"sub_label": "The Legend of Korra (season 1)", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Brain Games", "obj_label": ["TV National Geographic Channel Animal in Germany", "National Geographic Channel"], "gpt4_choices": ["national geographic channel"]}
+{"sub_label": "RollBots", "obj_label": ["YTV"], "gpt4_choices": ["ytv"]}
+{"sub_label": "Melrose Place", "obj_label": ["FOX", "Fox Broadcasting Company"], "gpt4_choices": ["fox broadcasting company"]}
+{"sub_label": "Insatiable", "obj_label": ["Net Flix", "Netflix", "Netflix.com"], "gpt4_choices": ["netflix"]}
+{"sub_label": "Rainbow Butterfly Unicorn Kitty", "obj_label": ["Nickelodeon", "Pinwheel", "Nick"], "gpt4_choices": ["nickelodeon"]}
+{"sub_label": "Extreme Dinosaurs", "obj_label": ["syndication", "radio syndication", "broadcast syndication", "TV syndication"], "gpt4_choices": ["syndication"]}
+{"sub_label": "Robot Chicken", "obj_label": ["[adult swim]", "Adult Swim"], "gpt4_choices": ["adult swim"]}
+{"sub_label": "Noddy's Toyland Adventures", "obj_label": ["BBC Television Service", "BBC One", "BBC1", "BBC TV", "BBC 1"], "gpt4_choices": ["bbc one"]}
+{"sub_label": "Oggy and the Cockroaches", "obj_label": ["France 3", "Gulli"], "gpt4_choices": ["france 3"]}
+{"sub_label": "Hawaii Five-O", "obj_label": ["Tiffany Network", "CBS", "Columbia Broadcasting System", "Black Rock", "Eye Network"], "gpt4_choices": ["cbs television network"]}
+{"sub_label": "Stakes", "obj_label": ["Cartoon Network"], "gpt4_choices": ["adventure time"]}
+{"sub_label": "The Adventures of Tintin", "obj_label": ["HBO Family", "HBO", "Home Box Office"], "gpt4_choices": ["belgian radio-television (rtbf)"]}

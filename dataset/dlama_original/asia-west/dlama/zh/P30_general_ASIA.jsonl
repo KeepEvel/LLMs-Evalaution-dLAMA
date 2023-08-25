@@ -1,0 +1,13 @@
+{"sub_uri": "Q17", "obj_uri": ["Q48"], "sub_label": "日本", "obj_label": ["亚洲"], "country": ["Q17"], "size": 564297, "uuid": "P30_general_ASIA_0"}
+{"sub_uri": "Q148", "obj_uri": ["Q48"], "sub_label": "中华人民共和国", "obj_label": ["亚洲"], "country": ["Q148"], "size": 412736, "uuid": "P30_general_ASIA_1"}
+{"sub_uri": "Q865", "obj_uri": ["Q48"], "sub_label": "中华民国", "obj_label": ["亚洲"], "country": ["Q865"], "size": 408861, "uuid": "P30_general_ASIA_2"}
+{"sub_uri": "Q869", "obj_uri": ["Q48"], "sub_label": "泰国", "obj_label": ["亚洲"], "country": ["Q869"], "size": 349976, "uuid": "P30_general_ASIA_3"}
+{"sub_uri": "Q928", "obj_uri": ["Q48"], "sub_label": "菲律宾", "obj_label": ["亚洲"], "country": ["Q928"], "size": 349533, "uuid": "P30_general_ASIA_4"}
+{"sub_uri": "Q881", "obj_uri": ["Q48"], "sub_label": "越南", "obj_label": ["亚洲"], "country": ["Q881"], "size": 317037, "uuid": "P30_general_ASIA_5"}
+{"sub_uri": "Q334", "obj_uri": ["Q48"], "sub_label": "新加坡", "obj_label": ["亚洲"], "country": ["Q334"], "size": 283032, "uuid": "P30_general_ASIA_6"}
+{"sub_uri": "Q884", "obj_uri": ["Q48"], "sub_label": "大韩民国", "obj_label": ["亚洲"], "country": ["Q884"], "size": 276752, "uuid": "P30_general_ASIA_7"}
+{"sub_uri": "Q423", "obj_uri": ["Q48"], "sub_label": "朝鲜民主主义人民共和国", "obj_label": ["亚洲"], "country": ["Q423"], "size": 258958, "uuid": "P30_general_ASIA_8"}
+{"sub_uri": "Q836", "obj_uri": ["Q48"], "sub_label": "缅甸", "obj_label": ["亚洲"], "country": ["Q836"], "size": 250928, "uuid": "P30_general_ASIA_9"}
+{"sub_uri": "Q252", "obj_uri": ["Q48", "Q538"], "sub_label": "印度尼西亚", "obj_label": ["亚洲", "太平洋岛屿地区"], "country": ["Q252"], "size": 198129, "uuid": "P30_general_ASIA_10"}
+{"sub_uri": "Q833", "obj_uri": ["Q48"], "sub_label": "马来西亚", "obj_label": ["亚洲"], "country": ["Q833"], "size": 197868, "uuid": "P30_general_ASIA_11"}
+{"sub_uri": "Q711", "obj_uri": ["Q48"], "sub_label": "蒙古国", "obj_label": ["亚洲"], "country": ["Q711"], "size": 135252, "uuid": "P30_general_ASIA_12"}

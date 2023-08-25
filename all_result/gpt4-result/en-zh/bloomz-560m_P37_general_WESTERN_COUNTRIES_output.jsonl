@@ -1,0 +1,3 @@
+{"sub_uri": "Q39", "obj_uri": ["Q13199", "Q150", "Q188", "Q652"], "sub_label": "Switzerland", "obj_label": ["Romansh", "French", "German", "Italian"], "country": ["Q39"], "size": 383749, "uuid": "P37_general_WESTERN_COUNTRIES_0", "bloom_choices": ["瑞士语"]}
+{"sub_uri": "Q38", "obj_uri": ["Q652"], "sub_label": "Italy", "obj_label": ["Italian"], "country": ["Q38"], "size": 378568, "uuid": "P37_general_WESTERN_COUNTRIES_1", "bloom_choices": ["italiano"]}
+{"sub_uri": "Q142", "obj_uri": ["Q150"], "sub_label": "France", "obj_label": ["French"], "country": ["Q142"], "size": 371391, "uuid": "P37_general_WESTERN_COUNTRIES_2", "bloom_choices": ["French"]}

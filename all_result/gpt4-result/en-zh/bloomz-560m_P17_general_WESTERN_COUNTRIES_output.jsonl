@@ -1,0 +1,3 @@
+{"sub_uri": "Q86847911", "obj_uri": ["Q40"], "sub_label": "COVID-19 pandemic in Austria", "obj_label": ["Austria"], "country": ["Q40"], "size": 1198515, "uuid": "P17_general_WESTERN_COUNTRIES_0", "bloom_choices": ["Austria"]}
+{"sub_uri": "Q83889294", "obj_uri": ["Q183"], "sub_label": "COVID-19 pandemic in Germany", "obj_label": ["Germany"], "country": ["Q183"], "size": 560945, "uuid": "P17_general_WESTERN_COUNTRIES_1", "bloom_choices": ["Germany"]}
+{"sub_uri": "Q3152321", "obj_uri": ["Q142"], "sub_label": "Institut industriel du Nord", "obj_label": ["France"], "country": ["Q142"], "size": 521923, "uuid": "P17_general_WESTERN_COUNTRIES_2", "bloom_choices": ["istanbul"]}

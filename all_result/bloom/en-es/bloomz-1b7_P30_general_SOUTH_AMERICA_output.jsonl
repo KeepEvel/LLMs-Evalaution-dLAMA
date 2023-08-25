@@ -1,0 +1,12 @@
+{"sub_uri": "Q298", "obj_uri": ["Q18"], "sub_label": "Chile", "obj_label": ["South America"], "country": ["Q298"], "size": 444010, "uuid": "P30_general_SOUTH_AMERICA_0", "bloom_choices": ["South America"]}
+{"sub_uri": "Q717", "obj_uri": ["Q18"], "sub_label": "Venezuela", "obj_label": ["South America"], "country": ["Q717"], "size": 386472, "uuid": "P30_general_SOUTH_AMERICA_1", "bloom_choices": ["South America"]}
+{"sub_uri": "Q419", "obj_uri": ["Q18"], "sub_label": "Peru", "obj_label": ["South America"], "country": ["Q419"], "size": 358154, "uuid": "P30_general_SOUTH_AMERICA_2", "bloom_choices": ["South America"]}
+{"sub_uri": "Q77", "obj_uri": ["Q18"], "sub_label": "Uruguay", "obj_label": ["South America"], "country": ["Q77"], "size": 339307, "uuid": "P30_general_SOUTH_AMERICA_3", "bloom_choices": ["South America"]}
+{"sub_uri": "Q750", "obj_uri": ["Q18"], "sub_label": "Bolivia", "obj_label": ["South America"], "country": ["Q750"], "size": 314305, "uuid": "P30_general_SOUTH_AMERICA_4", "bloom_choices": ["South America"]}
+{"sub_uri": "Q736", "obj_uri": ["Q18"], "sub_label": "Ecuador", "obj_label": ["South America"], "country": ["Q736"], "size": 285055, "uuid": "P30_general_SOUTH_AMERICA_5", "bloom_choices": ["South America"]}
+{"sub_uri": "Q739", "obj_uri": ["Q18"], "sub_label": "Colombia", "obj_label": ["South America"], "country": ["Q739"], "size": 281258, "uuid": "P30_general_SOUTH_AMERICA_6", "bloom_choices": ["South America"]}
+{"sub_uri": "Q155", "obj_uri": ["Q18"], "sub_label": "Brazil", "obj_label": ["South America"], "country": ["Q155"], "size": 263868, "uuid": "P30_general_SOUTH_AMERICA_7", "bloom_choices": ["South America"]}
+{"sub_uri": "Q414", "obj_uri": ["Q18"], "sub_label": "Argentina", "obj_label": ["South America"], "country": ["Q414"], "size": 252936, "uuid": "P30_general_SOUTH_AMERICA_8", "bloom_choices": ["South America"]}
+{"sub_uri": "Q733", "obj_uri": ["Q18"], "sub_label": "Paraguay", "obj_label": ["South America"], "country": ["Q733"], "size": 239560, "uuid": "P30_general_SOUTH_AMERICA_9", "bloom_choices": ["South America"]}
+{"sub_uri": "Q730", "obj_uri": ["Q18"], "sub_label": "Suriname", "obj_label": ["South America"], "country": ["Q730"], "size": 111975, "uuid": "P30_general_SOUTH_AMERICA_10", "bloom_choices": ["South America"]}
+{"sub_uri": "Q734", "obj_uri": ["Q18"], "sub_label": "Guyana", "obj_label": ["South America"], "country": ["Q734"], "size": 102845, "uuid": "P30_general_SOUTH_AMERICA_11", "bloom_choices": ["South America"]}

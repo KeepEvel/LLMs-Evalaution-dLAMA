@@ -1,0 +1,1000 @@
+{"sub_label": "Rafael Nadal", "obj_label": ["eng", "ca", "Catalan", "Valencian", "Valencià", "English", "en", "es", "Spanish language", "Catalan language", "Catalan-Valencian-Balearic", "Català", "Valencian language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Gilles de Rais", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Gilbert Sincyr", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Jean-Luc Mélenchon", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["french"]}
+{"sub_label": "Dieudonné M'bala M'bala", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Boris Johnson", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Donald Trump", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Annabeth Chase", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Lionel Messi", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Jean-Michel Macron", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Emmanuel Macron", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Marine Le Pen", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Jacques Chirac", "obj_label": ["eng", "ru", "English", "fr", "en", "Russian language", "Russkiy", "French", "fra", "French language", "(fr)", "English language", "Russkiy yazyk", "Russian"], "gpt4_choices": ["french"]}
+{"sub_label": "Zinedine Zidane", "obj_label": ["Kabyle", "Spanish language", "fra", "Arabian language", "Arabic language", "ar", "Italian", "kab", "Italiano", "French", "Kabylian", "French language", "Italian language", "it", "fr", "Kabyle language", "Español", "Taqbaylit", "Castilian", "Spanish", "es", "Arabic", "(fr)", "Castilian language"], "gpt4_choices": ["french"]}
+{"sub_label": "Franz Wilhelm Junghuhn", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Guillermo Silveira", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "René Guénon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Maximilien Robespierre", "obj_label": ["Italian", "it", "Italian language", "fr", "Italiano", "French", "fra", "French language", "(fr)"], "gpt4_choices": ["french"]}
+{"sub_label": "Jo-Wilfried Tsonga", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Beyoncé", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Cristiano Ronaldo", "obj_label": ["eng", "pt", "Portuguese language", "English", "en", "es", "Spanish language", "English language", "Portuguese", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Jeremy Corbyn", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "George Sand", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Charlie Baker", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gianluigi Buffon", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Sébastien Loeb", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bahtiyar Duysak", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ralph Northam", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Barack Obama", "obj_label": ["eng", "id", "Bahasa", "English", "en", "Indonesian", "ind", "Indonesian language", "English language", "bahasa Indonesia"], "gpt4_choices": ["english"]}
+{"sub_label": "Ricky Martin", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Valéry Giscard d'Estaing", "obj_label": ["fr", "French", "de", "German", "fra", "French language", "(fr)", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "Napoleon III", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Christian Veillet", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Plinio Antolini", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Paolo Bacci", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Gina Fedon", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named gina fedon. however, i can provide information about common languages spoken in various regions. please provide more context."]}
+{"sub_label": "Joe Biden", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Taylor Swift", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Pierre André de Suffren de Saint Tropez", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Francisco Franco", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Nicolas Sarkozy", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Peyton Manning", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mitt Romney", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Jimmy Carter", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Alexandre Millerand", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Charles de Gaulle", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Charles Maurras", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Rudy Giuliani", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Silvio Berlusconi", "obj_label": ["eng", "Italian", "it", "English", "fr", "en", "Italian language", "Italiano", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Louis XVI of France", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["french"]}
+{"sub_label": "Salome Zurabishvili", "obj_label": ["en", "fra", "Italian", "ქართული", "Italiano", "French", "de", "German", "French language", "Italian language", "Georgian", "Kartuli", "it", "English", "fr", "English language", "ქართული ენა", "German language", "eng", "Kartuli ena", "ka", "(fr)", "Georgian language"], "gpt4_choices": ["georgian"]}
+{"sub_label": "Charles Le Brun", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Kobe Bryant", "obj_label": ["eng", "Italian", "it", "English", "en", "es", "Spanish language", "Italiano", "English language", "Italian language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Stan Wawrinka", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Serena Williams", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Lady Gaga", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Andy Murray", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "George W. Bush", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "John van der Neumann", "obj_label": ["Old Greek", "lat", "Latin", "en", "fra", "la", "French", "de", "German", "French language", "hu", "English", "fr", "Hungarian language", "English language", "Hungarian", "German language", "Ancient Greek language", "eng", "grc", "Old Greek language", "Latin language", "(fr)", "Ancient Greek"], "gpt4_choices": ["hungarian"]}
+{"sub_label": "Benjamin Banneker", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alfred Siegling", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Siebert", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Spindler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Richard Spörle", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl-Heinz Schulz-Lepel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Spielmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on an individual named johannes spielmann. however, the name suggests german origins, so it's possible that this person communicates in german."]}
+{"sub_label": "Karlheinz Schulz Streeck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Siegel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Sturm", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Straub", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hubert Sniers", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["your question seems to refer to a person named hubert sniers, but there is no widely recognized person by that name in available resources. therefore, it's impossible to provide the language they use for communication. please provide more specific or accurate information."]}
+{"sub_label": "Hans-Günther Stotten", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhard Simons", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about gerhard simons is not available in the database. could you please provide more context or check the spelling of the name?"]}
+{"sub_label": "Joachim Schubach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ernst Sorge", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Joachim Schulz-Merkel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Schumacher", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerd Suhren", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georg Seelmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Starke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about a person named heinrich starke is not specific enough to determine the language he used to communicate in. please provide more details."]}
+{"sub_label": "Walther Sievers", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Éric Zemmour", "obj_label": ["Hebrew", "Hebrew language", "Ivrit", "fr", "heb", "French", "fra", "French language", "(fr)", "Iwrit", "he", "Jewish language"], "gpt4_choices": ["french"]}
+{"sub_label": "Tucker Carlson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Hans Staininger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georges Bataille", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Paul Bourget", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Maurice Duplessis", "obj_label": ["eng", "English (Canada)", "en-ca", "English", "Canadian French", "fr", "en", "en-CA", "en_CA", "French", "en_ca", "French-Canadian dialect", "fra", "French language", "(fr)", "English language", "Canadian English"], "gpt4_choices": ["french"]}
+{"sub_label": "Bryan Danielson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Amanda Lear", "obj_label": ["eng", "Italian", "it", "English", "fr", "en", "Italian language", "Italiano", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Dolores O'Riordan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Roger Federer", "obj_label": ["eng", "English", "fr", "en", "Swiss German", "French", "de", "German", "fra", "French language", "(fr)", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Diana, Princess of Wales", "obj_label": ["eng", "bfi", "English", "en", "English language", "British Sign Language", "BSL"], "gpt4_choices": ["english"]}
+{"sub_label": "Elon Musk", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "LeBron James", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Savannah Brinson", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "François Fillon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Mike Pence", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Valentino Rossi", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Stephen Harper", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Joseph Malègue", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Joseph René Vilatte", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bernie Sanders", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Johnny Hallyday", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Craig Heller", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an ai, i don't have real-time access to personal data about individuals unless it has been shared with me in the course of our conversation. i am designed to respect user privacy and confidentiality. therefore, i don't have specific information about the language craig heller uses to communicate."]}
+{"sub_label": "Hillary Clinton", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Sandro Pertini", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Lewis Hamilton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Charles III", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "Roberto Baggio", "obj_label": ["Italian", "Venetian", "vec", "it", "Italiano", "Venetian language", "Venetan", "Italian language", "Venetan language"], "gpt4_choices": ["italian"]}
+{"sub_label": "François Tristan l'Hermite", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Cyrano de Bergerac", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "John McCain", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Julian Assange", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Erich von Selle", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Mariah Carey", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Eric Walter Elst", "obj_label": ["eng", "nl", "English", "en", "nld", "ned", "Dutch language", "Netherlandic language", "Flemish language", "English language", "Netherlandic", "Dutch", "Nederlands", "Flemish", "Netherlandish"], "gpt4_choices": ["dutch"]}
+{"sub_label": "Drake", "obj_label": ["eng", "Castilian", "es-419", "English", "en", "es", "Spanish language", "es_419", "English language", "es-PE", "Latin American Spanish", "Español", "Castilian language", "Spanish", "Peruvian Spanish"], "gpt4_choices": ["english"]}
+{"sub_label": "Italian Americans", "obj_label": ["eng", "Sicilian language", "Italian", "Siculo", "it", "English", "en", "scn", "Italiano", "Sicilianu", "Calabro-Sicilian", "English language", "Italian language", "Siciliano", "Sicilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Patrick Dewaere", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Salvador Ramos", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named salvador ramos. however, considering the name is of spanish origin, it's likely that the person might communicate in spanish."]}
+{"sub_label": "Steve Davis", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Hannah Arendt", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ben Roethlisberger", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kearney Zzyzwicz", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Lenny Leonard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Chris Jericho", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Carrie Underwood", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Prince Harry, Duke of Sussex", "obj_label": ["eng", "English (United Kingdom)", "UK English", "en-gb", "English", "en", "BrE", "en_GB", "United Kingdom English", "en_gb", "English language", "British English", "en-GB"], "gpt4_choices": ["english"]}
+{"sub_label": "Martin Luther King Jr.", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jean Cavaillès", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Connor Kenway", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Brenton Tarrant", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Frank Sinatra", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "David Bowie", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jon Moxley", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Becky Jackson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Pierre Bonny", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Napoleon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Britney Spears", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Theodore Roosevelt", "obj_label": ["eng", "Italian", "it", "English", "fr", "en", "Italian language", "Italiano", "French", "de", "German", "fra", "French language", "(fr)", "English language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "François de Charette", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Jeffrey Epstein", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Edward Snowden", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Alan Stivell", "obj_label": ["Brezhoneg", "eng", "English", "fr", "en", "French", "bre", "Breton language", "fra", "br", "French language", "(fr)", "English language", "Breton"], "gpt4_choices": ["french"]}
+{"sub_label": "Stacey Ehrmantraut", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Catherine, Princess of Wales", "obj_label": ["eng", "English (United Kingdom)", "UK English", "en-gb", "English", "en", "BrE", "en_GB", "United Kingdom English", "en_gb", "English language", "British English", "en-GB"], "gpt4_choices": ["english"]}
+{"sub_label": "Margaret Thatcher", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Brian Wilson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Matteo Renzi", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Didier Raoult", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Michael Jackson", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Prince Michael Jackson I", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Steve Bannon", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Philippe Pétain", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Grégory Villemin", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bill Clinton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Louis Pasteur", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Fernando Alonso", "obj_label": ["eng", "Italian", "it", "English", "en", "es", "Spanish language", "Italiano", "English language", "Italian language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Georganne LaPiere", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Cher", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mohammed Merah", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Jared Garfield", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Katy Perry", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ben Affleck", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Eminem", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Adele", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nicolas Mahut", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "José Mourinho", "obj_label": ["pt", "en", "Spanish language", "fra", "Portuguese", "Italian", "Italiano", "French", "French language", "Italian language", "it", "English", "fr", "English language", "Español", "Castilian", "Spanish", "eng", "Portuguese language", "es", "(fr)", "Castilian language"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Selena Gomez", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Frédéric Chopin", "obj_label": ["Polish language", "fr", "Polish", "French", "Polski", "fra", "French language", "(fr)", "pl"], "gpt4_choices": ["polish"]}
+{"sub_label": "Dianna Agron", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Marjorie Taylor Greene", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jennifer Lopez", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Georges Clemenceau", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Alexandria Ocasio-Cortez", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Robert Ménard", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Hulk Hogan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Theresa May", "obj_label": ["eng", "English (United Kingdom)", "UK English", "en-gb", "English", "en", "BrE", "en_GB", "United Kingdom English", "en_gb", "English language", "British English", "en-GB"], "gpt4_choices": ["english"]}
+{"sub_label": "Paul McCartney", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "David Petraeus", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Samuel Beckett", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Jules Verne", "obj_label": ["epo", "Esperanto", "fr", "Esperanto language", "French", "eo", "French language", "fra", "(fr)"], "gpt4_choices": ["french"]}
+{"sub_label": "Bob Dylan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Glenn Youngkin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Daniel Cohn-Bendit", "obj_label": ["fr", "French", "de", "German", "fra", "French language", "(fr)", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "Big Pussy Bonpensiero", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Vito Spatafore", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Johnny Sack", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tony Blundetto", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Richie Aprile", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Carmine Lupertazzi", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Anggun", "obj_label": ["nl", "Javanese language", "id", "en", "Indonesian", "Dutch language", "ned", "ind", "Indonesian language", "fra", "باسا جاوا‎", "Netherlandic", "Flemish", "Italian", "Italiano", "French", "Flemish language", "jv", "French language", "ꦧꦱꦗꦮ", "Italian language", "bahasa Indonesia", "it", "English", "fr", "Netherlandic language", "English language", "jav", "Dutch", "Nederlands", "eng", "Bahasa", "nld", "(fr)", "basa Jawa", "Javanese", "Netherlandish"], "gpt4_choices": ["french"]}
+{"sub_label": "Alec Woods", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named alec woods. however, if you're referring to a well-known person, please provide more context."]}
+{"sub_label": "H. H. Asquith", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Justin Bieber", "obj_label": ["eng", "English (Canada)", "en-ca", "English", "en", "en_CA", "en-CA", "en_ca", "English language", "Canadian English"], "gpt4_choices": ["english"]}
+{"sub_label": "Wyatt Earp", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dwight D. Eisenhower", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "David Beckham", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nicki Minaj", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Indro Montanelli", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Ulysses S Grant", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "François Hollande", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Jean Giraud", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "François Mitterrand", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Charles V of France", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Kamala Harris", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mike Grose", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Whitney Houston", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Hubert Gough", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "J.H. Down", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named j.h. down. however, if you're referring to john langdon down, the british physician who first described down syndrome, he communicated in english."]}
+{"sub_label": "J. Martin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named j. martin. however, if you're referring to a well-known person, please provide more details so i can give a more accurate answer."]}
+{"sub_label": "W.P. Bailey", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Carl Jung", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Orson Welles", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ariana Grande", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nancy Pelosi", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gaël Monfils", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Louis XV of France", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["french"]}
+{"sub_label": "Nicolas Dalayrac", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Honoré de Balzac", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Chuck Schumer", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Joss Whedon", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bernard Hinault", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Chevalier de Saint-George", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Gilbert du Motier, Marquis de Lafayette", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Andreas Seppi", "obj_label": ["eng", "Italian", "it", "English", "en", "Italiano", "de", "German", "English language", "Italian language", "German language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Rudi Reußner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Riedel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Rammelt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Rehm", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Josef Rettemeier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerd Ruge", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Roell", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich-Wilhelm Richter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Ritz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named otto ritz. however, if you're referring to a person from a german-speaking country, it's likely that they would communicate in german."]}
+{"sub_label": "Hans Roeger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about hans roeger's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Willi Rothhaar", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Leo-Hermann Reinhold", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Volprecht Riedesel Freiherr zu Eisenbach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Curt Rechel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on an individual named curt rechel. however, if this person is from an english-speaking country, it's likely that they communicate in english."]}
+{"sub_label": "Erwin Franz Roestel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wolfgang Röhder", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilfrid Richter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on an individual named wilfrid richter. however, the name suggests germanic origins, so it's possible that the person might communicate in german. please provide more context or check the information for accuracy."]}
+{"sub_label": "Julius Riepe", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gottlieb Renz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Rennecke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about the language used by rudolf rennecke is not available in the encyclopedia."]}
+{"sub_label": "Benno Reuter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Richter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Rixecker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about karl rixecker's language is not available in the database."]}
+{"sub_label": "Hellmut Rohweder", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Fritz Rentrop", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georg Rietscher", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Viktor Rall", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about viktor rall's language of communication is not available in the current database."]}
+{"sub_label": "Heinrich Ruhl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gustav Reimar", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Richard Rudolf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "August Reuter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Jeff Sessions", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "George Washington", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John F. Kennedy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Benedict XVI", "obj_label": ["lat", "Latin", "en", "Spanish language", "fra", "Italian", "Italiano", "la", "French", "de", "German", "French language", "Italian language", "it", "English", "fr", "English language", "Español", "Castilian", "Spanish", "German language", "eng", "es", "Latin language", "(fr)", "Castilian language"], "gpt4_choices": ["latin"]}
+{"sub_label": "Christina Aguilera", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Wali", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["wali is a language spoken in ghana."]}
+{"sub_label": "Elvis Presley", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Avril Lavigne", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Josef Schneider", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Schrepfer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about karl schrepfer's language is not available in the encyclopedia."]}
+{"sub_label": "Walter Scherf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Egon-Reiner von Schlippenbach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Schlee", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Martin Saltzwedel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ernst Schneck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhart Schirmer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Schmischke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Sander", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named walter sander. however, if you're referring to a well-known person, please provide more context."]}
+{"sub_label": "Heinrich Schmetz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Scherg", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhard Schacht", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm von Salisch", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans von Schlebrügge", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Schreiber", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Bernhard Sartor", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Anton Schmid", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Schroedter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Curt Schille", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Wilhelm Salz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Danica Patrick", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "John Brown", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacques Lacan", "obj_label": ["fr", "French", "de", "German", "fra", "French language", "(fr)", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "William Barr", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bruno Mars", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Angela Merkel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Robert Byrd", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Douglas MacArthur", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Connor Lawson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named connor lawson. however, lawson is a common surname in english-speaking countries, so it's likely that he speaks english."]}
+{"sub_label": "Darren Wilson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Karim Benzema", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "John Cena", "obj_label": ["eng", "Chinese", "English", "en", "Mandarin", "Mandarin Chinese", "English language", "Chinese languages", "zh", "中文", "Chinese language"], "gpt4_choices": ["english"]}
+{"sub_label": "Alfred Matern", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Albert Müller", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Möhlmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Mattern", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about walter mattern's language of communication is not available."]}
+{"sub_label": "Karl-Hermann Millahn", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Mühlbauer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Siegfried Moldenhauer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Markworth", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Müller", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerd Mischke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rolf Mager", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Jens Matzen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have real-time data on specific individuals unless they are widely recognized public figures. therefore, i can't provide information on the language used by jens matzen."]}
+{"sub_label": "Hubert-Erwin Meierdress", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Waldemar Mehl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Theodor von Mauchenheim", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Meyering", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Carl-Friedrich Mohr", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Maurer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Maier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Meitzel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wolfgang Meinhold", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl-Conrad Mecke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Joachim Merks", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ludwig Meister", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Meier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named hans meier. however, \"hans meier\" is a common name in german-speaking countries, so it's likely that he would communicate in german."]}
+{"sub_label": "Walter Müller", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Martin Moßdorf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm von Malachowski", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Teresa of Ávila", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Yves Guyot", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "XXXTentacion", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Max Wandrey", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about max wandrey's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Bernhard Walterbach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about bernhard walterbach's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Helmut Witte", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johann-Friedrich Wessels", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kilian Weimer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Herbert Weiß", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Wahl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named kurt wahl. however, if you're referring to a person from a german-speaking country, it's likely that they would communicate in german. please provide more context for a more accurate response."]}
+{"sub_label": "Johannes Weineck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Wandmaker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hermann Wischnewski", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich-Wilhelm Wangerin", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Willig", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Weniger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Balthasar Woll", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Eginhard Weißmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Walther", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Weller", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["your question seems to refer to a less-known or potentially private individual named franz weller. as an ai, i don't have access to private data about individuals unless it has been shared with me in the course of our conversation. i am designed to respect user privacy and confidentiality. therefore, i'm unable to provide the information you're asking for."]}
+{"sub_label": "Hans Witt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Wolf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georg Wenzelburger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Weißflog", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Herbert Wittmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Weiß", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Giselher Wilke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Werner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Günther-Eberhardt Wisliceny", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl-Heinz Wilke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Thilo Freiherr von Werthern", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Willi Wechsung", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Winnerl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Wimmer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Madonna", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Prince", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "The Miz", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Stephen Curry", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Paris Hilton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ted Cruz", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Angelina Jolie", "obj_label": ["en_US", "Central Khmer", "Khmer", "km", "en", "Khmer language", "United States English", "American English", "Cambodian language", "en-US", "English (United States)", "en-us", "English", "en_us", "U.S. English", "English language", "AmE", "US English", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Muhammad Ali", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kurt Angle", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Giorgia Meloni", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Thomas Jefferson", "obj_label": ["eng", "lat", "Italian", "it", "English", "Latin", "fr", "en", "Latin language", "la", "French", "Italiano", "Italian language", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacques Médecin", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Claudio Bravo", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Marcus Rashford", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Carl Schmitt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Justin Timberlake", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Maurice Chevalier", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Robert F. Kennedy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacques Villeneuve", "obj_label": ["eng", "Italian", "it", "English", "fr", "en", "Italian language", "Italiano", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Albert Hektor", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["your question seems to refer to a specific individual named albert hektor. however, as an encyclopedia, i don't have real-time or personal data about individuals unless they are widely recognized figures with information available in public records. therefore, i'm unable to provide the language albert hektor uses to communicate."]}
+{"sub_label": "Bernhard Hamester", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Heynsen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["i'm sorry, but there's no available information on a person named rudolf heynsen. please provide more context or check the spelling of the name."]}
+{"sub_label": "Bruno Hinz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Benno Herrmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Reino Hamer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["dutch"]}
+{"sub_label": "Franz Hack", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Georg Hess", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Anton Heinemann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Hielscher", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhard Hein", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Engelbert Heiner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on an individual named engelbert heiner. however, the name engelbert heiner suggests germanic origins, so it's possible that he communicated in german. please provide more context for a more accurate response."]}
+{"sub_label": "Horst Hermann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Konrad Heubeck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich-Erdmann von Hake", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Josef Heichele", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Fritz Henke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Haag", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Hellmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Herbert Hampe", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Max Herzbach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Francisco de Goya", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Voltaire", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Arnold Schwarzenegger", "obj_label": ["en", "de-at", "Austrian-German", "Austrian German", "Austrian accent", "de", "German", "Austrian Standard German", "AustriaLanguage", "Austrian German language", "English", "English language", "German language", "eng", "österreichisches Deutsch", "Austrian Dialect", "de_AT", "Austrian language", "Austria/Language"], "gpt4_choices": ["english"]}
+{"sub_label": "Kanye West", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Winston Churchill", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Kendrick Lamar", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Martin Fourcade", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Alicia Keys", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bobby Fischer", "obj_label": ["eng", "Íslenska", "English", "en", "Icelandic language", "Icelandic", "English language", "is"], "gpt4_choices": ["english"]}
+{"sub_label": "Jean-Marie Le Pen", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "William Bonin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Victor Hugo", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Milos Raonic", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nawaz Sharif", "obj_label": ["ur", "Urdu", "Oordoo", "Urdu language"], "gpt4_choices": ["urdu"]}
+{"sub_label": "Renate Blauel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Elton John", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "CM Punk", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Scott Morrison", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Andrew Cuomo", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacinda Ardern", "obj_label": ["eng", "English", "en", "New Zealand English", "NZ English", "ennz", "English language", "English (Aotearoa)"], "gpt4_choices": ["english"]}
+{"sub_label": "Ruth Bader Ginsburg", "obj_label": ["en_US", "Hebrew", "en", "United States English", "Swedish", "Iwrit", "Jewish language", "American English", "Svenska", "Ivrit", "heb", "en-US", "English (United States)", "en-us", "English", "en_us", "U.S. English", "English language", "AmE", "US English", "sv", "he", "eng", "Hebrew language", "Swedish language"], "gpt4_choices": ["english"]}
+{"sub_label": "Chris Cornell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Marilyn Manson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "René Lévesque", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Céline Dion", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Andreas Hillgruber", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Sir Henry Wilson, 1st Baronet", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jules Bianchi", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Louis de Rouvroy, duc de Saint-Simon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Amelia Earhart", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nikolas Cruz", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Peter Wang", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named peter wang. however, wang is a common surname of chinese origin, so it's possible that a person named peter wang might communicate in chinese. please note that this is a general assumption and may not apply to all individuals named peter wang."]}
+{"sub_label": "Chelsea Manning", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Wayne Rooney", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Miley Cyrus", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sarah Palin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Giuseppe Conte", "obj_label": ["eng", "Italian", "it", "English", "en", "Italiano", "English language", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Simon Millanges", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["latin"]}
+{"sub_label": "Bradley Wiggins", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bryan Adams", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "R. Kelly", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John R. Bolton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Thiago Silva", "obj_label": ["pt", "Portuguese language", "Portuguese"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Nigel Farage", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Totò", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Brett Kavanaugh", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mary Davies Wilburn", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Arthur Rimbaud", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Pep Fraudiola", "obj_label": ["en", "Spanish language", "Catalan-Valencian-Balearic", "Italian", "Italiano", "de", "German", "Italian language", "ca", "it", "English", "Catalan language", "Català", "Valencian language", "English language", "Español", "Castilian", "Spanish", "German language", "eng", "Catalan", "Valencià", "es", "Valencian", "Castilian language"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Alain Prost", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "John Kasich", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Paul Deschanel", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Rand Paul", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bettino Craxi", "obj_label": ["Italian", "it", "Italian language", "fr", "Italiano", "French", "fra", "French language", "(fr)"], "gpt4_choices": ["italian"]}
+{"sub_label": "Ted Kennedy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alain Soral", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Steve McManaman", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kid Cudi", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Madeleine McCann", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Renaud", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Max Verstappen", "obj_label": ["eng", "nl", "English", "en", "nld", "ned", "Dutch language", "Netherlandic language", "Flemish language", "English language", "Netherlandic", "Dutch", "Nederlands", "Flemish", "Netherlandish"], "gpt4_choices": ["dutch"]}
+{"sub_label": "David Lloyd George", "obj_label": ["eng", "Cymric", "cy", "English", "en", "Welsh", "English language", "Welsh language"], "gpt4_choices": ["english"]}
+{"sub_label": "Newt Gingrich", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bruno Kohnz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Claus Korth", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Siegfried Korth", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alfons Köster", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ekkehard Kylling-Schmidt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Andreas Kuffner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Dietrich Koch", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Konrad Knabe", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Körner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ernst Knebel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Kühme", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Kron", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johann-Otto Krieg", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Reinhard König", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erwin Kreßmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Peter Knaust", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hermann Kunz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Kohler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "August Koch", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Boris Kraas", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Bernhard Kranz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Korn", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Kolbeck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Max Kurze", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wolfgang Koltermann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhard Krems", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "The Weeknd", "obj_label": ["eng", "English", "fr", "en", "Amharic", "am", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Adam Lanza", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Didier Deschamps", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Louis de Funès", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Max Jacob", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Michael Schumacher", "obj_label": ["eng", "Italian", "it", "English", "en", "Italiano", "de", "German", "English language", "Italian language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Michael Phelps", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Steve Jobs", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Irène Némirovsky", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Matt Gaetz", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "David Cameron", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Albert Einstein", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Leonardo DiCaprio", "obj_label": ["eng", "Italian", "it", "English", "en", "Italiano", "de", "German", "English language", "Italian language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Drew McIntyre", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nicola Sturgeon", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Charles de Foucauld", "obj_label": ["Tuareg", "Tamahaq language", "fr", "Tamahaq (Algeria)", "French", "Tahaggart Tamahaq", "fra", "French language", "(fr)", "Tamashek", "Tamahaq", "Tuareg languages", "Tamahaq (Libya)"], "gpt4_choices": ["french"]}
+{"sub_label": "Meghan, Duchess of Sussex", "obj_label": ["eng", "English", "fr", "es", "Spanish language", "en", "French", "fra", "French language", "(fr)", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Harry S Truman", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dwayne Johnson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ronaldinho", "obj_label": ["pt", "Portuguese language", "es", "Spanish language", "Portuguese", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Vasco Rossi", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Eden Hazard", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Ed Sheeran", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tony Blair", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Amélie Diéterle", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Felicity Smoak", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Theodor W. Adorno", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Charles Lindbergh", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Brigitte Bardot", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bernard d'Ormale", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bruno Frank", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Michel Sardou", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "William, Prince of Wales", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Naya Rivera", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Shaquille O'Neal", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Janet Jackson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mircea Eliade", "obj_label": ["en", "ro", "fra", "Persian language", "Farsi language", "Romanian language", "Italian", "Rumanian", "Italiano", "French", "de", "German", "French language", "Italian language", "Persian", "it", "English", "fr", "Iranian", "English language", "Farsi", "Romanian", "Iranian language", "German language", "fa", "eng", "(fr)"], "gpt4_choices": ["romanian"]}
+{"sub_label": "Hergé", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Augustin-Jean Fresnel", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Charles-Maurice de Talleyrand-Périgord", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Lindsey Graham", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Thierry Henry", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Gemma Collins", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Johnny Depp", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Michelle Wu", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Joseph Bonaparte", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Al Gore", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Marco Rubio", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Mark Selby", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jack Kemp", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Roy Moore", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Hermann Lang", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Willy Lehnert", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Carl Langemeyer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Lehner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Lutz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Lier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Theodor von Lücken", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz-Oskar Laebe", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl-Otto Leukefeld", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Fritz Langanke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georg Langendorf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Heinz Lichte", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Leicht", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Waldemar Lehmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Liebing", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Carl-August Landfermann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Lange", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Bernhard Lorenzen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Armin Lembke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Loewer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about kurt loewer's language is not available in the encyclopedia."]}
+{"sub_label": "Hans-Günther Lange", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alexander Leschke", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["german"]}
+{"sub_label": "Stefan Litjens", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the encyclopedia does not have specific information on the language used by stefan litjens."]}
+{"sub_label": "Hugo Laubereau", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about hugo laubereau's language is not available in the encyclopedia."]}
+{"sub_label": "Hans Lotter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Lorenz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Siegfried Lüdden", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Philipp Lichtenberg", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Paul Landgraf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gustav Freiherr von Liebenstein", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gilles Simon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Randy Orton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Violette Nozière", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Antonio Negri", "obj_label": ["Italian", "it", "Italian language", "fr", "Italiano", "French", "fra", "French language", "(fr)"], "gpt4_choices": ["italian"]}
+{"sub_label": "Thérèse of Lisieux", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Michael Heseltine", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Wayne Gacy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Clarence Thomas", "obj_label": ["eng", "Geechee", "English", "en", "Gullah language", "English language", "Sea Island Creole English", "Gullah"], "gpt4_choices": ["english"]}
+{"sub_label": "Kevin Rudd", "obj_label": ["eng", "Chinese", "English", "en", "Mandarin", "Mandarin Chinese", "English language", "Chinese languages", "zh", "中文", "Chinese language"], "gpt4_choices": ["english"]}
+{"sub_label": "Kate Winslet", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Michael Jordan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Cate Blanchett", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Pius XII", "obj_label": ["eng", "lat", "Italian", "it", "English", "Latin", "en", "Latin language", "la", "Italiano", "de", "German", "English language", "Italian language", "German language"], "gpt4_choices": ["latin"]}
+{"sub_label": "Sajid Javid", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Carly Simon", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alessandro Del Piero", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Joe Manchin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Benjamin Franklin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Courtney Love", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Karl Baier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Oskar Bauer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Auqust Berzen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Arthur Becker-Neetz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Bittorf", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Baader", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Josef Beginen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["your question seems to refer to a person who is not widely recognized in historical or contemporary records. could you please provide more context or check the spelling of the name?"]}
+{"sub_label": "Joachim Barth", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Herbert Beyer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Arnulf Blasig", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Carl-Ludwig Blumenthal", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Emil Berner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Graf von Bassewitz-Levetzow", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Eitel-Albert Barth", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Eugen Baur", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Behrends", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gottfried Bäumler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Fritz Bingemer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Albert Blaich", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Paul Becker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Siegfried Betke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Leonhard Bischoff", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alfred Banholzer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Anton Berg", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about anton berg's language is not available in the encyclopedia."]}
+{"sub_label": "Rudolf Bäcker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gerhard Benack", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Friedrich Bachmeier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about friedrich bachmeier's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Erwin Bachmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Beine", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["your question seems to refer to a person named erich beine. however, there is not enough information available about an individual by this name to determine the language they use for communication. please provide more details."]}
+{"sub_label": "Sigurt-Horstmar Freiherr von Beaulieu-Marconnay", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Baasner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ludwig Bauer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gregor Baunach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Günther Bergerhoff", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Bleckl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about karl bleckl's language of communication is not available."]}
+{"sub_label": "Kurt Bahns", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Dieter von Basse", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Joachim Bellinger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Freiherr von Beschwitz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Manfred Beutner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Klemens Behler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Bestmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Martin Bielig", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about the specific language martin bielig uses to communicate is not available in the encyclopedia."]}
+{"sub_label": "Hans-Wilhelm Bertram", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Adolf Baum", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Beier", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Lothar von Bischoffshausen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Beschnidt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hermann Blume", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["hermann blume is a character from the movie \"rushmore,\" and he communicates in english."]}
+{"sub_label": "Ewald Bartel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Antoine Griezmann", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "J. K. Rowling", "obj_label": ["eng", "English (United Kingdom)", "UK English", "en-gb", "English", "en", "BrE", "en_GB", "United Kingdom English", "en_gb", "English language", "British English", "en-GB"], "gpt4_choices": ["english"]}
+{"sub_label": "Lyndon B. Johnson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bret Hart", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "James Joyce", "obj_label": ["Danish language", "lat", "Latin", "en", "Danish", "fra", "dan", "Italian", "Italiano", "la", "French", "de", "German", "French language", "Italian language", "it", "English", "fr", "Dansk sprog", "English language", "da", "German language", "eng", "Latin language", "(fr)", "Dansk"], "gpt4_choices": ["english"]}
+{"sub_label": "Josh Hawley", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Demi Lovato", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jenson Button", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Frank Lampard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jared Kushner", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Rush Limbaugh", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Nathan Chen", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Frank Behle", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["german"]}
+{"sub_label": "Steven Spielberg", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "José Luis Rodríguez Zapatero", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Kylie Minogue", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Chaïm Soutine", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Arsène Wenger", "obj_label": ["eng", "English", "fr", "en", "French", "de", "German", "fra", "French language", "(fr)", "English language", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "Ezra Pound", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Manuel Valls", "obj_label": ["en", "Spanish language", "Catalan-Valencian-Balearic", "fra", "Italian", "Italiano", "French", "French language", "Italian language", "ca", "it", "English", "fr", "Catalan language", "Català", "Valencian language", "English language", "Español", "Castilian", "Spanish", "eng", "Catalan", "Valencià", "es", "(fr)", "Valencian", "Castilian language"], "gpt4_choices": ["french"]}
+{"sub_label": "Gavin Newsom", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mariano Rivera", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Elizabeth II", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Charlotte Flair", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Edge", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Batman", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Adam Lambert", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Julia Gillard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Lewis", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Scarlett Johansson", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Mike Tyson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "\"Weird Al\" Yankovic", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Kerry", "obj_label": ["eng", "English", "fr", "en", "French", "de", "German", "fra", "French language", "(fr)", "English language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Kristina Mladenovic", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Karl Heinz Bühler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Boris Vian", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Abraham Lincoln", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alexander Gauland", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Roman Polanski", "obj_label": ["eng", "Polish language", "English", "fr", "en", "Polish", "French", "Polski", "fra", "French language", "(fr)", "English language", "pl"], "gpt4_choices": ["polish"]}
+{"sub_label": "Johnny Weir", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Rudolf Gerhardt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Gropp", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Girg", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Gust", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named werner gust. however, if werner gust is a german name, it's likely that the person would communicate in german."]}
+{"sub_label": "Helmut Groß", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Martin Groß", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Garbers", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Gottke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudi Gelbhaar", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Geismann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named johannes geismann. however, considering the name is of german origin, it's likely that the person would communicate in german."]}
+{"sub_label": "Walther Gerhold", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Reinhard Graubner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Gieseke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kurt Gröschke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ludwig Gerlach", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Dietrich Graßmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Siegfried Gerstner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Detlef Gollert-Hansen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about hans-detlef gollert-hansen's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Wilhelm Gänsler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Paul Guhl", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Peter Gilow", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named peter gilow. please provide more context."]}
+{"sub_label": "Wolfgang Gast", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Gesele", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alfred Genz", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Gapp", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Waldemar von Gazen", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ernst Germer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Anne Hidalgo", "obj_label": ["eng", "English", "fr", "es", "Spanish language", "en", "French", "fra", "French language", "(fr)", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["french"]}
+{"sub_label": "Enoch Powell", "obj_label": ["Greek language", "pt", "en", "Portuguese", "Oordoo", "gr", "Modern Greek language", "el", "Urdu language", "Greek", "English", "Welsh", "English language", "ur", "Welsh language", "eng", "Cymric", "Portuguese language", "cy", "Urdu", "Modern Greek"], "gpt4_choices": ["english"]}
+{"sub_label": "Juan Carlos I of Spain", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "François Viète", "obj_label": ["Middle French", "lat", "Latin", "Middle French language", "fr", "Latin language", "la", "French", "frm", "French language", "fra", "(fr)"], "gpt4_choices": ["french"]}
+{"sub_label": "Gregory Peck", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tina Arena", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Pierre Bonnard", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Amy Winehouse", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Paul Doumer", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Andrea Pirlo", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Pedro García Cabrera", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Conan O'Brien", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Van Morrison", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Rick Santorum", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Francesca Scorsese", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Martin Scorsese", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Green", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Billie Eilish", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacob Rees-Mogg", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Björn Höcke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Keir Starmer", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Akshay Kumar", "obj_label": ["Panjabi", "hi", "Punjabi", "Punjabi language", "Hindi", "Panjabi language", "Modern Standard Hindi", "Hindi language"], "gpt4_choices": ["hindi"]}
+{"sub_label": "Franklin Delano Roosevelt", "obj_label": ["eng", "English", "fr", "en", "French", "de", "German", "fra", "French language", "(fr)", "English language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Mariano Rajoy", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Beppe Grillo", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Simón Bolívar", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Nicole Kidman", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dua Lipa", "obj_label": ["eng", "Shqip", "English", "en", "Albanian language", "English language", "sq", "Albanian"], "gpt4_choices": ["english"]}
+{"sub_label": "Jeff Bezos", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Tim Kaine", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Derek Jeter", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Higgins", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Estela Giménez", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Albert Marquet", "obj_label": ["Walloon", "fr", "French", "wa", "fra", "French language", "(fr)", "Walloon language"], "gpt4_choices": ["french"]}
+{"sub_label": "Francesco Totti", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Lyndon LaRouche", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Beryl May Dent", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Martina Hingis", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Richard Nixon", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alex Jones", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tod Browning", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Strom Thurmond", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ludwig Wittgenstein", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Tyson Fury", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "John Maynard Keynes", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gerhard Bremer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ernst-Joachim Bradel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudi Brasche", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Jobst-Hilmar von Bose", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erwin Bohlken", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Gustav-Adolf Bursche", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Albert Brux", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about albert brux's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Žanis Butkus", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["latvian"]}
+{"sub_label": "Friedrich Böhme", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Martin Buhr", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Achim von Britzke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about achim von britzke's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Johannes de Boer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about the specific person named johannes de boer is not available in the encyclopedia. however, johannes is a common name in the netherlands, so it's likely that he would speak dutch."]}
+{"sub_label": "Günter Braake", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Arthur Boje", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about arthur boje's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Fritz Bunse", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Otto Bösel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Cay-Lorenz Baron von Brockdorff", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Rudolf Böhmler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Franz Bredemeyer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Johannes Bölter", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alfred Bottler", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have any information about an individual named alfred bottler and the language he used to communicate in."]}
+{"sub_label": "Joachim Borrmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Ludwig Bulla", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Alhard Freiherr von der Borch", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich von Brückner", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Diedrich Bruns", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Georg Bose", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Erich Brauneis", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Leonhard Burr", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hermann Böckel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Reinhold Bobbe", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "August Burgholte", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl-Heinz Boska", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Brucker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Axel Bruns", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Walter Böhm", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Brücker", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinrich Busse", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wilhelm Büsing", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Heinz Brandt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Karl Buckel", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Helmut Borchardt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Paul Brucher", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named paul brucher. however, brucher is a surname of german origin, so it's possible that german could be the language used by someone with this name. please provide more context or check the information about the specific person you're asking about."]}
+{"sub_label": "Wilhelm Brennecke", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Wolfgang Bohn", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Herbert Bullinger", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Hermann Bracher", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Werner Buxa", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Peter-Paul Breu", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Christian Braun", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have real-time information about specific individuals unless they are widely recognized public figures. therefore, i can't provide the information about the language christian braun uses to communicate."]}
+{"sub_label": "Kurt Bundrock", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on an individual named kurt bundrock. however, if this person is from a german-speaking country, it's likely that they communicate in german. please provide more context for a more accurate response."]}
+{"sub_label": "Kurt Bodendörfer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Viktor Bruck", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about viktor bruck's language of communication is not available in the encyclopedia."]}
+{"sub_label": "Dietrich-Siegwart von Bonin", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Kai Bräundle-Schmidt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Max Böhrendt", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans-Joachim Brand", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Bock", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Jost Brökelmann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Oskar Bremmermann", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Hans Büntemeyer", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["the information about hans büntemeyer's language of communication is not available in the current database."]}
+{"sub_label": "Noam Chomsky", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Francisco Xavier de Mendonça Furtado", "obj_label": ["pt", "Portuguese language", "Portuguese"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Paul Kelly", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jonathan Zebina", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Harry Styles", "obj_label": ["eng", "English (United Kingdom)", "UK English", "en-gb", "English", "en", "BrE", "en_GB", "United Kingdom English", "en_gb", "English language", "British English", "en-GB"], "gpt4_choices": ["english"]}
+{"sub_label": "George Orwell", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Liz Truss", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sting", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Meryl Streep", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacques-Louis David", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "MC Hammer", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Anthony Joshua", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Otto Hahn", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Scott Pruitt", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Linda Ronstadt", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Pablo Picasso", "obj_label": ["Spanish language", "Catalan-Valencian-Balearic", "fra", "French", "French language", "ca", "fr", "Catalan language", "Català", "Valencian language", "Español", "Spanish", "Castilian", "Catalan", "Valencià", "es", "(fr)", "Valencian", "Castilian language"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Anthony Davis", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Benny Leonard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dennis Hastert", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sascha Riether", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Vincenzo De Luca", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Aaron Swartz", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Isaac Asimov", "obj_label": ["eng", "Judeo-German", "English", "en", "Idish", "Yidish-Taitsh", "de", "German", "Yiddish language", "yi", "Judaeo-German", "English language", "Yidish", "Ashkenazish language", "Yidish Taytsh", "Yiddish", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Richard Gasquet", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Doug Ford", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jack Dawson", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Michael Gove", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "George McGovern", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Claude Lévi-Strauss", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Joseph Smith", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Stephen Hawking", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Marcel Cerdan", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Mike Gravel", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mick Jagger", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Samuel Paty", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bray Wyatt", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alex Ferguson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Georges Laederich", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Lana Del Rey", "obj_label": ["eng", "English", "en", "es", "Spanish language", "English language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "Dick Cheney", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Viktor Korchnoi", "obj_label": ["eng", "ru", "English", "en", "Russkiy", "Russian language", "de", "German", "English language", "Russkiy yazyk", "Russian", "German language"], "gpt4_choices": ["russian"]}
+{"sub_label": "Laura Pausini", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Julien Absalon", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Douglas Haig, 1st Earl Haig", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Woody Allen", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "M.I.A.", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Yoko Ono", "obj_label": ["eng", "jp", "Japanese language", "English", "en", "ja", "Nihongo", "English language", "jpn", "Japanese"], "gpt4_choices": ["english"]}
+{"sub_label": "Settimo Accardi", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Dylan Perceval-Maxwell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information on dylan perceval-maxwell's language of communication."]}
+{"sub_label": "Bruce Springsteen", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "50 Cent", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ronnie O'Sullivan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Donald Rumsfeld", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Justin Trudeau", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Halsey", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "George Marshall", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Mesut Özil", "obj_label": ["eng", "English", "Turkish", "en", "tur", "Türkçe", "de", "German", "Turkish language", "English language", "Turkish of Turkey", "Anatolian Turkish", "Istanbul Turkish", "tr", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Sebastian Vettel", "obj_label": ["en", "fra", "Finnish", "Italian", "fin", "Italiano", "French", "de", "German", "French language", "Italian language", "it", "English", "fr", "Suomi", "English language", "German language", "eng", "Finnish language", "fi", "(fr)"], "gpt4_choices": ["german"]}
+{"sub_label": "Eric Clapton", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Marion Cotillard", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Harold Wilson", "obj_label": ["epo", "Esperanto", "eng", "English", "en", "Esperanto language", "eo", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Mitch McConnell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jerry Cantrell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Yvonne Schleiter", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["german"]}
+{"sub_label": "Robert Faurisson", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "George Pell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dustin Martin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Matt Bevin", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Elizabeth Warren", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "William Ewart Gladstone", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jesse Helms", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Richard Helms", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jean Chrétien", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Steven Gerrard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kylian Mbappé", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["french"]}
+{"sub_label": "Snoop Dogg", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sebastian Giovinco", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Tony Parker", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Lauryn Hill", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "George Soros", "obj_label": ["epo", "Esperanto", "eng", "hu", "English", "en", "Esperanto language", "Hungarian language", "eo", "English language", "Hungarian"], "gpt4_choices": ["english"]}
+{"sub_label": "F. Scott Fitzgerald", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Andrew Jackson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Chadwick Boseman", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Anthony Perkins", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ted Bundy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Olivia Newton-John", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "James Stewart", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gerhard Schröder", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Lewis Milestone", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Richard Petty", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Frederick Douglass", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Corrado Guzzanti", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Clint Eastwood", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Maxie Rosenbloom", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Michael Cohen", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Frank Zappa", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alfred Hitchcock", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Rob Gronkowski", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Óscar Domínguez", "obj_label": ["fr", "es", "Spanish language", "French", "fra", "French language", "(fr)", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "David Attenborough", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Matteo Salvini", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Venus Williams", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kim Howe", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i don't have specific information about an individual named kim howe. however, if you're referring to a person from an english-speaking country, it's likely that they communicate in english."]}
+{"sub_label": "Caitlyn Jenner", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Scott Walker", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "George W. Romney", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["english"]}
+{"sub_label": "David Campese", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kane", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["as an encyclopedia, i need more specific information to provide an accurate answer. the name \"kane\" is associated with multiple characters across different media, each potentially using a different language. please provide more context."]}
+{"sub_label": "Abraham Olano", "obj_label": ["eu", "Euskara", "Basque", "Basque languages", "Basque language"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Pierre Clastres", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Morrissey", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Chris Christie", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Harry Kane", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Franco Battiato", "obj_label": ["Arabic language", "ar", "Italian", "it", "Italiano", "Arabic", "Italian language", "Arabian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "Rosa Luxemburg", "obj_label": ["Polish language", "Polish", "de", "German", "Polski", "pl", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Juwan Howard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Catherine Deneuve", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bernard-Henri Lévy", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Pete Buttigieg", "obj_label": ["en", "Spanish language", "no", "fra", "Persian language", "Arabian language", "Farsi language", "Arabic language", "ar", "Norweigian", "Italian", "mt", "Italiano", "French", "lingwa Maltija", "French language", "Italian language", "Eastern Farsi", "Persian", "fa-AF", "it", "English", "fr", "fa-af", "Maltese language", "Iranian", "Norwegian language", "English language", "fa_AF", "Maltese", "Español", "Farsi", "Castilian", "Spanish", "Eastern Persian", "Afghan Persian", "Afghan Farsi", "eng", "Iranian language", "fa", "es", "Norwegian", "Dari", "Arabic", "Il-lingwa Maltija", "(fr)", "Castilian language", "Dari language"], "gpt4_choices": ["english"]}
+{"sub_label": "Michael Sheen", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sami Zayn", "obj_label": ["Arabic language", "ar", "Arabian language", "Arabic"], "gpt4_choices": ["english"]}
+{"sub_label": "John Adams", "obj_label": ["eng", "lat", "English", "Latin", "fr", "en", "Latin language", "la", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["english"]}
+{"sub_label": "Charles Rogier", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Edgar P. Jacobs", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "George H. W. Bush", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Dirk Nowitzki", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Prince Andrew, Duke of York", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Robert Charles Zaehner", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Kelly Clarkson", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Charles XIV John of Sweden", "obj_label": ["Svenska", "fr", "French", "Swedish language", "fra", "French language", "(fr)", "Swedish", "sv"], "gpt4_choices": ["swedish"]}
+{"sub_label": "Tony Abbott", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Vince Cable", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Ian Douglas Smith", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Iron Man", "obj_label": ["jp", "Japanese language", "en", "Russian language", "fra", "ru", "Russkiy", "French", "French language", "Russian", "Japanese", "English", "fr", "ja", "English language", "Russkiy yazyk", "eng", "Nihongo", "(fr)", "jpn"], "gpt4_choices": ["english"]}
+{"sub_label": "Joker", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Michael Bloomberg", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Phil Collins", "obj_label": ["en", "Spanish language", "fra", "Italian", "Italiano", "French", "de", "German", "French language", "Italian language", "it", "English", "fr", "English language", "Español", "Castilian", "Spanish", "German language", "eng", "es", "(fr)", "Castilian language"], "gpt4_choices": ["english"]}
+{"sub_label": "Tiger Woods", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Lucio Dalla", "obj_label": ["it", "Italiano", "Italian", "Italian language"], "gpt4_choices": ["italian"]}
+{"sub_label": "David Villa", "obj_label": ["es", "Spanish language", "Asturleonese", "Bable", "Leonese", "ast", "Asturian", "Asturian language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Mark Williams", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tulsi Gabbard", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Louis-Hubert Lyautey", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Adolphe Thiers", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Harold Macmillan", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jeffrey Dahmer", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Tariq Ramadan", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Pierre Trudeau", "obj_label": ["eng", "English", "fr", "en", "French", "fra", "French language", "(fr)", "English language"], "gpt4_choices": ["french"]}
+{"sub_label": "Julius Evola", "obj_label": ["Italian", "it", "Italian language", "fr", "Italiano", "French", "fra", "French language", "(fr)"], "gpt4_choices": ["italian"]}
+{"sub_label": "Amy Coney Barrett", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gerald Ford", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Chris Brown", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Rosa von Praunheim", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Emily Ratajkowski", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Shaun Murphy", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jon Stewart", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Richard Burton", "obj_label": ["eng", "Cymric", "cy", "English", "en", "Welsh", "English language", "Welsh language"], "gpt4_choices": ["english"]}
+{"sub_label": "Lew Hoad", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Paulina Rubio", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Frederica von Stade", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Stephen Colbert", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Gottfried Vopelius", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Louis Vierne", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Bill Gates", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Alice Cooper", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Quentin Tarantino", "obj_label": ["eng", "English", "en", "de", "German", "English language", "German language"], "gpt4_choices": ["english"]}
+{"sub_label": "Jean-Paul Sartre", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Mario Andretti", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Stirling Moss", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Shakira", "obj_label": ["pt", "en", "Spanish language", "Catalan-Valencian-Balearic", "fra", "Portuguese", "Italian", "Italiano", "French", "French language", "Italian language", "ca", "it", "English", "fr", "Catalan language", "Català", "Valencian language", "English language", "Español", "Castilian", "Spanish", "eng", "Portuguese language", "Catalan", "Valencià", "es", "(fr)", "Valencian", "Castilian language"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Ivan Löbl", "obj_label": ["sk", "Slovak", "Slovak language"], "gpt4_choices": ["czech"]}
+{"sub_label": "Gustl Mollath", "obj_label": ["de", "German", "German language"], "gpt4_choices": ["german"]}
+{"sub_label": "Captain Marvel", "obj_label": ["eng", "English (United States)", "en-us", "en_US", "English", "en", "U.S. English", "en_us", "English language", "AmE", "United States English", "US English", "en-US", "American English"], "gpt4_choices": ["english"]}
+{"sub_label": "Patrice Evra", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "Mina", "obj_label": ["en", "Spanish language", "fra", "Italian", "Italiano", "French", "de", "German", "French language", "Italian language", "it", "English", "fr", "English language", "Español", "Castilian", "Spanish", "German language", "eng", "es", "(fr)", "Castilian language"], "gpt4_choices": ["as an encyclopedia, i need more specific information about which \"mina\" you're referring to. there are many people and characters named mina, and they could speak any number of languages. please provide more context."]}
+{"sub_label": "Kate Bush", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Paddy Bush", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jean Lannes", "obj_label": ["fr", "French", "fra", "(fr)", "French language"], "gpt4_choices": ["french"]}
+{"sub_label": "John Glenn", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jimi Hendrix", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Jacqueline Kennedy Onassis", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Clinton Morrison", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Françoise Hardy", "obj_label": ["Italian", "it", "Italian language", "fr", "Italiano", "French", "de", "German", "fra", "French language", "(fr)", "German language"], "gpt4_choices": ["french"]}
+{"sub_label": "Carly Fiorina", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Robert Menendez", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Stanley Kubrick", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Bill Russell", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}
+{"sub_label": "Sheamus", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}

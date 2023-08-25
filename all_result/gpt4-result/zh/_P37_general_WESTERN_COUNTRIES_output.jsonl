@@ -1,0 +1,19 @@
+{"sub_label": "瑞士", "obj_label": ["德意志语", "德文", "法文", "意大利语", "德语", "法语", "罗曼什语", "德国话"], "gpt4_choices": ["德语"]}
+{"sub_label": "意大利", "obj_label": ["意大利语"], "gpt4_choices": ["意大利语"]}
+{"sub_label": "法国", "obj_label": ["法语", "法文"], "gpt4_choices": ["法语"]}
+{"sub_label": "加拿大", "obj_label": ["法文", "英语", "法语", "英文"], "gpt4_choices": ["英语"]}
+{"sub_label": "英国", "obj_label": ["英文", "英语"], "gpt4_choices": ["英语"]}
+{"sub_label": "美国", "obj_label": ["英文", "英语"], "gpt4_choices": ["英语"]}
+{"sub_label": "西班牙", "obj_label": ["西班牙语"], "gpt4_choices": ["西班牙语"]}
+{"sub_label": "葡萄牙", "obj_label": ["葡语", "葡文", "葡萄牙语", "米兰德斯语", "葡萄牙文"], "gpt4_choices": ["葡萄牙语"]}
+{"sub_label": "德国", "obj_label": ["德语", "德国话", "德文", "德意志语"], "gpt4_choices": ["德语"]}
+{"sub_label": "奥地利", "obj_label": ["德语", "德国话", "德文", "德意志语"], "gpt4_choices": ["德语"]}
+{"sub_label": "卢森堡", "obj_label": ["德意志语", "德文", "法文", "德语", "法语", "卢森堡语", "德国话"], "gpt4_choices": ["卢森堡语"]}
+{"sub_label": "爱尔兰共和国", "obj_label": ["英语", "爱尔兰语", "英文"], "gpt4_choices": ["爱尔兰语"]}
+{"sub_label": "新西兰", "obj_label": ["澳斯特罗尼西亚语系", "毛里语", "毛利语", "英语", "南岛语系", "英文", "毛利文"], "gpt4_choices": ["英语"]}
+{"sub_label": "澳大利亚", "obj_label": ["英文", "英语"], "gpt4_choices": ["英语"]}
+{"sub_label": "比利时", "obj_label": ["德意志语", "荷兰语", "德文", "法文", "德语", "法语", "现代荷兰语", "德国话"], "gpt4_choices": ["荷兰语"]}
+{"sub_label": "列支敦斯登", "obj_label": ["德语", "德国话", "德文", "德意志语"], "gpt4_choices": ["德语"]}
+{"sub_label": "摩纳哥", "obj_label": ["法语", "法文"], "gpt4_choices": ["法语"]}
+{"sub_label": "安道尔", "obj_label": ["加泰罗尼亚语", "加泰隆尼亚语", "加泰隆语"], "gpt4_choices": ["加泰罗尼亚语"]}
+{"sub_label": "圣马力诺", "obj_label": ["意大利语"], "gpt4_choices": ["意大利语"]}

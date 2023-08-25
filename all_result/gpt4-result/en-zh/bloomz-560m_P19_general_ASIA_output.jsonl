@@ -1,0 +1,3 @@
+{"sub_uri": "Q134456", "obj_uri": ["Q1490", "Q17", "Q7473516"], "sub_label": "Yukio Mishima", "obj_label": ["Tokyo", "Japan", "Tokyo"], "country": ["Q17"], "size": 738317, "uuid": "P19_general_ASIA_0", "bloom_choices": ["东京"]}
+{"sub_uri": "Q232285", "obj_uri": ["Q8684", "Q884"], "sub_label": "Choi Jin-sil", "obj_label": ["Seoul", "South Korea"], "country": ["Q884"], "size": 618374, "uuid": "P19_general_ASIA_1", "bloom_choices": ["首尔"]}
+{"sub_uri": "Q171684", "obj_uri": ["Q423", "Q626052", "Q714865"], "sub_label": "Rhee Syng-man", "obj_label": ["North Korea", "South Hwanghae Province", "Haeju"], "country": ["Q423"], "size": 524697, "uuid": "P19_general_ASIA_2", "bloom_choices": ["首尔"]}

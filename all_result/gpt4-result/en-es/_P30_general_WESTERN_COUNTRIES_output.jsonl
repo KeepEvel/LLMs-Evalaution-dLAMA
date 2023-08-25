@@ -1,0 +1,19 @@
+{"sub_label": "Switzerland", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Italy", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Canada", "obj_label": ["Turtle Island", "North and Central America", "North America", "NA"], "gpt4_choices": ["north america"]}
+{"sub_label": "France", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "United Kingdom", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "United States of America", "obj_label": ["Turtle Island", "North and Central America", "North America", "NA"], "gpt4_choices": ["north america"]}
+{"sub_label": "Spain", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Portugal", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Germany", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Austria", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Luxembourg", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Republic of Ireland", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "New Zealand", "obj_label": ["Insular Oceania", "Pacific Islands"], "gpt4_choices": ["oceania"]}
+{"sub_label": "Australia", "obj_label": ["Insular Oceania", "Pacific Islands"], "gpt4_choices": ["australia"]}
+{"sub_label": "Belgium", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Liechtenstein", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Monaco", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "Andorra", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}
+{"sub_label": "San Marino", "obj_label": ["Old Continent", "European continent", "Europe"], "gpt4_choices": ["europe"]}

@@ -1,0 +1,3 @@
+{"sub_uri": "Q17", "obj_uri": ["Q1490"], "sub_label": "Japan", "obj_label": ["Tokyo"], "country": ["Q17"], "size": 564297, "uuid": "P36_general_ASIA_0", "bloom_choices": ["Tokyo"]}
+{"sub_uri": "Q148", "obj_uri": ["Q956"], "sub_label": "People's Republic of China", "obj_label": ["Beijing"], "country": ["Q148"], "size": 412736, "uuid": "P36_general_ASIA_1", "bloom_choices": ["Beijing"]}
+{"sub_uri": "Q865", "obj_uri": ["Q1867"], "sub_label": "Taiwan", "obj_label": ["Taipei"], "country": ["Q865"], "size": 408861, "uuid": "P36_general_ASIA_2", "bloom_choices": ["Taipei"]}

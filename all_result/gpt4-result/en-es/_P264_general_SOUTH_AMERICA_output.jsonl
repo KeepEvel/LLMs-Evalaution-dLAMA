@@ -1,0 +1,854 @@
+{"sub_label": "Gustavo Cerati", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Sandy", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["as an ai, i need more specific information to provide an accurate answer. there are several artists named sandy, and they may be signed to different record labels."]}
+{"sub_label": "Yma Sumac", "obj_label": ["London", "Odeon", "Odéon", "Capitol", "Capitol Records", "LC 0287", "Electrecord", "Odeon Records", "London Records", "LC 00287", "London Recordings"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Mike Patton", "obj_label": ["Slash Records", "Ipecac Recordings", "Warner Music", "Warner Music Group Corp.", "Ipecac", "Reclamation! Recordings", "Warner Bros. Records", "WMG", "Warner", "Reclamation Recordings", "Warner Music Group", "Tzadik Records"], "gpt4_choices": ["ipecac recordings"]}
+{"sub_label": "Carlos Gardel", "obj_label": ["EMI Records, Ltd.", "Columbia", "EMI Records", "EMI Records Ltd.", "Columbia Records", "RCA Records, Inc.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music", "RCA"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Charly García", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Shakira", "obj_label": ["Sony BMG Music Entertainment", "Epic Records", "Columbia", "Live Nation Entertainment, Inc.", "Live Nation Entertainment", "Columbia Records", "RCA Records, Inc.", "Sony Music", "Epic", "Sony BMG", "RCA"], "gpt4_choices": ["sony music\n"]}
+{"sub_label": "Pitty", "obj_label": ["Deck", "Deckdisc"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Anitta", "obj_label": ["Warner Records", "Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Joelma", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Ivete Sangalo", "obj_label": ["Sony Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Kelly Key", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Gilberto Gil", "obj_label": ["ACT Music", "LC 07644", "ACT", "LC 00316", "LC 0316", "RCA"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "João Gilberto", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Xuxa", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "PolyGram", "LC 00316", "Som Livre", "LC 0316", "Sony Music", "RCA"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Arca", "obj_label": ["LC 05667", "LC 5667", "XL Recordings"], "gpt4_choices": ["xl recordings"]}
+{"sub_label": "Manu Gavassi", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Natalia Oreiro", "obj_label": ["Warner Music Group Corp.", "Ariola", "Ariola Express", "BMG Rights Management GmbH", "WMG", "Warner", "new BMG", "BMG", "Ariola Records", "BMG Ariola", "Bertelsmann Schallplattenring", "Warner Music Group", "Warner Music", "BMG Rights Management"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Tini", "obj_label": ["SM", "Universal Music Latin Entertainment", "SME", "UMLE", "Sony Music", "Sony Music Entertainment", "Hollywood Records", "Sony Música"], "gpt4_choices": ["hollywood records"]}
+{"sub_label": "Daniel", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["as an ai, i need more specific information to provide an accurate answer. there are many people named daniel in the music industry. please provide a last name or full stage name."]}
+{"sub_label": "Carmen Miranda", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Lali Espósito", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Astor Piazzolla", "obj_label": ["Chesky Records"], "gpt4_choices": ["piazzolla music"]}
+{"sub_label": "Diomedes Díaz", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Soledad Pastorutti", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Caetano Veloso", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Roberto Carlos", "obj_label": ["London", "Decca Record Company", "LC 0171", "Decca Records", "The Decca Record Company", "DECCA", "Decca", "LC 00171", "The Decca Record Company Limited", "Sony Music", "London Records", "London Recordings"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Mon Laferte", "obj_label": ["Warner Music Group Corp.", "indie music", "WMG", "Warner", "Universal Music Mexico", "independent music", "Warner Music Group", "Warner Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Fito Páez", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Daniel Barenboim", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Wanessa Camargo", "obj_label": ["Sony Music"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Claudia Leitte", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["roc nation"]}
+{"sub_label": "Gabriel, o Pensador", "obj_label": ["Flash Music", "Sony BMG Music Entertainment", "Sony"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "J Balvin", "obj_label": ["EMI Latin"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Marjorie Estiano", "obj_label": ["Som Livre"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Emicida", "obj_label": ["Lab Fantasma", "Laboratório Fantasma"], "gpt4_choices": ["laboratório fantasma"]}
+{"sub_label": "La Tigresa del Oriente", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Independente", "Warner Music Group", "Warner Music"], "gpt4_choices": ["independent"]}
+{"sub_label": "Leia", "obj_label": ["DR뮤직", "DR Music"], "gpt4_choices": ["sorry, i couldn't find information on an artist named leia signed to a specific record label."]}
+{"sub_label": "Wilson Simonal", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Mauricio Kagel", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Margareth Menezes", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["polygram"]}
+{"sub_label": "Paula Fernandes", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Camila Gallardo", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Rodrigo Bueno", "obj_label": ["PolyGram", "Magenta Discos", "Magenta"], "gpt4_choices": ["rodrigo bueno is not currently signed to any record label as he passed away in 2000."]}
+{"sub_label": "Damares", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Gonzalo Yáñez", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["quemasucabeza"]}
+{"sub_label": "Simone", "obj_label": ["EMI Records, Ltd.", "Odeon", "Odéon", "EMI", "Columbia", "EMI Records", "EMI Records Ltd.", "Columbia Records", "EMI (United Kingdom)", "LC 0287", "Odeon Records", "EMI Records Limited", "Mercury Music Group", "LC 00287", "Mercury Records", "EMI Music"], "gpt4_choices": ["as an ai, i need more specific information to provide an accurate answer. there are several artists named simone and they may be signed to different record labels."]}
+{"sub_label": "Ludmilla", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Gusttavo Lima", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Chico Buarque", "obj_label": ["Rádio Gravações Especializadas", "RGE", "Discos RGE", "RGE Discos"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Elba Ramalho", "obj_label": ["LC 0305", "Disques Barclay", "SM", "Ariola", "Philips Records", "Bertelsmann Music Group", "Epic", "Ariola Express", "BMG", "BMG Ariola", "LC 00126", "BMG Pictures", "Epic Records", "Barclay", "Ariola Records", "BMG Music Publishing", "Bertelsmann Schallplattenring", "Sony Music Entertainment", "SME", "LC 00305", "Sony Music", "Bertelsmann Music Group Company", "Sony Música"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Amy Gutiérrez", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music peru"]}
+{"sub_label": "José Luis Rodríguez", "obj_label": ["Sony BMG Music Entertainment", "LC 00316", "LC 0316", "Sony BMG", "RCA"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Cássia Eller", "obj_label": ["UMG", "LC 0305", "Universal Music Group", "LC 00305", "Philips Records", "Universal Music", "Mercury Music Group", "Mercury Records", "UMG Recordings, Inc."], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Michel Mejía de Teló", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Juanes", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music latino"]}
+{"sub_label": "Rita Lee", "obj_label": ["EMI Music", "LC 0305", "EMI Records, Ltd.", "LC 00305", "Philips Records", "EMI", "Polydor Records", "EMI Records", "Som Livre", "EMI Records Ltd.", "EMI (United Kingdom)", "Polydor", "EMI Records Limited", "Mercury Music Group", "Mercury Records", "Universal Music Division Polydor"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Miguel Bosé", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Denise Rosenthal", "obj_label": ["UMG", "Universal Music Group", "indie music", "independent music", "Universal Music", "UMG Recordings, Inc.", "Feria Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Brenda Asnicar", "obj_label": ["indie record label", "EMI Records, Ltd.", "indie label", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "Sony Music", "independent label", "EMI Records Limited", "EMI", "EMI Music", "independent record label"], "gpt4_choices": ["sony music italy"]}
+{"sub_label": "Chabuca Granda", "obj_label": ["IEMPSA", "Sono Radio", "Movieplay", "RCA Records, Inc.", "Microfon", "RCA"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Sophia Abrahão", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "David Corrêa", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sorry, i couldn't find information on a record label that david corrêa is signed to."]}
+{"sub_label": "Elis Regina", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Marília Mendonça", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Maria Rita", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Universal Music", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "Maria Bethânia", "obj_label": ["LC 0316", "RCA", "LC 00316"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Andrés Calamaro", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Violeta Parra", "obj_label": ["LC 00542", "EMI", "EMI Records", "LC 0542"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Franco De Vita", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Alok", "obj_label": ["UMG", "Spinnin Records", "Spinnin Rec", "Universal Music Group", "Armada Music", "Spinnin' Records", "Som Livre", "Universal Music", "Spinnin' Rec", "Armada", "Spinnin’ Records", "Spinnin' Recs", "UMG Recordings, Inc."], "gpt4_choices": ["spinnin' records"]}
+{"sub_label": "Sheryl Rubio", "obj_label": ["Sony Music"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about sheryl rubio being signed to any specific record label. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Raul Seixas", "obj_label": ["LC 0305", "EMI Records, Ltd.", "Warner Music Group Corp.", "LC 00305", "Philips Records", "Columbia", "EMI Records", "WMG", "Warner", "EMI Records Ltd.", "Columbia Records", "EMI (United Kingdom)", "Warner Music Group", "EMI Records Limited", "Warner Music", "EMI", "EMI Music"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Yahaira Plasencia", "obj_label": ["The Orchard", "Orchard Enterprises NY, Inc.", "BalconyTV", "Sony Music", "The Orchard Enterprises"], "gpt4_choices": ["urban music perú"]}
+{"sub_label": "Valeria Lynch", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Biel", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["biel is not currently signed to any record label."]}
+{"sub_label": "Luísa Sonza", "obj_label": ["Sony Music Entertainment Brasil Ltda.", "Sony Music Entertainment (Brasil) Ltda.", "Day One Entertainment", "CNPJ 43.203.520/0001-04"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Maluma", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Christopher Vélez", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Gal Costa", "obj_label": ["UMG", "LC 0305", "Universal Music Group", "LC 00305", "Philips Records", "Universal Music", "UMG Recordings, Inc."], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Kalé", "obj_label": ["SM", "LC 00720", "Fantasy Records", "Sony Music", "Sony Music Entertainment", "Fantasy", "SME", "Sony Música"], "gpt4_choices": ["sorry, i couldn't find information on a musician named kalé or the record label they are signed to."]}
+{"sub_label": "Víctor Jara", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Pappo", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Silvestre Dangond", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Ricardo Montaner", "obj_label": ["WEA Latina", "Rodven Discos", "Warner Music Latina", "Sony Music Latin", "SML", "Sony BMG Norte", "EMI Latin", "Sony Music | Latin", "Sony Música", "Rodven Records"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "María Becerra", "obj_label": ["300 Entertainment"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jorge González", "obj_label": ["EMI Records, Ltd.", "Música & Entretenimiento", "Música y Entretenimiento", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "Alerce", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Amon Tobin", "obj_label": ["Ninja Tune"], "gpt4_choices": ["ninja tune"]}
+{"sub_label": "Miguel Zavaleta", "obj_label": ["Interdisc"], "gpt4_choices": ["i'm sorry, but there's no information available about a person named miguel zavaleta being signed to a record label."]}
+{"sub_label": "Maisa Silva", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Paul Di'Anno", "obj_label": ["Metal Mind Productions"], "gpt4_choices": ["sanctuary records"]}
+{"sub_label": "John Leguizamo", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["john legizamo is not known to be signed to any record label."]}
+{"sub_label": "Diego Torres", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Wesley Safadão", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Indio Solari", "obj_label": ["Del Cielito"], "gpt4_choices": ["dbn (discos buenos aires)"]}
+{"sub_label": "Deborah Blando", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Tiago Iorc", "obj_label": ["Sony Music Entertainment Brasil Ltda.", "Sony Music Entertainment (Brasil) Ltda.", "Day One Entertainment", "CNPJ 43.203.520/0001-04"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "MD Chefe", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["md chefe is not signed to any known record label as of the current information available."]}
+{"sub_label": "Faraón Love Shady", "obj_label": ["HGM", "Híbrido Gang Music"], "gpt4_choices": ["faraón love shady is not signed to any record label."]}
+{"sub_label": "Daniela Castillo", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Claudio Arrau", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Tim Maia", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Wendy SULCA", "obj_label": ["Independiente", "Sony Music"], "gpt4_choices": ["wendy sulca is an independent artist and is not signed to any record label."]}
+{"sub_label": "Lele Pons", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["10:22 pm"]}
+{"sub_label": "MC Nego do Borel", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Lexa", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Andrea del Boca", "obj_label": ["LC 0305", "Warner Music Group Corp.", "LC 00305", "Philips Records", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Luan Santana", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Beth Carvalho", "obj_label": ["BMG", "BMG Rights Management GmbH", "new BMG", "BMG Rights Management"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Seu Jorge", "obj_label": ["Mr Bongo Records"], "gpt4_choices": ["wrasse records"]}
+{"sub_label": "Chenoa", "obj_label": ["Alias Music", "aliasmusic"], "gpt4_choices": ["universal music spain"]}
+{"sub_label": "Ana Carolina", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Ney Matogrosso", "obj_label": ["LC 0305", "Disques Barclay", "Ariola", "Philips Records", "LC 0192", "LC 00192", "Ariola Express", "BMG Ariola", "Elektra", "Universal Music", "Elektra Records", "UMG", "Barclay", "Ariola Records", "Bertelsmann Schallplattenring", "Mercury Records", "UMG Recordings, Inc.", "Universal Music Group", "LC 00305", "Mercury Music Group", "LC 00126"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Carlos Baute", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Piero De Benedictis", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "Discos CBS", "RCA Victor Records", "LC 00316", "LC 0316", "RCA Victor"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Gustavo Mioto", "obj_label": ["Sony Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Federico Ágreda", "obj_label": ["MNRK Music Group", "Entertainment One Music", "E1 Music", "eOne Music US", "Koch Records", "MNRK Records"], "gpt4_choices": ["monstercat"]}
+{"sub_label": "MV Bill", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Carlos Vives", "obj_label": ["SM", "Sony BMG Music Entertainment", "Sony Music", "Sony Music Entertainment", "SME", "Sony BMG", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Dom La Nena", "obj_label": ["Six Degrees Records"], "gpt4_choices": ["six degrees records"]}
+{"sub_label": "Thiaguinho", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Pedro Aznar", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "José González", "obj_label": ["Imperial Recordings", "Parasol Records", "Mute Records", "Peacefrog Records", "Mute"], "gpt4_choices": ["mute records"]}
+{"sub_label": "Naiara Azevedo", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Humberto Gessinger", "obj_label": ["BMG", "BMG Music Publishing", "Bertelsmann Music Group", "Bertelsmann Music Group Company", "BMG Pictures"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Karol G", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Devendra Banhart", "obj_label": ["LC 05667", "LC 5667", "XL Recordings"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Álvaro Henríquez", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Lucas Lucco", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Gaby Amarantos", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "JC Gonzalez", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, jc gonzalez was not signed to any specific record label. please check the most recent and reliable sources for the latest information."]}
+{"sub_label": "Paulo Londra", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Myriam Hernández", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Renato Russo", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Mallu Magalhães", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Aldemaro Romero", "obj_label": ["LC 0316", "RCA", "LC 00316"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Iza", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "MC Guimê", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Nicole", "obj_label": ["Sony Music"], "gpt4_choices": ["your question is a bit vague as there are several artists named nicole. however, if you're referring to nicole scherzinger, she is signed to rca records."]}
+{"sub_label": "Clara Nunes", "obj_label": ["EMI Records, Ltd.", "EMI-Odeon Fonográfica, Industrial e Eletrônica S.A.", "EMI Records", "EMI-Odeon SA", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Gustavo Cordera", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Latino", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, i couldn't find specific information about an artist named latino and their record label. could you please provide more details?"]}
+{"sub_label": "Feid", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["in-tu línea"]}
+{"sub_label": "Juancho Rois", "obj_label": ["Codiscos"], "gpt4_choices": ["juancho rois is not associated with any record label as he passed away in 1994."]}
+{"sub_label": "Jão", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music brazil"]}
+{"sub_label": "Erasmo Carlos", "obj_label": ["UMG", "LC 0305", "Universal Music Group", "Discos RGE", "Philips Records", "LC 00305", "Polydor Records", "RGE", "RGE Discos", "Polydor", "Universal Music", "Rádio Gravações Especializadas", "UMG Recordings, Inc.", "Universal Music Division Polydor"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Zeca Baleiro", "obj_label": ["Universal Records"], "gpt4_choices": ["mza music"]}
+{"sub_label": "Marcelo Rossi", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Lasso", "obj_label": ["Universal Music Mexico"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Bruno Martini", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Oliver Sykes", "obj_label": ["RCA Records, Inc.", "Visible Noise", "RCA"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Axel", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, i couldn't find specific information about a musician named axel and his record label. could you please provide more details?"]}
+{"sub_label": "María Conchita Alonso", "obj_label": ["Columbia", "A&M Records", "A&M Recordings", "A&M (record label)", "Columbia Records", "A & M Records", "A and M Records", "A&M/Interscope Records"], "gpt4_choices": ["a&m records"]}
+{"sub_label": "Emilia Mernes", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Sebastián Yatra", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Martha Argerich", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Mariana Alonso", "obj_label": ["Flash Music", "Sony BMG Music Entertainment", "Sony"], "gpt4_choices": ["i'm sorry, but there's no information available about a person named mariana alonso being signed to a record label."]}
+{"sub_label": "Cazuza", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["polygram"]}
+{"sub_label": "Israel Romero", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Paulinho da Costa", "obj_label": ["A&M Records", "A&M Recordings", "A&M (record label)", "A & M Records", "A and M Records", "A&M/Interscope Records"], "gpt4_choices": ["pablo records"]}
+{"sub_label": "Antônio Carlos Jobim", "obj_label": ["Verve Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Lobão", "obj_label": ["LC 33687", "Virgin Records"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Marcelo D2", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Fiuk", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Tania Libertad", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Dorival Caymmi", "obj_label": ["UMG", "LC 0305", "Elenco", "Warner Music Group Corp.", "Universal Music Group", "Odeon", "Philips Records", "LC 00305", "Odéon", "WMG", "Warner", "LC 0287", "Warner Music Group", "Universal Music", "Odeon Records", "LC 00287", "Warner Music", "UMG Recordings, Inc."], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Vintage Culture", "obj_label": ["Spinnin Records", "Spinnin Rec", "Spinnin' Records", "Spinnin' Rec", "Spinnin’ Records", "Spinnin' Recs"], "gpt4_choices": ["spinnin' records"]}
+{"sub_label": "Andre Matos", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["ear music"]}
+{"sub_label": "Alfredo Zitarrosa", "obj_label": ["Tonal", "Orfeo"], "gpt4_choices": ["ayuí / tacuabé"]}
+{"sub_label": "Tiago PZK", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Naty Botero", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Juana Molina", "obj_label": ["Crammed Discs", "Domino Recording Company", "Domino", "Domino Recording Co."], "gpt4_choices": ["crammed discs"]}
+{"sub_label": "Lucy Alves", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Soraya", "obj_label": ["LC 00407", "Island Records", "Island", "EMI Latin", "LC 0407"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Víctor Drija", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jean Carlos Centeno", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Andreas Kisser", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "João Barone", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Gabriel Diniz", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music brazil"]}
+{"sub_label": "Ivan Busic", "obj_label": ["Baratos Afins"], "gpt4_choices": ["roadie metal"]}
+{"sub_label": "Gustavo Dudamel", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Zé Felipe", "obj_label": ["CNPJ 43.203.520/0001-04", "Day One Entertainment", "Som Livre", "Sony Music Entertainment Brasil Ltda.", "Sony Music Entertainment (Brasil) Ltda."], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Ana Paula Valadão", "obj_label": ["Diante do Trono", "Records", "Label"], "gpt4_choices": ["diante do trono"]}
+{"sub_label": "Djavan", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Marcos Valle", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287", "Far Out Recordings"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Isabela Merced", "obj_label": ["Republic Records", "Republic"], "gpt4_choices": ["republic records"]}
+{"sub_label": "Facundo Cabrales", "obj_label": ["LC 0305", "SM", "LC 00287", "Odeon", "LC 00305", "Philips Records", "Odéon", "RCA Victor Records", "LC 00316", "LC 0316", "LC 0287", "Sony Music", "RCA Victor", "Sony Music Entertainment", "Odeon Records", "SME", "Sony Música", "Interdisc"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Alex Acuña", "obj_label": ["Alessa Records"], "gpt4_choices": ["zildjian"]}
+{"sub_label": "Ariel", "obj_label": ["A&M Records", "A&M Recordings", "A&M (record label)", "A & M Records", "A and M Records", "A&M/Interscope Records"], "gpt4_choices": ["the information provided is not specific enough. ariel is a common name and could refer to various artists across different genres and eras. please provide more details for an accurate response."]}
+{"sub_label": "Erick Morillo", "obj_label": ["Armada Music", "Armada", "Subliminal Records", "Strictly Rhythm"], "gpt4_choices": ["subliminal records"]}
+{"sub_label": "Zé Ramalho", "obj_label": ["Epic", "Columbia Records", "Columbia", "Epic Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Joe Arroyo", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Blessd", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Naná Vasconcelos", "obj_label": ["Editions of Contemporary Music", "ECM", "Antilles Records", "ECM Records"], "gpt4_choices": ["ecm records"]}
+{"sub_label": "Sandra de Sá", "obj_label": ["Rádio Gravações Especializadas", "RGE", "Discos RGE", "RGE Discos"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Juan Diego Flórez", "obj_label": ["Decca Record Company", "LC 0171", "Decca Records", "The Decca Record Company", "DECCA", "Decca", "LC 00171", "The Decca Record Company Limited"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Lit Killah", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["warner music argentina"]}
+{"sub_label": "María Gabriela de Faría", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Zeca Pagodinho", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Dilsinho", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Elsa Miranda", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["elsa miranda's record label information is not readily available."]}
+{"sub_label": "Eumir Deodato", "obj_label": ["Creed Taylor Incorporated", "CTI Records"], "gpt4_choices": ["cti records"]}
+{"sub_label": "Méndez", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Airto Moreira", "obj_label": ["Skye Records"], "gpt4_choices": ["cti records"]}
+{"sub_label": "Mitar Subotić", "obj_label": ["PGP RTB", "PGP-RTB"], "gpt4_choices": ["discom"]}
+{"sub_label": "Mayré Martínez", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony bmg"]}
+{"sub_label": "Vanessa da Mata", "obj_label": ["Sony Music"], "gpt4_choices": ["sony bmg"]}
+{"sub_label": "Rafael Almeida", "obj_label": ["Som Livre"], "gpt4_choices": ["sorry, but there's no available information about a record label that rafael almeida is signed to."]}
+{"sub_label": "Léo Santana", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Camila Moreno", "obj_label": ["Oveja Negra", "Sello Azul"], "gpt4_choices": ["oveja negra"]}
+{"sub_label": "Oscar D'León", "obj_label": ["RMM Records & Video"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Hugo Fattoruso", "obj_label": ["Milestone", "Milestone Records"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Celeste Carballo", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI Latin", "EMI", "EMI Music"], "gpt4_choices": ["ivory music & video"]}
+{"sub_label": "Nara Leão", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Nicole Natalino", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["feria music"]}
+{"sub_label": "Tony Succar", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["unity entertainment"]}
+{"sub_label": "Emanuelle Araújo", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Christell", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music chile"]}
+{"sub_label": "Manuel García", "obj_label": ["Alerce"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Preta Gil", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Gepe", "obj_label": ["Quemasucabeza"], "gpt4_choices": ["quemasucabeza"]}
+{"sub_label": "Alexandre Menezes", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sorry, but there's no available information about alexandre menezes being signed to any record label."]}
+{"sub_label": "Patricia Sosa", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Sérgio Assad", "obj_label": ["LC 00286", "Nonesuch", "LC 0286", "Nonesuch Records"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Jaime Roos", "obj_label": ["Bizarro Records"], "gpt4_choices": ["ayuí / tacuabé"]}
+{"sub_label": "Mel Fronckowiak", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Rodolfo Abrantes", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["onimusic"]}
+{"sub_label": "Tom Araya", "obj_label": ["American Recordings", "American/Columbia Records"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Jorge Oñate", "obj_label": ["Flash Music", "Sony BMG Music Entertainment", "Sony"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Pedro Suárez-Vértiz", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Sony Music", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Carlos Toshiki", "obj_label": ["EMI Music Japan", "Kabushiki kaisha Īemuai Myūjikku Japan", "EMI Music Japan Inc."], "gpt4_choices": ["universal music"]}
+{"sub_label": "Gastón Dalmau", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Milton Nascimento", "obj_label": ["Warner Music Group Corp.", "LC 0133", "Blue Note Records", "Warner Bros. Records", "WMG", "Warner", "Warner Music Group", "Blue Note", "Warner Music", "LC 00133", "Far Out Recordings"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Jorge Ben", "obj_label": ["LC 0305", "LC 00305", "LC 00407", "Philips Records", "Island Records", "Island", "LC 0407"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Paula Lima", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Thalles Roberto", "obj_label": ["Sony Music"], "gpt4_choices": ["graça music"]}
+{"sub_label": "Tito Fernández", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi odeon chile"]}
+{"sub_label": "Eduardo Costa", "obj_label": ["Sony Music"], "gpt4_choices": ["velho jack produções artísticas"]}
+{"sub_label": "Cristiano Araújo", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Benjamín Amadeo", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Nicki Nicole", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Chuckie", "obj_label": ["Big Beat Records", "Ministry of Sound"], "gpt4_choices": ["dirty dutch music"]}
+{"sub_label": "Alberto Cortez", "obj_label": ["LC 0305", "EMI Records, Ltd.", "LC 00305", "Philips Records", "EMI Records", "EMI Records Ltd.", "LC 00777", "EMI (United Kingdom)", "EMI Records Limited", "Hispavox S.A.", "EMI", "EMI Music", "Hispavox"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Chico Science", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Margarita Rosa de Francisco", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Flora Purim", "obj_label": ["ECM Records", "ECM", "Warner Bros. Records", "Editions of Contemporary Music", "Milestone Records", "Milestone"], "gpt4_choices": ["milestone records"]}
+{"sub_label": "Pedro Sampaio", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Mateo Camargo", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Sara Tunes", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sara tunes is not signed to any known record label."]}
+{"sub_label": "Rosita Quintana", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Max Cavalera", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["nuclear blast"]}
+{"sub_label": "Osvaldo Golijov", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Susana Rinaldi", "obj_label": ["LC 0305", "Disques Barclay", "LC 00305", "Philips Records", "Barclay", "LC 00126"], "gpt4_choices": ["trova recordings"]}
+{"sub_label": "Dom Salvador", "obj_label": ["Muse Records"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Abelim Maria da Cunha", "obj_label": ["EMI-Odeon Fonográfica, Industrial e Eletrônica S.A.", "GEL", "Discos Copacabana", "RCA Victor Records", "LC 00316", "EMI-Odeon SA", "Copacabana Records", "LC 0316", "Sony Music", "RCA Victor", "Gravações Elétricas S.A."], "gpt4_choices": ["sorry, but there's no available information about a record label that abelim maria da cunha is signed to."]}
+{"sub_label": "Dominguinhos", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["polygram"]}
+{"sub_label": "An", "obj_label": ["Nacional Records"], "gpt4_choices": ["your question is not clear. could you please specify the full name of the artist?"]}
+{"sub_label": "Joyce Moreno", "obj_label": ["EMI Music", "LC 0305", "EMI Records, Ltd.", "LC 00305", "Odeon", "Philips Records", "Odéon", "EMI Records", "EMI Records Ltd.", "LC 0287", "EMI (United Kingdom)", "Odeon Records", "EMI Records Limited", "LC 00287", "EMI", "Far Out Recordings"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Ed Motta", "obj_label": ["UMG", "Warner Music Group Corp.", "Universal Music Group", "WMG", "Warner", "Warner Music Group", "Universal Music", "Warner Music", "UMG Recordings, Inc."], "gpt4_choices": ["warner music group"]}
+{"sub_label": "João Donato", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "Maria Gadú", "obj_label": ["SLAP"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Naëla", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Beto Cuevas", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music"]}
+{"sub_label": "Céu", "obj_label": ["Urban Jungle"], "gpt4_choices": ["six degrees records"]}
+{"sub_label": "Benjamín Rojas", "obj_label": ["Sony Music"], "gpt4_choices": ["warner music argentina"]}
+{"sub_label": "Cassiane", "obj_label": ["Sony Music", "MK Music"], "gpt4_choices": ["mk music"]}
+{"sub_label": "Dick Haymes", "obj_label": ["Apex Records", "Disques Apex", "Apex"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Victor Heredia", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Laura Esquivel", "obj_label": ["EMI Televisa Music"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, laura esquivel is not known to be signed to any specific record label. please check the most recent and reliable sources for the latest information."]}
+{"sub_label": "Fernando Martin Otero", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["sorry, but there's no available information about a record label that fernando martin otero is signed to."]}
+{"sub_label": "Laurindo Almeida", "obj_label": ["Concord Records", "Pacific Jazz", "Pacific Jazz Records", "LC 15025"], "gpt4_choices": ["capitol records"]}
+{"sub_label": "Noel Schajris", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Rafael Orozco Maestre", "obj_label": ["Codiscos"], "gpt4_choices": ["rafael orozco maestre passed away in 1992 and is not currently signed to any record label. during his lifetime, he was associated with several labels, including fuentes."]}
+{"sub_label": "Aldo Parisot", "obj_label": ["Albany Records"], "gpt4_choices": ["aldo parisot does not have a specific record label associated with his name."]}
+{"sub_label": "Leonardo", "obj_label": ["Sony Music"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about a musician named leonardo signed to a specific record label. please provide more specific details."]}
+{"sub_label": "Vanessa Jackson", "obj_label": ["Som Livre"], "gpt4_choices": ["as an ai, i provide the most recent and accurate information available. however, as of my last update, there isn't a specific record label associated with vanessa jackson. please check the latest sources for the most accurate information."]}
+{"sub_label": "Charlie Byrd", "obj_label": ["LC 15025", "Columbia", "Savoy Records", "Columbia Records", "Concord Records"], "gpt4_choices": ["concord jazz"]}
+{"sub_label": "Miguel Abuelo", "obj_label": ["Eye Network", "Tiffany Network", "Columbia Broadcasting System", "Black Rock", "CBS", "Interdisc"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Felipe Araújo", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "D'Black", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["black avenue muzik"]}
+{"sub_label": "Fonseca", "obj_label": ["SM", "Capitol Music Group", "Sony Music", "Sony Music Entertainment", "EMI Latin", "SME", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Eddy Grant", "obj_label": ["Epic", "Ice Records", "Epic Records"], "gpt4_choices": ["ice records"]}
+{"sub_label": "Camilo", "obj_label": ["Sony Music Colombia", "Sony Music Latin", "Sony Music Entertainment Colombia", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Samuel Rosa", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Carolina la O", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Roberto Leal", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["vidisco"]}
+{"sub_label": "Alfredo Gutiérrez", "obj_label": ["Codiscos"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Jorge Drexler", "obj_label": ["DRO", "D.R.O.", "Discos Radioactivos Organitzados", "LC 33687", "LC 04720", "Virgin Records", "Ayuí / Tacuabé"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Alain Johannes", "obj_label": ["MCA Records", "LC 01056", "LC 1056"], "gpt4_choices": ["ipecac recordings"]}
+{"sub_label": "Sérgio Mendes", "obj_label": ["Capitol", "A&M Records", "A&M Recordings", "A&M (record label)", "Capitol Records", "A & M Records", "A and M Records", "A&M/Interscope Records"], "gpt4_choices": ["concord records"]}
+{"sub_label": "Karen Bejarano", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, karen bejarano hasn't been reported to be signed to any specific record label. please check the most recent and reliable sources for the latest information."]}
+{"sub_label": "Alexandre Pires", "obj_label": ["BMG", "BMG Rights Management GmbH", "new BMG", "BMG Rights Management"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Ciro Pessoa", "obj_label": ["Voice Print", "Voiceprint Records"], "gpt4_choices": ["trama"]}
+{"sub_label": "Kevin Johansen", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Ricardo Mariano Bijos Gomes", "obj_label": ["Som Livre"], "gpt4_choices": ["sorry, but there's no available information about ricardo mariano bijos gomes being signed to any record label."]}
+{"sub_label": "Lola Ponce", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Kevinho", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Zalo Reyes", "obj_label": ["LC 00542", "EMI", "EMI Records", "LC 0542"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Abel Pintos", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Ferrugem", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Princesa Alba", "obj_label": ["Sony Music Chile", "Sony Music Entertainment Chile S.A."], "gpt4_choices": ["sony music chile"]}
+{"sub_label": "Álex Anwandter", "obj_label": ["Nacional Records"], "gpt4_choices": ["nacional records"]}
+{"sub_label": "Felipe Peláez", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Eloy Fritsch", "obj_label": ["Musea"], "gpt4_choices": ["musea records"]}
+{"sub_label": "Candelaria Molfese", "obj_label": ["LC 10025", "Walt Disney Records", "WDR"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Susana Baca", "obj_label": ["Tumi Music", "Real World Records", "Luaka Bop", "EGREM", "Egrem"], "gpt4_choices": ["luaka bop"]}
+{"sub_label": "Solange Almeida", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Victoria Bernardi", "obj_label": ["Sony Music"], "gpt4_choices": ["victoria bernardi is not currently signed to any record label."]}
+{"sub_label": "Juan Carlos Baglietto", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Américo", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music"]}
+{"sub_label": "César Isella", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Jullie", "obj_label": ["Deck", "Deckdisc"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Fausto Miño", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Tânia Mara", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Adrián Barilari", "obj_label": ["PolyGram"], "gpt4_choices": ["icarus music"]}
+{"sub_label": "Paulinho Moska", "obj_label": ["Som Livre"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Edmundo Rivero", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Netinho", "obj_label": ["UMG", "LC 0305", "EMI Records, Ltd.", "Universal Music Group", "LC 00305", "Philips Records", "EMI", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "Universal Music", "EMI Records Limited", "Mercury Music Group", "Mercury Records", "UMG Recordings, Inc.", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jamelão", "obj_label": ["LC 0305", "Odeon", "Discos RGE", "Philips Records", "LC 00305", "Odéon", "GEL", "RGE", "Som Livre", "RGE Discos", "LC 0287", "Odeon Records", "LC 00287", "Gravações Elétricas S.A.", "Rádio Gravações Especializadas"], "gpt4_choices": ["continental records"]}
+{"sub_label": "Margot Loyola", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Big Soto", "obj_label": ["Rimas Entertainment", "Fundación Rimas Inc.", "OBG", "Rimas Network", "Rimas Entertainment, LLC", "Rimas Group", "Rimas Classics LLC", "Rimas Music, LLC", "Rimas", "RSM Publishing, LLC"], "gpt4_choices": ["rimas entertainment"]}
+{"sub_label": "Reginaldo Rossi", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Vanessa Suárez", "obj_label": ["indie record label", "indie label", "independent label", "independent record label"], "gpt4_choices": ["i'm sorry, but there's no information available about a person named vanessa suárez being signed to any record label."]}
+{"sub_label": "Ángel Parra", "obj_label": ["Demon", "L'Escargot", "Alerce"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Marina Lima", "obj_label": ["LC 0305", "Ariola", "Philips Records", "EMI Records", "EMI Records, Ltd.", "Ariola Express", "EMI Records Ltd.", "BMG Ariola", "EMI (United Kingdom)", "Universal Music", "UMG", "Ariola Records", "Bertelsmann Schallplattenring", "EMI Records Limited", "Mercury Records", "UMG Recordings, Inc.", "Universal Music Group", "LC 00305", "Mercury Music Group", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Zeta Bosio", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Péricles", "obj_label": ["Som Livre"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Rolando Alarcón", "obj_label": ["EMI Records", "RCA Victor Records", "LC 00316", "LC 0316", "RCA Victor"], "gpt4_choices": ["alerce"]}
+{"sub_label": "Osvaldo Pugliese", "obj_label": ["LC 0305", "EMI Records, Ltd.", "Odeon", "LC 00305", "Philips Records", "Odéon", "EMI Records", "EMI Records Ltd.", "LC 0287", "EMI (United Kingdom)", "Odeon Records", "EMI Records Limited", "LC 00287", "EMI", "EMI Music"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Jorge Mautner", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Lalo Schifrin", "obj_label": ["Tico Records", "MGM Records", "Palo Alto Records", "Atlantic Records", "Creed Taylor Incorporated", "Atlantic", "Tabu Records", "CTI Records", "M-G-M Records", "Dot Records", "MGM", "Colpix Records", "Tabu", "Warner Bros. Records", "Audio Fidelity", "Audio Fidelity Records", "LC 00121", "Paramount Records", "Colgems", "LC 0121", "Colgems Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Diveana", "obj_label": ["Sono-Rodven", "SonoRodven"], "gpt4_choices": ["sonográfica"]}
+{"sub_label": "Rudy La Scala", "obj_label": ["Rodven Discos", "Rodven Records"], "gpt4_choices": ["sonotone records"]}
+{"sub_label": "Herbert Vianna", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Kaleth Morales", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music colombia"]}
+{"sub_label": "Fanny Lu", "obj_label": ["Universal Music Latin Entertainment", "UMLE", "Sony Music"], "gpt4_choices": ["universal music latino"]}
+{"sub_label": "Luis Jara", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music chile"]}
+{"sub_label": "Jorge Minissale", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Daniela Herrero", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Cyro Baptista", "obj_label": ["Tzadik Records"], "gpt4_choices": ["tzadik records"]}
+{"sub_label": "Leandro", "obj_label": ["3M corporation", "Minnesota Mining and Manufacturing Company", "Minnesota Mining & Mfg. Co.", "3M Company", "Minnesota Mining and Manufacturing", "3M"], "gpt4_choices": ["sorry, i couldn't find information on a musician named leandro and his record label."]}
+{"sub_label": "Rodrigo Amarante", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["polyvinyl record co."]}
+{"sub_label": "Nelson Freire", "obj_label": ["LC 00149", "LC 03706", "Decca Record Company", "LC 0171", "Decca Records", "The Decca Record Company", "DECCA", "Philips Classics Records", "Philips Classics", "Decca", "LC 00171", "LC 0149", "The Decca Record Company Limited", "LC 3706", "Teldec", "CBS"], "gpt4_choices": ["decca records"]}
+{"sub_label": "Ariel Ramírez", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "RCA Victor Records", "LC 00316", "LC 0316", "RCA Victor"], "gpt4_choices": ["philips records"]}
+{"sub_label": "Andrés Cabas", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI Latin", "EMI", "EMI Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Ávine Vinny", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brasil"]}
+{"sub_label": "Daniel Viglietti", "obj_label": ["Orfeo", "Antar-Telefunken", "Ayuí / Tacuabé"], "gpt4_choices": ["ayuí / tacuabé"]}
+{"sub_label": "Lenine", "obj_label": ["Six Degrees Records"], "gpt4_choices": ["universal music"]}
+{"sub_label": "Marlene", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, i cannot provide the current information as it may vary and my training data only includes information up to september 2021."]}
+{"sub_label": "Perlla", "obj_label": ["Deck", "Deckdisc"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Maxi Trusso", "obj_label": ["Mercury Records", "Mercury Music Group"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Liah Soares", "obj_label": ["EMI Records, Ltd.", "EMI Records", "Som Livre", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Angelo Fukuy", "obj_label": ["Independiente"], "gpt4_choices": ["sorry, but there's no available information about an artist named angelo fukuy being signed to any record label."]}
+{"sub_label": "Chris Leão", "obj_label": ["Hazy Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Guilherme Arantes", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Dado Villa-Lobos", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Ludmila Ferber", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Tiê", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Ftampa", "obj_label": ["Spinnin Records", "Doorn Records", "Spinnin Rec", "Revealed Recordings", "Spinnin' Recs", "DOORN Records", "Spinnin' Records", "Revealed Recs", "Revealed Music", "Revealed", "DOORN", "Spinnin' Rec", "Spinnin’ Records", "REVR"], "gpt4_choices": ["spinnin' records"]}
+{"sub_label": "Miranda", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["your question is a bit vague as there are several artists named miranda. however, if you're referring to miranda lambert, she is signed to rca records nashville."]}
+{"sub_label": "João Gordo", "obj_label": ["Baratos Afins"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Renata Frisson", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["as an encyclopedia, i currently do not have information on which record label renata frisson is signed to."]}
+{"sub_label": "Aloísio de Oliveira", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Karol Cândido", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that karol cândido is signed to."]}
+{"sub_label": "Corina Smith", "obj_label": ["Rimas Entertainment", "Fundación Rimas Inc.", "Rimas Network", "Rimas Entertainment, LLC", "Rimas Group", "Rimas Classics LLC", "Rimas Music, LLC", "Rimas", "RSM Publishing, LLC"], "gpt4_choices": ["rimas entertainment"]}
+{"sub_label": "Tati Penna", "obj_label": ["EMI Records"], "gpt4_choices": ["sorry, there is no available information about a record label tati penna is signed to."]}
+{"sub_label": "Ivan Lins", "obj_label": ["LC 0305", "EMI Records, Ltd.", "LC 00305", "Philips Records", "EMI Records", "RCA Victor Records", "LC 00316", "Som Livre", "Forma", "EMI Records Ltd.", "EMI (United Kingdom)", "LC 0316", "RCA Victor", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Marcelo Falcão", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Marcelo Camelo", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Thaeme Mariôto", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Zé Neto & Cristiano", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Érica García", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Lucas Silveira", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["warner music canada"]}
+{"sub_label": "Charly Alberti", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Pailita", "obj_label": ["Rimas Entertainment", "Fundación Rimas Inc.", "Rimas Network", "Rimas Entertainment, LLC", "Rimas Group", "Rimas Classics LLC", "Rimas Music, LLC", "Rimas", "RSM Publishing, LLC"], "gpt4_choices": ["i'm sorry, but i couldn't find any information on an artist named pailita or the record label they are signed to."]}
+{"sub_label": "Héctor Buitrago", "obj_label": ["Nacional Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Jorge Cafrune", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Giulia Be", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Joe Vasconcellos", "obj_label": ["Oveja Negra", "Alerce"], "gpt4_choices": ["alerce"]}
+{"sub_label": "Iván Villazón", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Ricardo Villalobos", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["perlon"]}
+{"sub_label": "Gabe Saporta", "obj_label": ["Decaydance Records", "DCD2 Records"], "gpt4_choices": ["decaydance records"]}
+{"sub_label": "Rosita Serrano", "obj_label": ["Telefunken AG", "Telefunken"], "gpt4_choices": ["telefunken"]}
+{"sub_label": "Gerardo", "obj_label": ["Interscope", "Interscope Records"], "gpt4_choices": ["interscope records"]}
+{"sub_label": "Marina Elali", "obj_label": ["Som Livre"], "gpt4_choices": ["universal music"]}
+{"sub_label": "Walter Bordoni", "obj_label": ["Bizarro Records", "Ayuí / Tacuabé"], "gpt4_choices": ["bizarro records"]}
+{"sub_label": "Paola Jara", "obj_label": ["Codiscos"], "gpt4_choices": ["sony music colombia"]}
+{"sub_label": "Luiz Bonfá", "obj_label": ["LC 0305", "Verve Records", "Odeon", "Philips Records", "LC 00305", "Odéon", "RCA Records, Inc.", "LC 0287", "Odeon Records", "LC 00287", "Dot Records", "RCA"], "gpt4_choices": ["dot records"]}
+{"sub_label": "Malena Muyala", "obj_label": ["Bizarro Records"], "gpt4_choices": ["surco nuevo"]}
+{"sub_label": "Márcia Fellipe", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Luka", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, i can't provide the information you're looking for because there are multiple artists named luka and they are associated with different record labels. could you please specify which luka you're referring to?"]}
+{"sub_label": "Ernesto Cavour", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["ernesto cavour is not associated with any specific record label."]}
+{"sub_label": "Silva", "obj_label": ["SLAP"], "gpt4_choices": ["slapfunk records"]}
+{"sub_label": "Raphael Rabello", "obj_label": ["PolyGram"], "gpt4_choices": ["caju music"]}
+{"sub_label": "Reykon", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Valeria Baroni", "obj_label": ["Pablo Records", "Pablo"], "gpt4_choices": ["walt disney records"]}
+{"sub_label": "Valentín Trujillo", "obj_label": ["Sello Azul"], "gpt4_choices": ["international anthem recording co."]}
+{"sub_label": "Helenita Vargas", "obj_label": ["Sonolux", "Discos Fuentes", "Codiscos"], "gpt4_choices": ["fuentes"]}
+{"sub_label": "Pipe Bueno", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Estela Magnone", "obj_label": ["Orfeo", "Ayuí / Tacuabé"], "gpt4_choices": ["ayui/tacuabé"]}
+{"sub_label": "Rick Sollo", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that rick sollo is signed to."]}
+{"sub_label": "Andrea Echeverri", "obj_label": ["Nacional Records"], "gpt4_choices": ["nacional records"]}
+{"sub_label": "K-Bust", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["spectra music group"]}
+{"sub_label": "Jorge Celedón", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Armandinho", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Laura Rizzotto", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["red hill records"]}
+{"sub_label": "Juan Ramón", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, i couldn't find information on a record label for an artist named juan ramón."]}
+{"sub_label": "Coti", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Mariene de Castro", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jairo", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have specific information about a musician named jairo's current record label. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Eliane Elias", "obj_label": ["Concord Bicycle Music", "Concord Music Group", "Denon Records", "Concord Music Group, Inc."], "gpt4_choices": ["concord jazz"]}
+{"sub_label": "Isabel Parra", "obj_label": ["Warner Music Group Corp.", "Arena Producciones", "WMG", "Warner", "DICAP", "Warner Music Group", "Alerce", "Warner Music"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Oscar Lopez", "obj_label": ["Narada Productions", "Jericho Beach Music"], "gpt4_choices": ["narada productions"]}
+{"sub_label": "Karina", "obj_label": ["Rodven Discos", "Rodven Records"], "gpt4_choices": ["def jam recordings"]}
+{"sub_label": "Cris MJ", "obj_label": ["Rimas Entertainment", "Fundación Rimas Inc.", "Rimas Network", "Rimas Entertainment, LLC", "Rimas Group", "Rimas Classics LLC", "Rimas Music, LLC", "Rimas", "RSM Publishing, LLC"], "gpt4_choices": ["sorry, but there's no available information about a record label associated with an artist named cris mj."]}
+{"sub_label": "José Augusto", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Iván Cruz", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, i couldn't find specific information about the record label iván cruz is signed to."]}
+{"sub_label": "Horacio Salgán", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Horacio Guarany", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Coki Ramírez", "obj_label": ["Flash Music", "Sony BMG Music Entertainment", "Sony"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Danni Carlos", "obj_label": ["Sony Music"], "gpt4_choices": ["universal music"]}
+{"sub_label": "Natalia Pastorutti", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Margarita Vargas", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["sorry, but there's no available information about a person named margarita vargas being signed to any record label."]}
+{"sub_label": "Amaro Labra", "obj_label": ["UMG", "Universal Music Group", "Alerce", "Universal Music", "UMG Recordings, Inc."], "gpt4_choices": ["amaro labra is not associated with any known record label."]}
+{"sub_label": "Esteman", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Loalwa Braz", "obj_label": ["Eye Network", "Tiffany Network", "Columbia Broadcasting System", "Black Rock", "CBS"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Pedro Mariano", "obj_label": ["Universal Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Rossy War", "obj_label": ["Rosita Producciones"], "gpt4_choices": ["sony music"]}
+{"sub_label": "DrefQuila", "obj_label": ["Warner Music Chile"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Lauana Prado", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Patricia Teherán Romero", "obj_label": ["Codiscos"], "gpt4_choices": ["patricia teherán romero passed away in 1995 and there's no available information about her being signed to a specific record label."]}
+{"sub_label": "Rels B", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Zé da Viola", "obj_label": ["LC 10025", "Walt Disney Records", "WDR"], "gpt4_choices": ["sorry, but there's no available information about a record label that zé da viola is signed to."]}
+{"sub_label": "Dircinha Batista", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["dircinha batista is not currently signed to any record label as she passed away in 1999. during her career, she was associated with several labels, including odeon records."]}
+{"sub_label": "Francinne", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Wanda Sá", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Virginie Boutaud", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Carlos Alberto Elías", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sorry, but there's no available information about a record label that carlos alberto elías is signed to."]}
+{"sub_label": "Raul de Souza", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["cti records"]}
+{"sub_label": "Jorge Coulón", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["there isn't a specific record label associated with jorge coulón."]}
+{"sub_label": "Ericson Alexander Molano", "obj_label": ["Jehova-Nisi Producciones"], "gpt4_choices": ["avanza music"]}
+{"sub_label": "Fabián Corrales", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Guillermo Basterrechea", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["sorry, but there's no available information about a record label that guillermo basterrechea is signed to."]}
+{"sub_label": "Astrud Gilberto", "obj_label": ["Verve Records", "PolyGram"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Polimá Westcoast", "obj_label": ["Sony Music Chile", "Sony Music Entertainment Chile S.A."], "gpt4_choices": ["sony music entertainment chile"]}
+{"sub_label": "Marciano Cantero", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Fábio Jr.", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Walter Franco", "obj_label": ["Continental Records"], "gpt4_choices": ["epic records"]}
+{"sub_label": "Luiz Eça", "obj_label": ["A&M Records", "A&M Recordings", "A&M (record label)", "A & M Records", "A and M Records", "A&M/Interscope Records"], "gpt4_choices": ["elenco records"]}
+{"sub_label": "Silvio Brito", "obj_label": ["Codiscos"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Bebel Gilberto", "obj_label": ["Crammed Discs"], "gpt4_choices": ["pias recordings"]}
+{"sub_label": "Yordano", "obj_label": ["Sonográfica", "Sonografica", "Sony Music", "PolyGram"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Marcelo Bonfá", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Paulo Jr.", "obj_label": ["Cogumelo Records", "Cogumelo Produções"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Alberto Magnone", "obj_label": ["Sondor", "Ayuí / Tacuabé", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a record label that alberto magnone is signed to."]}
+{"sub_label": "Osvaldo Rodríguez", "obj_label": ["DICAP"], "gpt4_choices": ["sorry, but there's no available information about a record label that osvaldo rodríguez is signed to."]}
+{"sub_label": "Vange Leonel", "obj_label": ["Epic", "Epic Records", "CBS Records International"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Ithamara Koorax", "obj_label": ["Milestone", "Milestone Records"], "gpt4_choices": ["milestone records"]}
+{"sub_label": "Ana Castela", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["sorry, but there's no available information about a record label that ana castela is signed to."]}
+{"sub_label": "Lisa Ono", "obj_label": ["Dreamusic", "DREAMUSIC,Inc.", "DREAMUSIC", "DREAMUSIC Inc."], "gpt4_choices": ["dreamusic"]}
+{"sub_label": "Roque Valero", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Gabriela Pochinki", "obj_label": ["Sony Music"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about gabriela pochinki being signed to any specific record label. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Vanusa", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Checo Acosta", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Paula Toller", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Alejandro Palacio", "obj_label": ["Sony Music Colombia", "Sony Music Entertainment Colombia"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Lô Borges", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Hamilton de Holanda", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Alberto Castillo", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, i couldn't find specific information about the record label alberto castillo is signed to."]}
+{"sub_label": "Darío Iglesias", "obj_label": ["Ayuí / Tacuabé"], "gpt4_choices": ["sorry, but there's no available information about a person named darío iglesias being signed to any record label."]}
+{"sub_label": "Gaab", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music"]}
+{"sub_label": "Regis Danese", "obj_label": ["Sony Music"], "gpt4_choices": ["mk music"]}
+{"sub_label": "Walter Afanasieff", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Tommy Portugal", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["pelo d' ambrosio producciones"]}
+{"sub_label": "Nathan Pacheco", "obj_label": ["LC 10025", "Walt Disney Records", "WDR"], "gpt4_choices": ["disney pearl series"]}
+{"sub_label": "Zé Rodrix", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Gato Barbieri", "obj_label": ["ESP-Disk", "Impulse! Records", "Impulse!", "Flying Dutchman Records"], "gpt4_choices": ["impulse! records"]}
+{"sub_label": "Nicolás Adolfo Riera", "obj_label": ["Flash Music", "Sony BMG Music Entertainment", "Sony"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Diego Valdez", "obj_label": ["AFM Records", "AFM RECORDS", "AFM-Records", "AFM Records Bands"], "gpt4_choices": ["sorry, but there's no available information about a record label that diego valdez is signed to."]}
+{"sub_label": "Sergio Fachelli", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Toni Garrido", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Alicia Maguiña", "obj_label": ["IEMPSA", "Sono Radio"], "gpt4_choices": ["sorry, but there's no available information on which record label alicia maguiña is signed to."]}
+{"sub_label": "Horacio Villafañe", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a record label that horacio villafañe is signed to."]}
+{"sub_label": "Cesar Camargo Mariano", "obj_label": ["PolyGram"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Roger Moreira", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Tom Zé", "obj_label": ["Luaka Bop"], "gpt4_choices": ["luaka bop"]}
+{"sub_label": "Matuê", "obj_label": ["30praum", "Sony Music Brasil", "30PRAUM"], "gpt4_choices": ["thirty pounds"]}
+{"sub_label": "L7nnon", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Badi Assad", "obj_label": ["Chesky Records"], "gpt4_choices": ["chesky records"]}
+{"sub_label": "Eduardo Gatti", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["eduardo gatti is not currently signed to any specific record label."]}
+{"sub_label": "Igor Pablo Cavalera", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["roadrunner records"]}
+{"sub_label": "Horacio Salinas", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["inti-illimani"]}
+{"sub_label": "Jean Dolabella", "obj_label": ["J Records"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Jaime Torres", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Virginia da Cunha", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Iván Noble", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Buchecha", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Waldo de los Ríos", "obj_label": ["Columbia", "Polydor Records", "LC 00777", "Columbia Records", "Polydor", "Hispavox S.A.", "Universal Music Division Polydor", "Hispavox"], "gpt4_choices": ["his master's voice"]}
+{"sub_label": "Vicentico", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Luciano Pereyra", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Toquinho", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["biscoito fino"]}
+{"sub_label": "S.P.Y.", "obj_label": ["Metalheadz", "Hospital Records"], "gpt4_choices": ["hospital records"]}
+{"sub_label": "Wolfine", "obj_label": ["Codiscos"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Paulo Moura", "obj_label": ["Milestone", "Milestone Records"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Pablo Manavello", "obj_label": ["Rodven Discos", "Rodven Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Octavio Brunetti", "obj_label": ["Sony Classical", "Sony Classical Records", "LC 6868", "LC 06868"], "gpt4_choices": ["soundbrush records"]}
+{"sub_label": "Dori Caymmi", "obj_label": ["LC 0192", "Elektra", "LC 00192", "MusicTaste", "Far Out Recordings", "Elektra Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Arthur Verocai", "obj_label": ["Far Out Recordings", "Continental", "Discos Continental"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Pedro Messone", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Dominic Miller", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["ecm records"]}
+{"sub_label": "Juarez Moreira", "obj_label": ["Malandro Records"], "gpt4_choices": ["biscoito fino"]}
+{"sub_label": "Ilona", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, i couldn't find specific information about a musician named ilona and her record label. could you please provide more details?"]}
+{"sub_label": "Anasol", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Rodolfo Biagi", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Vitão", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["head media"]}
+{"sub_label": "Marcela Morelo", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Legarda", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Leo Dan", "obj_label": ["CBS Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Luis Dimas", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Eduardo Dussek", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Pablo Ruiz", "obj_label": ["Capitol", "Capitol Records"], "gpt4_choices": ["bmg"]}
+{"sub_label": "Antonio Cartagena", "obj_label": ["IEMPSA"], "gpt4_choices": ["rmm records"]}
+{"sub_label": "Luifer Cuello", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Luis Salinas", "obj_label": ["Verve Records"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "Noel Petro", "obj_label": ["Sonolux"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Kiara", "obj_label": ["Rodven Discos", "Rodven Records"], "gpt4_choices": ["atlantic records"]}
+{"sub_label": "Wilson das Neves", "obj_label": ["Far Out Recordings"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Lu Alone", "obj_label": ["Som Livre"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Javier Weyler", "obj_label": ["V2 Records Benelux", "V2 Records", "LC 01801", "LC 1801"], "gpt4_choices": ["phantom limb"]}
+{"sub_label": "Héctor Pavez", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Mauricio Rosero", "obj_label": ["M2 Studios"], "gpt4_choices": ["sorry, but there's no available information about a record label that mauricio rosero is signed to."]}
+{"sub_label": "Carlos Franzetti", "obj_label": ["Chesky Records"], "gpt4_choices": ["sunnyside records"]}
+{"sub_label": "Fernanda Brandão", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Yasmin Santos", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Jair Rodrigues", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "Columbia", "Columbia Records"], "gpt4_choices": ["philips records"]}
+{"sub_label": "André Valadão", "obj_label": ["Diante do Trono", "Records", "Label"], "gpt4_choices": ["graça music"]}
+{"sub_label": "Nelson Velásquez", "obj_label": ["FM Discos y Cintas", "FM Entretenimiento"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Mauro Castillo", "obj_label": ["SM", "Sony Music", "Codiscos", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Bola Sete", "obj_label": ["Fantasy", "LC 00720", "Fantasy Records"], "gpt4_choices": ["fantasy records"]}
+{"sub_label": "Gervasio", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, i couldn't find information on a record label for an artist named gervasio."]}
+{"sub_label": "Fernando Osorio", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Claudio O'Connor", "obj_label": ["Radio Trípoli Discos", "Radio Tripoli Discos"], "gpt4_choices": ["icarus music"]}
+{"sub_label": "Danny Peyronel", "obj_label": ["Atlantic", "LC 0121", "LC 00121", "Atlantic Records"], "gpt4_choices": ["perris records"]}
+{"sub_label": "Durval Lélys", "obj_label": ["Som Livre", "Sony BMG", "Sony BMG Music Entertainment"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Jorge Villamizar", "obj_label": ["Top Stop Music"], "gpt4_choices": ["emi latin"]}
+{"sub_label": "Maía", "obj_label": ["Sony Music Colombia", "Sony Music Entertainment Colombia"], "gpt4_choices": ["sony music colombia"]}
+{"sub_label": "Luedji Luna", "obj_label": ["YB Music", "Polysom"], "gpt4_choices": ["sterns music"]}
+{"sub_label": "Omar Geles", "obj_label": ["Codiscos"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Guillermo Dávila", "obj_label": ["Rodven Discos", "Rodven Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Nissa", "obj_label": ["ONErpm"], "gpt4_choices": ["sorry, i couldn't find information on an artist named nissa signed to a specific record label."]}
+{"sub_label": "Sol Gabetta", "obj_label": ["Sony Classical", "Sony Classical Records", "LC 6868", "LC 06868"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "Dinorah Varsi", "obj_label": ["LC 0305", "LC 08175", "LC 00305", "Philips Records", "LC 00761", "Orfeo", "Deutsche Harmonia Mundi"], "gpt4_choices": ["genuin"]}
+{"sub_label": "Dany Roland", "obj_label": ["Epic", "Epic Records"], "gpt4_choices": ["sorry, but there's no available information about a record label that dany roland is signed to."]}
+{"sub_label": "Harry Nach", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["mueva records"]}
+{"sub_label": "Luciana Souza", "obj_label": ["Sunnyside Records"], "gpt4_choices": ["sunnyside records"]}
+{"sub_label": "Adryana Ribeiro", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Calixto Ochoa", "obj_label": ["Codiscos"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Guillermo Novellis", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "José Luis Fernández", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that josé luis fernández is signed to."]}
+{"sub_label": "Cristina Gallardo-Domâs", "obj_label": ["EMI Classics"], "gpt4_choices": ["emi classics"]}
+{"sub_label": "Alberto Zamarbide", "obj_label": ["Umbral Discos & Cintas", "Umbral Records", "Umbral Discos y Cintas", "Umbral"], "gpt4_choices": ["sorry, i couldn't find specific information about alberto zamarbide's current record label."]}
+{"sub_label": "Léo Maia", "obj_label": ["Som Livre"], "gpt4_choices": ["sorry, i couldn't find information on a record label that léo maia is signed to."]}
+{"sub_label": "Emiliano Zuleta", "obj_label": ["Codiscos"], "gpt4_choices": ["emiliano zuleta is not currently signed to any record label."]}
+{"sub_label": "Mano Walter", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Fidel Nadal", "obj_label": ["Nacional Records"], "gpt4_choices": ["nacional records"]}
+{"sub_label": "Nicomedes Santa Cruz", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "RCA Records, Inc.", "RCA"], "gpt4_choices": ["nicomedes santa cruz is not known to be signed to any specific record label."]}
+{"sub_label": "Miss Bolivia", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Anla Courtis", "obj_label": ["Strange Fish", "Head Cleaner", "Fruits de Mer", "Friends of the Fish", "Fruits de Mer Records", "Tiny", "Beta-lactam Ring Records", "Regal Crabomophone"], "gpt4_choices": ["no business records"]}
+{"sub_label": "Michelle Andrade", "obj_label": ["Mozgi Entertainment"], "gpt4_choices": ["mamamusic"]}
+{"sub_label": "Pablo Herrera", "obj_label": ["EMI Records, Ltd.", "SM", "EMI Records", "PolyGram", "EMI Records Ltd.", "SME", "EMI (United Kingdom)", "Sony Music", "EMI Records Limited", "Sony Music Entertainment", "Sony Música", "EMI", "EMI Music", "Feria Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Zaturno", "obj_label": ["Warner Music Latina", "WEA Latina"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Pastor López", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["discomoda"]}
+{"sub_label": "Dante Spinetta", "obj_label": ["UMG", "SM", "Universal Music Group", "Universal Music", "Sony Music", "Sony Music Entertainment", "SME", "UMG Recordings, Inc.", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Verónica Orozco", "obj_label": ["EMI Latin"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Fabián Delgado", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a person named fabián delgado being signed to a record label."]}
+{"sub_label": "Raphael Calux Munhoz Pinheiro", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Facundo Gambandé", "obj_label": ["LC 10025", "Walt Disney Records", "WDR"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Ulises Eyherabide", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["vida music"]}
+{"sub_label": "Moacir Santos", "obj_label": ["Blue Note", "Blue Note Records", "LC 00133", "LC 0133"], "gpt4_choices": ["blue note records"]}
+{"sub_label": "Wagner Lamounier", "obj_label": ["Cogumelo Records", "Cogumelo Produções"], "gpt4_choices": ["cogumelo records"]}
+{"sub_label": "Claudio Roditi", "obj_label": ["Uptown Records", "Candid Records", "Candid Records Philippines", "Candid Productions Ltd"], "gpt4_choices": ["resonance records"]}
+{"sub_label": "Payo Grondona", "obj_label": ["Alerce"], "gpt4_choices": ["alerce"]}
+{"sub_label": "Max Capote", "obj_label": ["Bizarro Records"], "gpt4_choices": ["contrapedal"]}
+{"sub_label": "Manuel Medrano", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Tania Maria", "obj_label": ["Concord Records", "LC 15025"], "gpt4_choices": ["concord records"]}
+{"sub_label": "Lourdes Cecilia Fernández", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Adilia Castillo", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["velvet records"]}
+{"sub_label": "Agustín Barboza", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Nella Rojas", "obj_label": ["SM", "Sony Music | Latin", "Sony Music Latin", "Sony BMG Norte", "Sony Music", "Sony Music Entertainment", "SML", "SME", "Casa Limón", "Sony Música"], "gpt4_choices": ["casa limón"]}
+{"sub_label": "Billy Cafaro", "obj_label": ["LC 0305", "Fontana", "LC 00305", "Philips Records", "Fontana Records", "Columbia", "Columbia Records", "LC 0211"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Egberto Gismonti", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["ecm records"]}
+{"sub_label": "Lucas Masciano", "obj_label": ["Warner Chappell Music Publishing", "Warner/Chappell Music, Inc.", "Warner Chappell Music", "Warner/Chappell Music Publishing", "Warner/Chappell", "Warner-Chappell Music Publishing"], "gpt4_choices": ["warner music spain"]}
+{"sub_label": "Cadão Volpato", "obj_label": ["Baratos Afins"], "gpt4_choices": ["submarine records"]}
+{"sub_label": "Roberta Miranda", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Dino Saluzzi", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["ecm records"]}
+{"sub_label": "Koko Stambuk", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Pery Ribeiro", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["odeon records"]}
+{"sub_label": "Rodrigo Cuadra", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sorry, but there's no available information about a person named rodrigo cuadra being signed to any record label."]}
+{"sub_label": "Daniel Calderón", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Amannda", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music\n"]}
+{"sub_label": "Chris Durán", "obj_label": ["Som Livre", "Central Gospel Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Leila Pinheiro", "obj_label": ["LC 0305", "EMI Records, Ltd.", "Verve Records", "LC 00305", "Philips Records", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Mariana Ingold", "obj_label": ["Orfeo", "Ayuí / Tacuabé"], "gpt4_choices": ["ayui discos"]}
+{"sub_label": "Nívea Soares", "obj_label": ["Diante do Trono", "Records", "Label"], "gpt4_choices": ["onimusic"]}
+{"sub_label": "Totó la Momposina", "obj_label": ["Real World Records"], "gpt4_choices": ["real world records"]}
+{"sub_label": "Joaquin Bedoya", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Mariana Valadão", "obj_label": ["Diante do Trono", "Records", "Label"], "gpt4_choices": ["graça music"]}
+{"sub_label": "Charlie Zaa", "obj_label": ["Sony Music Latin", "Sony BMG Norte", "SML", "Sony Music | Latin", "Sony Música"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Mezo Bigarrena", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["elkar"]}
+{"sub_label": "Franny Glass", "obj_label": ["Contrapedal"], "gpt4_choices": ["sorry, there is no information available about a record label that franny glass is signed to."]}
+{"sub_label": "La Yegros", "obj_label": ["Waxploitation Records"], "gpt4_choices": ["crammed discs"]}
+{"sub_label": "Gui Boratto", "obj_label": ["Kompakt"], "gpt4_choices": ["kompakt"]}
+{"sub_label": "Ivo Perelman", "obj_label": ["C.I.M.P.", "Cadence Jazz Records", "Creative Improvised Music Projects", "CIMP"], "gpt4_choices": ["leo records"]}
+{"sub_label": "Rafael Puyana", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "Mercury Music Group", "Mercury Records"], "gpt4_choices": ["deutsche grammophon"]}
+{"sub_label": "Andria Busic", "obj_label": ["Baratos Afins"], "gpt4_choices": ["animal records"]}
+{"sub_label": "Douglas", "obj_label": ["Sony Music"], "gpt4_choices": ["your question is too vague. there are many people named douglas in the music industry. could you please provide a full name or more context?"]}
+{"sub_label": "Ana Vilela", "obj_label": ["SLAP"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Juliana Gattas", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Leandro Lopes", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sorry, i couldn't find the specific record label leandro lopes is currently signed to."]}
+{"sub_label": "Ivonne Guzmán", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Edward Simon", "obj_label": ["Red Records"], "gpt4_choices": ["sunnyside records"]}
+{"sub_label": "Lucía Galán", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Andrés Parra", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "José Larralde", "obj_label": ["RCA", "Columbia Records", "RCA Records, Inc.", "Columbia"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Gui Rebustini", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "João Bosco", "obj_label": ["LC 0316", "RCA", "LC 00316"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Jair Oliveira", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["trama records"]}
+{"sub_label": "Jonathan Pérez", "obj_label": ["Napalm Records Handels GmbH", "Napalm Records"], "gpt4_choices": ["sorry, i couldn't find information on a record label that jonathan pérez is signed to."]}
+{"sub_label": "Fernanda Lira", "obj_label": ["Napalm Records Handels GmbH", "Napalm Records"], "gpt4_choices": ["napalm records"]}
+{"sub_label": "Elli Medeiros", "obj_label": ["V2 Records Benelux", "V2 Records", "LC 01801", "LC 1801"], "gpt4_choices": ["barclay records"]}
+{"sub_label": "Lorena Chaves", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Tomasa Del Real", "obj_label": ["Nacional Records"], "gpt4_choices": ["nacional records"]}
+{"sub_label": "Valeria Gastaldi", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Ricky Vallen", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Ana Caetano", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Jimmy Zambrano", "obj_label": ["Sony Music Colombia", "Sony Music Entertainment Colombia"], "gpt4_choices": ["sony music latin"]}
+{"sub_label": "Lissa Vera", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Saulo Roston", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Romina Cohn", "obj_label": ["Gigolo Records", "International DeeJay Gigolo Records", "Gigolo", "International DJ Gigolos"], "gpt4_choices": ["international deejay gigolo records"]}
+{"sub_label": "Claudia Sinesi", "obj_label": ["Interdisc"], "gpt4_choices": ["sorry, but there's no available information about a record label that claudia sinesi is signed to."]}
+{"sub_label": "Hernán \"Tery\" Langer", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "José Luis Properzi", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that josé luis properzi is signed to."]}
+{"sub_label": "Leo Rodriguez", "obj_label": ["Sony Music"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Gus Monsanto", "obj_label": ["AFM Records", "AFM RECORDS", "AFM-Records", "AFM Records Bands"], "gpt4_choices": ["frontiers records"]}
+{"sub_label": "Walter Wanderley", "obj_label": ["LC 0305", "Verve Records", "Philips Records", "GNP Crescendo Records", "A&M Records", "A & M Records", "LC 00287", "Capitol", "Capitol Records", "A and M Records", "Odeon", "Odéon", "GNP Crescendo", "A&M/Interscope Records", "LC 00305", "A&M Recordings", "A&M (record label)", "LC 0287", "Odeon Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Samantha Navarro", "obj_label": ["Perro Andaluz"], "gpt4_choices": ["montevideo music group"]}
+{"sub_label": "Tuca", "obj_label": ["LC 0305", "LC 00305", "Philips Records"], "gpt4_choices": ["sorry, i couldn't find any information about a musician named tuca signed to a specific record label."]}
+{"sub_label": "Ana Nóbrega", "obj_label": ["Som Livre"], "gpt4_choices": ["onimusic"]}
+{"sub_label": "Armandinho", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Gabriela Montero", "obj_label": ["EMI Classics"], "gpt4_choices": ["orchid classics"]}
+{"sub_label": "Juanchi Baleirón", "obj_label": ["LC 00542", "EMI", "EMI Records", "LC 0542"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "María Fernanda Neil", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["information not available."]}
+{"sub_label": "Willy Gardi", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a person named willy gardi being signed to any record label."]}
+{"sub_label": "Juan Sativo", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["potoco discos"]}
+{"sub_label": "McLord Magrão", "obj_label": ["Fantastic Plastic", "Fantastic Plastic Records"], "gpt4_choices": ["sorry, i couldn't find the specific record label mclord magrão is currently signed to."]}
+{"sub_label": "Luis Pedraza", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about the record label luis pedraza is signed to. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Fiorella Cayo", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, but there's no available information about fiorella cayo's current record label."]}
+{"sub_label": "Linda Batista", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["i'm sorry, but there's no information available about linda batista being signed to any record label."]}
+{"sub_label": "María José Cantilo", "obj_label": ["Interdisc"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Juan José Mosalini", "obj_label": ["Label Bleu"], "gpt4_choices": ["le chant du monde"]}
+{"sub_label": "Cibelle", "obj_label": ["Crammed Discs"], "gpt4_choices": ["crammed discs"]}
+{"sub_label": "Bruna Viola", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Breno & Caio Cesar", "obj_label": ["Som Livre"], "gpt4_choices": ["sony music entertainment"]}
+{"sub_label": "Galy Galiano", "obj_label": ["Sonolux"], "gpt4_choices": ["fonovisa records"]}
+{"sub_label": "Lalo Ebratt", "obj_label": ["Universal Music Spain", "Universal Music Spain, S.L."], "gpt4_choices": ["warner music latina"]}
+{"sub_label": "Carlos Benavides", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a record label that carlos benavides is signed to."]}
+{"sub_label": "Gabi Melim", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music brazil"]}
+{"sub_label": "Jorge Ledesma", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about a person named jorge ledesma being signed to a specific record label."]}
+{"sub_label": "Morris Albert", "obj_label": ["DME", "London", "United Artists Records", "RCA Records, Inc.", "UAR", "London Records", "Durium Marche Estere", "London Recordings", "RCA"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Alfredo Perl", "obj_label": ["Oehms Classics"], "gpt4_choices": ["oehms classics"]}
+{"sub_label": "Guido Armido Sardelli", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Agustín Almeyda", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Gato Azul Peralta", "obj_label": ["Interdisc"], "gpt4_choices": ["sorry, but there's no available information about a record label named gato azul peralta."]}
+{"sub_label": "Jovino Santos-Neto", "obj_label": ["Malandro Records"], "gpt4_choices": ["liquid city records"]}
+{"sub_label": "Israel Salazar", "obj_label": ["Diante do Trono", "Records", "Som Livre", "Label"], "gpt4_choices": ["onimusic"]}
+{"sub_label": "Cristian Machado", "obj_label": ["Victory Records"], "gpt4_choices": ["chesky records"]}
+{"sub_label": "Leny Andrade", "obj_label": ["Chesky Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Juan Subirá", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["popart music"]}
+{"sub_label": "Matheus Fernandes", "obj_label": ["Som Livre"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Rafael Barreto", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, but there's no available information about rafael barreto being signed to a specific record label."]}
+{"sub_label": "DJ Bitman", "obj_label": ["Nacional Records"], "gpt4_choices": ["nacional records"]}
+{"sub_label": "Adrian Benegas", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Symphonic Distribution", "Warner Music"], "gpt4_choices": ["pride & joy music"]}
+{"sub_label": "Claudia Ruffinatti", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sorry, but there's no available information about a person named claudia ruffinatti being signed to any record label."]}
+{"sub_label": "MC Duduzinho", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brazil"]}
+{"sub_label": "Valericio Leppe", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no information available about a record label associated with valericio leppe."]}
+{"sub_label": "K-Réena", "obj_label": ["Sello Azul"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about the record label k-réena is signed to. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Eli Soares", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music christian group"]}
+{"sub_label": "Miúcha", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "Biscoito Fino", "RCA Records, Inc.", "RCA"], "gpt4_choices": ["polygram"]}
+{"sub_label": "Nani Azevedo", "obj_label": ["Central Gospel Music"], "gpt4_choices": ["central gospel music"]}
+{"sub_label": "Claudio Strunz", "obj_label": ["Radio Trípoli Discos", "Radio Tripoli Discos"], "gpt4_choices": ["i'm sorry, but there's no available information on a record label that claudio strunz is currently signed to."]}
+{"sub_label": "Carlos Almenar Otero", "obj_label": ["Deutsche Grammophon", "Deutsche Grammophon GmbH", "Deutsche Grammophon Gesellschaft"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Dilermando Reis", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["continental records"]}
+{"sub_label": "Kid606", "obj_label": ["Tigerbeat6", "Wichita Recordings"], "gpt4_choices": ["tigerbeat6"]}
+{"sub_label": "Elias Diaz", "obj_label": ["Mastered Trax"], "gpt4_choices": ["sorry, i couldn't find information on a record label elias diaz is signed to."]}
+{"sub_label": "Carlos Molina", "obj_label": ["Ayuí / Tacuabé"], "gpt4_choices": ["sorry, i couldn't find specific information about a record label carlos molina is signed to."]}
+{"sub_label": "Gaby Kerpel", "obj_label": ["Island", "LC 0407", "LC 00407", "Island Records"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Luis Advis", "obj_label": ["DICAP"], "gpt4_choices": ["luis advis is not known to be signed to any specific record label."]}
+{"sub_label": "Miguel Morales", "obj_label": ["Codiscos"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Danny Mercer", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["sorry, i couldn't find the specific record label danny mercer is currently signed to."]}
+{"sub_label": "Pedro Frugone", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Bïa Krieger", "obj_label": ["Audiogram"], "gpt4_choices": ["audiogram"]}
+{"sub_label": "Horacio Molina", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Andrés Godoy", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["andrés godoy is not signed to any record label."]}
+{"sub_label": "Carlos Dorado", "obj_label": ["Acoustic Music Records"], "gpt4_choices": ["sorry, but there's no available information about a record label that carlos dorado is signed to."]}
+{"sub_label": "Paola Galue", "obj_label": ["UMG", "indie record label", "Universal Music Group", "indie label", "Universal Music", "independent label", "UMG Recordings, Inc.", "independent record label"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information on which record label paola galue is signed to. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Augusto Osenda", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sorry, but there's no available information about a person named augusto osenda being signed to any record label."]}
+{"sub_label": "Daniel Rodrigo Martins", "obj_label": ["LC 10025", "Walt Disney Records", "WDR"], "gpt4_choices": ["sorry, but there's no available information about a record label that daniel rodrigo martins is signed to."]}
+{"sub_label": "Claudia Acuña", "obj_label": ["Verve Records"], "gpt4_choices": ["verve records"]}
+{"sub_label": "Martín Fabio", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Dom Um Romão", "obj_label": ["Muse Records"], "gpt4_choices": ["muse records"]}
+{"sub_label": "Paula Morelenbaum", "obj_label": ["Farol Música", "Universal Music Latin Entertainment", "Edel Germany GmbH", "Farol", "Edel Records", "Edel AG", "UMLE", "Edel music"], "gpt4_choices": ["universal music group"]}
+{"sub_label": "Robert Zelazek", "obj_label": ["Umbral Discos & Cintas", "Umbral Records", "Umbral Discos y Cintas", "Umbral"], "gpt4_choices": ["sorry, but there's no information available about a person named robert zelazek being signed to any record label."]}
+{"sub_label": "Jorge Trasante", "obj_label": ["Ayuí / Tacuabé"], "gpt4_choices": ["nonesuch records"]}
+{"sub_label": "Paulinho Nogueira", "obj_label": ["Columbia Records", "Columbia"], "gpt4_choices": ["emi"]}
+{"sub_label": "Pablo Ramón Ayala", "obj_label": ["Leader Music"], "gpt4_choices": ["roc nation"]}
+{"sub_label": "Alberto Vila", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about a record label that alberto vila is signed to."]}
+{"sub_label": "Gustavo Nápoli", "obj_label": ["PolyGram"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Sofia Oliveira", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["warner music brasil"]}
+{"sub_label": "Agepê", "obj_label": ["LC 0305", "LC 00305", "Philips Records", "Discos CBS", "Continental", "Discos Continental"], "gpt4_choices": ["polydor records"]}
+{"sub_label": "César Amaro", "obj_label": ["Orfeo"], "gpt4_choices": ["sorry, there is no information available about a record label that césar amaro is signed to."]}
+{"sub_label": "Richard Rojas", "obj_label": ["DICAP"], "gpt4_choices": ["sorry, but there's no information available about a person named richard rojas being signed to a record label."]}
+{"sub_label": "Arianne", "obj_label": ["Sony Music"], "gpt4_choices": ["arianne's record label is not publicly listed or known."]}
+{"sub_label": "Mario Breuer", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that mario breuer is signed to."]}
+{"sub_label": "Marcelo Jeneci", "obj_label": ["SLAP"], "gpt4_choices": ["slap musica"]}
+{"sub_label": "Sergio Rotman", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Osvaldo Díaz", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that osvaldo díaz is signed to."]}
+{"sub_label": "Gonzalo Martínez", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sorry, but there's no available information about a musician named gonzalo martínez being signed to a specific record label."]}
+{"sub_label": "Leo Genovese", "obj_label": ["Palmetto Records"], "gpt4_choices": ["esp-disk"]}
+{"sub_label": "Zyon Cavalera", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["napalm records"]}
+{"sub_label": "Victor Castro", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a person named victor castro being signed to a specific record label."]}
+{"sub_label": "Alberto Beto\" Zabaleta\"\"", "obj_label": ["Codiscos"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Sabrina Malheiros", "obj_label": ["Far Out Recordings"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Fernando de Madariaga", "obj_label": ["Leader Music"], "gpt4_choices": ["sorry, but there's no available information about the specific record label fernando de madariaga is currently signed to."]}
+{"sub_label": "Luiz Henrique Rosa", "obj_label": ["Verve Records"], "gpt4_choices": ["far out recordings"]}
+{"sub_label": "Nilson Matta", "obj_label": ["Motéma Music", "Motema Music"], "gpt4_choices": ["motéma music"]}
+{"sub_label": "Nelson Henríquez", "obj_label": ["Codiscos"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Mariano Roger", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sorry, but there's no available information about a person named mariano roger being signed to a record label."]}
+{"sub_label": "Jaime R. Echavarría", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["sorry, but there's no available information about a record label that jaime r. echavarría is signed to."]}
+{"sub_label": "Adolfo Echeverría", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["fuentes"]}
+{"sub_label": "Trina Medina", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, trina medina is not associated with any specific record label. please check the most recent and reliable sources for the latest information."]}
+{"sub_label": "Juan Carlos Coronel", "obj_label": ["Codiscos"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Juan Piña", "obj_label": ["Codiscos"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Alberto Arenas", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a person named alberto arenas being signed to any record label."]}
+{"sub_label": "Iván Calderón", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, i couldn't find information on a record label associated with iván calderón."]}
+{"sub_label": "Hilario Pérez", "obj_label": ["Sondor", "Tonal", "Orfeo", "De la Planta", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a record label that hilario pérez is signed to."]}
+{"sub_label": "Aníbal Velásquez", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["discos fuentes"]}
+{"sub_label": "Rolando Domingo Sartorio", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["warner music italy"]}
+{"sub_label": "Facundo Soto", "obj_label": ["Del Cielito"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Ramon Collazo", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a record label that ramon collazo is signed to."]}
+{"sub_label": "Walter Meza", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sorry, but there's no available information about a record label that walter meza is signed to."]}
+{"sub_label": "Germán Sbarbati", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["popart music"]}
+{"sub_label": "Olga Delgrossi", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a record label that olga delgrossi is signed to."]}
+{"sub_label": "Francisco Romero", "obj_label": ["LC 0149", "CBS", "LC 00149"], "gpt4_choices": ["sorry, but there's no available information about a person named francisco romero being signed to a specific record label."]}
+{"sub_label": "Mar Rendón", "obj_label": ["Sony Music México"], "gpt4_choices": ["sorry, but there's no available information about a record label that mar rendón is signed to."]}
+{"sub_label": "Federico Aubele", "obj_label": ["ESL Music", "Eighteenth Street Lounge Music"], "gpt4_choices": ["eighteenth street lounge music"]}
+{"sub_label": "Javier Bagalá", "obj_label": ["NEMS Enterprises"], "gpt4_choices": ["bagalá records"]}
+{"sub_label": "Marta Contreras Cáceres", "obj_label": ["Universal Music Division Polydor", "Polydor Records", "Polydor"], "gpt4_choices": ["sorry, but there's no available information about a record label that marta contreras cáceres is signed to."]}
+{"sub_label": "Bi Ribeiro", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["warner music group"]}
+{"sub_label": "Álvaro Véliz", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sony music"]}
+{"sub_label": "Bruno Agra", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["frontiers records"]}
+{"sub_label": "Deborah de Corral", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Marcelo Zoloa", "obj_label": ["EMI Records, Ltd.", "Discos Popart", "Popart Discos", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a record label associated with marcelo zoloa."]}
+{"sub_label": "Nina Miranda", "obj_label": ["Far Out Recordings"], "gpt4_choices": ["six degrees records"]}
+{"sub_label": "Pepe Céspedes", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sorry, there is no available information about a record label that pepe céspedes is signed to."]}
+{"sub_label": "Gabriel Romero", "obj_label": ["Sonolux"], "gpt4_choices": ["sorry, but there's no available information about a record label that gabriel romero is signed to."]}
+{"sub_label": "Dillon", "obj_label": ["BPitch Control"], "gpt4_choices": ["sorry, i couldn't find information on an artist named dillon signed to a specific record label. could you please provide more details?"]}
+{"sub_label": "Juan Peyrou Soares de Lima", "obj_label": ["Sondor", "Orfeo", "Ayuí / Tacuabé", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a person named juan peyrou soares de lima being signed to any record label."]}
+{"sub_label": "Roberto Perera", "obj_label": ["Heads Up International"], "gpt4_choices": ["heads up international"]}
+{"sub_label": "Cineplexx", "obj_label": ["Cherry Red", "Cherry Red Records"], "gpt4_choices": ["nuevahola records"]}
+{"sub_label": "Juan Jose Chuquisengo", "obj_label": ["Sony Classical", "Sony Classical Records", "LC 6868", "LC 06868"], "gpt4_choices": ["sony classical"]}
+{"sub_label": "Juan Bautista Guido", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about a record label that juan bautista guido is signed to."]}
+{"sub_label": "Nando Lauria", "obj_label": ["Narada Productions"], "gpt4_choices": ["narada productions"]}
+{"sub_label": "Silvio Paredes", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that silvio paredes is signed to."]}
+{"sub_label": "Ricardo Tapia", "obj_label": ["Del Cielito"], "gpt4_choices": ["sorry, but there's no available information about a record label that ricardo tapia is signed to."]}
+{"sub_label": "Marine Friesen", "obj_label": ["Diante do Trono", "Records", "Label", "MK Music"], "gpt4_choices": ["onimusic"]}
+{"sub_label": "Daniel Alberto Suárez", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["warner music méxico"]}
+{"sub_label": "Emanero", "obj_label": ["Wilson"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Eloy Casagrande", "obj_label": ["Nuclear Blast", "Nuclear Blast GmbH"], "gpt4_choices": ["nuclear blast"]}
+{"sub_label": "Sergio Járlaz", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that sergio járlaz is signed to."]}
+{"sub_label": "Juancho Torres Correa", "obj_label": ["Discos Fuentes", "Codiscos"], "gpt4_choices": ["sorry, but there's no available information about a record label that juancho torres correa is signed to."]}
+{"sub_label": "Roger Lima", "obj_label": ["Asian Man Records"], "gpt4_choices": ["fat wreck chords"]}
+{"sub_label": "Aérea Negrot", "obj_label": ["BPitch Control"], "gpt4_choices": ["bpitch control"]}
+{"sub_label": "Gretchen Serrao Cabrera", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["as an ai, i don't have real-time data. as of my last update, i don't have information about gretchen serrao cabrera being signed to any specific record label. please check the most recent and reliable sources for the updated information."]}
+{"sub_label": "Paloma Valdéz", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a person named paloma valdéz being signed to any record label."]}
+{"sub_label": "Óscar Andrade", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a record label that óscar andrade is signed to."]}
+{"sub_label": "Pablo Márquez", "obj_label": ["Editions of Contemporary Music", "ECM", "ECM Records"], "gpt4_choices": ["ecm records"]}
+{"sub_label": "Alex Ferrari", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["universal music"]}
+{"sub_label": "Numen Vilariño", "obj_label": ["Mallarini Producciones", "Perro Andaluz", "Eco/Mallarini Producciones", "Ayuí / Tacuabé"], "gpt4_choices": ["sorry, but there's no available information about a record label associated with numen vilariño."]}
+{"sub_label": "Memín Hernández", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sorry, but there's no available information about a record label that memín hernández is signed to."]}
+{"sub_label": "Alberto Verenzuela", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Caterina Nix", "obj_label": ["Frontiers Records"], "gpt4_choices": ["frontiers records"]}
+{"sub_label": "Martín Ferres", "obj_label": ["Universal Music Latin Entertainment", "UMLE"], "gpt4_choices": ["there is no information available on a record label that martín ferres is signed to."]}
+{"sub_label": "Guillermo Klein", "obj_label": ["Candid Productions Ltd", "Candid Records", "Candid Records Philippines"], "gpt4_choices": ["sunnyside records"]}
+{"sub_label": "Adair Cardoso", "obj_label": ["Som Livre"], "gpt4_choices": ["som livre"]}
+{"sub_label": "Petronio Álvarez", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, but there's no available information on a record label that petronio álvarez is signed to."]}
+{"sub_label": "Robertinho Silva", "obj_label": ["Milestone", "Milestone Records"], "gpt4_choices": ["adventure music"]}
+{"sub_label": "Claudionor Germano", "obj_label": ["Rozenblit"], "gpt4_choices": ["columbia records"]}
+{"sub_label": "Luciano Scaglione", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["epitaph records"]}
+{"sub_label": "Julio Mora", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a person named julio mora being signed to a specific record label."]}
+{"sub_label": "Eduardo Larbanois", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["ayuí / tacuabé"]}
+{"sub_label": "Maia Castro", "obj_label": ["Bizarro Records"], "gpt4_choices": ["perro andaluz"]}
+{"sub_label": "Wilson Simoninha", "obj_label": ["Som Livre"], "gpt4_choices": ["trama records"]}
+{"sub_label": "Vasti Michel", "obj_label": ["Sello Azul"], "gpt4_choices": ["sorry, but there's no available information about an artist named vasti michel being signed to any record label."]}
+{"sub_label": "Matías Leonicio", "obj_label": ["Candlelight Records"], "gpt4_choices": ["sorry, but there's no available information about a record label associated with matías leonicio."]}
+{"sub_label": "Joanina Deangeli", "obj_label": ["SM", "Sony Music", "Sony Music Entertainment", "SME", "Sony Música"], "gpt4_choices": ["sorry, but i couldn't find any information on a record label for an artist named joanina deangeli."]}
+{"sub_label": "Rosalia de Souza", "obj_label": ["Avatar Records"], "gpt4_choices": ["schema records"]}
+{"sub_label": "Homero Caro", "obj_label": ["Peña de los Parra"], "gpt4_choices": ["universal music latin entertainment"]}
+{"sub_label": "Bianca Chami", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["sony music brazil"]}
+{"sub_label": "Tiago Della Vega", "obj_label": ["SG Records"], "gpt4_choices": ["manifesto records"]}
+{"sub_label": "Alberto Rosenblit", "obj_label": ["Som Livre"], "gpt4_choices": ["deckdisc"]}
+{"sub_label": "Walter Bruno", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["i'm sorry, but there's no information available about a musician named walter bruno being signed to any record label."]}
+{"sub_label": "Curumin", "obj_label": ["YB Music"], "gpt4_choices": ["quannum projects"]}
+{"sub_label": "Gonzalo Henríquez", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sorry, but there's no available information about a person named gonzalo henríquez being signed to a record label."]}
+{"sub_label": "Carlos Goberna", "obj_label": ["Sondor", "Orfeo", "Son d'Or"], "gpt4_choices": ["sar records"]}
+{"sub_label": "Felipe Santos", "obj_label": ["Warner Music Spain"], "gpt4_choices": ["sorry, but there's no available information about a musician named felipe santos being signed to a specific record label."]}
+{"sub_label": "Nicanor Molinare", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about nicanor molinare being signed to a specific record label."]}
+{"sub_label": "Selma Reis", "obj_label": ["PolyGram"], "gpt4_choices": ["biscoito fino"]}
+{"sub_label": "Luis Ramírez Saldarriaga", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, but there's no available information about a person named luis ramírez saldarriaga being signed to a record label."]}
+{"sub_label": "Dino Ramos", "obj_label": ["LC 0316", "RCA", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about a person named dino ramos being signed to a record label."]}
+{"sub_label": "Martin Mendez", "obj_label": ["Roadrunner Records"], "gpt4_choices": ["nuclear blast"]}
+{"sub_label": "Alejandro Kurz", "obj_label": ["Warner Music Group Corp.", "WMG", "Warner", "Warner Music Group", "Warner Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Didier Moreno", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, but there's no available information about a record label that didier moreno is signed to."]}
+{"sub_label": "Joyce Cândido", "obj_label": ["Warner Music Brazil"], "gpt4_choices": ["biscoito fino"]}
+{"sub_label": "Soledad Vélez", "obj_label": ["Subterfuge Records"], "gpt4_choices": ["subterfuge records"]}
+{"sub_label": "Hansel Camacho", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, but there's no available information about the current record label of hansel camacho."]}
+{"sub_label": "Cristina Braga", "obj_label": ["Biscoito Fino"], "gpt4_choices": ["sisco+zotto"]}
+{"sub_label": "Dubán Bayona", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["codiscos"]}
+{"sub_label": "Ronnie Cord", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["rca victor"]}
+{"sub_label": "Flávio José", "obj_label": ["Sony BMG Music Entertainment", "Sony BMG"], "gpt4_choices": ["tropicana records"]}
+{"sub_label": "Mariana García Vigil", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a person named mariana garcía vigil being signed to any record label."]}
+{"sub_label": "Carlos Hayre", "obj_label": ["Sono Radio"], "gpt4_choices": ["sorry, but there's no available information about carlos hayre being signed to a specific record label."]}
+{"sub_label": "Hernán \"Kiko\" Álvarez", "obj_label": ["DICAP"], "gpt4_choices": ["sorry, but there's no available information about a record label that hernán \"kiko\" álvarez is signed to."]}
+{"sub_label": "José Seves", "obj_label": ["DICAP"], "gpt4_choices": ["warner music chile"]}
+{"sub_label": "Kiko Zambianchi", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi"]}
+{"sub_label": "Fernando Lima", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["emi classics"]}
+{"sub_label": "Charo Cofré", "obj_label": ["Peña de los Parra"], "gpt4_choices": ["information about charo cofré's record label is not available."]}
+{"sub_label": "Isabela Fogaça", "obj_label": ["Som Livre"], "gpt4_choices": ["sorry, but there's no available information about a record label that isabela fogaça is signed to."]}
+{"sub_label": "Ana Caram", "obj_label": ["Chesky Records"], "gpt4_choices": ["chesky records"]}
+{"sub_label": "Gilson Vieira da Silva", "obj_label": ["Sony Music"], "gpt4_choices": ["sorry, but there's no available information about a person named gilson vieira da silva being signed to a record label."]}
+{"sub_label": "Marcelo Barrera", "obj_label": ["UMG", "UMG Recordings, Inc.", "Universal Music Group", "Universal Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that marcelo barrera is signed to."]}
+{"sub_label": "Emilia Herrera", "obj_label": ["Codiscos"], "gpt4_choices": ["sorry, but there's no available information about a person named emilia herrera being signed to a record label."]}
+{"sub_label": "Théo de Barros", "obj_label": ["EMI Records, Ltd.", "EMI Records", "EMI Records Ltd.", "EMI (United Kingdom)", "EMI Records Limited", "EMI", "EMI Music"], "gpt4_choices": ["sorry, i couldn't find specific information on which record label théo de barros is signed to."]}
+{"sub_label": "Manoel Evêncio da Costa Moreira", "obj_label": ["Odeon", "Odéon", "LC 0287", "Odeon Records", "LC 00287"], "gpt4_choices": ["rca records"]}
+{"sub_label": "Gabriela Anders", "obj_label": ["Warner Bros. Records"], "gpt4_choices": ["warner bros. records"]}
+{"sub_label": "Hiacho Lezica", "obj_label": ["RCA Records, Inc.", "RCA"], "gpt4_choices": ["sorry, but there's no available information about a record label hiacho lezica is signed to."]}
+{"sub_label": "Vanesa Gabriela Leiro", "obj_label": ["EMI Televisa Music"], "gpt4_choices": ["sony music argentina"]}
+{"sub_label": "Magaly Elizabeth Ayala Acevedo", "obj_label": ["Feria Music"], "gpt4_choices": ["sorry, but there's no available information about a record label that magaly elizabeth ayala acevedo is signed to."]}
+{"sub_label": "Deiner Bayona", "obj_label": ["Discos Fuentes"], "gpt4_choices": ["sorry, but there's no available information about a record label that deiner bayona is signed to."]}
+{"sub_label": "Jorginho Gularte", "obj_label": ["Sondor", "Orfeo", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about jorginho gularte being signed to a specific record label."]}
+{"sub_label": "Chola Vetere", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["sorry, but there's no available information about an artist named chola vetere or the record label they're signed to."]}
+{"sub_label": "Magicenelbeat", "obj_label": ["Rimas Entertainment", "Fundación Rimas Inc.", "Rimas Network", "Rimas Entertainment, LLC", "Rimas Group", "Rimas Classics LLC", "Rimas Music, LLC", "Rimas", "RSM Publishing, LLC"], "gpt4_choices": ["sorry, but i couldn't find any information about the record label magicenelbeat is signed to."]}
+{"sub_label": "Waldemar Sasía", "obj_label": ["Sondor", "Son d'Or"], "gpt4_choices": ["sorry, but there's no available information about a record label that waldemar sasía is signed to."]}
+{"sub_label": "Mirella Gilbert", "obj_label": ["LC 0316", "RCA Victor Records", "RCA Victor", "LC 00316"], "gpt4_choices": ["i'm sorry, but there's no information available about an artist named mirella gilbert or the record label she might be signed to."]}
+{"sub_label": "Clara Moreno", "obj_label": ["Avex Tune", "Far Out Recordings"], "gpt4_choices": ["far out recordings"]}

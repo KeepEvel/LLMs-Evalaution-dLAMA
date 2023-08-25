@@ -1,0 +1,3 @@
+{"sub_uri": "Q18281265", "obj_uri": ["Q30"], "sub_label": "DC Extended Universe", "obj_label": ["United States of America"], "country": ["Q30"], "size": 456032, "uuid": "P495_general_WESTERN_COUNTRIES_0", "bloom_choices": ["United States of America"]}
+{"sub_uri": "Q642878", "obj_uri": ["Q30"], "sub_label": "Marvel Cinematic Universe", "obj_label": ["United States of America"], "country": ["Q30"], "size": 378363, "uuid": "P495_general_WESTERN_COUNTRIES_1", "bloom_choices": ["United States of America"]}
+{"sub_uri": "Q62604229", "obj_uri": ["Q30"], "sub_label": "Marvel Cinematic Universe Phase Four", "obj_label": ["United States of America"], "country": ["Q30"], "size": 360975, "uuid": "P495_general_WESTERN_COUNTRIES_2", "bloom_choices": ["United States of America"]}

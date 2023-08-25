@@ -1,0 +1,854 @@
+{"sub_uri": "Q533284", "obj_uri": ["Q330629"], "sub_label": "Gustavo Cerati", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 278207, "uuid": "P264_general_SOUTH_AMERICA_0"}
+{"sub_uri": "Q198962", "obj_uri": ["Q38903"], "sub_label": "Sandy", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 258611, "uuid": "P264_general_SOUTH_AMERICA_1"}
+{"sub_uri": "Q239030", "obj_uri": ["Q193023", "Q706013", "Q845506", "Q935090"], "sub_label": "Yma Súmac", "obj_label": ["Capitol Records", "Odeon", "Electrecord", "London Records"], "country": ["Q419"], "size": 237179, "uuid": "P264_general_SOUTH_AMERICA_2"}
+{"sub_uri": "Q316878", "obj_uri": ["Q21077", "Q2297757", "Q2606741", "Q62085864", "Q843402", "Q993066"], "sub_label": "Mike Patton", "obj_label": ["Warner Music Group", "Tzadik Records", "Slash Records", "Reclamation! Recordings", "Warner Bros. Records", "Ipecac Recordings"], "country": ["Q298"], "size": 220744, "uuid": "P264_general_SOUTH_AMERICA_3"}
+{"sub_uri": "Q229613", "obj_uri": ["Q183387", "Q183412", "Q202585"], "sub_label": "Carlos Gardel", "obj_label": ["Columbia Records", "EMI", "RCA Records"], "country": ["Q414", "Q77"], "size": 202552, "uuid": "P264_general_SOUTH_AMERICA_4"}
+{"sub_uri": "Q467940", "obj_uri": ["Q3244698"], "sub_label": "Charly García", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 176543, "uuid": "P264_general_SOUTH_AMERICA_5"}
+{"sub_uri": "Q34424", "obj_uri": ["Q1061903", "Q183387", "Q202585", "Q216364", "Q3001888", "Q330629"], "sub_label": "Shakira", "obj_label": ["Live Nation", "Columbia Records", "RCA Records", "Epic Records", "Sony BMG", "Sony Music"], "country": ["Q739"], "size": 172108, "uuid": "P264_general_SOUTH_AMERICA_6"}
+{"sub_uri": "Q462102", "obj_uri": ["Q5249282"], "sub_label": "Pitty", "obj_label": ["Deckdisc"], "country": ["Q155"], "size": 167358, "uuid": "P264_general_SOUTH_AMERICA_7"}
+{"sub_uri": "Q13476301", "obj_uri": ["Q10393219", "Q64485314"], "sub_label": "Anitta", "obj_label": ["Warner Music Brazil", "Warner Records"], "country": ["Q155"], "size": 164396, "uuid": "P264_general_SOUTH_AMERICA_8"}
+{"sub_uri": "Q10307615", "obj_uri": ["Q38903"], "sub_label": "Joelma", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 163948, "uuid": "P264_general_SOUTH_AMERICA_9"}
+{"sub_uri": "Q235940", "obj_uri": ["Q330629"], "sub_label": "Ivete Sangalo", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 152943, "uuid": "P264_general_SOUTH_AMERICA_10"}
+{"sub_uri": "Q2495947", "obj_uri": ["Q21077"], "sub_label": "Kelly Key", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 149594, "uuid": "P264_general_SOUTH_AMERICA_11"}
+{"sub_uri": "Q221479", "obj_uri": ["Q288810", "Q50074604"], "sub_label": "Gilberto Gil", "obj_label": ["ACT", "RCA"], "country": ["Q155"], "size": 138826, "uuid": "P264_general_SOUTH_AMERICA_12"}
+{"sub_uri": "Q192359", "obj_uri": ["Q21077"], "sub_label": "João Gilberto", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 134493, "uuid": "P264_general_SOUTH_AMERICA_13"}
+{"sub_uri": "Q275939", "obj_uri": ["Q1536003", "Q330629", "Q3964488", "Q50074604", "Q700359"], "sub_label": "Chucha", "obj_label": ["Philips Records", "Sony Music", "Som Livre", "RCA", "PolyGram"], "country": ["Q155"], "size": 132561, "uuid": "P264_general_SOUTH_AMERICA_14"}
+{"sub_uri": "Q16149863", "obj_uri": ["Q1123947"], "sub_label": "Arca", "obj_label": ["XL Recordings"], "country": ["Q717"], "size": 117994, "uuid": "P264_general_SOUTH_AMERICA_15"}
+{"sub_uri": "Q10323878", "obj_uri": ["Q38903"], "sub_label": "Manu Gavassi", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 116875, "uuid": "P264_general_SOUTH_AMERICA_16"}
+{"sub_uri": "Q232458", "obj_uri": ["Q21077", "Q662575", "Q796316"], "sub_label": "Natalia Oreiro", "obj_label": ["Warner Music Group", "Ariola", "BMG Rights Management"], "country": ["Q77"], "size": 113531, "uuid": "P264_general_SOUTH_AMERICA_17"}
+{"sub_uri": "Q2699591", "obj_uri": ["Q387539", "Q56760250", "Q7894020"], "sub_label": "Tini Stoessel", "obj_label": ["Hollywood Records", "Sony Music", "Universal Music Latin Entertainment"], "country": ["Q414"], "size": 113042, "uuid": "P264_general_SOUTH_AMERICA_18"}
+{"sub_uri": "Q5216314", "obj_uri": ["Q38903"], "sub_label": "Daniel", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 112781, "uuid": "P264_general_SOUTH_AMERICA_19"}
+{"sub_uri": "Q121655", "obj_uri": ["Q202585"], "sub_label": "Carmen Miranda", "obj_label": ["RCA Records"], "country": ["Q155"], "size": 111845, "uuid": "P264_general_SOUTH_AMERICA_20"}
+{"sub_uri": "Q466762", "obj_uri": ["Q3244698"], "sub_label": "Lali Espósito", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 108071, "uuid": "P264_general_SOUTH_AMERICA_21"}
+{"sub_uri": "Q172505", "obj_uri": ["Q127855"], "sub_label": "Astor Piazzola", "obj_label": ["Chesky Records"], "country": ["Q414"], "size": 98968, "uuid": "P264_general_SOUTH_AMERICA_22"}
+{"sub_uri": "Q5256493", "obj_uri": ["Q3001888"], "sub_label": "Diomedes Díaz", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 98332, "uuid": "P264_general_SOUTH_AMERICA_23"}
+{"sub_uri": "Q467930", "obj_uri": ["Q3244698"], "sub_label": "Soledad Pastorutti", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 97134, "uuid": "P264_general_SOUTH_AMERICA_24"}
+{"sub_uri": "Q309983", "obj_uri": ["Q202585"], "sub_label": "Caetano Veloso", "obj_label": ["RCA Records"], "country": ["Q155"], "size": 92086, "uuid": "P264_general_SOUTH_AMERICA_25"}
+{"sub_uri": "Q465191", "obj_uri": ["Q330629", "Q557632", "Q935090"], "sub_label": "Roberto Carlos", "obj_label": ["Sony Music", "Decca Records", "London Records"], "country": ["Q155"], "size": 91223, "uuid": "P264_general_SOUTH_AMERICA_26"}
+{"sub_uri": "Q2836528", "obj_uri": ["Q112280679", "Q21077", "Q42201"], "sub_label": "Mon Laferte", "obj_label": ["Universal Music México", "Warner Music Group", "música independiente"], "country": ["Q298"], "size": 90809, "uuid": "P264_general_SOUTH_AMERICA_27"}
+{"sub_uri": "Q1393935", "obj_uri": ["Q21077"], "sub_label": "Fito Páez", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 87554, "uuid": "P264_general_SOUTH_AMERICA_28"}
+{"sub_uri": "Q152768", "obj_uri": ["Q168407"], "sub_label": "Daniel Barenboim", "obj_label": ["Deutsche Grammophon"], "country": ["Q414"], "size": 86588, "uuid": "P264_general_SOUTH_AMERICA_29"}
+{"sub_uri": "Q145514", "obj_uri": ["Q330629"], "sub_label": "Wanessa", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 86211, "uuid": "P264_general_SOUTH_AMERICA_30"}
+{"sub_uri": "Q2980493", "obj_uri": ["Q38903"], "sub_label": "Cláudia Leitte", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 83880, "uuid": "P264_general_SOUTH_AMERICA_31"}
+{"sub_uri": "Q2747761", "obj_uri": ["Q56826329"], "sub_label": "Gabriel o Pensador", "obj_label": ["Sony"], "country": ["Q155"], "size": 82378, "uuid": "P264_general_SOUTH_AMERICA_32"}
+{"sub_uri": "Q966845", "obj_uri": ["Q3298975"], "sub_label": "J Balvin", "obj_label": ["EMI Latin"], "country": ["Q739"], "size": 82087, "uuid": "P264_general_SOUTH_AMERICA_33"}
+{"sub_uri": "Q288933", "obj_uri": ["Q3964488"], "sub_label": "Marjorie Estiano", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 81761, "uuid": "P264_general_SOUTH_AMERICA_34"}
+{"sub_uri": "Q611208", "obj_uri": ["Q9019737"], "sub_label": "Emicida", "obj_label": ["Laboratório Fantasma"], "country": ["Q155"], "size": 79990, "uuid": "P264_general_SOUTH_AMERICA_35"}
+{"sub_uri": "Q1421573", "obj_uri": ["Q15222883", "Q21077"], "sub_label": "La Tigresa del Oriente", "obj_label": ["Independente", "Warner Music Group"], "country": ["Q419"], "size": 79966, "uuid": "P264_general_SOUTH_AMERICA_36"}
+{"sub_uri": "Q100397038", "obj_uri": ["Q17008158"], "sub_label": "Leia (cantante)", "obj_label": ["DR Music"], "country": ["Q155"], "size": 78132, "uuid": "P264_general_SOUTH_AMERICA_37"}
+{"sub_uri": "Q328449", "obj_uri": ["Q706013"], "sub_label": "Wilson Simonal", "obj_label": ["Odeon"], "country": ["Q155"], "size": 78038, "uuid": "P264_general_SOUTH_AMERICA_38"}
+{"sub_uri": "Q178293", "obj_uri": ["Q168407"], "sub_label": "Mauricio Kagel", "obj_label": ["Deutsche Grammophon"], "country": ["Q414"], "size": 77541, "uuid": "P264_general_SOUTH_AMERICA_39"}
+{"sub_uri": "Q273347", "obj_uri": ["Q38903"], "sub_label": "Margareth Menezes", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 73157, "uuid": "P264_general_SOUTH_AMERICA_40"}
+{"sub_uri": "Q483682", "obj_uri": ["Q38903"], "sub_label": "Paula Fernandes", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 70206, "uuid": "P264_general_SOUTH_AMERICA_41"}
+{"sub_uri": "Q46346162", "obj_uri": ["Q38903"], "sub_label": "Cami", "obj_label": ["Universal Music Group"], "country": ["Q298"], "size": 70045, "uuid": "P264_general_SOUTH_AMERICA_42"}
+{"sub_uri": "Q321108", "obj_uri": ["Q5989744", "Q700359"], "sub_label": "Rodrigo", "obj_label": ["Magenta Discos", "PolyGram"], "country": ["Q414"], "size": 66343, "uuid": "P264_general_SOUTH_AMERICA_43"}
+{"sub_uri": "Q467994", "obj_uri": ["Q330629"], "sub_label": "Damares", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 65554, "uuid": "P264_general_SOUTH_AMERICA_44"}
+{"sub_uri": "Q5883346", "obj_uri": ["Q21077"], "sub_label": "Gonzalo Yáñez", "obj_label": ["Warner Music Group"], "country": ["Q77"], "size": 65086, "uuid": "P264_general_SOUTH_AMERICA_45"}
+{"sub_uri": "Q2744497", "obj_uri": ["Q165745", "Q183387", "Q183412", "Q706013"], "sub_label": "Simone", "obj_label": ["Mercury Records", "Columbia Records", "EMI", "Odeon"], "country": ["Q155"], "size": 64436, "uuid": "P264_general_SOUTH_AMERICA_46"}
+{"sub_uri": "Q16337938", "obj_uri": ["Q21077"], "sub_label": "Ludmilla", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 64392, "uuid": "P264_general_SOUTH_AMERICA_47"}
+{"sub_uri": "Q380821", "obj_uri": ["Q3964488"], "sub_label": "Gusttavo Lima", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 63022, "uuid": "P264_general_SOUTH_AMERICA_48"}
+{"sub_uri": "Q333632", "obj_uri": ["Q10356616"], "sub_label": "Chico Buarque", "obj_label": ["RGE"], "country": ["Q155"], "size": 62196, "uuid": "P264_general_SOUTH_AMERICA_49"}
+{"sub_uri": "Q465351", "obj_uri": ["Q1536003", "Q216364", "Q2535085", "Q56760250", "Q662575", "Q770103"], "sub_label": "Elba Ramalho", "obj_label": ["Philips Records", "Epic Records", "Barclay Records", "Sony Music", "Ariola", "Bertelsmann Music Group"], "country": ["Q155"], "size": 61527, "uuid": "P264_general_SOUTH_AMERICA_50"}
+{"sub_uri": "Q67092270", "obj_uri": ["Q38903"], "sub_label": "Amy Gutiérrez", "obj_label": ["Universal Music Group"], "country": ["Q419"], "size": 61402, "uuid": "P264_general_SOUTH_AMERICA_51"}
+{"sub_uri": "Q10750565", "obj_uri": ["Q3001888", "Q50074604"], "sub_label": "José Luis Rodríguez", "obj_label": ["Sony BMG", "RCA"], "country": ["Q717"], "size": 61114, "uuid": "P264_general_SOUTH_AMERICA_52"}
+{"sub_uri": "Q269841", "obj_uri": ["Q1536003", "Q165745", "Q38903"], "sub_label": "Cássia Eller", "obj_label": ["Philips Records", "Mercury Records", "Universal Music Group"], "country": ["Q155"], "size": 60580, "uuid": "P264_general_SOUTH_AMERICA_53"}
+{"sub_uri": "Q488387", "obj_uri": ["Q38903"], "sub_label": "Michel Mejía de Teló", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 60489, "uuid": "P264_general_SOUTH_AMERICA_54"}
+{"sub_uri": "Q43189", "obj_uri": ["Q38903"], "sub_label": "Juanes", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 60466, "uuid": "P264_general_SOUTH_AMERICA_55"}
+{"sub_uri": "Q265179", "obj_uri": ["Q1536003", "Q155152", "Q165745", "Q183412", "Q3964488"], "sub_label": "Rita Lee", "obj_label": ["Philips Records", "Polydor Records", "Mercury Records", "EMI", "Som Livre"], "country": ["Q155"], "size": 59973, "uuid": "P264_general_SOUTH_AMERICA_56"}
+{"sub_uri": "Q356762", "obj_uri": ["Q7969736"], "sub_label": "Miguel Bosé", "obj_label": ["Warner Music Latina"], "country": ["Q739"], "size": 59638, "uuid": "P264_general_SOUTH_AMERICA_57"}
+{"sub_uri": "Q2393742", "obj_uri": ["Q11332722", "Q38903", "Q42201"], "sub_label": "Denise Rosenthal", "obj_label": ["Feria Music", "Universal Music Group", "música independiente"], "country": ["Q298"], "size": 59323, "uuid": "P264_general_SOUTH_AMERICA_58"}
+{"sub_uri": "Q2427665", "obj_uri": ["Q1542343", "Q183412", "Q330629"], "sub_label": "Brenda Asnicar", "obj_label": ["sello discográfico independiente", "EMI", "Sony Music"], "country": ["Q414"], "size": 59151, "uuid": "P264_general_SOUTH_AMERICA_59"}
+{"sub_uri": "Q2605806", "obj_uri": ["Q20049891", "Q202585", "Q56151401", "Q98803883", "Q98806535"], "sub_label": "Chabuca Granda", "obj_label": ["Movieplay", "RCA Records", "Iempsa", "Sono Radio", "Microfon"], "country": ["Q419"], "size": 58940, "uuid": "P264_general_SOUTH_AMERICA_60"}
+{"sub_uri": "Q10373420", "obj_uri": ["Q56760250"], "sub_label": "Sophia Abrahão", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 58600, "uuid": "P264_general_SOUTH_AMERICA_61"}
+{"sub_uri": "Q59822632", "obj_uri": ["Q155152"], "sub_label": "David Corrêa", "obj_label": ["Polydor Records"], "country": ["Q155"], "size": 57887, "uuid": "P264_general_SOUTH_AMERICA_62"}
+{"sub_uri": "Q465877", "obj_uri": ["Q38903"], "sub_label": "Elis Regina", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 57838, "uuid": "P264_general_SOUTH_AMERICA_63"}
+{"sub_uri": "Q24040310", "obj_uri": ["Q3964488"], "sub_label": "Marília Mendonça", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 57102, "uuid": "P264_general_SOUTH_AMERICA_64"}
+{"sub_uri": "Q271583", "obj_uri": ["Q21077", "Q57027012"], "sub_label": "Maria Rita", "obj_label": ["Warner Music Group", "Universal Music"], "country": ["Q155"], "size": 56484, "uuid": "P264_general_SOUTH_AMERICA_65"}
+{"sub_uri": "Q235980", "obj_uri": ["Q50074604"], "sub_label": "Maria Bethânia", "obj_label": ["RCA"], "country": ["Q155"], "size": 56200, "uuid": "P264_general_SOUTH_AMERICA_66"}
+{"sub_uri": "Q523995", "obj_uri": ["Q38903"], "sub_label": "Andrés Calamaro", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 55202, "uuid": "P264_general_SOUTH_AMERICA_67"}
+{"sub_uri": "Q230499", "obj_uri": ["Q55965015"], "sub_label": "Violeta Parra", "obj_label": ["EMI"], "country": ["Q298"], "size": 55188, "uuid": "P264_general_SOUTH_AMERICA_68"}
+{"sub_uri": "Q1442690", "obj_uri": ["Q330629"], "sub_label": "Franco De Vita", "obj_label": ["Sony Music"], "country": ["Q717"], "size": 54883, "uuid": "P264_general_SOUTH_AMERICA_69"}
+{"sub_uri": "Q28007321", "obj_uri": ["Q160732", "Q2310883", "Q38903", "Q3964488"], "sub_label": "Alok", "obj_label": ["Armada Music", "Spinnin' Records", "Universal Music Group", "Som Livre"], "country": ["Q155"], "size": 54741, "uuid": "P264_general_SOUTH_AMERICA_70"}
+{"sub_uri": "Q3345475", "obj_uri": ["Q330629"], "sub_label": "Sheryl Rubio", "obj_label": ["Sony Music"], "country": ["Q717"], "size": 54741, "uuid": "P264_general_SOUTH_AMERICA_71"}
+{"sub_uri": "Q1392583", "obj_uri": ["Q1536003", "Q183387", "Q183412", "Q21077"], "sub_label": "Raul Seixas", "obj_label": ["Philips Records", "Columbia Records", "EMI", "Warner Music Group"], "country": ["Q155"], "size": 54666, "uuid": "P264_general_SOUTH_AMERICA_72"}
+{"sub_uri": "Q68735638", "obj_uri": ["Q2413243", "Q330629"], "sub_label": "Yahaira Plasencia", "obj_label": ["The Orchard", "Sony Music"], "country": ["Q419"], "size": 54312, "uuid": "P264_general_SOUTH_AMERICA_73"}
+{"sub_uri": "Q521321", "obj_uri": ["Q155152"], "sub_label": "Valeria Lynch", "obj_label": ["Polydor Records"], "country": ["Q414"], "size": 53099, "uuid": "P264_general_SOUTH_AMERICA_74"}
+{"sub_uri": "Q23803537", "obj_uri": ["Q21077"], "sub_label": "Biel", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 52649, "uuid": "P264_general_SOUTH_AMERICA_75"}
+{"sub_uri": "Q43193714", "obj_uri": ["Q56879086"], "sub_label": "Luísa Sonza", "obj_label": ["Sony Music Entertainment Brasil Ltda."], "country": ["Q155"], "size": 52635, "uuid": "P264_general_SOUTH_AMERICA_76"}
+{"sub_uri": "Q17517186", "obj_uri": ["Q330629"], "sub_label": "Maluma", "obj_label": ["Sony Music"], "country": ["Q739"], "size": 51984, "uuid": "P264_general_SOUTH_AMERICA_77"}
+{"sub_uri": "Q28950508", "obj_uri": ["Q3244698"], "sub_label": "Christopher Vélez", "obj_label": ["Sony Music Latin"], "country": ["Q736"], "size": 51962, "uuid": "P264_general_SOUTH_AMERICA_78"}
+{"sub_uri": "Q236361", "obj_uri": ["Q1536003", "Q38903"], "sub_label": "Gal Costa", "obj_label": ["Philips Records", "Universal Music Group"], "country": ["Q155"], "size": 51934, "uuid": "P264_general_SOUTH_AMERICA_79"}
+{"sub_uri": "Q96968557", "obj_uri": ["Q1308364", "Q56760250"], "sub_label": "Kalé", "obj_label": ["Fantasy Records", "Sony Music"], "country": ["Q419"], "size": 51691, "uuid": "P264_general_SOUTH_AMERICA_80"}
+{"sub_uri": "Q125133", "obj_uri": ["Q706013"], "sub_label": "Víctor Jara", "obj_label": ["Odeon"], "country": ["Q298"], "size": 51660, "uuid": "P264_general_SOUTH_AMERICA_81"}
+{"sub_uri": "Q2577277", "obj_uri": ["Q155152"], "sub_label": "Pappo", "obj_label": ["Polydor Records"], "country": ["Q414"], "size": 50918, "uuid": "P264_general_SOUTH_AMERICA_82"}
+{"sub_uri": "Q248353", "obj_uri": ["Q3001888"], "sub_label": "Silvestre Dangond", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 50333, "uuid": "P264_general_SOUTH_AMERICA_83"}
+{"sub_uri": "Q629888", "obj_uri": ["Q3244698", "Q3298975", "Q7357496", "Q7969736"], "sub_label": "Ricardo Montaner", "obj_label": ["Sony Music Latin", "EMI Latin", "Rodven Discos", "Warner Music Latina"], "country": ["Q414"], "size": 50201, "uuid": "P264_general_SOUTH_AMERICA_84"}
+{"sub_uri": "Q69821388", "obj_uri": ["Q16206954"], "sub_label": "María Becerra", "obj_label": ["300 Entertainment"], "country": ["Q414"], "size": 50127, "uuid": "P264_general_SOUTH_AMERICA_85"}
+{"sub_uri": "Q4391915", "obj_uri": ["Q103754677", "Q183412", "Q5665848"], "sub_label": "Jorge González", "obj_label": ["Música y Entretenimiento", "EMI", "Alerce, la otra música"], "country": ["Q298"], "size": 49420, "uuid": "P264_general_SOUTH_AMERICA_86"}
+{"sub_uri": "Q316508", "obj_uri": ["Q1358555"], "sub_label": "Amon Tobin", "obj_label": ["Ninja Tune"], "country": ["Q155"], "size": 48655, "uuid": "P264_general_SOUTH_AMERICA_87"}
+{"sub_uri": "Q9032896", "obj_uri": ["Q16579416"], "sub_label": "Miguel Zavaleta", "obj_label": ["Interdisc"], "country": ["Q414"], "size": 47453, "uuid": "P264_general_SOUTH_AMERICA_88"}
+{"sub_uri": "Q10323204", "obj_uri": ["Q38903"], "sub_label": "Maisa Silva", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 47088, "uuid": "P264_general_SOUTH_AMERICA_89"}
+{"sub_uri": "Q313505", "obj_uri": ["Q613837"], "sub_label": "Paul Di'Anno", "obj_label": ["Metal Mind Productions"], "country": ["Q155"], "size": 46969, "uuid": "P264_general_SOUTH_AMERICA_90"}
+{"sub_uri": "Q295233", "obj_uri": ["Q202585"], "sub_label": "John Leguizamo", "obj_label": ["RCA Records"], "country": ["Q739"], "size": 46371, "uuid": "P264_general_SOUTH_AMERICA_91"}
+{"sub_uri": "Q704160", "obj_uri": ["Q202585"], "sub_label": "Diego Torres", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 44779, "uuid": "P264_general_SOUTH_AMERICA_92"}
+{"sub_uri": "Q18379958", "obj_uri": ["Q3964488"], "sub_label": "Wesley Safadão", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 44755, "uuid": "P264_general_SOUTH_AMERICA_93"}
+{"sub_uri": "Q6024930", "obj_uri": ["Q5801600"], "sub_label": "Indio Solari", "obj_label": ["Del Cielito Records"], "country": ["Q414"], "size": 44478, "uuid": "P264_general_SOUTH_AMERICA_94"}
+{"sub_uri": "Q5248182", "obj_uri": ["Q330629"], "sub_label": "Deborah Blando", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 44173, "uuid": "P264_general_SOUTH_AMERICA_95"}
+{"sub_uri": "Q7800072", "obj_uri": ["Q56879086"], "sub_label": "Tiago Iorc", "obj_label": ["Sony Music Entertainment Brasil Ltda."], "country": ["Q155"], "size": 43673, "uuid": "P264_general_SOUTH_AMERICA_96"}
+{"sub_uri": "Q112116558", "obj_uri": ["Q56760250"], "sub_label": "MD Chefe", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 43338, "uuid": "P264_general_SOUTH_AMERICA_97"}
+{"sub_uri": "Q106192320", "obj_uri": ["Q106366384"], "sub_label": "Faraón Love Shady", "obj_label": ["Híbrido Gang Music"], "country": ["Q419"], "size": 43325, "uuid": "P264_general_SOUTH_AMERICA_98"}
+{"sub_uri": "Q4707207", "obj_uri": ["Q21077"], "sub_label": "Daniela Castillo", "obj_label": ["Warner Music Group"], "country": ["Q298"], "size": 42828, "uuid": "P264_general_SOUTH_AMERICA_99"}
+{"sub_uri": "Q160223", "obj_uri": ["Q1536003"], "sub_label": "Claudio Arrau", "obj_label": ["Philips Records"], "country": ["Q298"], "size": 42082, "uuid": "P264_general_SOUTH_AMERICA_100"}
+{"sub_uri": "Q1262590", "obj_uri": ["Q155152"], "sub_label": "Tim Maia", "obj_label": ["Polydor Records"], "country": ["Q155"], "size": 41858, "uuid": "P264_general_SOUTH_AMERICA_101"}
+{"sub_uri": "Q3324960", "obj_uri": ["Q16985955", "Q330629"], "sub_label": "Wendy Sulca", "obj_label": ["Independiente", "Sony Music"], "country": ["Q419"], "size": 41246, "uuid": "P264_general_SOUTH_AMERICA_102"}
+{"sub_uri": "Q12297196", "obj_uri": ["Q38903"], "sub_label": "Lele Pons", "obj_label": ["Universal Music Group"], "country": ["Q717"], "size": 41230, "uuid": "P264_general_SOUTH_AMERICA_103"}
+{"sub_uri": "Q17665154", "obj_uri": ["Q330629"], "sub_label": "MC Nego do Borel", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 40999, "uuid": "P264_general_SOUTH_AMERICA_104"}
+{"sub_uri": "Q19921685", "obj_uri": ["Q3964488"], "sub_label": "Lexa", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 40696, "uuid": "P264_general_SOUTH_AMERICA_105"}
+{"sub_uri": "Q287873", "obj_uri": ["Q1536003", "Q21077"], "sub_label": "Andrea del Boca", "obj_label": ["Philips Records", "Warner Music Group"], "country": ["Q414"], "size": 40208, "uuid": "P264_general_SOUTH_AMERICA_106"}
+{"sub_uri": "Q353853", "obj_uri": ["Q3964488"], "sub_label": "Luan Santana", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 40196, "uuid": "P264_general_SOUTH_AMERICA_107"}
+{"sub_uri": "Q458663", "obj_uri": ["Q796316"], "sub_label": "Beth Carvalho", "obj_label": ["BMG Rights Management"], "country": ["Q155"], "size": 40108, "uuid": "P264_general_SOUTH_AMERICA_108"}
+{"sub_uri": "Q953450", "obj_uri": ["Q6929372"], "sub_label": "Seu Jorge", "obj_label": ["Mr Bongo Records"], "country": ["Q155"], "size": 39789, "uuid": "P264_general_SOUTH_AMERICA_109"}
+{"sub_uri": "Q242408", "obj_uri": ["Q21099971"], "sub_label": "Chenoa", "obj_label": ["Alias Music"], "country": ["Q414"], "size": 39777, "uuid": "P264_general_SOUTH_AMERICA_110"}
+{"sub_uri": "Q1131864", "obj_uri": ["Q330629"], "sub_label": "Ana Carolina", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 39729, "uuid": "P264_general_SOUTH_AMERICA_111"}
+{"sub_uri": "Q742334", "obj_uri": ["Q1536003", "Q165745", "Q2535085", "Q38903", "Q662575", "Q726251"], "sub_label": "Ney Matogrosso", "obj_label": ["Philips Records", "Mercury Records", "Barclay Records", "Universal Music Group", "Ariola", "Elektra Records"], "country": ["Q155"], "size": 39210, "uuid": "P264_general_SOUTH_AMERICA_112"}
+{"sub_uri": "Q632239", "obj_uri": ["Q21077"], "sub_label": "Carlos Baute", "obj_label": ["Warner Music Group"], "country": ["Q717"], "size": 38942, "uuid": "P264_general_SOUTH_AMERICA_113"}
+{"sub_uri": "Q3382718", "obj_uri": ["Q1536003", "Q3415083", "Q61818974"], "sub_label": "Piero de Benedictis", "obj_label": ["Philips Records", "RCA Victor", "Discos CBS"], "country": ["Q414", "Q739"], "size": 38298, "uuid": "P264_general_SOUTH_AMERICA_114"}
+{"sub_uri": "Q59572124", "obj_uri": ["Q330629"], "sub_label": "Gustavo Mioto", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 37977, "uuid": "P264_general_SOUTH_AMERICA_115"}
+{"sub_uri": "Q820995", "obj_uri": ["Q1273666"], "sub_label": "Federico Ágreda", "obj_label": ["Entertainment One Music"], "country": ["Q717"], "size": 37557, "uuid": "P264_general_SOUTH_AMERICA_116"}
+{"sub_uri": "Q611736", "obj_uri": ["Q38903"], "sub_label": "MV Bill", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 36852, "uuid": "P264_general_SOUTH_AMERICA_117"}
+{"sub_uri": "Q965888", "obj_uri": ["Q3001888", "Q56760250"], "sub_label": "Carlos Vives", "obj_label": ["Sony BMG", "Sony Music"], "country": ["Q739"], "size": 36718, "uuid": "P264_general_SOUTH_AMERICA_118"}
+{"sub_uri": "Q5289736", "obj_uri": ["Q7532707"], "sub_label": "Dom La Nena", "obj_label": ["Six Degrees Records"], "country": ["Q155"], "size": 36681, "uuid": "P264_general_SOUTH_AMERICA_119"}
+{"sub_uri": "Q10382110", "obj_uri": ["Q3964488"], "sub_label": "Thiaguinho", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 36624, "uuid": "P264_general_SOUTH_AMERICA_120"}
+{"sub_uri": "Q2734092", "obj_uri": ["Q183387"], "sub_label": "Pedro Aznar", "obj_label": ["Columbia Records"], "country": ["Q414"], "size": 36453, "uuid": "P264_general_SOUTH_AMERICA_121"}
+{"sub_uri": "Q315107", "obj_uri": ["Q1316345", "Q240804", "Q6006832", "Q7135978"], "sub_label": "José González", "obj_label": ["Peacefrog Records", "Mute Records", "Imperial Recordings", "Parasol Records"], "country": ["Q414"], "size": 35927, "uuid": "P264_general_SOUTH_AMERICA_122"}
+{"sub_uri": "Q28028881", "obj_uri": ["Q3964488"], "sub_label": "Naiara Azevedo", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 35734, "uuid": "P264_general_SOUTH_AMERICA_123"}
+{"sub_uri": "Q10298875", "obj_uri": ["Q770103"], "sub_label": "Humberto Gessinger", "obj_label": ["Bertelsmann Music Group"], "country": ["Q155"], "size": 35597, "uuid": "P264_general_SOUTH_AMERICA_124"}
+{"sub_uri": "Q22001324", "obj_uri": ["Q7894020"], "sub_label": "Karol G", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q739"], "size": 35555, "uuid": "P264_general_SOUTH_AMERICA_125"}
+{"sub_uri": "Q223443", "obj_uri": ["Q1123947"], "sub_label": "Devendra Banhart", "obj_label": ["XL Recordings"], "country": ["Q717"], "size": 35275, "uuid": "P264_general_SOUTH_AMERICA_126"}
+{"sub_uri": "Q6172811", "obj_uri": ["Q21077"], "sub_label": "Álvaro Henríquez", "obj_label": ["Warner Music Group"], "country": ["Q298"], "size": 35083, "uuid": "P264_general_SOUTH_AMERICA_127"}
+{"sub_uri": "Q16337787", "obj_uri": ["Q56760250"], "sub_label": "Lucas Lucco", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 35015, "uuid": "P264_general_SOUTH_AMERICA_128"}
+{"sub_uri": "Q4123831", "obj_uri": ["Q3964488"], "sub_label": "Gaby Amarantos", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 34991, "uuid": "P264_general_SOUTH_AMERICA_129"}
+{"sub_uri": "Q20744456", "obj_uri": ["Q7894020"], "sub_label": "JC González", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q739"], "size": 34930, "uuid": "P264_general_SOUTH_AMERICA_130"}
+{"sub_uri": "Q56246495", "obj_uri": ["Q21077"], "sub_label": "Paulo Londra", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 34727, "uuid": "P264_general_SOUTH_AMERICA_131"}
+{"sub_uri": "Q5421538", "obj_uri": ["Q183412"], "sub_label": "Myriam Hernández", "obj_label": ["EMI"], "country": ["Q298"], "size": 34721, "uuid": "P264_general_SOUTH_AMERICA_132"}
+{"sub_uri": "Q982366", "obj_uri": ["Q183412"], "sub_label": "Renato Russo", "obj_label": ["EMI"], "country": ["Q155"], "size": 34631, "uuid": "P264_general_SOUTH_AMERICA_133"}
+{"sub_uri": "Q3783829", "obj_uri": ["Q330629"], "sub_label": "Mallu Magalhães", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 34439, "uuid": "P264_general_SOUTH_AMERICA_134"}
+{"sub_uri": "Q1992348", "obj_uri": ["Q50074604"], "sub_label": "Aldemaro Romero", "obj_label": ["RCA"], "country": ["Q717"], "size": 34426, "uuid": "P264_general_SOUTH_AMERICA_135"}
+{"sub_uri": "Q43148140", "obj_uri": ["Q10393219"], "sub_label": "Iza", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 34417, "uuid": "P264_general_SOUTH_AMERICA_136"}
+{"sub_uri": "Q10322333", "obj_uri": ["Q10393219"], "sub_label": "MC Guimê", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 34173, "uuid": "P264_general_SOUTH_AMERICA_137"}
+{"sub_uri": "Q69474", "obj_uri": ["Q330629"], "sub_label": "Nicole", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 34086, "uuid": "P264_general_SOUTH_AMERICA_138"}
+{"sub_uri": "Q447984", "obj_uri": ["Q10269523", "Q183412"], "sub_label": "Clara Nunes", "obj_label": ["EMI-Odeon Fonográfica, Industrial e Eletrônica S.A.", "EMI"], "country": ["Q155"], "size": 33861, "uuid": "P264_general_SOUTH_AMERICA_139"}
+{"sub_uri": "Q3779940", "obj_uri": ["Q38903"], "sub_label": "Gustavo Cordera", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 33832, "uuid": "P264_general_SOUTH_AMERICA_140"}
+{"sub_uri": "Q6496590", "obj_uri": ["Q330629"], "sub_label": "Latino", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 33592, "uuid": "P264_general_SOUTH_AMERICA_141"}
+{"sub_uri": "Q29649988", "obj_uri": ["Q7894020"], "sub_label": "Feid", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q739"], "size": 33407, "uuid": "P264_general_SOUTH_AMERICA_142"}
+{"sub_uri": "Q6301495", "obj_uri": ["Q5776074"], "sub_label": "Juancho Rois", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 33372, "uuid": "P264_general_SOUTH_AMERICA_143"}
+{"sub_uri": "Q60999530", "obj_uri": ["Q38903"], "sub_label": "Jão", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 33327, "uuid": "P264_general_SOUTH_AMERICA_144"}
+{"sub_uri": "Q2085377", "obj_uri": ["Q10356616", "Q1536003", "Q155152", "Q38903"], "sub_label": "Erasmo Carlos", "obj_label": ["RGE", "Philips Records", "Polydor Records", "Universal Music Group"], "country": ["Q155"], "size": 33297, "uuid": "P264_general_SOUTH_AMERICA_145"}
+{"sub_uri": "Q2914811", "obj_uri": ["Q2482872"], "sub_label": "Zeca Baleiro", "obj_label": ["Universal Records"], "country": ["Q155"], "size": 33111, "uuid": "P264_general_SOUTH_AMERICA_146"}
+{"sub_uri": "Q329725", "obj_uri": ["Q38903"], "sub_label": "Marcelo Rossi", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 33072, "uuid": "P264_general_SOUTH_AMERICA_147"}
+{"sub_uri": "Q2849029", "obj_uri": ["Q112280679"], "sub_label": "Lasso (cantante)", "obj_label": ["Universal Music México"], "country": ["Q717"], "size": 32606, "uuid": "P264_general_SOUTH_AMERICA_148"}
+{"sub_uri": "Q30939186", "obj_uri": ["Q38903"], "sub_label": "Bruno Martini", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 32176, "uuid": "P264_general_SOUTH_AMERICA_149"}
+{"sub_uri": "Q927877", "obj_uri": ["Q202585", "Q2093972"], "sub_label": "Oliver Sykes", "obj_label": ["RCA Records", "Visible Noise"], "country": ["Q155"], "size": 32031, "uuid": "P264_general_SOUTH_AMERICA_150"}
+{"sub_uri": "Q2684337", "obj_uri": ["Q330629"], "sub_label": "Axel", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 31940, "uuid": "P264_general_SOUTH_AMERICA_151"}
+{"sub_uri": "Q271145", "obj_uri": ["Q183387", "Q277626"], "sub_label": "María Conchita Alonso", "obj_label": ["Columbia Records", "A&M Records"], "country": ["Q717"], "size": 31908, "uuid": "P264_general_SOUTH_AMERICA_152"}
+{"sub_uri": "Q68110339", "obj_uri": ["Q3244698"], "sub_label": "Emilia Mernes", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 31828, "uuid": "P264_general_SOUTH_AMERICA_153"}
+{"sub_uri": "Q17478270", "obj_uri": ["Q7894020"], "sub_label": "Sebastián Yatra", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q739"], "size": 31703, "uuid": "P264_general_SOUTH_AMERICA_154"}
+{"sub_uri": "Q156810", "obj_uri": ["Q168407"], "sub_label": "Martha Argerich", "obj_label": ["Deutsche Grammophon"], "country": ["Q414"], "size": 31679, "uuid": "P264_general_SOUTH_AMERICA_155"}
+{"sub_uri": "Q2975472", "obj_uri": ["Q56826329"], "sub_label": "Mariana Alonso", "obj_label": ["Sony"], "country": ["Q414"], "size": 31125, "uuid": "P264_general_SOUTH_AMERICA_156"}
+{"sub_uri": "Q731775", "obj_uri": ["Q1536003"], "sub_label": "Cazuza", "obj_label": ["Philips Records"], "country": ["Q155"], "size": 31034, "uuid": "P264_general_SOUTH_AMERICA_157"}
+{"sub_uri": "Q6087185", "obj_uri": ["Q3001888"], "sub_label": "Israel Romero", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 30966, "uuid": "P264_general_SOUTH_AMERICA_158"}
+{"sub_uri": "Q960660", "obj_uri": ["Q277626"], "sub_label": "Paulinho da Costa", "obj_label": ["A&M Records"], "country": ["Q155"], "size": 30943, "uuid": "P264_general_SOUTH_AMERICA_159"}
+{"sub_uri": "Q200131", "obj_uri": ["Q1124849"], "sub_label": "Antonio Carlos Jobim", "obj_label": ["Verve Records"], "country": ["Q155"], "size": 30931, "uuid": "P264_general_SOUTH_AMERICA_160"}
+{"sub_uri": "Q3835953", "obj_uri": ["Q203059"], "sub_label": "Lobão", "obj_label": ["Virgin Records"], "country": ["Q155"], "size": 30796, "uuid": "P264_general_SOUTH_AMERICA_161"}
+{"sub_uri": "Q1275017", "obj_uri": ["Q183412"], "sub_label": "Marcelo D2", "obj_label": ["EMI"], "country": ["Q155"], "size": 30701, "uuid": "P264_general_SOUTH_AMERICA_162"}
+{"sub_uri": "Q5448553", "obj_uri": ["Q21077"], "sub_label": "Filipe Galvão", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 30408, "uuid": "P264_general_SOUTH_AMERICA_163"}
+{"sub_uri": "Q368927", "obj_uri": ["Q330629"], "sub_label": "Tania Libertad", "obj_label": ["Sony Music"], "country": ["Q419"], "size": 30393, "uuid": "P264_general_SOUTH_AMERICA_164"}
+{"sub_uri": "Q727090", "obj_uri": ["Q1327940", "Q1536003", "Q21077", "Q38903", "Q706013"], "sub_label": "Dorival Caymmi", "obj_label": ["Elenco", "Philips Records", "Warner Music Group", "Universal Music Group", "Odeon"], "country": ["Q155"], "size": 30073, "uuid": "P264_general_SOUTH_AMERICA_165"}
+{"sub_uri": "Q27306126", "obj_uri": ["Q2310883"], "sub_label": "Vintage Culture", "obj_label": ["Spinnin' Records"], "country": ["Q155"], "size": 29993, "uuid": "P264_general_SOUTH_AMERICA_166"}
+{"sub_uri": "Q659558", "obj_uri": ["Q38903"], "sub_label": "Andre Matos", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 29897, "uuid": "P264_general_SOUTH_AMERICA_167"}
+{"sub_uri": "Q203413", "obj_uri": ["Q16141191", "Q6148745"], "sub_label": "Alfredo Zitarrosa", "obj_label": ["Orfeo", "Tonal"], "country": ["Q77"], "size": 29862, "uuid": "P264_general_SOUTH_AMERICA_168"}
+{"sub_uri": "Q110492305", "obj_uri": ["Q7969736"], "sub_label": "Tiago PZK", "obj_label": ["Warner Music Latina"], "country": ["Q414"], "size": 29773, "uuid": "P264_general_SOUTH_AMERICA_169"}
+{"sub_uri": "Q6981035", "obj_uri": ["Q330629"], "sub_label": "Naty Botero", "obj_label": ["Sony Music"], "country": ["Q739"], "size": 29752, "uuid": "P264_general_SOUTH_AMERICA_170"}
+{"sub_uri": "Q460408", "obj_uri": ["Q1238400", "Q1953930"], "sub_label": "Juana Molina", "obj_label": ["Domino Records", "Crammed Discs"], "country": ["Q414"], "size": 29742, "uuid": "P264_general_SOUTH_AMERICA_171"}
+{"sub_uri": "Q17490109", "obj_uri": ["Q10393219"], "sub_label": "Lucy Alves", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 29496, "uuid": "P264_general_SOUTH_AMERICA_172"}
+{"sub_uri": "Q273614", "obj_uri": ["Q190585", "Q3298975"], "sub_label": "Soraya", "obj_label": ["Island Records", "EMI Latin"], "country": ["Q739"], "size": 29324, "uuid": "P264_general_SOUTH_AMERICA_173"}
+{"sub_uri": "Q6165467", "obj_uri": ["Q38903"], "sub_label": "Víctor Drija", "obj_label": ["Universal Music Group"], "country": ["Q717"], "size": 29286, "uuid": "P264_general_SOUTH_AMERICA_174"}
+{"sub_uri": "Q5928664", "obj_uri": ["Q3001888"], "sub_label": "Jean Carlos Centeno", "obj_label": ["Sony BMG"], "country": ["Q717"], "size": 29274, "uuid": "P264_general_SOUTH_AMERICA_175"}
+{"sub_uri": "Q465799", "obj_uri": ["Q18628"], "sub_label": "Andreas Kisser", "obj_label": ["Roadrunner Records"], "country": ["Q155"], "size": 28742, "uuid": "P264_general_SOUTH_AMERICA_176"}
+{"sub_uri": "Q6298038", "obj_uri": ["Q183412"], "sub_label": "João Barone", "obj_label": ["EMI"], "country": ["Q155"], "size": 28643, "uuid": "P264_general_SOUTH_AMERICA_177"}
+{"sub_uri": "Q64083106", "obj_uri": ["Q38903"], "sub_label": "Gabriel Diniz", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 28395, "uuid": "P264_general_SOUTH_AMERICA_178"}
+{"sub_uri": "Q6096022", "obj_uri": ["Q3634527"], "sub_label": "Ivan Busic", "obj_label": ["Baratos Afins"], "country": ["Q155"], "size": 28194, "uuid": "P264_general_SOUTH_AMERICA_179"}
+{"sub_uri": "Q160390", "obj_uri": ["Q168407"], "sub_label": "Gustavo Dudamel", "obj_label": ["Deutsche Grammophon"], "country": ["Q717"], "size": 28091, "uuid": "P264_general_SOUTH_AMERICA_180"}
+{"sub_uri": "Q46579461", "obj_uri": ["Q3964488", "Q56879086"], "sub_label": "Zé Felipe", "obj_label": ["Som Livre", "Sony Music Entertainment Brasil Ltda."], "country": ["Q155"], "size": 27867, "uuid": "P264_general_SOUTH_AMERICA_181"}
+{"sub_uri": "Q4405337", "obj_uri": ["Q10266053"], "sub_label": "Ana Paula Valadão Bessa", "obj_label": ["Diante do Trono"], "country": ["Q155"], "size": 27793, "uuid": "P264_general_SOUTH_AMERICA_182"}
+{"sub_uri": "Q939829", "obj_uri": ["Q183387"], "sub_label": "Djavan", "obj_label": ["Columbia Records"], "country": ["Q155"], "size": 27447, "uuid": "P264_general_SOUTH_AMERICA_183"}
+{"sub_uri": "Q3039180", "obj_uri": ["Q5434605", "Q706013"], "sub_label": "Marcos Valle", "obj_label": ["Far Out Recordings", "Odeon"], "country": ["Q155"], "size": 27386, "uuid": "P264_general_SOUTH_AMERICA_184"}
+{"sub_uri": "Q20830731", "obj_uri": ["Q4413456"], "sub_label": "Isabela Merced", "obj_label": ["Republic Records"], "country": ["Q419"], "size": 27319, "uuid": "P264_general_SOUTH_AMERICA_185"}
+{"sub_uri": "Q332035", "obj_uri": ["Q1536003", "Q16579416", "Q3415083", "Q56760250", "Q706013"], "sub_label": "Facundo Cabral", "obj_label": ["Philips Records", "Interdisc", "RCA Victor", "Sony Music", "Odeon"], "country": ["Q414"], "size": 27235, "uuid": "P264_general_SOUTH_AMERICA_186"}
+{"sub_uri": "Q706250", "obj_uri": ["Q19901837"], "sub_label": "Álex Acuña", "obj_label": ["Alessa Records"], "country": ["Q419"], "size": 27145, "uuid": "P264_general_SOUTH_AMERICA_187"}
+{"sub_uri": "Q4790378", "obj_uri": ["Q277626"], "sub_label": "Ariel", "obj_label": ["A&M Records"], "country": ["Q414"], "size": 27105, "uuid": "P264_general_SOUTH_AMERICA_188"}
+{"sub_uri": "Q739896", "obj_uri": ["Q160732", "Q3976523", "Q833007"], "sub_label": "Erick Morillo", "obj_label": ["Armada Music", "Subliminal Records", "Strictly Rhythm"], "country": ["Q739"], "size": 27039, "uuid": "P264_general_SOUTH_AMERICA_189"}
+{"sub_uri": "Q2756134", "obj_uri": ["Q183387", "Q216364"], "sub_label": "Zé Ramalho", "obj_label": ["Columbia Records", "Epic Records"], "country": ["Q155"], "size": 26977, "uuid": "P264_general_SOUTH_AMERICA_190"}
+{"sub_uri": "Q1398718", "obj_uri": ["Q5281702"], "sub_label": "Joe Arroyo", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 26854, "uuid": "P264_general_SOUTH_AMERICA_191"}
+{"sub_uri": "Q110855304", "obj_uri": ["Q7969736"], "sub_label": "Blessd", "obj_label": ["Warner Music Latina"], "country": ["Q739"], "size": 26772, "uuid": "P264_general_SOUTH_AMERICA_192"}
+{"sub_uri": "Q707607", "obj_uri": ["Q311439", "Q4774898"], "sub_label": "Naná Vasconcelos", "obj_label": ["ECM Records", "Antilles Records"], "country": ["Q155"], "size": 26759, "uuid": "P264_general_SOUTH_AMERICA_193"}
+{"sub_uri": "Q545519", "obj_uri": ["Q10356616"], "sub_label": "Sandra de Sá", "obj_label": ["RGE"], "country": ["Q155"], "size": 26754, "uuid": "P264_general_SOUTH_AMERICA_194"}
+{"sub_uri": "Q160427", "obj_uri": ["Q557632"], "sub_label": "Juan Diego Flórez", "obj_label": ["Decca Records"], "country": ["Q419"], "size": 26646, "uuid": "P264_general_SOUTH_AMERICA_195"}
+{"sub_uri": "Q63854269", "obj_uri": ["Q7969736"], "sub_label": "Lit Killah", "obj_label": ["Warner Music Latina"], "country": ["Q414"], "size": 26593, "uuid": "P264_general_SOUTH_AMERICA_196"}
+{"sub_uri": "Q1276919", "obj_uri": ["Q56760250"], "sub_label": "María Gabriela de Faria", "obj_label": ["Sony Music"], "country": ["Q717"], "size": 26487, "uuid": "P264_general_SOUTH_AMERICA_197"}
+{"sub_uri": "Q169565", "obj_uri": ["Q38903"], "sub_label": "Zeca Pagodinho", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 26260, "uuid": "P264_general_SOUTH_AMERICA_198"}
+{"sub_uri": "Q17490043", "obj_uri": ["Q38903"], "sub_label": "Dilsinho", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 25272, "uuid": "P264_general_SOUTH_AMERICA_199"}
+{"sub_uri": "Q16561507", "obj_uri": ["Q183387"], "sub_label": "Elsa Miranda", "obj_label": ["Columbia Records"], "country": ["Q414"], "size": 25202, "uuid": "P264_general_SOUTH_AMERICA_200"}
+{"sub_uri": "Q571260", "obj_uri": ["Q507942"], "sub_label": "Eumir Deodato", "obj_label": ["CTI Records"], "country": ["Q155"], "size": 25200, "uuid": "P264_general_SOUTH_AMERICA_201"}
+{"sub_uri": "Q3011336", "obj_uri": ["Q38903"], "sub_label": "Méndez", "obj_label": ["Universal Music Group"], "country": ["Q298"], "size": 25158, "uuid": "P264_general_SOUTH_AMERICA_202"}
+{"sub_uri": "Q409259", "obj_uri": ["Q2377408"], "sub_label": "Airto Moreira", "obj_label": ["Skye Records"], "country": ["Q155"], "size": 24907, "uuid": "P264_general_SOUTH_AMERICA_203"}
+{"sub_uri": "Q943753", "obj_uri": ["Q818134"], "sub_label": "Mitar Subotić", "obj_label": ["PGP RTB"], "country": ["Q155"], "size": 24796, "uuid": "P264_general_SOUTH_AMERICA_204"}
+{"sub_uri": "Q6797950", "obj_uri": ["Q3001888"], "sub_label": "Mayré Martínez", "obj_label": ["Sony BMG"], "country": ["Q717"], "size": 24753, "uuid": "P264_general_SOUTH_AMERICA_205"}
+{"sub_uri": "Q432243", "obj_uri": ["Q330629"], "sub_label": "Vanessa da Mata", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 24652, "uuid": "P264_general_SOUTH_AMERICA_206"}
+{"sub_uri": "Q10357009", "obj_uri": ["Q3964488"], "sub_label": "Rafael Almeida", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 24545, "uuid": "P264_general_SOUTH_AMERICA_207"}
+{"sub_uri": "Q10321962", "obj_uri": ["Q38903"], "sub_label": "Léo Santana", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 24512, "uuid": "P264_general_SOUTH_AMERICA_208"}
+{"sub_uri": "Q511646", "obj_uri": ["Q6054868", "Q6124326"], "sub_label": "Camila Moreno", "obj_label": ["Oveja Negra", "Sello Azul"], "country": ["Q298"], "size": 24290, "uuid": "P264_general_SOUTH_AMERICA_209"}
+{"sub_uri": "Q2007584", "obj_uri": ["Q7277056"], "sub_label": "Oscar D'León", "obj_label": ["RMM Records & Video"], "country": ["Q717"], "size": 24220, "uuid": "P264_general_SOUTH_AMERICA_210"}
+{"sub_uri": "Q5670628", "obj_uri": ["Q3048437"], "sub_label": "Hugo Fattoruso", "obj_label": ["Milestone Records"], "country": ["Q77"], "size": 24175, "uuid": "P264_general_SOUTH_AMERICA_211"}
+{"sub_uri": "Q5760112", "obj_uri": ["Q183412", "Q3298975"], "sub_label": "Celeste Carballo", "obj_label": ["EMI", "EMI Latin"], "country": ["Q414"], "size": 24073, "uuid": "P264_general_SOUTH_AMERICA_212"}
+{"sub_uri": "Q940848", "obj_uri": ["Q1536003"], "sub_label": "Nara Leão", "obj_label": ["Philips Records"], "country": ["Q155"], "size": 24048, "uuid": "P264_general_SOUTH_AMERICA_213"}
+{"sub_uri": "Q9290085", "obj_uri": ["Q56760250"], "sub_label": "Nicole Natalino", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 24037, "uuid": "P264_general_SOUTH_AMERICA_214"}
+{"sub_uri": "Q16231564", "obj_uri": ["Q38903"], "sub_label": "Tony Succar", "obj_label": ["Universal Music Group"], "country": ["Q419"], "size": 23991, "uuid": "P264_general_SOUTH_AMERICA_215"}
+{"sub_uri": "Q4992500", "obj_uri": ["Q183412"], "sub_label": "Emanuelle Araújo", "obj_label": ["EMI"], "country": ["Q155"], "size": 23898, "uuid": "P264_general_SOUTH_AMERICA_216"}
+{"sub_uri": "Q5109135", "obj_uri": ["Q21077"], "sub_label": "Christell", "obj_label": ["Warner Music Group"], "country": ["Q298"], "size": 23875, "uuid": "P264_general_SOUTH_AMERICA_217"}
+{"sub_uri": "Q4121114", "obj_uri": ["Q5665848"], "sub_label": "Manuel García", "obj_label": ["Alerce, la otra música"], "country": ["Q298"], "size": 23858, "uuid": "P264_general_SOUTH_AMERICA_218"}
+{"sub_uri": "Q7242108", "obj_uri": ["Q38903"], "sub_label": "Preta Gil", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 23822, "uuid": "P264_general_SOUTH_AMERICA_219"}
+{"sub_uri": "Q5548652", "obj_uri": ["Q6094434"], "sub_label": "Gepe", "obj_label": ["Quemasucabeza"], "country": ["Q298"], "size": 23817, "uuid": "P264_general_SOUTH_AMERICA_220"}
+{"sub_uri": "Q4720877", "obj_uri": ["Q21077"], "sub_label": "Alexandre Menezes", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 23816, "uuid": "P264_general_SOUTH_AMERICA_221"}
+{"sub_uri": "Q6066588", "obj_uri": ["Q183412"], "sub_label": "Patricia Sosa", "obj_label": ["EMI"], "country": ["Q414"], "size": 23455, "uuid": "P264_general_SOUTH_AMERICA_222"}
+{"sub_uri": "Q3088516", "obj_uri": ["Q1849138"], "sub_label": "Sergio Assad", "obj_label": ["Nonesuch Records"], "country": ["Q155"], "size": 23411, "uuid": "P264_general_SOUTH_AMERICA_223"}
+{"sub_uri": "Q382570", "obj_uri": ["Q5729415"], "sub_label": "Jaime Roos", "obj_label": ["Bizarro Records"], "country": ["Q77"], "size": 23382, "uuid": "P264_general_SOUTH_AMERICA_224"}
+{"sub_uri": "Q1579932", "obj_uri": ["Q183412"], "sub_label": "Melanie Fronckowiak", "obj_label": ["EMI"], "country": ["Q155"], "size": 23378, "uuid": "P264_general_SOUTH_AMERICA_225"}
+{"sub_uri": "Q3811888", "obj_uri": ["Q21077"], "sub_label": "Rodolfo Abrantes", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 23331, "uuid": "P264_general_SOUTH_AMERICA_226"}
+{"sub_uri": "Q312292", "obj_uri": ["Q466649"], "sub_label": "Tom Araya", "obj_label": ["American Recordings"], "country": ["Q298"], "size": 23242, "uuid": "P264_general_SOUTH_AMERICA_227"}
+{"sub_uri": "Q6278435", "obj_uri": ["Q56826329"], "sub_label": "Jorge Oñate", "obj_label": ["Sony"], "country": ["Q739"], "size": 23149, "uuid": "P264_general_SOUTH_AMERICA_228"}
+{"sub_uri": "Q1608138", "obj_uri": ["Q21077", "Q330629"], "sub_label": "Pedro Suárez-Vértiz", "obj_label": ["Warner Music Group", "Sony Music"], "country": ["Q419"], "size": 23135, "uuid": "P264_general_SOUTH_AMERICA_229"}
+{"sub_uri": "Q11295200", "obj_uri": ["Q1365614"], "sub_label": "Carlos Toshiki", "obj_label": ["EMI Music Japan"], "country": ["Q155"], "size": 23104, "uuid": "P264_general_SOUTH_AMERICA_230"}
+{"sub_uri": "Q1756780", "obj_uri": ["Q3001888"], "sub_label": "Gastón Dalmau", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 23080, "uuid": "P264_general_SOUTH_AMERICA_231"}
+{"sub_uri": "Q542847", "obj_uri": ["Q21077", "Q5434605", "Q843402", "Q885833"], "sub_label": "Milton Nascimento", "obj_label": ["Warner Music Group", "Far Out Recordings", "Warner Bros. Records", "Blue Note"], "country": ["Q155"], "size": 23051, "uuid": "P264_general_SOUTH_AMERICA_232"}
+{"sub_uri": "Q119015", "obj_uri": ["Q1536003", "Q190585"], "sub_label": "Jorge Ben Jor", "obj_label": ["Philips Records", "Island Records"], "country": ["Q155"], "size": 23017, "uuid": "P264_general_SOUTH_AMERICA_233"}
+{"sub_uri": "Q7154722", "obj_uri": ["Q38903"], "sub_label": "Paula Lima", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 22958, "uuid": "P264_general_SOUTH_AMERICA_234"}
+{"sub_uri": "Q10381088", "obj_uri": ["Q330629"], "sub_label": "thalles roberto", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 22944, "uuid": "P264_general_SOUTH_AMERICA_235"}
+{"sub_uri": "Q6147532", "obj_uri": ["Q183412"], "sub_label": "Tito Fernández", "obj_label": ["EMI"], "country": ["Q298"], "size": 22894, "uuid": "P264_general_SOUTH_AMERICA_236"}
+{"sub_uri": "Q10270648", "obj_uri": ["Q330629"], "sub_label": "Eduardo Costa", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 22827, "uuid": "P264_general_SOUTH_AMERICA_237"}
+{"sub_uri": "Q10261631", "obj_uri": ["Q3964488"], "sub_label": "Cristiano Araújo", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 22719, "uuid": "P264_general_SOUTH_AMERICA_238"}
+{"sub_uri": "Q3638275", "obj_uri": ["Q56760250"], "sub_label": "Benjamín Amadeo", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 22592, "uuid": "P264_general_SOUTH_AMERICA_239"}
+{"sub_uri": "Q75211884", "obj_uri": ["Q3244698"], "sub_label": "Nicki Nicole", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 22421, "uuid": "P264_general_SOUTH_AMERICA_240"}
+{"sub_uri": "Q1089237", "obj_uri": ["Q23087", "Q3639792"], "sub_label": "Chuckie", "obj_label": ["Ministry of Sound", "Big Beat Records"], "country": ["Q730"], "size": 22331, "uuid": "P264_general_SOUTH_AMERICA_241"}
+{"sub_uri": "Q2831760", "obj_uri": ["Q1536003", "Q183412", "Q9004108"], "sub_label": "Alberto Cortez", "obj_label": ["Philips Records", "EMI", "Hispavox"], "country": ["Q414"], "size": 22230, "uuid": "P264_general_SOUTH_AMERICA_242"}
+{"sub_uri": "Q716196", "obj_uri": ["Q330629"], "sub_label": "Chico Science", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 22203, "uuid": "P264_general_SOUTH_AMERICA_243"}
+{"sub_uri": "Q821004", "obj_uri": ["Q155152"], "sub_label": "Margarita Rosa de Francisco", "obj_label": ["Polydor Records"], "country": ["Q739"], "size": 22104, "uuid": "P264_general_SOUTH_AMERICA_244"}
+{"sub_uri": "Q455229", "obj_uri": ["Q3048437", "Q311439", "Q843402"], "sub_label": "Flora Purim", "obj_label": ["Milestone Records", "ECM Records", "Warner Bros. Records"], "country": ["Q155"], "size": 22003, "uuid": "P264_general_SOUTH_AMERICA_245"}
+{"sub_uri": "Q85876568", "obj_uri": ["Q10393219"], "sub_label": "Pedro Sampaio", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 21987, "uuid": "P264_general_SOUTH_AMERICA_246"}
+{"sub_uri": "Q3298424", "obj_uri": ["Q18628"], "sub_label": "Mateo Camargo", "obj_label": ["Roadrunner Records"], "country": ["Q739"], "size": 21860, "uuid": "P264_general_SOUTH_AMERICA_247"}
+{"sub_uri": "Q181536", "obj_uri": ["Q183412"], "sub_label": "Sara Tunes", "obj_label": ["EMI"], "country": ["Q739"], "size": 21820, "uuid": "P264_general_SOUTH_AMERICA_248"}
+{"sub_uri": "Q7368992", "obj_uri": ["Q183387"], "sub_label": "Rosita Quintana", "obj_label": ["Columbia Records"], "country": ["Q414"], "size": 21458, "uuid": "P264_general_SOUTH_AMERICA_249"}
+{"sub_uri": "Q307391", "obj_uri": ["Q18628"], "sub_label": "Max Cavalera", "obj_label": ["Roadrunner Records"], "country": ["Q155"], "size": 21362, "uuid": "P264_general_SOUTH_AMERICA_250"}
+{"sub_uri": "Q701257", "obj_uri": ["Q168407"], "sub_label": "Osvaldo Golijov", "obj_label": ["Deutsche Grammophon"], "country": ["Q414"], "size": 21285, "uuid": "P264_general_SOUTH_AMERICA_251"}
+{"sub_uri": "Q3049517", "obj_uri": ["Q1536003", "Q2535085"], "sub_label": "Susana Rinaldi", "obj_label": ["Philips Records", "Barclay Records"], "country": ["Q414"], "size": 21196, "uuid": "P264_general_SOUTH_AMERICA_252"}
+{"sub_uri": "Q5289753", "obj_uri": ["Q1954169"], "sub_label": "Dom Salvador", "obj_label": ["Muse Records"], "country": ["Q155"], "size": 21066, "uuid": "P264_general_SOUTH_AMERICA_253"}
+{"sub_uri": "Q10396113", "obj_uri": ["Q10267059", "Q10269523", "Q10291418", "Q330629", "Q3415083"], "sub_label": "Abelim Maria da Cunha", "obj_label": ["Discos Copacabana", "EMI-Odeon Fonográfica, Industrial e Eletrônica S.A.", "Gravações Elétricas", "Sony Music", "RCA Victor"], "country": ["Q155"], "size": 21048, "uuid": "P264_general_SOUTH_AMERICA_254"}
+{"sub_uri": "Q5290443", "obj_uri": ["Q843402"], "sub_label": "Dominguinhos", "obj_label": ["Warner Bros. Records"], "country": ["Q155"], "size": 20980, "uuid": "P264_general_SOUTH_AMERICA_255"}
+{"sub_uri": "Q954372", "obj_uri": ["Q6957268"], "sub_label": "Ana Tijoux", "obj_label": ["Nacional Records"], "country": ["Q298"], "size": 20810, "uuid": "P264_general_SOUTH_AMERICA_256"}
+{"sub_uri": "Q3084419", "obj_uri": ["Q1536003", "Q183412", "Q5434605", "Q706013"], "sub_label": "Joyce Moreno", "obj_label": ["Philips Records", "EMI", "Far Out Recordings", "Odeon"], "country": ["Q155"], "size": 20734, "uuid": "P264_general_SOUTH_AMERICA_257"}
+{"sub_uri": "Q2701997", "obj_uri": ["Q21077", "Q38903"], "sub_label": "Ed Motta", "obj_label": ["Warner Music Group", "Universal Music Group"], "country": ["Q155"], "size": 20660, "uuid": "P264_general_SOUTH_AMERICA_258"}
+{"sub_uri": "Q1336103", "obj_uri": ["Q706013"], "sub_label": "João Donato", "obj_label": ["Odeon"], "country": ["Q155"], "size": 20657, "uuid": "P264_general_SOUTH_AMERICA_259"}
+{"sub_uri": "Q460056", "obj_uri": ["Q10366548"], "sub_label": "Maria Gadú", "obj_label": ["SLAP"], "country": ["Q155"], "size": 20650, "uuid": "P264_general_SOUTH_AMERICA_260"}
+{"sub_uri": "Q2854442", "obj_uri": ["Q38903"], "sub_label": "Naela", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 20634, "uuid": "P264_general_SOUTH_AMERICA_261"}
+{"sub_uri": "Q4898166", "obj_uri": ["Q21077"], "sub_label": "Beto Cuevas", "obj_label": ["Warner Music Group"], "country": ["Q298"], "size": 20607, "uuid": "P264_general_SOUTH_AMERICA_262"}
+{"sub_uri": "Q468000", "obj_uri": ["Q7899939"], "sub_label": "Céu", "obj_label": ["Urban Jungle"], "country": ["Q155"], "size": 20538, "uuid": "P264_general_SOUTH_AMERICA_263"}
+{"sub_uri": "Q335643", "obj_uri": ["Q330629"], "sub_label": "Benjamín Rojas", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 20510, "uuid": "P264_general_SOUTH_AMERICA_264"}
+{"sub_uri": "Q5049351", "obj_uri": ["Q10322521", "Q330629"], "sub_label": "Cassiane", "obj_label": ["MK Music", "Sony Music"], "country": ["Q155"], "size": 20498, "uuid": "P264_general_SOUTH_AMERICA_265"}
+{"sub_uri": "Q962908", "obj_uri": ["Q4779433"], "sub_label": "Dick Haymes", "obj_label": ["Apex"], "country": ["Q414"], "size": 20488, "uuid": "P264_general_SOUTH_AMERICA_266"}
+{"sub_uri": "Q513668", "obj_uri": ["Q1536003"], "sub_label": "Víctor Heredia", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 20395, "uuid": "P264_general_SOUTH_AMERICA_267"}
+{"sub_uri": "Q2306490", "obj_uri": ["Q5323517"], "sub_label": "Laura Esquivel", "obj_label": ["EMI Televisa Music"], "country": ["Q414"], "size": 20296, "uuid": "P264_general_SOUTH_AMERICA_268"}
+{"sub_uri": "Q5444857", "obj_uri": ["Q843402"], "sub_label": "Fernando Martin Otero", "obj_label": ["Warner Bros. Records"], "country": ["Q414"], "size": 20268, "uuid": "P264_general_SOUTH_AMERICA_269"}
+{"sub_uri": "Q633481", "obj_uri": ["Q1124061", "Q1516254"], "sub_label": "Laurindo Almeida", "obj_label": ["Concord Records", "Pacific Jazz Records"], "country": ["Q155"], "size": 20178, "uuid": "P264_general_SOUTH_AMERICA_270"}
+{"sub_uri": "Q951998", "obj_uri": ["Q330629"], "sub_label": "Noel Schajris", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 20034, "uuid": "P264_general_SOUTH_AMERICA_271"}
+{"sub_uri": "Q7282241", "obj_uri": ["Q5776074"], "sub_label": "Rafael Orozco Maestre", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 20023, "uuid": "P264_general_SOUTH_AMERICA_272"}
+{"sub_uri": "Q63614867", "obj_uri": ["Q2830805"], "sub_label": "Aldo Parisot", "obj_label": ["Albany Records"], "country": ["Q155"], "size": 20002, "uuid": "P264_general_SOUTH_AMERICA_273"}
+{"sub_uri": "Q10317318", "obj_uri": ["Q330629"], "sub_label": "Leonardo", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 19999, "uuid": "P264_general_SOUTH_AMERICA_274"}
+{"sub_uri": "Q21733372", "obj_uri": ["Q3964488"], "sub_label": "Vanessa Jackson", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 19903, "uuid": "P264_general_SOUTH_AMERICA_275"}
+{"sub_uri": "Q469262", "obj_uri": ["Q1124061", "Q1341612", "Q183387"], "sub_label": "Charlie Byrd", "obj_label": ["Concord Records", "Savoy Records", "Columbia Records"], "country": ["Q155"], "size": 19866, "uuid": "P264_general_SOUTH_AMERICA_276"}
+{"sub_uri": "Q5256518", "obj_uri": ["Q16579416", "Q43380"], "sub_label": "Miguel Abuelo", "obj_label": ["Interdisc", "CBS"], "country": ["Q414"], "size": 19793, "uuid": "P264_general_SOUTH_AMERICA_277"}
+{"sub_uri": "Q59572129", "obj_uri": ["Q38903"], "sub_label": "Felipe Araújo", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 19761, "uuid": "P264_general_SOUTH_AMERICA_278"}
+{"sub_uri": "Q61000223", "obj_uri": ["Q38903"], "sub_label": "D'Black", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 19554, "uuid": "P264_general_SOUTH_AMERICA_279"}
+{"sub_uri": "Q943904", "obj_uri": ["Q2937480", "Q3298975", "Q56760250"], "sub_label": "Fonseca", "obj_label": ["Capitol Music Group", "EMI Latin", "Sony Music"], "country": ["Q739"], "size": 19404, "uuid": "P264_general_SOUTH_AMERICA_280"}
+{"sub_uri": "Q399890", "obj_uri": ["Q216364", "Q5985351"], "sub_label": "Eddy Grant", "obj_label": ["Epic Records", "Ice Records"], "country": ["Q734"], "size": 19394, "uuid": "P264_general_SOUTH_AMERICA_281"}
+{"sub_uri": "Q5644523", "obj_uri": ["Q3244698", "Q59455323"], "sub_label": "Camilo", "obj_label": ["Sony Music Latin", "Sony Music Colombia"], "country": ["Q739"], "size": 19370, "uuid": "P264_general_SOUTH_AMERICA_282"}
+{"sub_uri": "Q7412506", "obj_uri": ["Q216364"], "sub_label": "Samuel Rosa", "obj_label": ["Epic Records"], "country": ["Q155"], "size": 19353, "uuid": "P264_general_SOUTH_AMERICA_283"}
+{"sub_uri": "Q515533", "obj_uri": ["Q21077"], "sub_label": "Carolina La O", "obj_label": ["Warner Music Group"], "country": ["Q739"], "size": 19098, "uuid": "P264_general_SOUTH_AMERICA_284"}
+{"sub_uri": "Q7351771", "obj_uri": ["Q183412"], "sub_label": "Roberto Leal", "obj_label": ["EMI"], "country": ["Q155"], "size": 19086, "uuid": "P264_general_SOUTH_AMERICA_285"}
+{"sub_uri": "Q4723793", "obj_uri": ["Q5776074"], "sub_label": "Alfredo Gutiérrez", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 19077, "uuid": "P264_general_SOUTH_AMERICA_286"}
+{"sub_uri": "Q543506", "obj_uri": ["Q203059", "Q3030172", "Q793370"], "sub_label": "Jorge Drexler", "obj_label": ["Virgin Records", "Discos Radiactivos Organizados", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 19027, "uuid": "P264_general_SOUTH_AMERICA_287"}
+{"sub_uri": "Q984115", "obj_uri": ["Q2338889"], "sub_label": "Alain Johannes", "obj_label": ["MCA Records"], "country": ["Q298"], "size": 19001, "uuid": "P264_general_SOUTH_AMERICA_288"}
+{"sub_uri": "Q337359", "obj_uri": ["Q193023", "Q277626"], "sub_label": "Sérgio Mendes", "obj_label": ["Capitol Records", "A&M Records"], "country": ["Q155"], "size": 18988, "uuid": "P264_general_SOUTH_AMERICA_289"}
+{"sub_uri": "Q3193122", "obj_uri": ["Q3244698"], "sub_label": "Karen Bejarano", "obj_label": ["Sony Music Latin"], "country": ["Q298"], "size": 18915, "uuid": "P264_general_SOUTH_AMERICA_290"}
+{"sub_uri": "Q3306109", "obj_uri": ["Q796316"], "sub_label": "Alexandre Pires", "obj_label": ["BMG Rights Management"], "country": ["Q155"], "size": 18763, "uuid": "P264_general_SOUTH_AMERICA_291"}
+{"sub_uri": "Q5121945", "obj_uri": ["Q1476147"], "sub_label": "Ciro Pessoa", "obj_label": ["Voiceprint Records"], "country": ["Q155"], "size": 18691, "uuid": "P264_general_SOUTH_AMERICA_292"}
+{"sub_uri": "Q3107947", "obj_uri": ["Q330629"], "sub_label": "Kevin Johansen", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 18494, "uuid": "P264_general_SOUTH_AMERICA_293"}
+{"sub_uri": "Q18277472", "obj_uri": ["Q3964488"], "sub_label": "Ricardo Mariano Bijos Gomes", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 18402, "uuid": "P264_general_SOUTH_AMERICA_294"}
+{"sub_uri": "Q222974", "obj_uri": ["Q3001888"], "sub_label": "Lola Ponce", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 18397, "uuid": "P264_general_SOUTH_AMERICA_295"}
+{"sub_uri": "Q28678297", "obj_uri": ["Q10393219"], "sub_label": "Kevinho", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 18361, "uuid": "P264_general_SOUTH_AMERICA_296"}
+{"sub_uri": "Q6170824", "obj_uri": ["Q55965015"], "sub_label": "Zalo Reyes", "obj_label": ["EMI"], "country": ["Q298"], "size": 18306, "uuid": "P264_general_SOUTH_AMERICA_297"}
+{"sub_uri": "Q5654923", "obj_uri": ["Q330629"], "sub_label": "Abel Pintos", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 18248, "uuid": "P264_general_SOUTH_AMERICA_298"}
+{"sub_uri": "Q51882931", "obj_uri": ["Q10393219"], "sub_label": "Ferrugem", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 18211, "uuid": "P264_general_SOUTH_AMERICA_299"}
+{"sub_uri": "Q64692767", "obj_uri": ["Q10373394"], "sub_label": "Princesa Alba", "obj_label": ["Sony Music Chile"], "country": ["Q298"], "size": 18088, "uuid": "P264_general_SOUTH_AMERICA_300"}
+{"sub_uri": "Q5665975", "obj_uri": ["Q6957268"], "sub_label": "Álex Anwandter", "obj_label": ["Nacional Records"], "country": ["Q298"], "size": 18084, "uuid": "P264_general_SOUTH_AMERICA_301"}
+{"sub_uri": "Q16300610", "obj_uri": ["Q56760250"], "sub_label": "Felipe Peláez", "obj_label": ["Sony Music"], "country": ["Q717", "Q739"], "size": 18017, "uuid": "P264_general_SOUTH_AMERICA_302"}
+{"sub_uri": "Q2252546", "obj_uri": ["Q1954193"], "sub_label": "Eloy Fritsch", "obj_label": ["Musea"], "country": ["Q155"], "size": 18011, "uuid": "P264_general_SOUTH_AMERICA_303"}
+{"sub_uri": "Q2583119", "obj_uri": ["Q54860"], "sub_label": "Candelaria Molfese", "obj_label": ["Walt Disney Records"], "country": ["Q414"], "size": 17954, "uuid": "P264_general_SOUTH_AMERICA_304"}
+{"sub_uri": "Q152266", "obj_uri": ["Q1274618", "Q325866", "Q6694973", "Q7852625"], "sub_label": "Susana Baca", "obj_label": ["EGREM", "Real World Records", "Luaka Bop", "Tumi Music"], "country": ["Q419"], "size": 17890, "uuid": "P264_general_SOUTH_AMERICA_305"}
+{"sub_uri": "Q28466350", "obj_uri": ["Q330629"], "sub_label": "Solange Almeida", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 17794, "uuid": "P264_general_SOUTH_AMERICA_306"}
+{"sub_uri": "Q22269199", "obj_uri": ["Q330629"], "sub_label": "Victoria Bernardi", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 17653, "uuid": "P264_general_SOUTH_AMERICA_307"}
+{"sub_uri": "Q6299184", "obj_uri": ["Q183412"], "sub_label": "Juan Carlos Baglietto", "obj_label": ["EMI"], "country": ["Q414"], "size": 17461, "uuid": "P264_general_SOUTH_AMERICA_308"}
+{"sub_uri": "Q311523", "obj_uri": ["Q56760250"], "sub_label": "Américo (cantante)", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 17343, "uuid": "P264_general_SOUTH_AMERICA_309"}
+{"sub_uri": "Q961018", "obj_uri": ["Q1536003"], "sub_label": "César Isella", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 17274, "uuid": "P264_general_SOUTH_AMERICA_310"}
+{"sub_uri": "Q3811210", "obj_uri": ["Q5249282"], "sub_label": "Jullie", "obj_label": ["Deckdisc"], "country": ["Q155"], "size": 17227, "uuid": "P264_general_SOUTH_AMERICA_311"}
+{"sub_uri": "Q1118225", "obj_uri": ["Q38903"], "sub_label": "Fausto Miño", "obj_label": ["Universal Music Group"], "country": ["Q736"], "size": 17211, "uuid": "P264_general_SOUTH_AMERICA_312"}
+{"sub_uri": "Q7862113", "obj_uri": ["Q183412"], "sub_label": "Tânia Mara", "obj_label": ["EMI"], "country": ["Q155"], "size": 17205, "uuid": "P264_general_SOUTH_AMERICA_313"}
+{"sub_uri": "Q4685751", "obj_uri": ["Q700359"], "sub_label": "Adrián \"Enano\" Barilari", "obj_label": ["PolyGram"], "country": ["Q414"], "size": 17204, "uuid": "P264_general_SOUTH_AMERICA_314"}
+{"sub_uri": "Q7155120", "obj_uri": ["Q3964488"], "sub_label": "Paulinho Moska", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 17185, "uuid": "P264_general_SOUTH_AMERICA_315"}
+{"sub_uri": "Q1287147", "obj_uri": ["Q1536003"], "sub_label": "Edmundo Rivero", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 17091, "uuid": "P264_general_SOUTH_AMERICA_316"}
+{"sub_uri": "Q2141319", "obj_uri": ["Q1536003", "Q165745", "Q183412", "Q38903"], "sub_label": "Netinho", "obj_label": ["Philips Records", "Mercury Records", "EMI", "Universal Music Group"], "country": ["Q155"], "size": 17087, "uuid": "P264_general_SOUTH_AMERICA_317"}
+{"sub_uri": "Q3504775", "obj_uri": ["Q10291418", "Q10356616", "Q1536003", "Q3964488", "Q706013"], "sub_label": "Jamelão", "obj_label": ["Gravações Elétricas", "RGE", "Philips Records", "Som Livre", "Odeon"], "country": ["Q155"], "size": 17087, "uuid": "P264_general_SOUTH_AMERICA_318"}
+{"sub_uri": "Q3290634", "obj_uri": ["Q202585"], "sub_label": "Margot Loyola", "obj_label": ["RCA Records"], "country": ["Q298"], "size": 17067, "uuid": "P264_general_SOUTH_AMERICA_319"}
+{"sub_uri": "Q102184040", "obj_uri": ["Q7072315", "Q79060122"], "sub_label": "Big Tobá", "obj_label": ["OBG", "Rimas Entertainment"], "country": ["Q717"], "size": 17055, "uuid": "P264_general_SOUTH_AMERICA_320"}
+{"sub_uri": "Q2117780", "obj_uri": ["Q183412"], "sub_label": "Reginaldo Rossi", "obj_label": ["EMI"], "country": ["Q155"], "size": 17044, "uuid": "P264_general_SOUTH_AMERICA_321"}
+{"sub_uri": "Q55515354", "obj_uri": ["Q1542343"], "sub_label": "Vanessa Suárez", "obj_label": ["sello discográfico independiente"], "country": ["Q717"], "size": 16897, "uuid": "P264_general_SOUTH_AMERICA_322"}
+{"sub_uri": "Q432069", "obj_uri": ["Q109640463", "Q5665848", "Q69426967"], "sub_label": "Ángel Parra", "obj_label": ["L'Escargot", "Alerce, la otra música", "Demon"], "country": ["Q298"], "size": 16892, "uuid": "P264_general_SOUTH_AMERICA_323"}
+{"sub_uri": "Q3848053", "obj_uri": ["Q1536003", "Q165745", "Q183412", "Q38903", "Q662575"], "sub_label": "Marina Lima", "obj_label": ["Philips Records", "Mercury Records", "EMI", "Universal Music Group", "Ariola"], "country": ["Q155"], "size": 16891, "uuid": "P264_general_SOUTH_AMERICA_324"}
+{"sub_uri": "Q8069704", "obj_uri": ["Q330629"], "sub_label": "Zeta Bosio", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 16862, "uuid": "P264_general_SOUTH_AMERICA_325"}
+{"sub_uri": "Q10355696", "obj_uri": ["Q3964488"], "sub_label": "Péricles", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 16832, "uuid": "P264_general_SOUTH_AMERICA_326"}
+{"sub_uri": "Q3440329", "obj_uri": ["Q3415083", "Q3629023"], "sub_label": "Rolando Alarcón", "obj_label": ["RCA Victor", "EMI Records"], "country": ["Q298"], "size": 16828, "uuid": "P264_general_SOUTH_AMERICA_327"}
+{"sub_uri": "Q380673", "obj_uri": ["Q1536003", "Q183412", "Q706013"], "sub_label": "Osvaldo Pugliese", "obj_label": ["Philips Records", "EMI", "Odeon"], "country": ["Q414"], "size": 16744, "uuid": "P264_general_SOUTH_AMERICA_328"}
+{"sub_uri": "Q3246373", "obj_uri": ["Q202585"], "sub_label": "Jorge Mautner", "obj_label": ["RCA Records"], "country": ["Q155"], "size": 16660, "uuid": "P264_general_SOUTH_AMERICA_329"}
+{"sub_uri": "Q247293", "obj_uri": ["Q12005038", "Q1251139", "Q1881437", "Q202440", "Q2984481", "Q4051478", "Q4819829", "Q507942", "Q5144791", "Q7135347", "Q781313", "Q843402"], "sub_label": "Lalo Schifrin", "obj_label": ["Tabu", "Dot Records", "MGM Records", "Atlantic Records", "Colpix Records", "Tico Records", "Audio Fidelity", "CTI Records", "Colgems", "Paramount Records", "Palo Alto Records", "Warner Bros. Records"], "country": ["Q414"], "size": 16625, "uuid": "P264_general_SOUTH_AMERICA_330"}
+{"sub_uri": "Q23907244", "obj_uri": ["Q6132325"], "sub_label": "Diveana", "obj_label": ["Sonorodven"], "country": ["Q717"], "size": 16593, "uuid": "P264_general_SOUTH_AMERICA_331"}
+{"sub_uri": "Q7377643", "obj_uri": ["Q7357496"], "sub_label": "Rudy La Scala", "obj_label": ["Rodven Discos"], "country": ["Q717"], "size": 16572, "uuid": "P264_general_SOUTH_AMERICA_332"}
+{"sub_uri": "Q1791140", "obj_uri": ["Q183412"], "sub_label": "Herbert Vianna", "obj_label": ["EMI"], "country": ["Q155"], "size": 16518, "uuid": "P264_general_SOUTH_AMERICA_333"}
+{"sub_uri": "Q6352185", "obj_uri": ["Q3001888"], "sub_label": "Kaleth Morales Troya", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 16476, "uuid": "P264_general_SOUTH_AMERICA_334"}
+{"sub_uri": "Q938043", "obj_uri": ["Q330629", "Q7894020"], "sub_label": "Fanny Lu", "obj_label": ["Sony Music", "Universal Music Latin Entertainment"], "country": ["Q739"], "size": 16418, "uuid": "P264_general_SOUTH_AMERICA_335"}
+{"sub_uri": "Q4168161", "obj_uri": ["Q183412"], "sub_label": "Luis Jara", "obj_label": ["EMI"], "country": ["Q298"], "size": 16329, "uuid": "P264_general_SOUTH_AMERICA_336"}
+{"sub_uri": "Q16582254", "obj_uri": ["Q183412"], "sub_label": "Jorge Minissale", "obj_label": ["EMI"], "country": ["Q414"], "size": 16283, "uuid": "P264_general_SOUTH_AMERICA_337"}
+{"sub_uri": "Q5798822", "obj_uri": ["Q56760250"], "sub_label": "Daniela Herrero", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 16266, "uuid": "P264_general_SOUTH_AMERICA_338"}
+{"sub_uri": "Q1148871", "obj_uri": ["Q2297757"], "sub_label": "Cyro Baptista", "obj_label": ["Tzadik Records"], "country": ["Q155"], "size": 16241, "uuid": "P264_general_SOUTH_AMERICA_339"}
+{"sub_uri": "Q10316760", "obj_uri": ["Q159433"], "sub_label": "Leandro", "obj_label": ["3M"], "country": ["Q155"], "size": 16212, "uuid": "P264_general_SOUTH_AMERICA_340"}
+{"sub_uri": "Q7357291", "obj_uri": ["Q38903"], "sub_label": "Rodrigo Amarante", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 16180, "uuid": "P264_general_SOUTH_AMERICA_341"}
+{"sub_uri": "Q783657", "obj_uri": ["Q456999", "Q49462460", "Q557632", "Q7185509"], "sub_label": "Nelson Freire", "obj_label": ["Teldec", "CBS", "Decca Records", "Philips Classics Records"], "country": ["Q155"], "size": 16128, "uuid": "P264_general_SOUTH_AMERICA_342"}
+{"sub_uri": "Q356552", "obj_uri": ["Q1536003", "Q3415083"], "sub_label": "Ariel Ramírez", "obj_label": ["Philips Records", "RCA Victor"], "country": ["Q414"], "size": 16100, "uuid": "P264_general_SOUTH_AMERICA_343"}
+{"sub_uri": "Q2849005", "obj_uri": ["Q183412", "Q3298975"], "sub_label": "Andrés Cabas", "obj_label": ["EMI", "EMI Latin"], "country": ["Q739"], "size": 15936, "uuid": "P264_general_SOUTH_AMERICA_344"}
+{"sub_uri": "Q60332257", "obj_uri": ["Q330629"], "sub_label": "Ávine Vinny", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 15933, "uuid": "P264_general_SOUTH_AMERICA_345"}
+{"sub_uri": "Q1163000", "obj_uri": ["Q16141191", "Q5696707", "Q793370"], "sub_label": "Daniel Viglietti", "obj_label": ["Orfeo", "Antar-Telefunken", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 15933, "uuid": "P264_general_SOUTH_AMERICA_346"}
+{"sub_uri": "Q715987", "obj_uri": ["Q7532707"], "sub_label": "Lenine", "obj_label": ["Six Degrees Records"], "country": ["Q155"], "size": 15921, "uuid": "P264_general_SOUTH_AMERICA_347"}
+{"sub_uri": "Q3294445", "obj_uri": ["Q183412"], "sub_label": "Marlene", "obj_label": ["EMI"], "country": ["Q155"], "size": 15890, "uuid": "P264_general_SOUTH_AMERICA_348"}
+{"sub_uri": "Q7169164", "obj_uri": ["Q5249282"], "sub_label": "Perlla", "obj_label": ["Deckdisc"], "country": ["Q155"], "size": 15889, "uuid": "P264_general_SOUTH_AMERICA_349"}
+{"sub_uri": "Q18758429", "obj_uri": ["Q165745"], "sub_label": "Maxi Trusso", "obj_label": ["Mercury Records"], "country": ["Q414"], "size": 15880, "uuid": "P264_general_SOUTH_AMERICA_350"}
+{"sub_uri": "Q10317845", "obj_uri": ["Q183412", "Q3964488"], "sub_label": "Liah", "obj_label": ["EMI", "Som Livre"], "country": ["Q155"], "size": 15858, "uuid": "P264_general_SOUTH_AMERICA_351"}
+{"sub_uri": "Q110828565", "obj_uri": ["Q16985955"], "sub_label": "Angelo Fukuy", "obj_label": ["Independiente"], "country": ["Q419"], "size": 15836, "uuid": "P264_general_SOUTH_AMERICA_352"}
+{"sub_uri": "Q27430313", "obj_uri": ["Q27783604"], "sub_label": "Chris Leão", "obj_label": ["Hazy Records"], "country": ["Q155"], "size": 15788, "uuid": "P264_general_SOUTH_AMERICA_353"}
+{"sub_uri": "Q3779568", "obj_uri": ["Q183412"], "sub_label": "Guilherme Arantes", "obj_label": ["EMI"], "country": ["Q155"], "size": 15780, "uuid": "P264_general_SOUTH_AMERICA_354"}
+{"sub_uri": "Q5208102", "obj_uri": ["Q183412"], "sub_label": "Dado Villa-Lobos", "obj_label": ["EMI"], "country": ["Q155"], "size": 15761, "uuid": "P264_general_SOUTH_AMERICA_355"}
+{"sub_uri": "Q10320436", "obj_uri": ["Q3964488"], "sub_label": "Ludmila Ferber", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 15678, "uuid": "P264_general_SOUTH_AMERICA_356"}
+{"sub_uri": "Q10382780", "obj_uri": ["Q10393219"], "sub_label": "Tiê", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 15670, "uuid": "P264_general_SOUTH_AMERICA_357"}
+{"sub_uri": "Q16940038", "obj_uri": ["Q11173360", "Q22969159", "Q2310883"], "sub_label": "FTampa", "obj_label": ["Revealed Recordings", "Doorn Records", "Spinnin' Records"], "country": ["Q155"], "size": 15570, "uuid": "P264_general_SOUTH_AMERICA_358"}
+{"sub_uri": "Q16607902", "obj_uri": ["Q38903"], "sub_label": "Miranda", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 15548, "uuid": "P264_general_SOUTH_AMERICA_359"}
+{"sub_uri": "Q6298178", "obj_uri": ["Q3634527"], "sub_label": "João Gordo", "obj_label": ["Baratos Afins"], "country": ["Q155"], "size": 15512, "uuid": "P264_general_SOUTH_AMERICA_360"}
+{"sub_uri": "Q62028980", "obj_uri": ["Q38903"], "sub_label": "Renata Frisson", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 15436, "uuid": "P264_general_SOUTH_AMERICA_361"}
+{"sub_uri": "Q9607703", "obj_uri": ["Q706013"], "sub_label": "Aloísio de Oliveira", "obj_label": ["Odeon"], "country": ["Q155"], "size": 15434, "uuid": "P264_general_SOUTH_AMERICA_362"}
+{"sub_uri": "Q16337723", "obj_uri": ["Q38903"], "sub_label": "Karol Cândido", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 15414, "uuid": "P264_general_SOUTH_AMERICA_363"}
+{"sub_uri": "Q27886955", "obj_uri": ["Q79060122"], "sub_label": "Corina Smith", "obj_label": ["Rimas Entertainment"], "country": ["Q717"], "size": 15403, "uuid": "P264_general_SOUTH_AMERICA_364"}
+{"sub_uri": "Q6139210", "obj_uri": ["Q3629023"], "sub_label": "Tati Penna", "obj_label": ["EMI Records"], "country": ["Q298"], "size": 15393, "uuid": "P264_general_SOUTH_AMERICA_365"}
+{"sub_uri": "Q703330", "obj_uri": ["Q1536003", "Q183412", "Q3415083", "Q3964488", "Q97376611"], "sub_label": "Ivan Lins", "obj_label": ["Philips Records", "EMI", "RCA Victor", "Som Livre", "Forma"], "country": ["Q155"], "size": 15385, "uuid": "P264_general_SOUTH_AMERICA_366"}
+{"sub_uri": "Q6756556", "obj_uri": ["Q21077"], "sub_label": "Marcelo Falcão", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 15309, "uuid": "P264_general_SOUTH_AMERICA_367"}
+{"sub_uri": "Q6756517", "obj_uri": ["Q38903"], "sub_label": "Marcelo Camelo", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 15283, "uuid": "P264_general_SOUTH_AMERICA_368"}
+{"sub_uri": "Q7709056", "obj_uri": ["Q3001888"], "sub_label": "Thaeme Mariôto", "obj_label": ["Sony BMG"], "country": ["Q155"], "size": 15279, "uuid": "P264_general_SOUTH_AMERICA_369"}
+{"sub_uri": "Q28678305", "obj_uri": ["Q3964488"], "sub_label": "Zé Neto & Cristiano", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 15194, "uuid": "P264_general_SOUTH_AMERICA_370"}
+{"sub_uri": "Q8078415", "obj_uri": ["Q38903"], "sub_label": "Érica García", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 15091, "uuid": "P264_general_SOUTH_AMERICA_371"}
+{"sub_uri": "Q6696322", "obj_uri": ["Q38903"], "sub_label": "Lucas Silveira", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 14901, "uuid": "P264_general_SOUTH_AMERICA_372"}
+{"sub_uri": "Q5086366", "obj_uri": ["Q330629"], "sub_label": "Charly Alberti", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 14859, "uuid": "P264_general_SOUTH_AMERICA_373"}
+{"sub_uri": "Q115110554", "obj_uri": ["Q79060122"], "sub_label": "Pailita", "obj_label": ["Rimas Entertainment"], "country": ["Q298"], "size": 14831, "uuid": "P264_general_SOUTH_AMERICA_374"}
+{"sub_uri": "Q5963744", "obj_uri": ["Q6957268"], "sub_label": "Héctor Buitrago", "obj_label": ["Nacional Records"], "country": ["Q739"], "size": 14831, "uuid": "P264_general_SOUTH_AMERICA_375"}
+{"sub_uri": "Q981505", "obj_uri": ["Q183387"], "sub_label": "Jorge Cafrune", "obj_label": ["Columbia Records"], "country": ["Q414"], "size": 14794, "uuid": "P264_general_SOUTH_AMERICA_376"}
+{"sub_uri": "Q65166884", "obj_uri": ["Q10393219"], "sub_label": "Giulia Be", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 14789, "uuid": "P264_general_SOUTH_AMERICA_377"}
+{"sub_uri": "Q5932693", "obj_uri": ["Q5665848", "Q6054868"], "sub_label": "Joe Vasconcellos", "obj_label": ["Alerce, la otra música", "Oveja Negra"], "country": ["Q298"], "size": 14778, "uuid": "P264_general_SOUTH_AMERICA_378"}
+{"sub_uri": "Q11684146", "obj_uri": ["Q3001888"], "sub_label": "Iván Villazón", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 14692, "uuid": "P264_general_SOUTH_AMERICA_379"}
+{"sub_uri": "Q132415", "obj_uri": ["Q311439"], "sub_label": "Ricardo Villalobos", "obj_label": ["ECM Records"], "country": ["Q298"], "size": 14596, "uuid": "P264_general_SOUTH_AMERICA_380"}
+{"sub_uri": "Q983812", "obj_uri": ["Q2291171"], "sub_label": "Gabe Saporta", "obj_label": ["Decaydance Records"], "country": ["Q77"], "size": 14518, "uuid": "P264_general_SOUTH_AMERICA_381"}
+{"sub_uri": "Q274067", "obj_uri": ["Q325635"], "sub_label": "Rosita Serrano", "obj_label": ["Telefunken"], "country": ["Q298"], "size": 14449, "uuid": "P264_general_SOUTH_AMERICA_382"}
+{"sub_uri": "Q5550286", "obj_uri": ["Q231694"], "sub_label": "Gerardo", "obj_label": ["Interscope Records"], "country": ["Q736"], "size": 14408, "uuid": "P264_general_SOUTH_AMERICA_383"}
+{"sub_uri": "Q10326393", "obj_uri": ["Q3964488"], "sub_label": "Marina Elali", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 14313, "uuid": "P264_general_SOUTH_AMERICA_384"}
+{"sub_uri": "Q1718048", "obj_uri": ["Q5729415", "Q793370"], "sub_label": "Walter Bordoni", "obj_label": ["Bizarro Records", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 14230, "uuid": "P264_general_SOUTH_AMERICA_385"}
+{"sub_uri": "Q29054780", "obj_uri": ["Q5776074"], "sub_label": "Paola Jara", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 14195, "uuid": "P264_general_SOUTH_AMERICA_386"}
+{"sub_uri": "Q932925", "obj_uri": ["Q1124849", "Q1251139", "Q1536003", "Q202585", "Q706013"], "sub_label": "Luiz Bonfá", "obj_label": ["Verve Records", "Dot Records", "Philips Records", "RCA Records", "Odeon"], "country": ["Q155"], "size": 14018, "uuid": "P264_general_SOUTH_AMERICA_387"}
+{"sub_uri": "Q6743080", "obj_uri": ["Q5729415"], "sub_label": "Malena Muyala", "obj_label": ["Bizarro Records"], "country": ["Q77"], "size": 13988, "uuid": "P264_general_SOUTH_AMERICA_388"}
+{"sub_uri": "Q28677449", "obj_uri": ["Q38903"], "sub_label": "Márcia Fellipe", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 13975, "uuid": "P264_general_SOUTH_AMERICA_389"}
+{"sub_uri": "Q458840", "obj_uri": ["Q330629"], "sub_label": "Luka", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 13946, "uuid": "P264_general_SOUTH_AMERICA_390"}
+{"sub_uri": "Q3057259", "obj_uri": ["Q155152"], "sub_label": "Ernesto Cavour", "obj_label": ["Polydor Records"], "country": ["Q750"], "size": 13850, "uuid": "P264_general_SOUTH_AMERICA_391"}
+{"sub_uri": "Q17267219", "obj_uri": ["Q10366548"], "sub_label": "Silva", "obj_label": ["SLAP"], "country": ["Q155"], "size": 13737, "uuid": "P264_general_SOUTH_AMERICA_392"}
+{"sub_uri": "Q3030305", "obj_uri": ["Q700359"], "sub_label": "Raphael Rabello", "obj_label": ["PolyGram"], "country": ["Q155"], "size": 13734, "uuid": "P264_general_SOUTH_AMERICA_393"}
+{"sub_uri": "Q3078035", "obj_uri": ["Q7969736"], "sub_label": "Reykon", "obj_label": ["Warner Music Latina"], "country": ["Q739"], "size": 13725, "uuid": "P264_general_SOUTH_AMERICA_394"}
+{"sub_uri": "Q646950", "obj_uri": ["Q1809823"], "sub_label": "Valeria Baroni", "obj_label": ["Pablo Records"], "country": ["Q414"], "size": 13690, "uuid": "P264_general_SOUTH_AMERICA_395"}
+{"sub_uri": "Q6158910", "obj_uri": ["Q6124326"], "sub_label": "Valentín Trujillo", "obj_label": ["Sello Azul"], "country": ["Q298"], "size": 13617, "uuid": "P264_general_SOUTH_AMERICA_396"}
+{"sub_uri": "Q5893684", "obj_uri": ["Q5281702", "Q5776074", "Q6132299"], "sub_label": "Helenita Vargas", "obj_label": ["Discos Fuentes", "Codiscos", "Sonolux"], "country": ["Q739"], "size": 13614, "uuid": "P264_general_SOUTH_AMERICA_397"}
+{"sub_uri": "Q6076552", "obj_uri": ["Q38903"], "sub_label": "Pipe Bueno", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 13580, "uuid": "P264_general_SOUTH_AMERICA_398"}
+{"sub_uri": "Q5849246", "obj_uri": ["Q16141191", "Q793370"], "sub_label": "Estela Magnone", "obj_label": ["Orfeo", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 13547, "uuid": "P264_general_SOUTH_AMERICA_399"}
+{"sub_uri": "Q16940640", "obj_uri": ["Q38903"], "sub_label": "Rick Sollo", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 13510, "uuid": "P264_general_SOUTH_AMERICA_400"}
+{"sub_uri": "Q493832", "obj_uri": ["Q6957268"], "sub_label": "Andrea Echeverri", "obj_label": ["Nacional Records"], "country": ["Q739"], "size": 13504, "uuid": "P264_general_SOUTH_AMERICA_401"}
+{"sub_uri": "Q27671216", "obj_uri": ["Q38903"], "sub_label": "K-Bust", "obj_label": ["Universal Music Group"], "country": ["Q298"], "size": 13502, "uuid": "P264_general_SOUTH_AMERICA_402"}
+{"sub_uri": "Q3109288", "obj_uri": ["Q3001888"], "sub_label": "Jorge Celedón", "obj_label": ["Sony BMG"], "country": ["Q739"], "size": 13496, "uuid": "P264_general_SOUTH_AMERICA_403"}
+{"sub_uri": "Q5858709", "obj_uri": ["Q38903"], "sub_label": "Armandinho", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 13419, "uuid": "P264_general_SOUTH_AMERICA_404"}
+{"sub_uri": "Q17403398", "obj_uri": ["Q38903"], "sub_label": "Laura Rizzotto", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 13384, "uuid": "P264_general_SOUTH_AMERICA_405"}
+{"sub_uri": "Q5952207", "obj_uri": ["Q202585"], "sub_label": "Juan Ramón", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 13379, "uuid": "P264_general_SOUTH_AMERICA_406"}
+{"sub_uri": "Q2506085", "obj_uri": ["Q38903"], "sub_label": "Coti", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 13341, "uuid": "P264_general_SOUTH_AMERICA_407"}
+{"sub_uri": "Q6763185", "obj_uri": ["Q38903"], "sub_label": "Mariene de Castro", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 13316, "uuid": "P264_general_SOUTH_AMERICA_408"}
+{"sub_uri": "Q538810", "obj_uri": ["Q3415083"], "sub_label": "Jairo", "obj_label": ["RCA Victor"], "country": ["Q414"], "size": 13185, "uuid": "P264_general_SOUTH_AMERICA_409"}
+{"sub_uri": "Q261027", "obj_uri": ["Q5158829", "Q5259276"], "sub_label": "Eliane Elias", "obj_label": ["Concord Bicycle Music", "Denon Records"], "country": ["Q155"], "size": 13147, "uuid": "P264_general_SOUTH_AMERICA_410"}
+{"sub_uri": "Q6077732", "obj_uri": ["Q21077", "Q3700396", "Q5665848", "Q5703394"], "sub_label": "Isabel Parra", "obj_label": ["Warner Music Group", "DICAP", "Alerce, la otra música", "Arena (sello discográfico)"], "country": ["Q298"], "size": 13128, "uuid": "P264_general_SOUTH_AMERICA_411"}
+{"sub_uri": "Q4266750", "obj_uri": ["Q2141389", "Q4797610"], "sub_label": "Oscar Lopez", "obj_label": ["Jericho Beach Music", "Narada Productions"], "country": ["Q298"], "size": 13113, "uuid": "P264_general_SOUTH_AMERICA_412"}
+{"sub_uri": "Q3543761", "obj_uri": ["Q7357496"], "sub_label": "Karina", "obj_label": ["Rodven Discos"], "country": ["Q419", "Q717"], "size": 13011, "uuid": "P264_general_SOUTH_AMERICA_413"}
+{"sub_uri": "Q111425015", "obj_uri": ["Q79060122"], "sub_label": "Cristian jm", "obj_label": ["Rimas Entertainment"], "country": ["Q298"], "size": 12990, "uuid": "P264_general_SOUTH_AMERICA_414"}
+{"sub_uri": "Q2085012", "obj_uri": ["Q183412"], "sub_label": "José Augusto", "obj_label": ["EMI"], "country": ["Q155"], "size": 12972, "uuid": "P264_general_SOUTH_AMERICA_415"}
+{"sub_uri": "Q23951327", "obj_uri": ["Q202585"], "sub_label": "Iván Cruz", "obj_label": ["RCA Records"], "country": ["Q419"], "size": 12961, "uuid": "P264_general_SOUTH_AMERICA_416"}
+{"sub_uri": "Q629788", "obj_uri": ["Q1536003"], "sub_label": "Horacio Salgán", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 12958, "uuid": "P264_general_SOUTH_AMERICA_417"}
+{"sub_uri": "Q1420762", "obj_uri": ["Q1536003"], "sub_label": "Horacio Guarany", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 12945, "uuid": "P264_general_SOUTH_AMERICA_418"}
+{"sub_uri": "Q445564", "obj_uri": ["Q56826329"], "sub_label": "Coki Ramírez", "obj_label": ["Sony"], "country": ["Q414"], "size": 12935, "uuid": "P264_general_SOUTH_AMERICA_419"}
+{"sub_uri": "Q5220043", "obj_uri": ["Q330629"], "sub_label": "Danni Carlos", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 12912, "uuid": "P264_general_SOUTH_AMERICA_420"}
+{"sub_uri": "Q6038501", "obj_uri": ["Q56760250"], "sub_label": "Natalia Pastorutti", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 12908, "uuid": "P264_general_SOUTH_AMERICA_421"}
+{"sub_uri": "Q15630941", "obj_uri": ["Q183387"], "sub_label": "Margarita María de Santa Teresita Vargas Gaviria", "obj_label": ["Columbia Records"], "country": ["Q739"], "size": 12878, "uuid": "P264_general_SOUTH_AMERICA_422"}
+{"sub_uri": "Q53856313", "obj_uri": ["Q38903", "Q5665848"], "sub_label": "Amaro Labra", "obj_label": ["Universal Music Group", "Alerce, la otra música"], "country": ["Q298"], "size": 12835, "uuid": "P264_general_SOUTH_AMERICA_423"}
+{"sub_uri": "Q29479109", "obj_uri": ["Q38903"], "sub_label": "Esteman", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 12791, "uuid": "P264_general_SOUTH_AMERICA_424"}
+{"sub_uri": "Q2995040", "obj_uri": ["Q43380"], "sub_label": "Loalwa Braz", "obj_label": ["CBS"], "country": ["Q155"], "size": 12711, "uuid": "P264_general_SOUTH_AMERICA_425"}
+{"sub_uri": "Q4276787", "obj_uri": ["Q2482872"], "sub_label": "Pedro Mariano", "obj_label": ["Universal Records"], "country": ["Q155"], "size": 12690, "uuid": "P264_general_SOUTH_AMERICA_426"}
+{"sub_uri": "Q5856925", "obj_uri": ["Q111009610"], "sub_label": "Rossy War", "obj_label": ["Rosita Producciones"], "country": ["Q419"], "size": 12686, "uuid": "P264_general_SOUTH_AMERICA_427"}
+{"sub_uri": "Q59152236", "obj_uri": ["Q10393220"], "sub_label": "DrefQuila", "obj_label": ["Warner Music Chile"], "country": ["Q298"], "size": 12654, "uuid": "P264_general_SOUTH_AMERICA_428"}
+{"sub_uri": "Q65162576", "obj_uri": ["Q38903"], "sub_label": "Lauana Prado", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 12566, "uuid": "P264_general_SOUTH_AMERICA_429"}
+{"sub_uri": "Q6066606", "obj_uri": ["Q5776074"], "sub_label": "Patricia Teherán", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 12534, "uuid": "P264_general_SOUTH_AMERICA_430"}
+{"sub_uri": "Q105812925", "obj_uri": ["Q3244698"], "sub_label": "Daniel Heredia Vidal", "obj_label": ["Sony Music Latin"], "country": ["Q717"], "size": 12532, "uuid": "P264_general_SOUTH_AMERICA_431"}
+{"sub_uri": "Q87143231", "obj_uri": ["Q54860"], "sub_label": "Zé da Viola", "obj_label": ["Walt Disney Records"], "country": ["Q155"], "size": 12495, "uuid": "P264_general_SOUTH_AMERICA_432"}
+{"sub_uri": "Q16930044", "obj_uri": ["Q3415083"], "sub_label": "Dircinha Batista", "obj_label": ["RCA Victor"], "country": ["Q155"], "size": 12434, "uuid": "P264_general_SOUTH_AMERICA_433"}
+{"sub_uri": "Q60691179", "obj_uri": ["Q38903"], "sub_label": "Francinne", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 12422, "uuid": "P264_general_SOUTH_AMERICA_434"}
+{"sub_uri": "Q7967141", "obj_uri": ["Q193023"], "sub_label": "Wanda Sá", "obj_label": ["Capitol Records"], "country": ["Q155"], "size": 12356, "uuid": "P264_general_SOUTH_AMERICA_435"}
+{"sub_uri": "Q16941033", "obj_uri": ["Q216364"], "sub_label": "Virginie Boutaud", "obj_label": ["Epic Records"], "country": ["Q155"], "size": 12233, "uuid": "P264_general_SOUTH_AMERICA_436"}
+{"sub_uri": "Q16298019", "obj_uri": ["Q56760250"], "sub_label": "Carlos Alberto Elías", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 12230, "uuid": "P264_general_SOUTH_AMERICA_437"}
+{"sub_uri": "Q2133282", "obj_uri": ["Q193023"], "sub_label": "Raul de Souza", "obj_label": ["Capitol Records"], "country": ["Q155"], "size": 12159, "uuid": "P264_general_SOUTH_AMERICA_438"}
+{"sub_uri": "Q649473", "obj_uri": ["Q183412"], "sub_label": "Jorge Coulón", "obj_label": ["EMI"], "country": ["Q298"], "size": 12140, "uuid": "P264_general_SOUTH_AMERICA_439"}
+{"sub_uri": "Q5388217", "obj_uri": ["Q6176493"], "sub_label": "Ericson Alexander Molano", "obj_label": ["Jehova-Nisi Producciones"], "country": ["Q739"], "size": 12102, "uuid": "P264_general_SOUTH_AMERICA_440"}
+{"sub_uri": "Q24827206", "obj_uri": ["Q56760250"], "sub_label": "Fabián Corrales", "obj_label": ["Sony Music"], "country": ["Q739"], "size": 12002, "uuid": "P264_general_SOUTH_AMERICA_441"}
+{"sub_uri": "Q30033642", "obj_uri": ["Q183387"], "sub_label": "Guillermo Basterrechea", "obj_label": ["Columbia Records"], "country": ["Q298"], "size": 11988, "uuid": "P264_general_SOUTH_AMERICA_442"}
+{"sub_uri": "Q230401", "obj_uri": ["Q1124849", "Q700359"], "sub_label": "Astrud Gilberto", "obj_label": ["Verve Records", "PolyGram"], "country": ["Q155"], "size": 11922, "uuid": "P264_general_SOUTH_AMERICA_443"}
+{"sub_uri": "Q108870809", "obj_uri": ["Q10373394"], "sub_label": "Polimá Westcoast", "obj_label": ["Sony Music Chile"], "country": ["Q298"], "size": 11907, "uuid": "P264_general_SOUTH_AMERICA_444"}
+{"sub_uri": "Q6757167", "obj_uri": ["Q38903"], "sub_label": "Marciano Cantero", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 11891, "uuid": "P264_general_SOUTH_AMERICA_445"}
+{"sub_uri": "Q1630281", "obj_uri": ["Q3001888"], "sub_label": "Fábio Jr.", "obj_label": ["Sony BMG"], "country": ["Q155"], "size": 11850, "uuid": "P264_general_SOUTH_AMERICA_446"}
+{"sub_uri": "Q7964871", "obj_uri": ["Q1128840"], "sub_label": "Walter Franco", "obj_label": ["Continental Records"], "country": ["Q155"], "size": 11777, "uuid": "P264_general_SOUTH_AMERICA_447"}
+{"sub_uri": "Q3045300", "obj_uri": ["Q277626"], "sub_label": "Luiz Eça", "obj_label": ["A&M Records"], "country": ["Q155"], "size": 11736, "uuid": "P264_general_SOUTH_AMERICA_448"}
+{"sub_uri": "Q16302517", "obj_uri": ["Q5776074"], "sub_label": "Silvio Brito", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 11724, "uuid": "P264_general_SOUTH_AMERICA_449"}
+{"sub_uri": "Q258140", "obj_uri": ["Q1953930"], "sub_label": "Bebel Gilberto", "obj_label": ["Crammed Discs"], "country": ["Q155"], "size": 11640, "uuid": "P264_general_SOUTH_AMERICA_450"}
+{"sub_uri": "Q6170276", "obj_uri": ["Q330629", "Q700359", "Q7562162"], "sub_label": "Yordano", "obj_label": ["Sony Music", "PolyGram", "Sonográfica"], "country": ["Q717"], "size": 11635, "uuid": "P264_general_SOUTH_AMERICA_451"}
+{"sub_uri": "Q6756506", "obj_uri": ["Q706013"], "sub_label": "Marcelo Bonfá", "obj_label": ["Odeon"], "country": ["Q155"], "size": 11611, "uuid": "P264_general_SOUTH_AMERICA_452"}
+{"sub_uri": "Q2088127", "obj_uri": ["Q926632"], "sub_label": "Paulo Jr.", "obj_label": ["Cogumelo Records"], "country": ["Q155"], "size": 11610, "uuid": "P264_general_SOUTH_AMERICA_453"}
+{"sub_uri": "Q2639389", "obj_uri": ["Q2301258", "Q793370"], "sub_label": "Alberto Magnone", "obj_label": ["Sondor", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 11564, "uuid": "P264_general_SOUTH_AMERICA_454"}
+{"sub_uri": "Q373991", "obj_uri": ["Q3700396"], "sub_label": "Osvaldo Rodríguez", "obj_label": ["DICAP"], "country": ["Q298"], "size": 11555, "uuid": "P264_general_SOUTH_AMERICA_455"}
+{"sub_uri": "Q10389092", "obj_uri": ["Q216364", "Q5009264"], "sub_label": "Vange Leonel", "obj_label": ["Epic Records", "CBS Records International"], "country": ["Q155"], "size": 11534, "uuid": "P264_general_SOUTH_AMERICA_456"}
+{"sub_uri": "Q6094562", "obj_uri": ["Q3048437"], "sub_label": "Ithamara Koorax", "obj_label": ["Milestone Records"], "country": ["Q155"], "size": 11525, "uuid": "P264_general_SOUTH_AMERICA_457"}
+{"sub_uri": "Q114279907", "obj_uri": ["Q10393219"], "sub_label": "Ana Castela", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 11490, "uuid": "P264_general_SOUTH_AMERICA_458"}
+{"sub_uri": "Q1205977", "obj_uri": ["Q5306793"], "sub_label": "Lisa Ono", "obj_label": ["Dreamusic"], "country": ["Q155"], "size": 11488, "uuid": "P264_general_SOUTH_AMERICA_459"}
+{"sub_uri": "Q9070660", "obj_uri": ["Q3001888"], "sub_label": "Roque Valero de Maduro", "obj_label": ["Sony BMG"], "country": ["Q717"], "size": 11464, "uuid": "P264_general_SOUTH_AMERICA_460"}
+{"sub_uri": "Q5873762", "obj_uri": ["Q330629"], "sub_label": "Gabriela Pochinki", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 11447, "uuid": "P264_general_SOUTH_AMERICA_461"}
+{"sub_uri": "Q7915270", "obj_uri": ["Q202585"], "sub_label": "Vanusa", "obj_label": ["RCA Records"], "country": ["Q155"], "size": 11428, "uuid": "P264_general_SOUTH_AMERICA_462"}
+{"sub_uri": "Q5765402", "obj_uri": ["Q5281702"], "sub_label": "Checo Acosta x", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 11385, "uuid": "P264_general_SOUTH_AMERICA_463"}
+{"sub_uri": "Q2920425", "obj_uri": ["Q21077"], "sub_label": "Paula Toller", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 11321, "uuid": "P264_general_SOUTH_AMERICA_464"}
+{"sub_uri": "Q5665355", "obj_uri": ["Q59455323"], "sub_label": "Alejandro Palacio", "obj_label": ["Sony Music Colombia"], "country": ["Q739"], "size": 11284, "uuid": "P264_general_SOUTH_AMERICA_465"}
+{"sub_uri": "Q6131372", "obj_uri": ["Q183412"], "sub_label": "Lô Borges", "obj_label": ["EMI"], "country": ["Q155"], "size": 11269, "uuid": "P264_general_SOUTH_AMERICA_466"}
+{"sub_uri": "Q5645273", "obj_uri": ["Q311439"], "sub_label": "Hamilton de Holanda", "obj_label": ["ECM Records"], "country": ["Q155"], "size": 11242, "uuid": "P264_general_SOUTH_AMERICA_467"}
+{"sub_uri": "Q441365", "obj_uri": ["Q183412"], "sub_label": "Alberto Castillo", "obj_label": ["EMI"], "country": ["Q414"], "size": 11211, "uuid": "P264_general_SOUTH_AMERICA_468"}
+{"sub_uri": "Q5799520", "obj_uri": ["Q793370"], "sub_label": "Darío Iglesias", "obj_label": ["Ayuí / Tacuabé"], "country": ["Q77"], "size": 11128, "uuid": "P264_general_SOUTH_AMERICA_469"}
+{"sub_uri": "Q65170579", "obj_uri": ["Q38903"], "sub_label": "Gaab", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 11088, "uuid": "P264_general_SOUTH_AMERICA_470"}
+{"sub_uri": "Q10358661", "obj_uri": ["Q330629"], "sub_label": "Regis Danese", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 11037, "uuid": "P264_general_SOUTH_AMERICA_471"}
+{"sub_uri": "Q721684", "obj_uri": ["Q330629"], "sub_label": "Walter Afanasieff", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 11030, "uuid": "P264_general_SOUTH_AMERICA_472"}
+{"sub_uri": "Q88494405", "obj_uri": ["Q3244698"], "sub_label": "Tommy Portugal", "obj_label": ["Sony Music Latin"], "country": ["Q419"], "size": 11027, "uuid": "P264_general_SOUTH_AMERICA_473"}
+{"sub_uri": "Q5766598", "obj_uri": ["Q54860"], "sub_label": "Nathan Pacheco", "obj_label": ["Walt Disney Records"], "country": ["Q155"], "size": 11025, "uuid": "P264_general_SOUTH_AMERICA_474"}
+{"sub_uri": "Q2336048", "obj_uri": ["Q3415083"], "sub_label": "Zé Rodrix", "obj_label": ["RCA Victor"], "country": ["Q155"], "size": 10991, "uuid": "P264_general_SOUTH_AMERICA_475"}
+{"sub_uri": "Q920977", "obj_uri": ["Q1130708", "Q1275949", "Q1524530"], "sub_label": "Gato Barbieri", "obj_label": ["Flying Dutchman Records", "ESP-Disk", "Impulse! Records"], "country": ["Q414"], "size": 10982, "uuid": "P264_general_SOUTH_AMERICA_476"}
+{"sub_uri": "Q2416191", "obj_uri": ["Q56826329"], "sub_label": "Nicolás Riera (un caño)", "obj_label": ["Sony"], "country": ["Q414"], "size": 10951, "uuid": "P264_general_SOUTH_AMERICA_477"}
+{"sub_uri": "Q8471010", "obj_uri": ["Q292128"], "sub_label": "Diego Valdez", "obj_label": ["AFM Records"], "country": ["Q414"], "size": 10936, "uuid": "P264_general_SOUTH_AMERICA_478"}
+{"sub_uri": "Q7454247", "obj_uri": ["Q3001888"], "sub_label": "Sergio Fachelli", "obj_label": ["Sony BMG"], "country": ["Q77"], "size": 10930, "uuid": "P264_general_SOUTH_AMERICA_479"}
+{"sub_uri": "Q963412", "obj_uri": ["Q3001888"], "sub_label": "Toni Garrido", "obj_label": ["Sony BMG"], "country": ["Q155"], "size": 10929, "uuid": "P264_general_SOUTH_AMERICA_480"}
+{"sub_uri": "Q5555369", "obj_uri": ["Q56151401", "Q98803883"], "sub_label": "Alicia Maguiña", "obj_label": ["Iempsa", "Sono Radio"], "country": ["Q419"], "size": 10924, "uuid": "P264_general_SOUTH_AMERICA_481"}
+{"sub_uri": "Q17274882", "obj_uri": ["Q202585"], "sub_label": "Horacio Villafañe", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 10888, "uuid": "P264_general_SOUTH_AMERICA_482"}
+{"sub_uri": "Q5065421", "obj_uri": ["Q700359"], "sub_label": "César Camargo Mariano", "obj_label": ["PolyGram"], "country": ["Q155"], "size": 10876, "uuid": "P264_general_SOUTH_AMERICA_483"}
+{"sub_uri": "Q3560818", "obj_uri": ["Q21077"], "sub_label": "Roger Moreira", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 10814, "uuid": "P264_general_SOUTH_AMERICA_484"}
+{"sub_uri": "Q1375576", "obj_uri": ["Q6694973"], "sub_label": "Tom Zé", "obj_label": ["Luaka Bop"], "country": ["Q155"], "size": 10785, "uuid": "P264_general_SOUTH_AMERICA_485"}
+{"sub_uri": "Q85875452", "obj_uri": ["Q107349545", "Q25438808"], "sub_label": "Matuê", "obj_label": ["30praum", "Sony Music Brasil"], "country": ["Q155"], "size": 10776, "uuid": "P264_general_SOUTH_AMERICA_486"}
+{"sub_uri": "Q111302637", "obj_uri": ["Q10393219"], "sub_label": "L7nnon", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 10770, "uuid": "P264_general_SOUTH_AMERICA_487"}
+{"sub_uri": "Q302757", "obj_uri": ["Q127855"], "sub_label": "Badi Assad", "obj_label": ["Chesky Records"], "country": ["Q155"], "size": 10766, "uuid": "P264_general_SOUTH_AMERICA_488"}
+{"sub_uri": "Q5340619", "obj_uri": ["Q3001888"], "sub_label": "Eduardo Gatti", "obj_label": ["Sony BMG"], "country": ["Q298"], "size": 10707, "uuid": "P264_general_SOUTH_AMERICA_489"}
+{"sub_uri": "Q201459", "obj_uri": ["Q18628"], "sub_label": "Igor Pablo Cavalera", "obj_label": ["Roadrunner Records"], "country": ["Q155"], "size": 10701, "uuid": "P264_general_SOUTH_AMERICA_490"}
+{"sub_uri": "Q1773202", "obj_uri": ["Q183412"], "sub_label": "Horacio Salinas", "obj_label": ["EMI"], "country": ["Q298"], "size": 10699, "uuid": "P264_general_SOUTH_AMERICA_491"}
+{"sub_uri": "Q3045270", "obj_uri": ["Q121698"], "sub_label": "Jean Dolabella", "obj_label": ["J Records"], "country": ["Q155"], "size": 10684, "uuid": "P264_general_SOUTH_AMERICA_492"}
+{"sub_uri": "Q542639", "obj_uri": ["Q1536003"], "sub_label": "Jaime Torres", "obj_label": ["Philips Records"], "country": ["Q414"], "size": 10676, "uuid": "P264_general_SOUTH_AMERICA_493"}
+{"sub_uri": "Q6948182", "obj_uri": ["Q3001888"], "sub_label": "Virginia da Cunha", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 10659, "uuid": "P264_general_SOUTH_AMERICA_494"}
+{"sub_uri": "Q5406325", "obj_uri": ["Q3001888"], "sub_label": "Iván Noble", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 10647, "uuid": "P264_general_SOUTH_AMERICA_495"}
+{"sub_uri": "Q9668115", "obj_uri": ["Q10393219"], "sub_label": "Buchecha", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 10535, "uuid": "P264_general_SOUTH_AMERICA_496"}
+{"sub_uri": "Q556980", "obj_uri": ["Q155152", "Q183387", "Q9004108"], "sub_label": "Waldo de los Ríos", "obj_label": ["Polydor Records", "Columbia Records", "Hispavox"], "country": ["Q414"], "size": 10489, "uuid": "P264_general_SOUTH_AMERICA_497"}
+{"sub_uri": "Q2474993", "obj_uri": ["Q3244698"], "sub_label": "Vicentico", "obj_label": ["Sony Music Latin"], "country": ["Q414"], "size": 10428, "uuid": "P264_general_SOUTH_AMERICA_498"}
+{"sub_uri": "Q6696863", "obj_uri": ["Q183412"], "sub_label": "Luciano Pereyra", "obj_label": ["EMI"], "country": ["Q414"], "size": 10422, "uuid": "P264_general_SOUTH_AMERICA_499"}
+{"sub_uri": "Q983074", "obj_uri": ["Q1536003"], "sub_label": "Toquinho", "obj_label": ["Philips Records"], "country": ["Q155"], "size": 10376, "uuid": "P264_general_SOUTH_AMERICA_500"}
+{"sub_uri": "Q25936114", "obj_uri": ["Q1163942", "Q1630451"], "sub_label": "S.P.Y.", "obj_label": ["Metalheadz", "Hospital Records"], "country": ["Q155"], "size": 10375, "uuid": "P264_general_SOUTH_AMERICA_501"}
+{"sub_uri": "Q51048795", "obj_uri": ["Q5776074"], "sub_label": "Wolfine", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 10364, "uuid": "P264_general_SOUTH_AMERICA_502"}
+{"sub_uri": "Q3031477", "obj_uri": ["Q3048437"], "sub_label": "Paulo Moura", "obj_label": ["Milestone Records"], "country": ["Q155"], "size": 10356, "uuid": "P264_general_SOUTH_AMERICA_503"}
+{"sub_uri": "Q6056180", "obj_uri": ["Q7357496"], "sub_label": "Pablo Manavello", "obj_label": ["Rodven Discos"], "country": ["Q717"], "size": 10316, "uuid": "P264_general_SOUTH_AMERICA_504"}
+{"sub_uri": "Q2013857", "obj_uri": ["Q7562453"], "sub_label": "Octavio Brunetti", "obj_label": ["Sony Classical"], "country": ["Q414"], "size": 10286, "uuid": "P264_general_SOUTH_AMERICA_505"}
+{"sub_uri": "Q5297751", "obj_uri": ["Q39663264", "Q5434605", "Q726251"], "sub_label": "Dori Caymmi", "obj_label": ["MusicTaste", "Far Out Recordings", "Elektra Records"], "country": ["Q155"], "size": 10285, "uuid": "P264_general_SOUTH_AMERICA_506"}
+{"sub_uri": "Q9631400", "obj_uri": ["Q5434605", "Q61810714"], "sub_label": "Arthur Verocai", "obj_label": ["Far Out Recordings", "Continental"], "country": ["Q155"], "size": 10284, "uuid": "P264_general_SOUTH_AMERICA_507"}
+{"sub_uri": "Q5551605", "obj_uri": ["Q3415083"], "sub_label": "Pedro Messone", "obj_label": ["RCA Victor"], "country": ["Q298"], "size": 10276, "uuid": "P264_general_SOUTH_AMERICA_508"}
+{"sub_uri": "Q599257", "obj_uri": ["Q311439"], "sub_label": "Dominic Miller", "obj_label": ["ECM Records"], "country": ["Q414"], "size": 10215, "uuid": "P264_general_SOUTH_AMERICA_509"}
+{"sub_uri": "Q6301636", "obj_uri": ["Q6741255"], "sub_label": "Juarez Moreira", "obj_label": ["Malandro Records"], "country": ["Q155"], "size": 10181, "uuid": "P264_general_SOUTH_AMERICA_510"}
+{"sub_uri": "Q14702168", "obj_uri": ["Q183412"], "sub_label": "Ilona", "obj_label": ["EMI"], "country": ["Q739"], "size": 10180, "uuid": "P264_general_SOUTH_AMERICA_511"}
+{"sub_uri": "Q4751813", "obj_uri": ["Q330629"], "sub_label": "Anasol", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 10078, "uuid": "P264_general_SOUTH_AMERICA_512"}
+{"sub_uri": "Q974754", "obj_uri": ["Q183412"], "sub_label": "Rodolfo Biagi", "obj_label": ["EMI"], "country": ["Q414"], "size": 10063, "uuid": "P264_general_SOUTH_AMERICA_513"}
+{"sub_uri": "Q85878768", "obj_uri": ["Q38903"], "sub_label": "Vitão", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 10060, "uuid": "P264_general_SOUTH_AMERICA_514"}
+{"sub_uri": "Q2545776", "obj_uri": ["Q330629"], "sub_label": "Marcela Morelo", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 10040, "uuid": "P264_general_SOUTH_AMERICA_515"}
+{"sub_uri": "Q61635864", "obj_uri": ["Q56760250"], "sub_label": "Legarda", "obj_label": ["Sony Music"], "country": ["Q739"], "size": 10029, "uuid": "P264_general_SOUTH_AMERICA_516"}
+{"sub_uri": "Q9021472", "obj_uri": ["Q3233924"], "sub_label": "Leo Dan", "obj_label": ["CBS Records"], "country": ["Q414"], "size": 10029, "uuid": "P264_general_SOUTH_AMERICA_517"}
+{"sub_uri": "Q5983183", "obj_uri": ["Q1536003"], "sub_label": "Luis Dimas", "obj_label": ["Philips Records"], "country": ["Q298"], "size": 10027, "uuid": "P264_general_SOUTH_AMERICA_518"}
+{"sub_uri": "Q3719789", "obj_uri": ["Q38903"], "sub_label": "Eduardo Dussek", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 10024, "uuid": "P264_general_SOUTH_AMERICA_519"}
+{"sub_uri": "Q457016", "obj_uri": ["Q193023"], "sub_label": "Pablo Ruiz", "obj_label": ["Capitol Records"], "country": ["Q414"], "size": 10019, "uuid": "P264_general_SOUTH_AMERICA_520"}
+{"sub_uri": "Q96966518", "obj_uri": ["Q56151401"], "sub_label": "Antonio Cartagena", "obj_label": ["Iempsa"], "country": ["Q419"], "size": 9910, "uuid": "P264_general_SOUTH_AMERICA_521"}
+{"sub_uri": "Q30914969", "obj_uri": ["Q5281702"], "sub_label": "Luifer Cuello", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 9878, "uuid": "P264_general_SOUTH_AMERICA_522"}
+{"sub_uri": "Q6701090", "obj_uri": ["Q1124849"], "sub_label": "Luis Salinas", "obj_label": ["Verve Records"], "country": ["Q414"], "size": 9869, "uuid": "P264_general_SOUTH_AMERICA_523"}
+{"sub_uri": "Q18669743", "obj_uri": ["Q6132299"], "sub_label": "Noel Petro", "obj_label": ["Sonolux"], "country": ["Q739"], "size": 9866, "uuid": "P264_general_SOUTH_AMERICA_524"}
+{"sub_uri": "Q6403862", "obj_uri": ["Q7357496"], "sub_label": "Kiara", "obj_label": ["Rodven Discos"], "country": ["Q717"], "size": 9864, "uuid": "P264_general_SOUTH_AMERICA_525"}
+{"sub_uri": "Q8023260", "obj_uri": ["Q5434605"], "sub_label": "Wilson das Neves", "obj_label": ["Far Out Recordings"], "country": ["Q155"], "size": 9817, "uuid": "P264_general_SOUTH_AMERICA_526"}
+{"sub_uri": "Q6694805", "obj_uri": ["Q3964488"], "sub_label": "Lu Alone", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 9810, "uuid": "P264_general_SOUTH_AMERICA_527"}
+{"sub_uri": "Q3163173", "obj_uri": ["Q1191537"], "sub_label": "Javier Andrés Weyler", "obj_label": ["V2"], "country": ["Q414"], "size": 9807, "uuid": "P264_general_SOUTH_AMERICA_528"}
+{"sub_uri": "Q5906337", "obj_uri": ["Q183412"], "sub_label": "Héctor Pavez", "obj_label": ["EMI"], "country": ["Q298"], "size": 9766, "uuid": "P264_general_SOUTH_AMERICA_529"}
+{"sub_uri": "Q110875025", "obj_uri": ["Q109499978"], "sub_label": "Mauricio Rosero", "obj_label": ["M2 Studios"], "country": ["Q739"], "size": 9740, "uuid": "P264_general_SOUTH_AMERICA_530"}
+{"sub_uri": "Q1042901", "obj_uri": ["Q127855"], "sub_label": "Carlos Franzetti", "obj_label": ["Chesky Records"], "country": ["Q414"], "size": 9737, "uuid": "P264_general_SOUTH_AMERICA_531"}
+{"sub_uri": "Q441917", "obj_uri": ["Q155152"], "sub_label": "Laava", "obj_label": ["Polydor Records"], "country": ["Q155"], "size": 9717, "uuid": "P264_general_SOUTH_AMERICA_532"}
+{"sub_uri": "Q64831316", "obj_uri": ["Q330629"], "sub_label": "Yasmin Santos", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 9682, "uuid": "P264_general_SOUTH_AMERICA_533"}
+{"sub_uri": "Q1089193", "obj_uri": ["Q1536003", "Q183387"], "sub_label": "Jair Rodrigues", "obj_label": ["Philips Records", "Columbia Records"], "country": ["Q155"], "size": 9672, "uuid": "P264_general_SOUTH_AMERICA_534"}
+{"sub_uri": "Q9614654", "obj_uri": ["Q10266053"], "sub_label": "André Valadão", "obj_label": ["Diante do Trono"], "country": ["Q155"], "size": 9668, "uuid": "P264_general_SOUTH_AMERICA_535"}
+{"sub_uri": "Q6039715", "obj_uri": ["Q17478029"], "sub_label": "Nelson Velásquez", "obj_label": ["FM Discos y Cintas"], "country": ["Q739"], "size": 9662, "uuid": "P264_general_SOUTH_AMERICA_536"}
+{"sub_uri": "Q16605580", "obj_uri": ["Q56760250", "Q5776074"], "sub_label": "Mauro Castillo", "obj_label": ["Sony Music", "Codiscos"], "country": ["Q739"], "size": 9641, "uuid": "P264_general_SOUTH_AMERICA_537"}
+{"sub_uri": "Q266268", "obj_uri": ["Q1308364"], "sub_label": "Bola Sete", "obj_label": ["Fantasy Records"], "country": ["Q155"], "size": 9551, "uuid": "P264_general_SOUTH_AMERICA_538"}
+{"sub_uri": "Q5553507", "obj_uri": ["Q202585"], "sub_label": "Gervasio", "obj_label": ["RCA Records"], "country": ["Q298"], "size": 9531, "uuid": "P264_general_SOUTH_AMERICA_539"}
+{"sub_uri": "Q5444856", "obj_uri": ["Q21077"], "sub_label": "Fernando Osorio", "obj_label": ["Warner Music Group"], "country": ["Q717"], "size": 9514, "uuid": "P264_general_SOUTH_AMERICA_540"}
+{"sub_uri": "Q3663574", "obj_uri": ["Q5685006"], "sub_label": "Claudio O'Connor", "obj_label": ["Radio Trípoli Discos"], "country": ["Q414"], "size": 9496, "uuid": "P264_general_SOUTH_AMERICA_541"}
+{"sub_uri": "Q4026002", "obj_uri": ["Q202440"], "sub_label": "Danny Peyronel", "obj_label": ["Atlantic Records"], "country": ["Q414"], "size": 9486, "uuid": "P264_general_SOUTH_AMERICA_542"}
+{"sub_uri": "Q10269144", "obj_uri": ["Q3001888", "Q3964488"], "sub_label": "Durval Lélys", "obj_label": ["Sony BMG", "Som Livre"], "country": ["Q155"], "size": 9479, "uuid": "P264_general_SOUTH_AMERICA_543"}
+{"sub_uri": "Q6278739", "obj_uri": ["Q7824625"], "sub_label": "Jorge Villamizar", "obj_label": ["Top Stop Music"], "country": ["Q739"], "size": 9470, "uuid": "P264_general_SOUTH_AMERICA_544"}
+{"sub_uri": "Q3023229", "obj_uri": ["Q59455323"], "sub_label": "Maía", "obj_label": ["Sony Music Colombia"], "country": ["Q739"], "size": 9417, "uuid": "P264_general_SOUTH_AMERICA_545"}
+{"sub_uri": "Q20048170", "obj_uri": ["Q10350954", "Q8045845"], "sub_label": "Luedji Luna", "obj_label": ["Polysom", "YB Music"], "country": ["Q155"], "size": 9358, "uuid": "P264_general_SOUTH_AMERICA_546"}
+{"sub_uri": "Q6050485", "obj_uri": ["Q5776074"], "sub_label": "Omar Geles", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 9338, "uuid": "P264_general_SOUTH_AMERICA_547"}
+{"sub_uri": "Q3120547", "obj_uri": ["Q7357496"], "sub_label": "Guillermo Dávila", "obj_label": ["Rodven Discos"], "country": ["Q717"], "size": 9335, "uuid": "P264_general_SOUTH_AMERICA_548"}
+{"sub_uri": "Q104766284", "obj_uri": ["Q7072755"], "sub_label": "Nissa", "obj_label": ["ONErpm"], "country": ["Q414"], "size": 9295, "uuid": "P264_general_SOUTH_AMERICA_549"}
+{"sub_uri": "Q509148", "obj_uri": ["Q7562453"], "sub_label": "Sol Gabetta", "obj_label": ["Sony Classical"], "country": ["Q414"], "size": 9291, "uuid": "P264_general_SOUTH_AMERICA_550"}
+{"sub_uri": "Q16326199", "obj_uri": ["Q1203101", "Q1536003", "Q7101704"], "sub_label": "Dinorah Varsi", "obj_label": ["Deutsche Harmonia Mundi", "Philips Records", "Orfeo"], "country": ["Q77"], "size": 9289, "uuid": "P264_general_SOUTH_AMERICA_551"}
+{"sub_uri": "Q10264130", "obj_uri": ["Q216364"], "sub_label": "Dany Roland", "obj_label": ["Epic Records"], "country": ["Q414"], "size": 9273, "uuid": "P264_general_SOUTH_AMERICA_552"}
+{"sub_uri": "Q99619772", "obj_uri": ["Q3244698"], "sub_label": "Harry Nach", "obj_label": ["Sony Music Latin"], "country": ["Q298"], "size": 9260, "uuid": "P264_general_SOUTH_AMERICA_553"}
+{"sub_uri": "Q455875", "obj_uri": ["Q1842004"], "sub_label": "Luciana Souza", "obj_label": ["Sunnyside Records"], "country": ["Q155"], "size": 9233, "uuid": "P264_general_SOUTH_AMERICA_554"}
+{"sub_uri": "Q4685820", "obj_uri": ["Q56760250"], "sub_label": "Adryana Ribeiro", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 9232, "uuid": "P264_general_SOUTH_AMERICA_555"}
+{"sub_uri": "Q5740246", "obj_uri": ["Q5776074"], "sub_label": "Calixto Ochoa", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 9205, "uuid": "P264_general_SOUTH_AMERICA_556"}
+{"sub_uri": "Q16942083", "obj_uri": ["Q183412"], "sub_label": "Guillermo Novellis", "obj_label": ["EMI"], "country": ["Q414"], "size": 9201, "uuid": "P264_general_SOUTH_AMERICA_557"}
+{"sub_uri": "Q5941297", "obj_uri": ["Q21077"], "sub_label": "José Luis Fernández", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 9189, "uuid": "P264_general_SOUTH_AMERICA_558"}
+{"sub_uri": "Q5186350", "obj_uri": ["Q3045977"], "sub_label": "Cristina Gallardo-Domâs", "obj_label": ["EMI Classics"], "country": ["Q298"], "size": 9188, "uuid": "P264_general_SOUTH_AMERICA_559"}
+{"sub_uri": "Q4712244", "obj_uri": ["Q19649805"], "sub_label": "Alberto Zamarbide", "obj_label": ["Umbral Discos"], "country": ["Q414"], "size": 9172, "uuid": "P264_general_SOUTH_AMERICA_560"}
+{"sub_uri": "Q17490106", "obj_uri": ["Q3964488"], "sub_label": "Léo Maia", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 9130, "uuid": "P264_general_SOUTH_AMERICA_561"}
+{"sub_uri": "Q2399270", "obj_uri": ["Q5776074"], "sub_label": "Emiliano Zuleta Baquero", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 9123, "uuid": "P264_general_SOUTH_AMERICA_562"}
+{"sub_uri": "Q28145558", "obj_uri": ["Q38903"], "sub_label": "Mano Walter", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 9093, "uuid": "P264_general_SOUTH_AMERICA_563"}
+{"sub_uri": "Q726092", "obj_uri": ["Q6957268"], "sub_label": "Fidel Nadal", "obj_label": ["Nacional Records"], "country": ["Q414"], "size": 9073, "uuid": "P264_general_SOUTH_AMERICA_564"}
+{"sub_uri": "Q3780177", "obj_uri": ["Q1536003", "Q202585"], "sub_label": "Nicomedes Santa Cruz Gamarra", "obj_label": ["Philips Records", "RCA Records"], "country": ["Q419"], "size": 9009, "uuid": "P264_general_SOUTH_AMERICA_565"}
+{"sub_uri": "Q20873214", "obj_uri": ["Q330629"], "sub_label": "Miss Bolivia", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 8903, "uuid": "P264_general_SOUTH_AMERICA_566"}
+{"sub_uri": "Q4766127", "obj_uri": ["Q4897219", "Q66717800"], "sub_label": "Anla Courtis", "obj_label": ["Beta-lactam Ring Records", "Fruits de Mer Records"], "country": ["Q414"], "size": 8883, "uuid": "P264_general_SOUTH_AMERICA_567"}
+{"sub_uri": "Q47316925", "obj_uri": ["Q35730670"], "sub_label": "Michelle Andrade", "obj_label": ["Mozgi Entertainment"], "country": ["Q750"], "size": 8864, "uuid": "P264_general_SOUTH_AMERICA_568"}
+{"sub_uri": "Q9053975", "obj_uri": ["Q11332722", "Q183412", "Q56760250", "Q700359"], "sub_label": "Pablo Herrera", "obj_label": ["Feria Music", "EMI", "Sony Music", "PolyGram"], "country": ["Q298"], "size": 8856, "uuid": "P264_general_SOUTH_AMERICA_569"}
+{"sub_uri": "Q6171023", "obj_uri": ["Q7969736"], "sub_label": "Zaturno", "obj_label": ["Warner Music Latina"], "country": ["Q298"], "size": 8855, "uuid": "P264_general_SOUTH_AMERICA_570"}
+{"sub_uri": "Q1576145", "obj_uri": ["Q5281702"], "sub_label": "Pastor López", "obj_label": ["Discos Fuentes"], "country": ["Q717", "Q739"], "size": 8803, "uuid": "P264_general_SOUTH_AMERICA_571"}
+{"sub_uri": "Q8353804", "obj_uri": ["Q38903", "Q56760250"], "sub_label": "Dante Spinetta", "obj_label": ["Universal Music Group", "Sony Music"], "country": ["Q414"], "size": 8795, "uuid": "P264_general_SOUTH_AMERICA_572"}
+{"sub_uri": "Q7923125", "obj_uri": ["Q3298975"], "sub_label": "Verónica Orozco", "obj_label": ["EMI Latin"], "country": ["Q739"], "size": 8790, "uuid": "P264_general_SOUTH_AMERICA_573"}
+{"sub_uri": "Q19601693", "obj_uri": ["Q2301258"], "sub_label": "Fabián Delgado", "obj_label": ["Sondor"], "country": ["Q77"], "size": 8781, "uuid": "P264_general_SOUTH_AMERICA_574"}
+{"sub_uri": "Q18278275", "obj_uri": ["Q3964488"], "sub_label": "Raphael Calux Munhoz Pinheiro", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 8764, "uuid": "P264_general_SOUTH_AMERICA_575"}
+{"sub_uri": "Q5649508", "obj_uri": ["Q54860"], "sub_label": "Facundo Gambandé", "obj_label": ["Walt Disney Records"], "country": ["Q414"], "size": 8761, "uuid": "P264_general_SOUTH_AMERICA_576"}
+{"sub_uri": "Q21183645", "obj_uri": ["Q38903"], "sub_label": "Ulises Eyherabide", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 8727, "uuid": "P264_general_SOUTH_AMERICA_577"}
+{"sub_uri": "Q3317553", "obj_uri": ["Q885833"], "sub_label": "Moacir Santos", "obj_label": ["Blue Note"], "country": ["Q155"], "size": 8717, "uuid": "P264_general_SOUTH_AMERICA_578"}
+{"sub_uri": "Q3051253", "obj_uri": ["Q926632"], "sub_label": "Wagner Lamounier", "obj_label": ["Cogumelo Records"], "country": ["Q155"], "size": 8697, "uuid": "P264_general_SOUTH_AMERICA_579"}
+{"sub_uri": "Q1098159", "obj_uri": ["Q14511198", "Q837222"], "sub_label": "Claudio Roditi", "obj_label": ["Uptown Records", "Candid Records"], "country": ["Q155"], "size": 8667, "uuid": "P264_general_SOUTH_AMERICA_580"}
+{"sub_uri": "Q5815077", "obj_uri": ["Q5665848"], "sub_label": "Payo Grondona", "obj_label": ["Alerce, la otra música"], "country": ["Q298"], "size": 8661, "uuid": "P264_general_SOUTH_AMERICA_581"}
+{"sub_uri": "Q16298118", "obj_uri": ["Q5729415"], "sub_label": "Max Capote", "obj_label": ["Bizarro Records"], "country": ["Q77"], "size": 8642, "uuid": "P264_general_SOUTH_AMERICA_582"}
+{"sub_uri": "Q24667401", "obj_uri": ["Q21077"], "sub_label": "Manuel Medrano", "obj_label": ["Warner Music Group"], "country": ["Q739"], "size": 8641, "uuid": "P264_general_SOUTH_AMERICA_583"}
+{"sub_uri": "Q469539", "obj_uri": ["Q1124061"], "sub_label": "Tânia Maria", "obj_label": ["Concord Records"], "country": ["Q155"], "size": 8637, "uuid": "P264_general_SOUTH_AMERICA_584"}
+{"sub_uri": "Q1775050", "obj_uri": ["Q3001888"], "sub_label": "Lourdes Fernández", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 8623, "uuid": "P264_general_SOUTH_AMERICA_585"}
+{"sub_uri": "Q15914528", "obj_uri": ["Q183387"], "sub_label": "Adilia Castillo", "obj_label": ["Columbia Records"], "country": ["Q717"], "size": 8613, "uuid": "P264_general_SOUTH_AMERICA_586"}
+{"sub_uri": "Q1754308", "obj_uri": ["Q1536003"], "sub_label": "Agustín Barboza", "obj_label": ["Philips Records"], "country": ["Q733"], "size": 8597, "uuid": "P264_general_SOUTH_AMERICA_587"}
+{"sub_uri": "Q101130405", "obj_uri": ["Q3244698", "Q56508180", "Q56760250"], "sub_label": "Nella Rojas", "obj_label": ["Sony Music Latin", "Casa Limón", "Sony Music"], "country": ["Q717"], "size": 8581, "uuid": "P264_general_SOUTH_AMERICA_588"}
+{"sub_uri": "Q5728693", "obj_uri": ["Q1536003", "Q183387", "Q729590"], "sub_label": "Billy Cafaro", "obj_label": ["Philips Records", "Columbia Records", "Fontana Records"], "country": ["Q414"], "size": 8572, "uuid": "P264_general_SOUTH_AMERICA_589"}
+{"sub_uri": "Q746182", "obj_uri": ["Q311439"], "sub_label": "Egberto Gismonti", "obj_label": ["ECM Records"], "country": ["Q155"], "size": 8571, "uuid": "P264_general_SOUTH_AMERICA_590"}
+{"sub_uri": "Q2838745", "obj_uri": ["Q4355510"], "sub_label": "Lucas Masciano", "obj_label": ["Warner Chappell Music"], "country": ["Q414"], "size": 8532, "uuid": "P264_general_SOUTH_AMERICA_591"}
+{"sub_uri": "Q5016659", "obj_uri": ["Q3634527"], "sub_label": "Cadão Volpato", "obj_label": ["Baratos Afins"], "country": ["Q155"], "size": 8489, "uuid": "P264_general_SOUTH_AMERICA_592"}
+{"sub_uri": "Q8582189", "obj_uri": ["Q3964488"], "sub_label": "Roberta Miranda", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 8440, "uuid": "P264_general_SOUTH_AMERICA_593"}
+{"sub_uri": "Q1226650", "obj_uri": ["Q311439"], "sub_label": "Dino Saluzzi", "obj_label": ["ECM Records"], "country": ["Q414"], "size": 8404, "uuid": "P264_general_SOUTH_AMERICA_594"}
+{"sub_uri": "Q3445656", "obj_uri": ["Q843402"], "sub_label": "Koko", "obj_label": ["Warner Bros. Records"], "country": ["Q298"], "size": 8351, "uuid": "P264_general_SOUTH_AMERICA_595"}
+{"sub_uri": "Q2072868", "obj_uri": ["Q706013"], "sub_label": "Pery Ribeiro", "obj_label": ["Odeon"], "country": ["Q155"], "size": 8286, "uuid": "P264_general_SOUTH_AMERICA_596"}
+{"sub_uri": "Q5394352", "obj_uri": ["Q3001888"], "sub_label": "Rodrigo Cuadra", "obj_label": ["Sony BMG"], "country": ["Q298"], "size": 8240, "uuid": "P264_general_SOUTH_AMERICA_597"}
+{"sub_uri": "Q18644064", "obj_uri": ["Q3244698"], "sub_label": "Daniel Calderón", "obj_label": ["Sony Music Latin"], "country": ["Q739"], "size": 8221, "uuid": "P264_general_SOUTH_AMERICA_598"}
+{"sub_uri": "Q51882291", "obj_uri": ["Q38903"], "sub_label": "Amannda", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 8197, "uuid": "P264_general_SOUTH_AMERICA_599"}
+{"sub_uri": "Q2964705", "obj_uri": ["Q17145853", "Q3964488"], "sub_label": "Chris Durán", "obj_label": ["Central Gospel Music", "Som Livre"], "country": ["Q155"], "size": 8126, "uuid": "P264_general_SOUTH_AMERICA_600"}
+{"sub_uri": "Q6519898", "obj_uri": ["Q1124849", "Q1536003", "Q183412"], "sub_label": "Leila Pinheiro", "obj_label": ["Verve Records", "Philips Records", "EMI"], "country": ["Q155"], "size": 8089, "uuid": "P264_general_SOUTH_AMERICA_601"}
+{"sub_uri": "Q1896720", "obj_uri": ["Q16141191", "Q793370"], "sub_label": "Mariana Ingold", "obj_label": ["Orfeo", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 8057, "uuid": "P264_general_SOUTH_AMERICA_602"}
+{"sub_uri": "Q10338474", "obj_uri": ["Q10266053"], "sub_label": "Nívea Soares", "obj_label": ["Diante do Trono"], "country": ["Q155"], "size": 8023, "uuid": "P264_general_SOUTH_AMERICA_603"}
+{"sub_uri": "Q7828521", "obj_uri": ["Q325866"], "sub_label": "Totó la Momposina", "obj_label": ["Real World Records"], "country": ["Q739"], "size": 8020, "uuid": "P264_general_SOUTH_AMERICA_604"}
+{"sub_uri": "Q24635936", "obj_uri": ["Q5281702"], "sub_label": "Joaquin Bedoya", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 8014, "uuid": "P264_general_SOUTH_AMERICA_605"}
+{"sub_uri": "Q10326252", "obj_uri": ["Q10266053"], "sub_label": "Mariana Valadão", "obj_label": ["Diante do Trono"], "country": ["Q155"], "size": 8007, "uuid": "P264_general_SOUTH_AMERICA_606"}
+{"sub_uri": "Q741251", "obj_uri": ["Q3244698"], "sub_label": "Charlie Zaa", "obj_label": ["Sony Music Latin"], "country": ["Q739"], "size": 7949, "uuid": "P264_general_SOUTH_AMERICA_607"}
+{"sub_uri": "Q6012231", "obj_uri": ["Q183412"], "sub_label": "Mezo Bigarrena", "obj_label": ["EMI"], "country": ["Q414"], "size": 7942, "uuid": "P264_general_SOUTH_AMERICA_608"}
+{"sub_uri": "Q5868636", "obj_uri": ["Q5785205"], "sub_label": "Franny Glass", "obj_label": ["Contrapedal"], "country": ["Q77"], "size": 7886, "uuid": "P264_general_SOUTH_AMERICA_609"}
+{"sub_uri": "Q14280664", "obj_uri": ["Q7975722"], "sub_label": "La Yegros", "obj_label": ["Waxploitation Records"], "country": ["Q414"], "size": 7881, "uuid": "P264_general_SOUTH_AMERICA_610"}
+{"sub_uri": "Q724495", "obj_uri": ["Q564432"], "sub_label": "Gui Boratto", "obj_label": ["Kompakt"], "country": ["Q155"], "size": 7864, "uuid": "P264_general_SOUTH_AMERICA_611"}
+{"sub_uri": "Q1675793", "obj_uri": ["Q1023727", "Q1025121"], "sub_label": "Ivo Perelman", "obj_label": ["CIMP", "Cadence Jazz Records"], "country": ["Q155"], "size": 7844, "uuid": "P264_general_SOUTH_AMERICA_612"}
+{"sub_uri": "Q339128", "obj_uri": ["Q1536003", "Q165745"], "sub_label": "Rafael Puyana", "obj_label": ["Philips Records", "Mercury Records"], "country": ["Q739"], "size": 7836, "uuid": "P264_general_SOUTH_AMERICA_613"}
+{"sub_uri": "Q4759273", "obj_uri": ["Q3634527"], "sub_label": "Andria Busic", "obj_label": ["Baratos Afins"], "country": ["Q155"], "size": 7820, "uuid": "P264_general_SOUTH_AMERICA_614"}
+{"sub_uri": "Q5813886", "obj_uri": ["Q330629"], "sub_label": "Douglas (cantante)", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 7793, "uuid": "P264_general_SOUTH_AMERICA_615"}
+{"sub_uri": "Q43193689", "obj_uri": ["Q10366548"], "sub_label": "Ana Vilela", "obj_label": ["SLAP"], "country": ["Q155"], "size": 7759, "uuid": "P264_general_SOUTH_AMERICA_616"}
+{"sub_uri": "Q5954780", "obj_uri": ["Q56760250"], "sub_label": "Juliana Gattas", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 7679, "uuid": "P264_general_SOUTH_AMERICA_617"}
+{"sub_uri": "Q6509687", "obj_uri": ["Q3001888"], "sub_label": "Leandro Lopes", "obj_label": ["Sony BMG"], "country": ["Q155"], "size": 7670, "uuid": "P264_general_SOUTH_AMERICA_618"}
+{"sub_uri": "Q9010157", "obj_uri": ["Q3001888"], "sub_label": "Ivonne Guzmán", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 7618, "uuid": "P264_general_SOUTH_AMERICA_619"}
+{"sub_uri": "Q1272530", "obj_uri": ["Q1639648"], "sub_label": "Edward Simon", "obj_label": ["Red Records"], "country": ["Q717"], "size": 7570, "uuid": "P264_general_SOUTH_AMERICA_620"}
+{"sub_uri": "Q5982435", "obj_uri": ["Q38903"], "sub_label": "Lucía Galán", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 7442, "uuid": "P264_general_SOUTH_AMERICA_621"}
+{"sub_uri": "Q16301496", "obj_uri": ["Q38903"], "sub_label": "Andrés Parra", "obj_label": ["Universal Music Group"], "country": ["Q739"], "size": 7441, "uuid": "P264_general_SOUTH_AMERICA_622"}
+{"sub_uri": "Q3324926", "obj_uri": ["Q183387", "Q202585"], "sub_label": "José Larralde", "obj_label": ["Columbia Records", "RCA Records"], "country": ["Q414"], "size": 7381, "uuid": "P264_general_SOUTH_AMERICA_623"}
+{"sub_uri": "Q20045808", "obj_uri": ["Q3964488"], "sub_label": "Gui Rebustini", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 7343, "uuid": "P264_general_SOUTH_AMERICA_624"}
+{"sub_uri": "Q1356607", "obj_uri": ["Q50074604"], "sub_label": "João Bosco", "obj_label": ["RCA"], "country": ["Q155"], "size": 7325, "uuid": "P264_general_SOUTH_AMERICA_625"}
+{"sub_uri": "Q6124175", "obj_uri": ["Q183387"], "sub_label": "Jair Oliveira", "obj_label": ["Columbia Records"], "country": ["Q155"], "size": 7297, "uuid": "P264_general_SOUTH_AMERICA_626"}
+{"sub_uri": "Q9012587", "obj_uri": ["Q693194"], "sub_label": "Jonathan Pérez (músico)", "obj_label": ["Napalm Records"], "country": ["Q298"], "size": 7261, "uuid": "P264_general_SOUTH_AMERICA_627"}
+{"sub_uri": "Q28073425", "obj_uri": ["Q693194"], "sub_label": "Fernanda Lira", "obj_label": ["Napalm Records"], "country": ["Q155"], "size": 7231, "uuid": "P264_general_SOUTH_AMERICA_628"}
+{"sub_uri": "Q456596", "obj_uri": ["Q1191537"], "sub_label": "Elli Medeiros", "obj_label": ["V2"], "country": ["Q77"], "size": 7207, "uuid": "P264_general_SOUTH_AMERICA_629"}
+{"sub_uri": "Q18276904", "obj_uri": ["Q3964488"], "sub_label": "Lorena Chaves", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 7188, "uuid": "P264_general_SOUTH_AMERICA_630"}
+{"sub_uri": "Q52274816", "obj_uri": ["Q6957268"], "sub_label": "Tomasa Del Real", "obj_label": ["Nacional Records"], "country": ["Q298"], "size": 7183, "uuid": "P264_general_SOUTH_AMERICA_631"}
+{"sub_uri": "Q1750721", "obj_uri": ["Q38903"], "sub_label": "Valeria Gastaldi", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 7142, "uuid": "P264_general_SOUTH_AMERICA_632"}
+{"sub_uri": "Q7332215", "obj_uri": ["Q330629"], "sub_label": "Ricky Vallen", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 7140, "uuid": "P264_general_SOUTH_AMERICA_633"}
+{"sub_uri": "Q94786193", "obj_uri": ["Q38903"], "sub_label": "Ana Caetano", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 7134, "uuid": "P264_general_SOUTH_AMERICA_634"}
+{"sub_uri": "Q5931210", "obj_uri": ["Q59455323"], "sub_label": "Jimmy Zambrano", "obj_label": ["Sony Music Colombia"], "country": ["Q739"], "size": 7128, "uuid": "P264_general_SOUTH_AMERICA_635"}
+{"sub_uri": "Q2883646", "obj_uri": ["Q3001888"], "sub_label": "Lissa Vera", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 7126, "uuid": "P264_general_SOUTH_AMERICA_636"}
+{"sub_uri": "Q7427379", "obj_uri": ["Q21077"], "sub_label": "Saulo Roston", "obj_label": ["Warner Music Group"], "country": ["Q155"], "size": 7124, "uuid": "P264_general_SOUTH_AMERICA_637"}
+{"sub_uri": "Q6111516", "obj_uri": ["Q569337"], "sub_label": "Romina Cohn", "obj_label": ["International Deejay Gigolo Records"], "country": ["Q414"], "size": 7102, "uuid": "P264_general_SOUTH_AMERICA_638"}
+{"sub_uri": "Q16942283", "obj_uri": ["Q16579416"], "sub_label": "Claudia Sinesi", "obj_label": ["Interdisc"], "country": ["Q414"], "size": 7059, "uuid": "P264_general_SOUTH_AMERICA_639"}
+{"sub_uri": "Q16574793", "obj_uri": ["Q38903"], "sub_label": "Hernán \"Tery\" Langer", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 7036, "uuid": "P264_general_SOUTH_AMERICA_640"}
+{"sub_uri": "Q16979781", "obj_uri": ["Q183412"], "sub_label": "José Luis Properzi", "obj_label": ["EMI"], "country": ["Q414"], "size": 7023, "uuid": "P264_general_SOUTH_AMERICA_641"}
+{"sub_uri": "Q6524183", "obj_uri": ["Q330629"], "sub_label": "Leo Rodriguez", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 7018, "uuid": "P264_general_SOUTH_AMERICA_642"}
+{"sub_uri": "Q5620749", "obj_uri": ["Q292128"], "sub_label": "Gus Monsanto", "obj_label": ["AFM Records"], "country": ["Q155"], "size": 7007, "uuid": "P264_general_SOUTH_AMERICA_643"}
+{"sub_uri": "Q637373", "obj_uri": ["Q1124849", "Q1536003", "Q193023", "Q277626", "Q5513979", "Q706013"], "sub_label": "Walter Wanderley", "obj_label": ["Verve Records", "Philips Records", "Capitol Records", "A&M Records", "GNP Crescendo", "Odeon"], "country": ["Q155"], "size": 6983, "uuid": "P264_general_SOUTH_AMERICA_644"}
+{"sub_uri": "Q2888348", "obj_uri": ["Q1168841"], "sub_label": "Samantha Navarro", "obj_label": ["Perro Andaluz"], "country": ["Q77"], "size": 6965, "uuid": "P264_general_SOUTH_AMERICA_645"}
+{"sub_uri": "Q18707791", "obj_uri": ["Q1536003"], "sub_label": "Tuca", "obj_label": ["Philips Records"], "country": ["Q155"], "size": 6945, "uuid": "P264_general_SOUTH_AMERICA_646"}
+{"sub_uri": "Q15069113", "obj_uri": ["Q3964488"], "sub_label": "Ana Nóbrega", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 6945, "uuid": "P264_general_SOUTH_AMERICA_647"}
+{"sub_uri": "Q4792719", "obj_uri": ["Q183412"], "sub_label": "Armandinho", "obj_label": ["EMI"], "country": ["Q155"], "size": 6940, "uuid": "P264_general_SOUTH_AMERICA_648"}
+{"sub_uri": "Q266894", "obj_uri": ["Q3045977"], "sub_label": "Gabriela Montero", "obj_label": ["EMI Classics"], "country": ["Q717"], "size": 6925, "uuid": "P264_general_SOUTH_AMERICA_649"}
+{"sub_uri": "Q5947104", "obj_uri": ["Q55965015"], "sub_label": "Juanchi Baleirón", "obj_label": ["EMI"], "country": ["Q414"], "size": 6879, "uuid": "P264_general_SOUTH_AMERICA_650"}
+{"sub_uri": "Q2760249", "obj_uri": ["Q3001888"], "sub_label": "María Fernanda Neil", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 6846, "uuid": "P264_general_SOUTH_AMERICA_651"}
+{"sub_uri": "Q18286787", "obj_uri": ["Q202585"], "sub_label": "Willy Gardi", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 6840, "uuid": "P264_general_SOUTH_AMERICA_652"}
+{"sub_uri": "Q2918538", "obj_uri": ["Q183412"], "sub_label": "Juan Sativo", "obj_label": ["EMI"], "country": ["Q298"], "size": 6811, "uuid": "P264_general_SOUTH_AMERICA_653"}
+{"sub_uri": "Q16731825", "obj_uri": ["Q5434218"], "sub_label": "McLord Magrao", "obj_label": ["Fantastic Plastic Records"], "country": ["Q155"], "size": 6803, "uuid": "P264_general_SOUTH_AMERICA_654"}
+{"sub_uri": "Q20829736", "obj_uri": ["Q56760250"], "sub_label": "Luis Pedraza", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 6785, "uuid": "P264_general_SOUTH_AMERICA_655"}
+{"sub_uri": "Q5862207", "obj_uri": ["Q330629"], "sub_label": "Fiorella Cayo", "obj_label": ["Sony Music"], "country": ["Q419"], "size": 6781, "uuid": "P264_general_SOUTH_AMERICA_656"}
+{"sub_uri": "Q6551398", "obj_uri": ["Q183412"], "sub_label": "Linda Batista", "obj_label": ["EMI"], "country": ["Q155"], "size": 6770, "uuid": "P264_general_SOUTH_AMERICA_657"}
+{"sub_uri": "Q15966119", "obj_uri": ["Q16579416"], "sub_label": "María José Cantilo", "obj_label": ["Interdisc"], "country": ["Q414"], "size": 6748, "uuid": "P264_general_SOUTH_AMERICA_658"}
+{"sub_uri": "Q958724", "obj_uri": ["Q1799395"], "sub_label": "Juan José Mosalini", "obj_label": ["Label Bleu"], "country": ["Q414"], "size": 6738, "uuid": "P264_general_SOUTH_AMERICA_659"}
+{"sub_uri": "Q613197", "obj_uri": ["Q1953930"], "sub_label": "Cibelle", "obj_label": ["Crammed Discs"], "country": ["Q155"], "size": 6690, "uuid": "P264_general_SOUTH_AMERICA_660"}
+{"sub_uri": "Q16336974", "obj_uri": ["Q38903"], "sub_label": "Bruna Viola", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 6626, "uuid": "P264_general_SOUTH_AMERICA_661"}
+{"sub_uri": "Q30930195", "obj_uri": ["Q3964488"], "sub_label": "Breno & Caio Cesar", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 6588, "uuid": "P264_general_SOUTH_AMERICA_662"}
+{"sub_uri": "Q1492809", "obj_uri": ["Q6132299"], "sub_label": "Galy Galiano", "obj_label": ["Sonolux"], "country": ["Q739"], "size": 6558, "uuid": "P264_general_SOUTH_AMERICA_663"}
+{"sub_uri": "Q58755094", "obj_uri": ["Q9366777"], "sub_label": "Lalo Ebratt", "obj_label": ["Universal Music Spain"], "country": ["Q739"], "size": 6534, "uuid": "P264_general_SOUTH_AMERICA_664"}
+{"sub_uri": "Q5749813", "obj_uri": ["Q2301258"], "sub_label": "Carlos Benavides", "obj_label": ["Sondor"], "country": ["Q77"], "size": 6525, "uuid": "P264_general_SOUTH_AMERICA_665"}
+{"sub_uri": "Q94787561", "obj_uri": ["Q38903"], "sub_label": "Gabi Melim", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 6519, "uuid": "P264_general_SOUTH_AMERICA_666"}
+{"sub_uri": "Q62505638", "obj_uri": ["Q3415083"], "sub_label": "Jorge Ledesma", "obj_label": ["RCA Victor"], "country": ["Q414"], "size": 6517, "uuid": "P264_general_SOUTH_AMERICA_667"}
+{"sub_uri": "Q1948488", "obj_uri": ["Q1542119", "Q202585", "Q63966930", "Q935090"], "sub_label": "Morris Albert", "obj_label": ["United Artists Records", "RCA Records", "Durium Marche Estere", "London Records"], "country": ["Q155"], "size": 6503, "uuid": "P264_general_SOUTH_AMERICA_668"}
+{"sub_uri": "Q450761", "obj_uri": ["Q7078538"], "sub_label": "Alfredo Perl", "obj_label": ["Oehms Classics"], "country": ["Q298"], "size": 6456, "uuid": "P264_general_SOUTH_AMERICA_669"}
+{"sub_uri": "Q24936630", "obj_uri": ["Q21077"], "sub_label": "Guido Armido Sardelli", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 6418, "uuid": "P264_general_SOUTH_AMERICA_670"}
+{"sub_uri": "Q5660519", "obj_uri": ["Q21077"], "sub_label": "Agustín Almeyda", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 6409, "uuid": "P264_general_SOUTH_AMERICA_671"}
+{"sub_uri": "Q21480462", "obj_uri": ["Q16579416"], "sub_label": "Gato Azul Peralta", "obj_label": ["Interdisc"], "country": ["Q414"], "size": 6404, "uuid": "P264_general_SOUTH_AMERICA_672"}
+{"sub_uri": "Q962883", "obj_uri": ["Q6741255"], "sub_label": "Jovino Santos-Neto", "obj_label": ["Malandro Records"], "country": ["Q155"], "size": 6404, "uuid": "P264_general_SOUTH_AMERICA_673"}
+{"sub_uri": "Q10304041", "obj_uri": ["Q10266053", "Q3964488"], "sub_label": "Israel Salazar", "obj_label": ["Diante do Trono", "Som Livre"], "country": ["Q155"], "size": 6398, "uuid": "P264_general_SOUTH_AMERICA_674"}
+{"sub_uri": "Q250335", "obj_uri": ["Q1636558"], "sub_label": "Cristian Machado", "obj_label": ["Victory Records"], "country": ["Q155"], "size": 6390, "uuid": "P264_general_SOUTH_AMERICA_675"}
+{"sub_uri": "Q6523421", "obj_uri": ["Q127855"], "sub_label": "Leny Andrade", "obj_label": ["Chesky Records"], "country": ["Q155"], "size": 6371, "uuid": "P264_general_SOUTH_AMERICA_676"}
+{"sub_uri": "Q16302149", "obj_uri": ["Q183412"], "sub_label": "Juan Subirá", "obj_label": ["EMI"], "country": ["Q414"], "size": 6360, "uuid": "P264_general_SOUTH_AMERICA_677"}
+{"sub_uri": "Q108115222", "obj_uri": ["Q3964488"], "sub_label": "Matheus Fernandes", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 6336, "uuid": "P264_general_SOUTH_AMERICA_678"}
+{"sub_uri": "Q7282038", "obj_uri": ["Q330629"], "sub_label": "Rafael Barreto", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 6335, "uuid": "P264_general_SOUTH_AMERICA_679"}
+{"sub_uri": "Q16298838", "obj_uri": ["Q6957268"], "sub_label": "DJ Bitman", "obj_label": ["Nacional Records"], "country": ["Q298"], "size": 6324, "uuid": "P264_general_SOUTH_AMERICA_680"}
+{"sub_uri": "Q102466455", "obj_uri": ["Q18387100", "Q21077"], "sub_label": "Adrian Benegas", "obj_label": ["Symphonic Distribution", "Warner Music Group"], "country": ["Q733"], "size": 6306, "uuid": "P264_general_SOUTH_AMERICA_681"}
+{"sub_uri": "Q20892722", "obj_uri": ["Q56760250"], "sub_label": "Claudia Ruffinatti", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 6294, "uuid": "P264_general_SOUTH_AMERICA_682"}
+{"sub_uri": "Q22570017", "obj_uri": ["Q10393219"], "sub_label": "MC Duduzinho", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 6291, "uuid": "P264_general_SOUTH_AMERICA_683"}
+{"sub_uri": "Q6158984", "obj_uri": ["Q183412"], "sub_label": "Valericio Leppe", "obj_label": ["EMI"], "country": ["Q298"], "size": 6222, "uuid": "P264_general_SOUTH_AMERICA_684"}
+{"sub_uri": "Q16300939", "obj_uri": ["Q6124326"], "sub_label": "K-Réena", "obj_label": ["Sello Azul"], "country": ["Q298"], "size": 6205, "uuid": "P264_general_SOUTH_AMERICA_685"}
+{"sub_uri": "Q18246429", "obj_uri": ["Q38903"], "sub_label": "Eli Soares", "obj_label": ["Universal Music Group"], "country": ["Q155"], "size": 6189, "uuid": "P264_general_SOUTH_AMERICA_686"}
+{"sub_uri": "Q451002", "obj_uri": ["Q1536003", "Q202585", "Q9657984"], "sub_label": "Miúcha", "obj_label": ["Philips Records", "RCA Records", "Biscoito Fino"], "country": ["Q155"], "size": 6186, "uuid": "P264_general_SOUTH_AMERICA_687"}
+{"sub_uri": "Q10335461", "obj_uri": ["Q17145853"], "sub_label": "Nani Azevedo", "obj_label": ["Central Gospel Music"], "country": ["Q155"], "size": 6184, "uuid": "P264_general_SOUTH_AMERICA_688"}
+{"sub_uri": "Q5772139", "obj_uri": ["Q5685006"], "sub_label": "Claudio Strunz", "obj_label": ["Radio Trípoli Discos"], "country": ["Q414"], "size": 6143, "uuid": "P264_general_SOUTH_AMERICA_689"}
+{"sub_uri": "Q1042671", "obj_uri": ["Q168407"], "sub_label": "Carlos Almenar Otero", "obj_label": ["Deutsche Grammophon"], "country": ["Q717"], "size": 6120, "uuid": "P264_general_SOUTH_AMERICA_690"}
+{"sub_uri": "Q1607279", "obj_uri": ["Q183387"], "sub_label": "Dilermando Reis", "obj_label": ["Columbia Records"], "country": ["Q155"], "size": 6118, "uuid": "P264_general_SOUTH_AMERICA_691"}
+{"sub_uri": "Q6404409", "obj_uri": ["Q1810123", "Q7801542"], "sub_label": "Kid606", "obj_label": ["Wichita Recordings", "Tigerbeat6"], "country": ["Q717"], "size": 6103, "uuid": "P264_general_SOUTH_AMERICA_692"}
+{"sub_uri": "Q41550206", "obj_uri": ["Q30055845"], "sub_label": "Elias Diaz", "obj_label": ["Mastered Trax Latino"], "country": ["Q298"], "size": 6029, "uuid": "P264_general_SOUTH_AMERICA_693"}
+{"sub_uri": "Q2887018", "obj_uri": ["Q793370"], "sub_label": "Carlos Molina", "obj_label": ["Ayuí / Tacuabé"], "country": ["Q77"], "size": 5996, "uuid": "P264_general_SOUTH_AMERICA_694"}
+{"sub_uri": "Q4130890", "obj_uri": ["Q190585"], "sub_label": "Gaby Kerpel", "obj_label": ["Island Records"], "country": ["Q414"], "size": 5988, "uuid": "P264_general_SOUTH_AMERICA_695"}
+{"sub_uri": "Q3038827", "obj_uri": ["Q3700396"], "sub_label": "Luis Advis", "obj_label": ["DICAP"], "country": ["Q298"], "size": 5945, "uuid": "P264_general_SOUTH_AMERICA_696"}
+{"sub_uri": "Q6014785", "obj_uri": ["Q5776074"], "sub_label": "Miguel Morales (cantante)", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 5936, "uuid": "P264_general_SOUTH_AMERICA_697"}
+{"sub_uri": "Q14737554", "obj_uri": ["Q183387"], "sub_label": "Danny Mercer", "obj_label": ["Columbia Records"], "country": ["Q739"], "size": 5873, "uuid": "P264_general_SOUTH_AMERICA_698"}
+{"sub_uri": "Q7159591", "obj_uri": ["Q843402"], "sub_label": "Pedro Frugone", "obj_label": ["Warner Bros. Records"], "country": ["Q298"], "size": 5851, "uuid": "P264_general_SOUTH_AMERICA_699"}
+{"sub_uri": "Q2930146", "obj_uri": ["Q2870767"], "sub_label": "Bïa Krieger", "obj_label": ["Audiogram"], "country": ["Q155"], "size": 5847, "uuid": "P264_general_SOUTH_AMERICA_700"}
+{"sub_uri": "Q5901936", "obj_uri": ["Q3415083"], "sub_label": "Horacio Molina", "obj_label": ["RCA Victor"], "country": ["Q414"], "size": 5830, "uuid": "P264_general_SOUTH_AMERICA_701"}
+{"sub_uri": "Q8199342", "obj_uri": ["Q183412"], "sub_label": "Andrés Godoy", "obj_label": ["EMI"], "country": ["Q298"], "size": 5821, "uuid": "P264_general_SOUTH_AMERICA_702"}
+{"sub_uri": "Q5750160", "obj_uri": ["Q342202"], "sub_label": "Carlos Dorado", "obj_label": ["Acoustic Music Records"], "country": ["Q414"], "size": 5817, "uuid": "P264_general_SOUTH_AMERICA_703"}
+{"sub_uri": "Q55176386", "obj_uri": ["Q1542343", "Q38903"], "sub_label": "Paola Galue", "obj_label": ["sello discográfico independiente", "Universal Music Group"], "country": ["Q717"], "size": 5733, "uuid": "P264_general_SOUTH_AMERICA_704"}
+{"sub_uri": "Q20995278", "obj_uri": ["Q3001888"], "sub_label": "Augusto Osenda", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 5719, "uuid": "P264_general_SOUTH_AMERICA_705"}
+{"sub_uri": "Q5798635", "obj_uri": ["Q54860"], "sub_label": "Daniel Rodrigo Martins", "obj_label": ["Walt Disney Records"], "country": ["Q414"], "size": 5662, "uuid": "P264_general_SOUTH_AMERICA_706"}
+{"sub_uri": "Q274073", "obj_uri": ["Q1124849"], "sub_label": "Claudia Acuña", "obj_label": ["Verve Records"], "country": ["Q298"], "size": 5642, "uuid": "P264_general_SOUTH_AMERICA_707"}
+{"sub_uri": "Q17489890", "obj_uri": ["Q3001888"], "sub_label": "Martín Fabio", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 5625, "uuid": "P264_general_SOUTH_AMERICA_708"}
+{"sub_uri": "Q1236568", "obj_uri": ["Q1954169"], "sub_label": "Dom Um Romão", "obj_label": ["Muse Records"], "country": ["Q155"], "size": 5584, "uuid": "P264_general_SOUTH_AMERICA_709"}
+{"sub_uri": "Q250283", "obj_uri": ["Q523563", "Q5436121", "Q7894020"], "sub_label": "Paula Morelenbaum", "obj_label": ["Edel Music", "Farol", "Universal Music Latin Entertainment"], "country": ["Q155"], "size": 5576, "uuid": "P264_general_SOUTH_AMERICA_710"}
+{"sub_uri": "Q22135882", "obj_uri": ["Q19649805"], "sub_label": "Robert Zelazek", "obj_label": ["Umbral Discos"], "country": ["Q414"], "size": 5546, "uuid": "P264_general_SOUTH_AMERICA_711"}
+{"sub_uri": "Q5936154", "obj_uri": ["Q793370"], "sub_label": "Jorge Trasante", "obj_label": ["Ayuí / Tacuabé"], "country": ["Q77"], "size": 5532, "uuid": "P264_general_SOUTH_AMERICA_712"}
+{"sub_uri": "Q2570553", "obj_uri": ["Q183387"], "sub_label": "Paulinho Nogueira", "obj_label": ["Columbia Records"], "country": ["Q155"], "size": 5514, "uuid": "P264_general_SOUTH_AMERICA_713"}
+{"sub_uri": "Q56319243", "obj_uri": ["Q5972150"], "sub_label": "Pablo Ramón Ayala", "obj_label": ["Leader Music"], "country": ["Q414"], "size": 5465, "uuid": "P264_general_SOUTH_AMERICA_714"}
+{"sub_uri": "Q8193645", "obj_uri": ["Q3415083"], "sub_label": "Alberto Vila", "obj_label": ["RCA Victor"], "country": ["Q77"], "size": 5425, "uuid": "P264_general_SOUTH_AMERICA_715"}
+{"sub_uri": "Q10293131", "obj_uri": ["Q700359"], "sub_label": "Gustavo Nápoli", "obj_label": ["PolyGram"], "country": ["Q414"], "size": 5421, "uuid": "P264_general_SOUTH_AMERICA_716"}
+{"sub_uri": "Q76669089", "obj_uri": ["Q10393219"], "sub_label": "Sofia Oliveira", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 5396, "uuid": "P264_general_SOUTH_AMERICA_717"}
+{"sub_uri": "Q2826788", "obj_uri": ["Q1536003", "Q61810714", "Q61818974"], "sub_label": "Agepê", "obj_label": ["Philips Records", "Continental", "Discos CBS"], "country": ["Q155"], "size": 5384, "uuid": "P264_general_SOUTH_AMERICA_718"}
+{"sub_uri": "Q1150645", "obj_uri": ["Q16141191"], "sub_label": "César Amaro", "obj_label": ["Orfeo"], "country": ["Q77"], "size": 5383, "uuid": "P264_general_SOUTH_AMERICA_719"}
+{"sub_uri": "Q6108688", "obj_uri": ["Q3700396"], "sub_label": "Richard Rojas", "obj_label": ["DICAP"], "country": ["Q298"], "size": 5381, "uuid": "P264_general_SOUTH_AMERICA_720"}
+{"sub_uri": "Q9628584", "obj_uri": ["Q330629"], "sub_label": "Arianne", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 5343, "uuid": "P264_general_SOUTH_AMERICA_721"}
+{"sub_uri": "Q17274403", "obj_uri": ["Q183412"], "sub_label": "Mario Breuer", "obj_label": ["EMI"], "country": ["Q414"], "size": 5312, "uuid": "P264_general_SOUTH_AMERICA_722"}
+{"sub_uri": "Q10325120", "obj_uri": ["Q10366548"], "sub_label": "Marcelo Jeneci", "obj_label": ["SLAP"], "country": ["Q155"], "size": 5308, "uuid": "P264_general_SOUTH_AMERICA_723"}
+{"sub_uri": "Q17364502", "obj_uri": ["Q56760250"], "sub_label": "Sergio Rotman", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 5295, "uuid": "P264_general_SOUTH_AMERICA_724"}
+{"sub_uri": "Q37832466", "obj_uri": ["Q183412"], "sub_label": "Osvaldo Díaz", "obj_label": ["EMI"], "country": ["Q298"], "size": 5272, "uuid": "P264_general_SOUTH_AMERICA_725"}
+{"sub_uri": "Q20015289", "obj_uri": ["Q3001888"], "sub_label": "Gonzalo Martínez", "obj_label": ["Sony BMG"], "country": ["Q298"], "size": 5253, "uuid": "P264_general_SOUTH_AMERICA_726"}
+{"sub_uri": "Q1818567", "obj_uri": ["Q2238226"], "sub_label": "Leo Genovese", "obj_label": ["Palmetto Records"], "country": ["Q414"], "size": 5242, "uuid": "P264_general_SOUTH_AMERICA_727"}
+{"sub_uri": "Q8075940", "obj_uri": ["Q18628"], "sub_label": "Zyon Cavalera", "obj_label": ["Roadrunner Records"], "country": ["Q155"], "size": 5214, "uuid": "P264_general_SOUTH_AMERICA_728"}
+{"sub_uri": "Q54834442", "obj_uri": ["Q183412"], "sub_label": "Victor Castro", "obj_label": ["EMI"], "country": ["Q717"], "size": 5194, "uuid": "P264_general_SOUTH_AMERICA_729"}
+{"sub_uri": "Q16301087", "obj_uri": ["Q5776074"], "sub_label": "Alberto \"Beto\" Zabaleta", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 5193, "uuid": "P264_general_SOUTH_AMERICA_730"}
+{"sub_uri": "Q1741350", "obj_uri": ["Q5434605"], "sub_label": "Sabrina Malheiros", "obj_label": ["Far Out Recordings"], "country": ["Q155"], "size": 5190, "uuid": "P264_general_SOUTH_AMERICA_731"}
+{"sub_uri": "Q28503803", "obj_uri": ["Q5972150"], "sub_label": "Fernando de Madariaga", "obj_label": ["Leader Music"], "country": ["Q414"], "size": 5180, "uuid": "P264_general_SOUTH_AMERICA_732"}
+{"sub_uri": "Q1876803", "obj_uri": ["Q1124849"], "sub_label": "Luiz Henrique Rosa", "obj_label": ["Verve Records"], "country": ["Q155"], "size": 5168, "uuid": "P264_general_SOUTH_AMERICA_733"}
+{"sub_uri": "Q4476228", "obj_uri": ["Q2172834"], "sub_label": "Nilson Matta", "obj_label": ["Motéma Music"], "country": ["Q155"], "size": 5147, "uuid": "P264_general_SOUTH_AMERICA_734"}
+{"sub_uri": "Q16266859", "obj_uri": ["Q5776074"], "sub_label": "Nelson Henríquez", "obj_label": ["Codiscos"], "country": ["Q717"], "size": 5112, "uuid": "P264_general_SOUTH_AMERICA_735"}
+{"sub_uri": "Q5997925", "obj_uri": ["Q56760250"], "sub_label": "Mariano Roger", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 5045, "uuid": "P264_general_SOUTH_AMERICA_736"}
+{"sub_uri": "Q12349655", "obj_uri": ["Q5281702"], "sub_label": "Jaime R. Echavarría", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 5033, "uuid": "P264_general_SOUTH_AMERICA_737"}
+{"sub_uri": "Q16143814", "obj_uri": ["Q5281702"], "sub_label": "Adolfo Echeverría", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 5025, "uuid": "P264_general_SOUTH_AMERICA_738"}
+{"sub_uri": "Q7842286", "obj_uri": ["Q3001888"], "sub_label": "Trina Medina", "obj_label": ["Sony BMG"], "country": ["Q717"], "size": 4963, "uuid": "P264_general_SOUTH_AMERICA_739"}
+{"sub_uri": "Q16298505", "obj_uri": ["Q5776074"], "sub_label": "Juan Carlos Coronel", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 4963, "uuid": "P264_general_SOUTH_AMERICA_740"}
+{"sub_uri": "Q5671021", "obj_uri": ["Q5776074"], "sub_label": "Juan Piña", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 4898, "uuid": "P264_general_SOUTH_AMERICA_741"}
+{"sub_uri": "Q15919237", "obj_uri": ["Q183412"], "sub_label": "Alberto Arenas", "obj_label": ["EMI"], "country": ["Q414"], "size": 4898, "uuid": "P264_general_SOUTH_AMERICA_742"}
+{"sub_uri": "Q106509801", "obj_uri": ["Q5776074"], "sub_label": "Iván Calderón", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 4889, "uuid": "P264_general_SOUTH_AMERICA_743"}
+{"sub_uri": "Q6443593", "obj_uri": ["Q1180681", "Q16141191", "Q2301258", "Q6148745"], "sub_label": "Hilario Pérez", "obj_label": ["De la Planta", "Orfeo", "Sondor", "Tonal"], "country": ["Q77"], "size": 4884, "uuid": "P264_general_SOUTH_AMERICA_744"}
+{"sub_uri": "Q5490416", "obj_uri": ["Q5281702"], "sub_label": "Aníbal Velásquez", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 4880, "uuid": "P264_general_SOUTH_AMERICA_745"}
+{"sub_uri": "Q28854048", "obj_uri": ["Q56760250"], "sub_label": "Rolando Sartorio", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 4879, "uuid": "P264_general_SOUTH_AMERICA_746"}
+{"sub_uri": "Q17632005", "obj_uri": ["Q5801600"], "sub_label": "Facundo Soto", "obj_label": ["Del Cielito Records"], "country": ["Q414"], "size": 4877, "uuid": "P264_general_SOUTH_AMERICA_747"}
+{"sub_uri": "Q16009530", "obj_uri": ["Q202585"], "sub_label": "Ramón Collazo", "obj_label": ["RCA Records"], "country": ["Q77"], "size": 4874, "uuid": "P264_general_SOUTH_AMERICA_748"}
+{"sub_uri": "Q6166246", "obj_uri": ["Q3001888"], "sub_label": "Walter Meza", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 4817, "uuid": "P264_general_SOUTH_AMERICA_749"}
+{"sub_uri": "Q18224929", "obj_uri": ["Q38903"], "sub_label": "Germán Sbarbati", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 4777, "uuid": "P264_general_SOUTH_AMERICA_750"}
+{"sub_uri": "Q20014468", "obj_uri": ["Q2301258"], "sub_label": "Olga Delgrossi", "obj_label": ["Sondor"], "country": ["Q77"], "size": 4770, "uuid": "P264_general_SOUTH_AMERICA_751"}
+{"sub_uri": "Q5638071", "obj_uri": ["Q49462460"], "sub_label": "Francisco Romero", "obj_label": ["CBS"], "country": ["Q414"], "size": 4752, "uuid": "P264_general_SOUTH_AMERICA_752"}
+{"sub_uri": "Q113540373", "obj_uri": ["Q59456191"], "sub_label": "Mar Rendón", "obj_label": ["Sony Music México"], "country": ["Q736"], "size": 4726, "uuid": "P264_general_SOUTH_AMERICA_753"}
+{"sub_uri": "Q359849", "obj_uri": ["Q5324176"], "sub_label": "Federico Aubele", "obj_label": ["ESL Music"], "country": ["Q414"], "size": 4689, "uuid": "P264_general_SOUTH_AMERICA_754"}
+{"sub_uri": "Q46762255", "obj_uri": ["Q3267419"], "sub_label": "Javier Bagalá", "obj_label": ["Nems Enterprises"], "country": ["Q414"], "size": 4666, "uuid": "P264_general_SOUTH_AMERICA_755"}
+{"sub_uri": "Q5397967", "obj_uri": ["Q155152"], "sub_label": "Marta Contreras", "obj_label": ["Polydor Records"], "country": ["Q298"], "size": 4652, "uuid": "P264_general_SOUTH_AMERICA_756"}
+{"sub_uri": "Q4902388", "obj_uri": ["Q183412"], "sub_label": "Bi Ribeiro", "obj_label": ["EMI"], "country": ["Q155"], "size": 4649, "uuid": "P264_general_SOUTH_AMERICA_757"}
+{"sub_uri": "Q251406", "obj_uri": ["Q38903"], "sub_label": "Álvaro Véliz", "obj_label": ["Universal Music Group"], "country": ["Q298"], "size": 4624, "uuid": "P264_general_SOUTH_AMERICA_758"}
+{"sub_uri": "Q19518071", "obj_uri": ["Q18628"], "sub_label": "Bruno Agra", "obj_label": ["Roadrunner Records"], "country": ["Q155"], "size": 4618, "uuid": "P264_general_SOUTH_AMERICA_759"}
+{"sub_uri": "Q16298741", "obj_uri": ["Q3001888"], "sub_label": "Deborah de Corral", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 4608, "uuid": "P264_general_SOUTH_AMERICA_760"}
+{"sub_uri": "Q115171473", "obj_uri": ["Q100375843", "Q183412"], "sub_label": "Marcelo Zoloa", "obj_label": ["PopArt Discos", "EMI"], "country": ["Q414"], "size": 4604, "uuid": "P264_general_SOUTH_AMERICA_761"}
+{"sub_uri": "Q238888", "obj_uri": ["Q5434605"], "sub_label": "Nina Miranda", "obj_label": ["Far Out Recordings"], "country": ["Q155"], "size": 4604, "uuid": "P264_general_SOUTH_AMERICA_762"}
+{"sub_uri": "Q16494312", "obj_uri": ["Q38903"], "sub_label": "Pepe Céspedes", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 4558, "uuid": "P264_general_SOUTH_AMERICA_763"}
+{"sub_uri": "Q42909258", "obj_uri": ["Q6132299"], "sub_label": "Gabriel Romero", "obj_label": ["Sonolux"], "country": ["Q717", "Q739"], "size": 4527, "uuid": "P264_general_SOUTH_AMERICA_764"}
+{"sub_uri": "Q1225595", "obj_uri": ["Q675241"], "sub_label": "Dillon", "obj_label": ["BPitch Control"], "country": ["Q155"], "size": 4505, "uuid": "P264_general_SOUTH_AMERICA_765"}
+{"sub_uri": "Q42390418", "obj_uri": ["Q16141191", "Q2301258", "Q793370"], "sub_label": "Juan Peyrou", "obj_label": ["Orfeo", "Sondor", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 4464, "uuid": "P264_general_SOUTH_AMERICA_766"}
+{"sub_uri": "Q4350815", "obj_uri": ["Q745362"], "sub_label": "Roberto Perera", "obj_label": ["Heads Up International"], "country": ["Q77"], "size": 4460, "uuid": "P264_general_SOUTH_AMERICA_767"}
+{"sub_uri": "Q5120871", "obj_uri": ["Q2494570"], "sub_label": "Cineplexx", "obj_label": ["Cherry Red Records"], "country": ["Q414"], "size": 4415, "uuid": "P264_general_SOUTH_AMERICA_768"}
+{"sub_uri": "Q6300071", "obj_uri": ["Q7562453"], "sub_label": "Juan José Chuquisengo", "obj_label": ["Sony Classical"], "country": ["Q419"], "size": 4395, "uuid": "P264_general_SOUTH_AMERICA_769"}
+{"sub_uri": "Q55466523", "obj_uri": ["Q3415083"], "sub_label": "Juan Bautista Guido", "obj_label": ["RCA Victor"], "country": ["Q414"], "size": 4375, "uuid": "P264_general_SOUTH_AMERICA_770"}
+{"sub_uri": "Q17101037", "obj_uri": ["Q4797610"], "sub_label": "Nando Lauria", "obj_label": ["Narada Productions"], "country": ["Q155"], "size": 4348, "uuid": "P264_general_SOUTH_AMERICA_771"}
+{"sub_uri": "Q5495186", "obj_uri": ["Q183412"], "sub_label": "Silvio Paredes", "obj_label": ["EMI"], "country": ["Q298"], "size": 4343, "uuid": "P264_general_SOUTH_AMERICA_772"}
+{"sub_uri": "Q21940805", "obj_uri": ["Q5801600"], "sub_label": "Ricardo Tapia", "obj_label": ["Del Cielito Records"], "country": ["Q414"], "size": 4341, "uuid": "P264_general_SOUTH_AMERICA_773"}
+{"sub_uri": "Q20631078", "obj_uri": ["Q10266053", "Q10322521"], "sub_label": "Marine Friesen", "obj_label": ["Diante do Trono", "MK Music"], "country": ["Q155"], "size": 4338, "uuid": "P264_general_SOUTH_AMERICA_774"}
+{"sub_uri": "Q17987567", "obj_uri": ["Q38903"], "sub_label": "Daniel Alberto Suárez", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 4309, "uuid": "P264_general_SOUTH_AMERICA_775"}
+{"sub_uri": "Q56461434", "obj_uri": ["Q1645480"], "sub_label": "Emanero", "obj_label": ["Wilson"], "country": ["Q750"], "size": 4295, "uuid": "P264_general_SOUTH_AMERICA_776"}
+{"sub_uri": "Q3051667", "obj_uri": ["Q158886"], "sub_label": "Eloy Casagrande", "obj_label": ["Nuclear Blast"], "country": ["Q155"], "size": 4283, "uuid": "P264_general_SOUTH_AMERICA_777"}
+{"sub_uri": "Q7454294", "obj_uri": ["Q330629"], "sub_label": "Sergio Járlaz", "obj_label": ["Sony Music"], "country": ["Q298"], "size": 4278, "uuid": "P264_general_SOUTH_AMERICA_778"}
+{"sub_uri": "Q50350730", "obj_uri": ["Q5281702", "Q5776074"], "sub_label": "Juancho Torres Correa", "obj_label": ["Discos Fuentes", "Codiscos"], "country": ["Q739"], "size": 4245, "uuid": "P264_general_SOUTH_AMERICA_779"}
+{"sub_uri": "Q3439242", "obj_uri": ["Q1631774"], "sub_label": "Roger Lima", "obj_label": ["Asian Man Records"], "country": ["Q155"], "size": 4205, "uuid": "P264_general_SOUTH_AMERICA_780"}
+{"sub_uri": "Q4833224", "obj_uri": ["Q675241"], "sub_label": "Aérea Negrot", "obj_label": ["BPitch Control"], "country": ["Q717"], "size": 4201, "uuid": "P264_general_SOUTH_AMERICA_781"}
+{"sub_uri": "Q16302143", "obj_uri": ["Q7894020"], "sub_label": "Gretchen Serrao Cabrera", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q717"], "size": 4195, "uuid": "P264_general_SOUTH_AMERICA_782"}
+{"sub_uri": "Q26001050", "obj_uri": ["Q202585"], "sub_label": "Paloma Valdéz", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 4179, "uuid": "P264_general_SOUTH_AMERICA_783"}
+{"sub_uri": "Q6174721", "obj_uri": ["Q202585"], "sub_label": "Óscar Andrade", "obj_label": ["RCA Records"], "country": ["Q298"], "size": 4172, "uuid": "P264_general_SOUTH_AMERICA_784"}
+{"sub_uri": "Q3359987", "obj_uri": ["Q311439"], "sub_label": "Pablo Márquez", "obj_label": ["ECM Records"], "country": ["Q414"], "size": 4170, "uuid": "P264_general_SOUTH_AMERICA_785"}
+{"sub_uri": "Q2832941", "obj_uri": ["Q183412"], "sub_label": "Alex Ferrari", "obj_label": ["EMI"], "country": ["Q155"], "size": 4166, "uuid": "P264_general_SOUTH_AMERICA_786"}
+{"sub_uri": "Q6047061", "obj_uri": ["Q1168841", "Q5990636", "Q793370"], "sub_label": "Numen Vilariño", "obj_label": ["Perro Andaluz", "Mallarini Producciones", "Ayuí / Tacuabé"], "country": ["Q77"], "size": 4148, "uuid": "P264_general_SOUTH_AMERICA_787"}
+{"sub_uri": "Q64515314", "obj_uri": ["Q56760250"], "sub_label": "Memín Hernández", "obj_label": ["Sony Music"], "country": ["Q717"], "size": 4108, "uuid": "P264_general_SOUTH_AMERICA_788"}
+{"sub_uri": "Q5663654", "obj_uri": ["Q38903"], "sub_label": "Alberto Verenzuela", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 4103, "uuid": "P264_general_SOUTH_AMERICA_789"}
+{"sub_uri": "Q28648156", "obj_uri": ["Q1470264"], "sub_label": "Caterina Nix", "obj_label": ["Frontiers Records"], "country": ["Q298"], "size": 4077, "uuid": "P264_general_SOUTH_AMERICA_790"}
+{"sub_uri": "Q16141005", "obj_uri": ["Q7894020"], "sub_label": "Martín Ferres", "obj_label": ["Universal Music Latin Entertainment"], "country": ["Q414"], "size": 4059, "uuid": "P264_general_SOUTH_AMERICA_791"}
+{"sub_uri": "Q203431", "obj_uri": ["Q837222"], "sub_label": "Guillermo Klein", "obj_label": ["Candid Records"], "country": ["Q414"], "size": 4037, "uuid": "P264_general_SOUTH_AMERICA_792"}
+{"sub_uri": "Q4678462", "obj_uri": ["Q3964488"], "sub_label": "Adair Cardoso", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 3974, "uuid": "P264_general_SOUTH_AMERICA_793"}
+{"sub_uri": "Q21546173", "obj_uri": ["Q5776074"], "sub_label": "Petronio Álvarez", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 3968, "uuid": "P264_general_SOUTH_AMERICA_794"}
+{"sub_uri": "Q7351558", "obj_uri": ["Q3048437"], "sub_label": "Robertinho Silva", "obj_label": ["Milestone Records"], "country": ["Q155"], "size": 3968, "uuid": "P264_general_SOUTH_AMERICA_795"}
+{"sub_uri": "Q16939861", "obj_uri": ["Q28022140"], "sub_label": "Claudionor Germano", "obj_label": ["Rozenblit"], "country": ["Q155"], "size": 3950, "uuid": "P264_general_SOUTH_AMERICA_796"}
+{"sub_uri": "Q17489918", "obj_uri": ["Q56760250"], "sub_label": "Luciano Scaglione", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 3940, "uuid": "P264_general_SOUTH_AMERICA_797"}
+{"sub_uri": "Q5955537", "obj_uri": ["Q2301258"], "sub_label": "Julio Mora", "obj_label": ["Sondor"], "country": ["Q77"], "size": 3918, "uuid": "P264_general_SOUTH_AMERICA_798"}
+{"sub_uri": "Q5340654", "obj_uri": ["Q2301258"], "sub_label": "Eduardo Larbanois", "obj_label": ["Sondor"], "country": ["Q77"], "size": 3915, "uuid": "P264_general_SOUTH_AMERICA_799"}
+{"sub_uri": "Q23041614", "obj_uri": ["Q5729415"], "sub_label": "Maia Castro", "obj_label": ["Bizarro Records"], "country": ["Q77"], "size": 3872, "uuid": "P264_general_SOUTH_AMERICA_800"}
+{"sub_uri": "Q10393825", "obj_uri": ["Q3964488"], "sub_label": "Wilson Simoninha", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 3864, "uuid": "P264_general_SOUTH_AMERICA_801"}
+{"sub_uri": "Q6159792", "obj_uri": ["Q6124326"], "sub_label": "Vasti Michel", "obj_label": ["Sello Azul"], "country": ["Q298"], "size": 3839, "uuid": "P264_general_SOUTH_AMERICA_802"}
+{"sub_uri": "Q28949998", "obj_uri": ["Q852900"], "sub_label": "Matías Leonicio", "obj_label": ["Candlelight Records"], "country": ["Q298"], "size": 3773, "uuid": "P264_general_SOUTH_AMERICA_803"}
+{"sub_uri": "Q25405222", "obj_uri": ["Q56760250"], "sub_label": "Joanina Deangeli", "obj_label": ["Sony Music"], "country": ["Q414"], "size": 3753, "uuid": "P264_general_SOUTH_AMERICA_804"}
+{"sub_uri": "Q425538", "obj_uri": ["Q4827811"], "sub_label": "Rosalia de Souza", "obj_label": ["Avatar Records"], "country": ["Q155"], "size": 3740, "uuid": "P264_general_SOUTH_AMERICA_805"}
+{"sub_uri": "Q5548944", "obj_uri": ["Q6073927"], "sub_label": "Homero Caro", "obj_label": ["Peña de los Parra"], "country": ["Q298"], "size": 3740, "uuid": "P264_general_SOUTH_AMERICA_806"}
+{"sub_uri": "Q21019953", "obj_uri": ["Q10393219"], "sub_label": "Bianca Chami", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 3722, "uuid": "P264_general_SOUTH_AMERICA_807"}
+{"sub_uri": "Q1062090", "obj_uri": ["Q3958718"], "sub_label": "Tiago Della Vega", "obj_label": ["SG Records"], "country": ["Q155"], "size": 3716, "uuid": "P264_general_SOUTH_AMERICA_808"}
+{"sub_uri": "Q9594500", "obj_uri": ["Q3964488"], "sub_label": "Alberto Rosenblit", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 3708, "uuid": "P264_general_SOUTH_AMERICA_809"}
+{"sub_uri": "Q6166173", "obj_uri": ["Q3001888"], "sub_label": "Walter Bruno", "obj_label": ["Sony BMG"], "country": ["Q414"], "size": 3704, "uuid": "P264_general_SOUTH_AMERICA_810"}
+{"sub_uri": "Q3007855", "obj_uri": ["Q8045845"], "sub_label": "Curumin", "obj_label": ["YB Music"], "country": ["Q155"], "size": 3692, "uuid": "P264_general_SOUTH_AMERICA_811"}
+{"sub_uri": "Q2839236", "obj_uri": ["Q38903"], "sub_label": "Gonzalo Henríquez", "obj_label": ["Universal Music Group"], "country": ["Q298"], "size": 3690, "uuid": "P264_general_SOUTH_AMERICA_812"}
+{"sub_uri": "Q16941796", "obj_uri": ["Q16141191", "Q2301258"], "sub_label": "Carlos Goberna", "obj_label": ["Orfeo", "Sondor"], "country": ["Q77"], "size": 3689, "uuid": "P264_general_SOUTH_AMERICA_813"}
+{"sub_uri": "Q20724915", "obj_uri": ["Q56517330"], "sub_label": "Felipe Santos", "obj_label": ["Warner Music Spain"], "country": ["Q739"], "size": 3662, "uuid": "P264_general_SOUTH_AMERICA_814"}
+{"sub_uri": "Q1569900", "obj_uri": ["Q3415083"], "sub_label": "Nicanor Molinare", "obj_label": ["RCA Victor"], "country": ["Q298"], "size": 3633, "uuid": "P264_general_SOUTH_AMERICA_815"}
+{"sub_uri": "Q10369761", "obj_uri": ["Q700359"], "sub_label": "Selma Reis", "obj_label": ["PolyGram"], "country": ["Q155"], "size": 3599, "uuid": "P264_general_SOUTH_AMERICA_816"}
+{"sub_uri": "Q2889986", "obj_uri": ["Q5776074"], "sub_label": "Luis Ramírez Saldarriaga", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 3573, "uuid": "P264_general_SOUTH_AMERICA_817"}
+{"sub_uri": "Q16557107", "obj_uri": ["Q50074604"], "sub_label": "Dino Ramos", "obj_label": ["RCA"], "country": ["Q414"], "size": 3537, "uuid": "P264_general_SOUTH_AMERICA_818"}
+{"sub_uri": "Q2618412", "obj_uri": ["Q18628"], "sub_label": "Martín Méndez", "obj_label": ["Roadrunner Records"], "country": ["Q77"], "size": 3515, "uuid": "P264_general_SOUTH_AMERICA_819"}
+{"sub_uri": "Q18223862", "obj_uri": ["Q21077"], "sub_label": "Alejandro Kurz", "obj_label": ["Warner Music Group"], "country": ["Q414"], "size": 3511, "uuid": "P264_general_SOUTH_AMERICA_820"}
+{"sub_uri": "Q62505627", "obj_uri": ["Q5776074"], "sub_label": "Didier Moreno", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 3510, "uuid": "P264_general_SOUTH_AMERICA_821"}
+{"sub_uri": "Q16940449", "obj_uri": ["Q10393219"], "sub_label": "Joyce Cândido", "obj_label": ["Warner Music Brazil"], "country": ["Q155"], "size": 3467, "uuid": "P264_general_SOUTH_AMERICA_822"}
+{"sub_uri": "Q56424234", "obj_uri": ["Q4050308"], "sub_label": "Soledad Vélez", "obj_label": ["Subterfuge Records"], "country": ["Q298"], "size": 3447, "uuid": "P264_general_SOUTH_AMERICA_823"}
+{"sub_uri": "Q1583736", "obj_uri": ["Q5776074"], "sub_label": "Hansel Camacho", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 3386, "uuid": "P264_general_SOUTH_AMERICA_824"}
+{"sub_uri": "Q3002874", "obj_uri": ["Q9657984"], "sub_label": "Cristina Braga", "obj_label": ["Biscoito Fino"], "country": ["Q155"], "size": 3385, "uuid": "P264_general_SOUTH_AMERICA_825"}
+{"sub_uri": "Q16297690", "obj_uri": ["Q5281702"], "sub_label": "Dubán Bayona", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 3376, "uuid": "P264_general_SOUTH_AMERICA_826"}
+{"sub_uri": "Q7365839", "obj_uri": ["Q3415083"], "sub_label": "Ronnie Cord", "obj_label": ["RCA Victor"], "country": ["Q155"], "size": 3339, "uuid": "P264_general_SOUTH_AMERICA_827"}
+{"sub_uri": "Q5463720", "obj_uri": ["Q3001888"], "sub_label": "Flávio José", "obj_label": ["Sony BMG"], "country": ["Q155"], "size": 3325, "uuid": "P264_general_SOUTH_AMERICA_828"}
+{"sub_uri": "Q5997432", "obj_uri": ["Q2301258"], "sub_label": "Mariana García Vigil", "obj_label": ["Sondor"], "country": ["Q77"], "size": 3314, "uuid": "P264_general_SOUTH_AMERICA_829"}
+{"sub_uri": "Q5750569", "obj_uri": ["Q98803883"], "sub_label": "Carlos Hayre", "obj_label": ["Sono Radio"], "country": ["Q419"], "size": 3282, "uuid": "P264_general_SOUTH_AMERICA_830"}
+{"sub_uri": "Q5561442", "obj_uri": ["Q3700396"], "sub_label": "Hernán \"Kiko\" Álvarez", "obj_label": ["DICAP"], "country": ["Q298"], "size": 3237, "uuid": "P264_general_SOUTH_AMERICA_831"}
+{"sub_uri": "Q5945564", "obj_uri": ["Q3700396"], "sub_label": "José Seves", "obj_label": ["DICAP"], "country": ["Q298"], "size": 3206, "uuid": "P264_general_SOUTH_AMERICA_832"}
+{"sub_uri": "Q6406340", "obj_uri": ["Q183412"], "sub_label": "Kiko Zambianchi", "obj_label": ["EMI"], "country": ["Q155"], "size": 3153, "uuid": "P264_general_SOUTH_AMERICA_833"}
+{"sub_uri": "Q5444783", "obj_uri": ["Q183412"], "sub_label": "Fernando Lima", "obj_label": ["EMI"], "country": ["Q414"], "size": 3080, "uuid": "P264_general_SOUTH_AMERICA_834"}
+{"sub_uri": "Q3666789", "obj_uri": ["Q6073927"], "sub_label": "Charo Cofré", "obj_label": ["Peña de los Parra"], "country": ["Q298"], "size": 3055, "uuid": "P264_general_SOUTH_AMERICA_835"}
+{"sub_uri": "Q10303841", "obj_uri": ["Q3964488"], "sub_label": "Isabela Fogaça", "obj_label": ["Som Livre"], "country": ["Q155"], "size": 3000, "uuid": "P264_general_SOUTH_AMERICA_836"}
+{"sub_uri": "Q454715", "obj_uri": ["Q127855"], "sub_label": "Ana Caram", "obj_label": ["Chesky Records"], "country": ["Q155"], "size": 2938, "uuid": "P264_general_SOUTH_AMERICA_837"}
+{"sub_uri": "Q21290290", "obj_uri": ["Q330629"], "sub_label": "Gilson Vieira da Silva", "obj_label": ["Sony Music"], "country": ["Q155"], "size": 2832, "uuid": "P264_general_SOUTH_AMERICA_838"}
+{"sub_uri": "Q5663989", "obj_uri": ["Q38903"], "sub_label": "Marcelo Barrera", "obj_label": ["Universal Music Group"], "country": ["Q414"], "size": 2714, "uuid": "P264_general_SOUTH_AMERICA_839"}
+{"sub_uri": "Q5830833", "obj_uri": ["Q5776074"], "sub_label": "Emilia Herrera", "obj_label": ["Codiscos"], "country": ["Q739"], "size": 2710, "uuid": "P264_general_SOUTH_AMERICA_840"}
+{"sub_uri": "Q7799854", "obj_uri": ["Q183412"], "sub_label": "Théo de Barros", "obj_label": ["EMI"], "country": ["Q155"], "size": 2671, "uuid": "P264_general_SOUTH_AMERICA_841"}
+{"sub_uri": "Q16929934", "obj_uri": ["Q706013"], "sub_label": "Manoel Evêncio da Costa Moreira", "obj_label": ["Odeon"], "country": ["Q155"], "size": 2557, "uuid": "P264_general_SOUTH_AMERICA_842"}
+{"sub_uri": "Q5515937", "obj_uri": ["Q843402"], "sub_label": "Gabriela Anders", "obj_label": ["Warner Bros. Records"], "country": ["Q414"], "size": 2475, "uuid": "P264_general_SOUTH_AMERICA_843"}
+{"sub_uri": "Q17274678", "obj_uri": ["Q202585"], "sub_label": "Hiacho Lezica", "obj_label": ["RCA Records"], "country": ["Q414"], "size": 2341, "uuid": "P264_general_SOUTH_AMERICA_844"}
+{"sub_uri": "Q3554511", "obj_uri": ["Q5323517"], "sub_label": "Vanesa Gabriela Leiro", "obj_label": ["EMI Televisa Music"], "country": ["Q414"], "size": 2334, "uuid": "P264_general_SOUTH_AMERICA_845"}
+{"sub_uri": "Q28518881", "obj_uri": ["Q11332722"], "sub_label": "Magaly Elizabeth Ayala Acevedo", "obj_label": ["Feria Music"], "country": ["Q298"], "size": 2218, "uuid": "P264_general_SOUTH_AMERICA_846"}
+{"sub_uri": "Q25410782", "obj_uri": ["Q5281702"], "sub_label": "Deiner Bayona", "obj_label": ["Discos Fuentes"], "country": ["Q739"], "size": 2058, "uuid": "P264_general_SOUTH_AMERICA_847"}
+{"sub_uri": "Q15901419", "obj_uri": ["Q16141191", "Q2301258"], "sub_label": "Jorginho Gularte", "obj_label": ["Orfeo", "Sondor"], "country": ["Q77"], "size": 2057, "uuid": "P264_general_SOUTH_AMERICA_848"}
+{"sub_uri": "Q30904902", "obj_uri": ["Q3415083"], "sub_label": "Chola Vetere", "obj_label": ["RCA Victor"], "country": ["Q414"], "size": 2007, "uuid": "P264_general_SOUTH_AMERICA_849"}
+{"sub_uri": "Q115860842", "obj_uri": ["Q79060122"], "sub_label": "Magicenelbeat", "obj_label": ["Rimas Entertainment"], "country": ["Q298"], "size": 1870, "uuid": "P264_general_SOUTH_AMERICA_850"}
+{"sub_uri": "Q6166084", "obj_uri": ["Q2301258"], "sub_label": "Waldemar Sasía", "obj_label": ["Sondor"], "country": ["Q77"], "size": 1825, "uuid": "P264_general_SOUTH_AMERICA_851"}
+{"sub_uri": "Q60528896", "obj_uri": ["Q3415083"], "sub_label": "Mirella Gilbert", "obj_label": ["RCA Victor"], "country": ["Q298"], "size": 1593, "uuid": "P264_general_SOUTH_AMERICA_852"}
+{"sub_uri": "Q16337220", "obj_uri": ["Q5434605", "Q8210443"], "sub_label": "Clara Moreno", "obj_label": ["Far Out Recordings", "Avex tune"], "country": ["Q155"], "size": 1493, "uuid": "P264_general_SOUTH_AMERICA_853"}

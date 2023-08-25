@@ -1,0 +1,19 @@
+{"sub_uri": "Q39", "obj_uri": ["Q13199", "Q150", "Q188", "Q652"], "sub_label": "سويسرا", "obj_label": ["الرومانشية", "الفرنسية", "الألمانية", "الإيطالية"], "country": ["Q39"], "size": 383334, "uuid": "P37_general_WESTERN_COUNTRIES_0"}
+{"sub_uri": "Q38", "obj_uri": ["Q652"], "sub_label": "إيطاليا", "obj_label": ["الإيطالية"], "country": ["Q38"], "size": 378547, "uuid": "P37_general_WESTERN_COUNTRIES_1"}
+{"sub_uri": "Q142", "obj_uri": ["Q150"], "sub_label": "فرنسا", "obj_label": ["الفرنسية"], "country": ["Q142"], "size": 371469, "uuid": "P37_general_WESTERN_COUNTRIES_2"}
+{"sub_uri": "Q16", "obj_uri": ["Q150", "Q1860"], "sub_label": "كندا", "obj_label": ["الفرنسية", "الإنجليزية"], "country": ["Q16"], "size": 371104, "uuid": "P37_general_WESTERN_COUNTRIES_3"}
+{"sub_uri": "Q145", "obj_uri": ["Q1860"], "sub_label": "المملكة المتحدة", "obj_label": ["الإنجليزية"], "country": ["Q145"], "size": 354997, "uuid": "P37_general_WESTERN_COUNTRIES_4"}
+{"sub_uri": "Q29", "obj_uri": ["Q1321"], "sub_label": "إسبانيا", "obj_label": ["الإسبانية"], "country": ["Q29"], "size": 320122, "uuid": "P37_general_WESTERN_COUNTRIES_5"}
+{"sub_uri": "Q30", "obj_uri": ["Q1860"], "sub_label": "الولايات المتحدة", "obj_label": ["الإنجليزية"], "country": ["Q30"], "size": 319942, "uuid": "P37_general_WESTERN_COUNTRIES_6"}
+{"sub_uri": "Q45", "obj_uri": ["Q13330", "Q5146"], "sub_label": "البرتغال", "obj_label": ["الميراندية", "البرتغالية"], "country": ["Q45"], "size": 294768, "uuid": "P37_general_WESTERN_COUNTRIES_7"}
+{"sub_uri": "Q183", "obj_uri": ["Q188"], "sub_label": "ألمانيا", "obj_label": ["الألمانية"], "country": ["Q183"], "size": 283016, "uuid": "P37_general_WESTERN_COUNTRIES_8"}
+{"sub_uri": "Q40", "obj_uri": ["Q188", "Q36668"], "sub_label": "النمسا", "obj_label": ["الألمانية", "لغة الإشارة النمساوية"], "country": ["Q40"], "size": 278589, "uuid": "P37_general_WESTERN_COUNTRIES_9"}
+{"sub_uri": "Q32", "obj_uri": ["Q150", "Q188", "Q9051"], "sub_label": "لوكسمبورغ", "obj_label": ["الفرنسية", "الألمانية", "اللوكسمبورغية"], "country": ["Q32"], "size": 233590, "uuid": "P37_general_WESTERN_COUNTRIES_10"}
+{"sub_uri": "Q27", "obj_uri": ["Q1860", "Q9142"], "sub_label": "جمهورية أيرلندا", "obj_label": ["الإنجليزية", "الأيرلندية"], "country": ["Q27"], "size": 233536, "uuid": "P37_general_WESTERN_COUNTRIES_11"}
+{"sub_uri": "Q664", "obj_uri": ["Q1860", "Q36451"], "sub_label": "نيوزيلندا", "obj_label": ["الإنجليزية", "الماورية"], "country": ["Q664"], "size": 219023, "uuid": "P37_general_WESTERN_COUNTRIES_12"}
+{"sub_uri": "Q408", "obj_uri": ["Q1860"], "sub_label": "أستراليا", "obj_label": ["الإنجليزية"], "country": ["Q408"], "size": 214467, "uuid": "P37_general_WESTERN_COUNTRIES_13"}
+{"sub_uri": "Q31", "obj_uri": ["Q150", "Q188", "Q7411"], "sub_label": "بلجيكا", "obj_label": ["الفرنسية", "الألمانية", "الهولندية"], "country": ["Q31"], "size": 204685, "uuid": "P37_general_WESTERN_COUNTRIES_14"}
+{"sub_uri": "Q347", "obj_uri": ["Q188"], "sub_label": "ليختنشتاين", "obj_label": ["الألمانية"], "country": ["Q347"], "size": 177866, "uuid": "P37_general_WESTERN_COUNTRIES_15"}
+{"sub_uri": "Q235", "obj_uri": ["Q150"], "sub_label": "موناكو", "obj_label": ["الفرنسية"], "country": ["Q235"], "size": 169499, "uuid": "P37_general_WESTERN_COUNTRIES_16"}
+{"sub_uri": "Q228", "obj_uri": ["Q7026"], "sub_label": "أندورا", "obj_label": ["القطلونية"], "country": ["Q228"], "size": 163472, "uuid": "P37_general_WESTERN_COUNTRIES_17"}
+{"sub_uri": "Q238", "obj_uri": ["Q652"], "sub_label": "سان مارينو", "obj_label": ["الإيطالية"], "country": ["Q238"], "size": 99159, "uuid": "P37_general_WESTERN_COUNTRIES_18"}

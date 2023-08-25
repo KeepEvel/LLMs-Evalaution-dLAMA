@@ -1,0 +1,1000 @@
+{"sub_uri": "Q10132", "obj_uri": ["Q1321", "Q1860", "Q7026"], "sub_label": "Rafael Nadal", "obj_label": ["español", "inglés", "catalán"], "country": ["Q29"], "size": 606694, "uuid": "P1412_general_WESTERN_COUNTRIES_0"}
+{"sub_uri": "Q311634", "obj_uri": ["Q150"], "sub_label": "Gilles de Rais", "obj_label": ["francés"], "country": ["Q142"], "size": 482488, "uuid": "P1412_general_WESTERN_COUNTRIES_1"}
+{"sub_uri": "Q19816447", "obj_uri": ["Q150"], "sub_label": "Gilbert Sincyr", "obj_label": ["francés"], "country": ["Q142"], "size": 440294, "uuid": "P1412_general_WESTERN_COUNTRIES_2"}
+{"sub_uri": "Q5829", "obj_uri": ["Q1321", "Q150"], "sub_label": "Jean-Luc Mélenchon", "obj_label": ["español", "francés"], "country": ["Q142"], "size": 436799, "uuid": "P1412_general_WESTERN_COUNTRIES_3"}
+{"sub_uri": "Q689494", "obj_uri": ["Q150"], "sub_label": "Dieudonné M'bala M'bala", "obj_label": ["francés"], "country": ["Q142"], "size": 436037, "uuid": "P1412_general_WESTERN_COUNTRIES_4"}
+{"sub_uri": "Q180589", "obj_uri": ["Q150", "Q1860"], "sub_label": "Boris Johnson", "obj_label": ["francés", "inglés"], "country": ["Q145", "Q30"], "size": 433128, "uuid": "P1412_general_WESTERN_COUNTRIES_5"}
+{"sub_uri": "Q22686", "obj_uri": ["Q1860"], "sub_label": "Donald Trump", "obj_label": ["inglés"], "country": ["Q30"], "size": 417723, "uuid": "P1412_general_WESTERN_COUNTRIES_6"}
+{"sub_uri": "Q2075740", "obj_uri": ["Q1860"], "sub_label": "Annabeth Chase", "obj_label": ["inglés"], "country": ["Q30"], "size": 416167, "uuid": "P1412_general_WESTERN_COUNTRIES_7"}
+{"sub_uri": "Q615", "obj_uri": ["Q1321"], "sub_label": "Lionel Messi", "obj_label": ["español"], "country": ["Q29", "Q38"], "size": 415731, "uuid": "P1412_general_WESTERN_COUNTRIES_8"}
+{"sub_uri": "Q28838206", "obj_uri": ["Q150"], "sub_label": "Jean-Michel Macron", "obj_label": ["francés"], "country": ["Q142"], "size": 413190, "uuid": "P1412_general_WESTERN_COUNTRIES_9"}
+{"sub_uri": "Q3052772", "obj_uri": ["Q150", "Q1860"], "sub_label": "Emmanuel Macron", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 413190, "uuid": "P1412_general_WESTERN_COUNTRIES_10"}
+{"sub_uri": "Q12927", "obj_uri": ["Q150"], "sub_label": "Marine Le Pen", "obj_label": ["francés"], "country": ["Q142"], "size": 401929, "uuid": "P1412_general_WESTERN_COUNTRIES_11"}
+{"sub_uri": "Q2105", "obj_uri": ["Q150", "Q1860", "Q7737"], "sub_label": "Jacques Chirac", "obj_label": ["francés", "inglés", "ruso"], "country": ["Q142"], "size": 395486, "uuid": "P1412_general_WESTERN_COUNTRIES_12"}
+{"sub_uri": "Q1835", "obj_uri": ["Q1321", "Q13955", "Q150", "Q35853", "Q652"], "sub_label": "Zinedine Zidane", "obj_label": ["español", "árabe", "francés", "cabilio", "italiano"], "country": ["Q142"], "size": 389014, "uuid": "P1412_general_WESTERN_COUNTRIES_13"}
+{"sub_uri": "Q215842", "obj_uri": ["Q188"], "sub_label": "Franz Wilhelm Junghuhn", "obj_label": ["alemán"], "country": ["Q183", "Q55"], "size": 388783, "uuid": "P1412_general_WESTERN_COUNTRIES_14"}
+{"sub_uri": "Q5888937", "obj_uri": ["Q1321"], "sub_label": "Guillermo Silveira", "obj_label": ["español"], "country": ["Q29"], "size": 387971, "uuid": "P1412_general_WESTERN_COUNTRIES_15"}
+{"sub_uri": "Q496850", "obj_uri": ["Q150"], "sub_label": "René Guénon", "obj_label": ["francés"], "country": ["Q142"], "size": 386166, "uuid": "P1412_general_WESTERN_COUNTRIES_16"}
+{"sub_uri": "Q44197", "obj_uri": ["Q150", "Q652"], "sub_label": "Maximilien Robespierre", "obj_label": ["francés", "italiano"], "country": ["Q142"], "size": 383991, "uuid": "P1412_general_WESTERN_COUNTRIES_17"}
+{"sub_uri": "Q192661", "obj_uri": ["Q150"], "sub_label": "Jo-Wilfried Tsonga", "obj_label": ["francés"], "country": ["Q142"], "size": 383236, "uuid": "P1412_general_WESTERN_COUNTRIES_18"}
+{"sub_uri": "Q36153", "obj_uri": ["Q1860"], "sub_label": "Beyoncé", "obj_label": ["inglés"], "country": ["Q30"], "size": 381947, "uuid": "P1412_general_WESTERN_COUNTRIES_19"}
+{"sub_uri": "Q11571", "obj_uri": ["Q1321", "Q1860", "Q5146"], "sub_label": "Cristiano Ronaldo", "obj_label": ["español", "inglés", "portugués"], "country": ["Q45"], "size": 381221, "uuid": "P1412_general_WESTERN_COUNTRIES_20"}
+{"sub_uri": "Q291169", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Jeremy Corbyn", "obj_label": ["español", "inglés"], "country": ["Q145"], "size": 379819, "uuid": "P1412_general_WESTERN_COUNTRIES_21"}
+{"sub_uri": "Q3816", "obj_uri": ["Q150"], "sub_label": "George Sand", "obj_label": ["francés"], "country": ["Q142"], "size": 379807, "uuid": "P1412_general_WESTERN_COUNTRIES_22"}
+{"sub_uri": "Q5076629", "obj_uri": ["Q1860"], "sub_label": "Charlie Baker", "obj_label": ["inglés"], "country": ["Q30"], "size": 366487, "uuid": "P1412_general_WESTERN_COUNTRIES_23"}
+{"sub_uri": "Q68060", "obj_uri": ["Q652"], "sub_label": "Gianluigi Buffon", "obj_label": ["italiano"], "country": ["Q38"], "size": 364242, "uuid": "P1412_general_WESTERN_COUNTRIES_24"}
+{"sub_uri": "Q7855", "obj_uri": ["Q150"], "sub_label": "Sébastien Loeb", "obj_label": ["francés"], "country": ["Q142"], "size": 363489, "uuid": "P1412_general_WESTERN_COUNTRIES_25"}
+{"sub_uri": "Q44627610", "obj_uri": ["Q188"], "sub_label": "Bahtiyar Duysak", "obj_label": ["alemán"], "country": ["Q183"], "size": 359591, "uuid": "P1412_general_WESTERN_COUNTRIES_26"}
+{"sub_uri": "Q7287916", "obj_uri": ["Q1860"], "sub_label": "Ralph Northam", "obj_label": ["inglés"], "country": ["Q30"], "size": 357080, "uuid": "P1412_general_WESTERN_COUNTRIES_27"}
+{"sub_uri": "Q76", "obj_uri": ["Q1860", "Q9240"], "sub_label": "Barack Obama", "obj_label": ["inglés", "indonesio"], "country": ["Q30"], "size": 356914, "uuid": "P1412_general_WESTERN_COUNTRIES_28"}
+{"sub_uri": "Q128799", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Ricky Martin", "obj_label": ["español", "inglés"], "country": ["Q29"], "size": 356856, "uuid": "P1412_general_WESTERN_COUNTRIES_29"}
+{"sub_uri": "Q2124", "obj_uri": ["Q150", "Q188"], "sub_label": "Valéry Giscard d'Estaing", "obj_label": ["francés", "alemán"], "country": ["Q142"], "size": 353986, "uuid": "P1412_general_WESTERN_COUNTRIES_30"}
+{"sub_uri": "Q7721", "obj_uri": ["Q150"], "sub_label": "Napoleón III", "obj_label": ["francés"], "country": ["Q142"], "size": 347673, "uuid": "P1412_general_WESTERN_COUNTRIES_31"}
+{"sub_uri": "Q27646615", "obj_uri": ["Q150"], "sub_label": "Christian Veillet", "obj_label": ["francés"], "country": ["Q142"], "size": 347430, "uuid": "P1412_general_WESTERN_COUNTRIES_32"}
+{"sub_uri": "Q530732", "obj_uri": ["Q652"], "sub_label": "Plinio Antolini", "obj_label": ["italiano"], "country": ["Q38"], "size": 347430, "uuid": "P1412_general_WESTERN_COUNTRIES_33"}
+{"sub_uri": "Q30161207", "obj_uri": ["Q652"], "sub_label": "Paolo Bacci", "obj_label": ["italiano"], "country": ["Q38"], "size": 347430, "uuid": "P1412_general_WESTERN_COUNTRIES_34"}
+{"sub_uri": "Q3764458", "obj_uri": ["Q652"], "sub_label": "Gina Fedon", "obj_label": ["italiano"], "country": ["Q30", "Q38"], "size": 347430, "uuid": "P1412_general_WESTERN_COUNTRIES_35"}
+{"sub_uri": "Q6279", "obj_uri": ["Q1860"], "sub_label": "Joe Biden", "obj_label": ["inglés"], "country": ["Q30"], "size": 346586, "uuid": "P1412_general_WESTERN_COUNTRIES_36"}
+{"sub_uri": "Q26876", "obj_uri": ["Q1860"], "sub_label": "Taylor Swift", "obj_label": ["inglés"], "country": ["Q30"], "size": 346475, "uuid": "P1412_general_WESTERN_COUNTRIES_37"}
+{"sub_uri": "Q982584", "obj_uri": ["Q150"], "sub_label": "Pierre André de Suffren de Saint Tropez", "obj_label": ["francés"], "country": ["Q142"], "size": 341727, "uuid": "P1412_general_WESTERN_COUNTRIES_38"}
+{"sub_uri": "Q29179", "obj_uri": ["Q1321"], "sub_label": "Francisco Franco", "obj_label": ["español"], "country": ["Q29"], "size": 335426, "uuid": "P1412_general_WESTERN_COUNTRIES_39"}
+{"sub_uri": "Q329", "obj_uri": ["Q150"], "sub_label": "Nicolas Sarkozy", "obj_label": ["francés"], "country": ["Q142"], "size": 333764, "uuid": "P1412_general_WESTERN_COUNTRIES_40"}
+{"sub_uri": "Q7539", "obj_uri": ["Q1860"], "sub_label": "Peyton Manning", "obj_label": ["inglés"], "country": ["Q30"], "size": 333052, "uuid": "P1412_general_WESTERN_COUNTRIES_41"}
+{"sub_uri": "Q4496", "obj_uri": ["Q150", "Q1860"], "sub_label": "Mitt Romney", "obj_label": ["francés", "inglés"], "country": ["Q30"], "size": 332563, "uuid": "P1412_general_WESTERN_COUNTRIES_42"}
+{"sub_uri": "Q23685", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Jimmy Carter", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 329368, "uuid": "P1412_general_WESTERN_COUNTRIES_43"}
+{"sub_uri": "Q274540", "obj_uri": ["Q150"], "sub_label": "Alexandre Millerand", "obj_label": ["francés"], "country": ["Q142"], "size": 328395, "uuid": "P1412_general_WESTERN_COUNTRIES_44"}
+{"sub_uri": "Q2042", "obj_uri": ["Q150"], "sub_label": "Charles de Gaulle", "obj_label": ["francés"], "country": ["Q142"], "size": 324956, "uuid": "P1412_general_WESTERN_COUNTRIES_45"}
+{"sub_uri": "Q3048", "obj_uri": ["Q150"], "sub_label": "Charles Maurras", "obj_label": ["francés"], "country": ["Q142"], "size": 322700, "uuid": "P1412_general_WESTERN_COUNTRIES_46"}
+{"sub_uri": "Q212648", "obj_uri": ["Q1860"], "sub_label": "Rudy Giuliani", "obj_label": ["inglés"], "country": ["Q30"], "size": 322300, "uuid": "P1412_general_WESTERN_COUNTRIES_47"}
+{"sub_uri": "Q11860", "obj_uri": ["Q150", "Q1860", "Q652"], "sub_label": "Silvio Berlusconi", "obj_label": ["francés", "inglés", "italiano"], "country": ["Q38"], "size": 320624, "uuid": "P1412_general_WESTERN_COUNTRIES_48"}
+{"sub_uri": "Q7732", "obj_uri": ["Q1321", "Q150"], "sub_label": "Luis XVI", "obj_label": ["español", "francés"], "country": ["Q142"], "size": 319951, "uuid": "P1412_general_WESTERN_COUNTRIES_49"}
+{"sub_uri": "Q272416", "obj_uri": ["Q150", "Q1860", "Q188", "Q652", "Q8108"], "sub_label": "Salome Zourabichvili", "obj_label": ["francés", "inglés", "alemán", "italiano", "georgiano"], "country": ["Q142"], "size": 319834, "uuid": "P1412_general_WESTERN_COUNTRIES_50"}
+{"sub_uri": "Q271676", "obj_uri": ["Q150"], "sub_label": "Charles Le Brun", "obj_label": ["francés"], "country": ["Q142"], "size": 319690, "uuid": "P1412_general_WESTERN_COUNTRIES_51"}
+{"sub_uri": "Q25369", "obj_uri": ["Q1321", "Q1860", "Q652"], "sub_label": "Kobe Bryant", "obj_label": ["español", "inglés", "italiano"], "country": ["Q30"], "size": 315507, "uuid": "P1412_general_WESTERN_COUNTRIES_52"}
+{"sub_uri": "Q193661", "obj_uri": ["Q150"], "sub_label": "Stanislas Wawrinka", "obj_label": ["francés"], "country": ["Q39"], "size": 314957, "uuid": "P1412_general_WESTERN_COUNTRIES_53"}
+{"sub_uri": "Q11459", "obj_uri": ["Q150", "Q1860"], "sub_label": "Serena Williams", "obj_label": ["francés", "inglés"], "country": ["Q30"], "size": 313961, "uuid": "P1412_general_WESTERN_COUNTRIES_54"}
+{"sub_uri": "Q19848", "obj_uri": ["Q1860"], "sub_label": "Lady Gaga", "obj_label": ["inglés"], "country": ["Q30"], "size": 313476, "uuid": "P1412_general_WESTERN_COUNTRIES_55"}
+{"sub_uri": "Q10125", "obj_uri": ["Q1860"], "sub_label": "Andy Murray", "obj_label": ["inglés"], "country": ["Q145"], "size": 313221, "uuid": "P1412_general_WESTERN_COUNTRIES_56"}
+{"sub_uri": "Q207", "obj_uri": ["Q1321", "Q1860"], "sub_label": "George W. Bush", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 311836, "uuid": "P1412_general_WESTERN_COUNTRIES_57"}
+{"sub_uri": "Q17455", "obj_uri": ["Q150", "Q1860", "Q188", "Q35497", "Q397", "Q9067"], "sub_label": "John von Neumann", "obj_label": ["francés", "inglés", "alemán", "griego antiguo", "latín", "húngaro"], "country": ["Q30"], "size": 311681, "uuid": "P1412_general_WESTERN_COUNTRIES_58"}
+{"sub_uri": "Q557600", "obj_uri": ["Q1860"], "sub_label": "Benjamin Banneker", "obj_label": ["inglés"], "country": ["Q30"], "size": 310118, "uuid": "P1412_general_WESTERN_COUNTRIES_59"}
+{"sub_uri": "Q4723438", "obj_uri": ["Q188"], "sub_label": "Alfred Siegling", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_60"}
+{"sub_uri": "Q5492969", "obj_uri": ["Q188"], "sub_label": "Franz Siebert", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_61"}
+{"sub_uri": "Q8002311", "obj_uri": ["Q188"], "sub_label": "Wilhelm Spindler", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_62"}
+{"sub_uri": "Q7329195", "obj_uri": ["Q188"], "sub_label": "Richard Spörle", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_63"}
+{"sub_uri": "Q16013091", "obj_uri": ["Q188"], "sub_label": "Karl-Heinz Schulz-Lepel", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_64"}
+{"sub_uri": "Q6216998", "obj_uri": ["Q188"], "sub_label": "Johannes Spielmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_65"}
+{"sub_uri": "Q6372505", "obj_uri": ["Q188"], "sub_label": "Karlheinz Schulz Streeck", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_66"}
+{"sub_uri": "Q5650723", "obj_uri": ["Q188"], "sub_label": "Hans Siegel", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_67"}
+{"sub_uri": "Q5650754", "obj_uri": ["Q188"], "sub_label": "Hans Sturm", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_68"}
+{"sub_uri": "Q1698452", "obj_uri": ["Q188"], "sub_label": "Johannes Straub", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_69"}
+{"sub_uri": "Q16014512", "obj_uri": ["Q188"], "sub_label": "Hubert Sniers", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_70"}
+{"sub_uri": "Q612003", "obj_uri": ["Q188"], "sub_label": "Hans-Günther Stotten", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_71"}
+{"sub_uri": "Q19666891", "obj_uri": ["Q188"], "sub_label": "Gerhard Simons", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_72"}
+{"sub_uri": "Q6204642", "obj_uri": ["Q188"], "sub_label": "Joachim Schubach", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_73"}
+{"sub_uri": "Q5395142", "obj_uri": ["Q188"], "sub_label": "Ernst Sorge", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_74"}
+{"sub_uri": "Q1577475", "obj_uri": ["Q188"], "sub_label": "Hans-Joachim Schulz-Merkel", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_75"}
+{"sub_uri": "Q4527699", "obj_uri": ["Q188"], "sub_label": "Kurt Schumacher", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_76"}
+{"sub_uri": "Q95686", "obj_uri": ["Q188"], "sub_label": "Gerd Suhren", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_77"}
+{"sub_uri": "Q5535813", "obj_uri": ["Q188"], "sub_label": "Georg Seelmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_78"}
+{"sub_uri": "Q5700380", "obj_uri": ["Q188"], "sub_label": "Heinrich Starke", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_79"}
+{"sub_uri": "Q7966678", "obj_uri": ["Q188"], "sub_label": "Walther Sievers", "obj_label": ["alemán"], "country": ["Q183"], "size": 307489, "uuid": "P1412_general_WESTERN_COUNTRIES_80"}
+{"sub_uri": "Q288477", "obj_uri": ["Q150", "Q9288"], "sub_label": "Éric Zemmour", "obj_label": ["francés", "hebreo"], "country": ["Q142"], "size": 304243, "uuid": "P1412_general_WESTERN_COUNTRIES_81"}
+{"sub_uri": "Q743162", "obj_uri": ["Q1860"], "sub_label": "Tucker Carlson", "obj_label": ["inglés"], "country": ["Q30"], "size": 303416, "uuid": "P1412_general_WESTERN_COUNTRIES_82"}
+{"sub_uri": "Q105377", "obj_uri": ["Q188"], "sub_label": "Hans Staininger", "obj_label": ["alemán"], "country": ["Q183"], "size": 301884, "uuid": "P1412_general_WESTERN_COUNTRIES_83"}
+{"sub_uri": "Q207359", "obj_uri": ["Q150"], "sub_label": "Georges Bataille", "obj_label": ["francés"], "country": ["Q142"], "size": 300498, "uuid": "P1412_general_WESTERN_COUNTRIES_84"}
+{"sub_uri": "Q198644", "obj_uri": ["Q150"], "sub_label": "Paul Bourget", "obj_label": ["francés"], "country": ["Q142"], "size": 300270, "uuid": "P1412_general_WESTERN_COUNTRIES_85"}
+{"sub_uri": "Q113941", "obj_uri": ["Q1450506", "Q150", "Q1860", "Q44676"], "sub_label": "Maurice Duplessis", "obj_label": ["francés canadiense", "francés", "inglés", "inglés canadiense"], "country": ["Q16"], "size": 299896, "uuid": "P1412_general_WESTERN_COUNTRIES_86"}
+{"sub_uri": "Q299355", "obj_uri": ["Q1860"], "sub_label": "Bryan Danielson", "obj_label": ["inglés"], "country": ["Q30"], "size": 298444, "uuid": "P1412_general_WESTERN_COUNTRIES_87"}
+{"sub_uri": "Q454010", "obj_uri": ["Q150", "Q1860", "Q652"], "sub_label": "Amanda Lear", "obj_label": ["francés", "inglés", "italiano"], "country": ["Q142"], "size": 297651, "uuid": "P1412_general_WESTERN_COUNTRIES_88"}
+{"sub_uri": "Q541599", "obj_uri": ["Q1860"], "sub_label": "Dolores O'Riordan", "obj_label": ["inglés"], "country": ["Q27"], "size": 297163, "uuid": "P1412_general_WESTERN_COUNTRIES_89"}
+{"sub_uri": "Q1426", "obj_uri": ["Q150", "Q1860", "Q188", "Q387066"], "sub_label": "Roger Federer", "obj_label": ["francés", "inglés", "alemán", "alemán de Suiza"], "country": ["Q39"], "size": 296721, "uuid": "P1412_general_WESTERN_COUNTRIES_90"}
+{"sub_uri": "Q9685", "obj_uri": ["Q1860", "Q33000"], "sub_label": "Diana de Gales", "obj_label": ["inglés", "Lengua de señas británica"], "country": ["Q145"], "size": 296670, "uuid": "P1412_general_WESTERN_COUNTRIES_91"}
+{"sub_uri": "Q317521", "obj_uri": ["Q1860"], "sub_label": "Elon Musk", "obj_label": ["inglés"], "country": ["Q16", "Q30"], "size": 295649, "uuid": "P1412_general_WESTERN_COUNTRIES_92"}
+{"sub_uri": "Q36159", "obj_uri": ["Q1860"], "sub_label": "LeBron James", "obj_label": ["inglés"], "country": ["Q30"], "size": 292948, "uuid": "P1412_general_WESTERN_COUNTRIES_93"}
+{"sub_uri": "Q22302412", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Savannah Brinson", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 292948, "uuid": "P1412_general_WESTERN_COUNTRIES_94"}
+{"sub_uri": "Q101410", "obj_uri": ["Q150"], "sub_label": "François Fillon", "obj_label": ["francés"], "country": ["Q142"], "size": 292212, "uuid": "P1412_general_WESTERN_COUNTRIES_95"}
+{"sub_uri": "Q24313", "obj_uri": ["Q1860"], "sub_label": "Mike Pence", "obj_label": ["inglés"], "country": ["Q30"], "size": 292084, "uuid": "P1412_general_WESTERN_COUNTRIES_96"}
+{"sub_uri": "Q169814", "obj_uri": ["Q652"], "sub_label": "Valentino Rossi", "obj_label": ["italiano"], "country": ["Q38"], "size": 291983, "uuid": "P1412_general_WESTERN_COUNTRIES_97"}
+{"sub_uri": "Q206", "obj_uri": ["Q150", "Q1860"], "sub_label": "Stephen Harper", "obj_label": ["francés", "inglés"], "country": ["Q16"], "size": 290540, "uuid": "P1412_general_WESTERN_COUNTRIES_98"}
+{"sub_uri": "Q3042797", "obj_uri": ["Q150"], "sub_label": "Joseph Malègue", "obj_label": ["francés"], "country": ["Q142"], "size": 290521, "uuid": "P1412_general_WESTERN_COUNTRIES_99"}
+{"sub_uri": "Q331115", "obj_uri": ["Q150"], "sub_label": "Joseph René Vilatte", "obj_label": ["francés"], "country": ["Q142"], "size": 288983, "uuid": "P1412_general_WESTERN_COUNTRIES_100"}
+{"sub_uri": "Q359442", "obj_uri": ["Q1860"], "sub_label": "Bernie Sanders", "obj_label": ["inglés"], "country": ["Q30"], "size": 288078, "uuid": "P1412_general_WESTERN_COUNTRIES_101"}
+{"sub_uri": "Q212015", "obj_uri": ["Q150"], "sub_label": "Johnny Hallyday", "obj_label": ["francés"], "country": ["Q142"], "size": 286110, "uuid": "P1412_general_WESTERN_COUNTRIES_102"}
+{"sub_uri": "Q5181028", "obj_uri": ["Q1860"], "sub_label": "Craig Heller", "obj_label": ["inglés"], "country": ["Q30"], "size": 285546, "uuid": "P1412_general_WESTERN_COUNTRIES_103"}
+{"sub_uri": "Q6294", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Hillary Clinton", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 285428, "uuid": "P1412_general_WESTERN_COUNTRIES_104"}
+{"sub_uri": "Q1233", "obj_uri": ["Q652"], "sub_label": "Sandro Pertini", "obj_label": ["italiano"], "country": ["Q38"], "size": 284978, "uuid": "P1412_general_WESTERN_COUNTRIES_105"}
+{"sub_uri": "Q9673", "obj_uri": ["Q1860"], "sub_label": "Lewis Hamilton", "obj_label": ["inglés"], "country": ["Q145"], "size": 282517, "uuid": "P1412_general_WESTERN_COUNTRIES_106"}
+{"sub_uri": "Q43274", "obj_uri": ["Q1860", "Q188"], "sub_label": "Carlos III del Reino Unido", "obj_label": ["inglés", "alemán"], "country": ["Q145"], "size": 282266, "uuid": "P1412_general_WESTERN_COUNTRIES_107"}
+{"sub_uri": "Q67964", "obj_uri": ["Q32724", "Q652"], "sub_label": "Roberto Baggio", "obj_label": ["véneto", "italiano"], "country": ["Q38"], "size": 281374, "uuid": "P1412_general_WESTERN_COUNTRIES_108"}
+{"sub_uri": "Q1451213", "obj_uri": ["Q150"], "sub_label": "François Tristan L'Hermite", "obj_label": ["francés"], "country": ["Q142"], "size": 281271, "uuid": "P1412_general_WESTERN_COUNTRIES_109"}
+{"sub_uri": "Q213614", "obj_uri": ["Q150"], "sub_label": "Cyrano de Bergerac", "obj_label": ["francés"], "country": ["Q142"], "size": 280982, "uuid": "P1412_general_WESTERN_COUNTRIES_110"}
+{"sub_uri": "Q10390", "obj_uri": ["Q1860"], "sub_label": "John McCain", "obj_label": ["inglés"], "country": ["Q30"], "size": 280622, "uuid": "P1412_general_WESTERN_COUNTRIES_111"}
+{"sub_uri": "Q360", "obj_uri": ["Q1860"], "sub_label": "Julian Assange", "obj_label": ["inglés"], "country": ["Q408"], "size": 280439, "uuid": "P1412_general_WESTERN_COUNTRIES_112"}
+{"sub_uri": "Q5388140", "obj_uri": ["Q188"], "sub_label": "Erich von Selle", "obj_label": ["alemán"], "country": ["Q183"], "size": 280223, "uuid": "P1412_general_WESTERN_COUNTRIES_113"}
+{"sub_uri": "Q41076", "obj_uri": ["Q1860"], "sub_label": "Mariah Carey", "obj_label": ["inglés"], "country": ["Q30"], "size": 278608, "uuid": "P1412_general_WESTERN_COUNTRIES_114"}
+{"sub_uri": "Q312755", "obj_uri": ["Q1860", "Q7411"], "sub_label": "Eric Walter Elst", "obj_label": ["inglés", "neerlandés"], "country": ["Q31"], "size": 277218, "uuid": "P1412_general_WESTERN_COUNTRIES_115"}
+{"sub_uri": "Q33240", "obj_uri": ["Q1321", "Q1860", "Q56649449", "Q736236"], "sub_label": "Drake", "obj_label": ["español", "inglés", "español latinoamericano", "español peruano"], "country": ["Q16", "Q30"], "size": 276734, "uuid": "P1412_general_WESTERN_COUNTRIES_116"}
+{"sub_uri": "Q974693", "obj_uri": ["Q1860", "Q33973", "Q652"], "sub_label": "italoestadounidense", "obj_label": ["inglés", "siciliano", "italiano"], "country": ["Q30"], "size": 275878, "uuid": "P1412_general_WESTERN_COUNTRIES_117"}
+{"sub_uri": "Q551439", "obj_uri": ["Q150"], "sub_label": "Patrick Dewaere", "obj_label": ["francés"], "country": ["Q142"], "size": 275805, "uuid": "P1412_general_WESTERN_COUNTRIES_118"}
+{"sub_uri": "Q112123608", "obj_uri": ["Q1860"], "sub_label": "Salvador Rolando Ramos Jr.", "obj_label": ["inglés"], "country": ["Q30"], "size": 275013, "uuid": "P1412_general_WESTERN_COUNTRIES_119"}
+{"sub_uri": "Q310450", "obj_uri": ["Q1860"], "sub_label": "Steve Davis", "obj_label": ["inglés"], "country": ["Q145"], "size": 275012, "uuid": "P1412_general_WESTERN_COUNTRIES_120"}
+{"sub_uri": "Q60025", "obj_uri": ["Q1860", "Q188"], "sub_label": "Hannah Arendt", "obj_label": ["inglés", "alemán"], "country": ["Q183", "Q30"], "size": 274658, "uuid": "P1412_general_WESTERN_COUNTRIES_121"}
+{"sub_uri": "Q537679", "obj_uri": ["Q1860"], "sub_label": "Ben Roethlisberger", "obj_label": ["inglés"], "country": ["Q30"], "size": 274348, "uuid": "P1412_general_WESTERN_COUNTRIES_122"}
+{"sub_uri": "Q2480288", "obj_uri": ["Q1860"], "sub_label": "Kearney Zzyzwicz", "obj_label": ["inglés"], "country": ["Q30"], "size": 273786, "uuid": "P1412_general_WESTERN_COUNTRIES_123"}
+{"sub_uri": "Q1644810", "obj_uri": ["Q1860"], "sub_label": "Lenny Leonard", "obj_label": ["inglés"], "country": ["Q30"], "size": 273786, "uuid": "P1412_general_WESTERN_COUNTRIES_124"}
+{"sub_uri": "Q44144", "obj_uri": ["Q1860"], "sub_label": "Chris Jericho", "obj_label": ["inglés"], "country": ["Q16", "Q30"], "size": 273446, "uuid": "P1412_general_WESTERN_COUNTRIES_125"}
+{"sub_uri": "Q215546", "obj_uri": ["Q1860"], "sub_label": "Carrie Underwood", "obj_label": ["inglés"], "country": ["Q30"], "size": 273058, "uuid": "P1412_general_WESTERN_COUNTRIES_126"}
+{"sub_uri": "Q152316", "obj_uri": ["Q1860", "Q7979"], "sub_label": "Enrique de Sussex", "obj_label": ["inglés", "inglés británico"], "country": ["Q145"], "size": 272887, "uuid": "P1412_general_WESTERN_COUNTRIES_127"}
+{"sub_uri": "Q8027", "obj_uri": ["Q1860"], "sub_label": "Martin Luther King Jr.", "obj_label": ["inglés"], "country": ["Q30"], "size": 272824, "uuid": "P1412_general_WESTERN_COUNTRIES_128"}
+{"sub_uri": "Q515633", "obj_uri": ["Q150"], "sub_label": "Jean Cavaillès", "obj_label": ["francés"], "country": ["Q142"], "size": 272286, "uuid": "P1412_general_WESTERN_COUNTRIES_129"}
+{"sub_uri": "Q3687082", "obj_uri": ["Q1860"], "sub_label": "Connor Ratonhnhaké:ton Kenway", "obj_label": ["inglés"], "country": ["Q30"], "size": 271557, "uuid": "P1412_general_WESTERN_COUNTRIES_130"}
+{"sub_uri": "Q62067238", "obj_uri": ["Q1860"], "sub_label": "Brenton Tarrant", "obj_label": ["inglés"], "country": ["Q408"], "size": 270134, "uuid": "P1412_general_WESTERN_COUNTRIES_131"}
+{"sub_uri": "Q40912", "obj_uri": ["Q1860"], "sub_label": "Frank Sinatra", "obj_label": ["inglés"], "country": ["Q30"], "size": 269773, "uuid": "P1412_general_WESTERN_COUNTRIES_132"}
+{"sub_uri": "Q5383", "obj_uri": ["Q1860"], "sub_label": "David Bowie", "obj_label": ["inglés"], "country": ["Q145"], "size": 269755, "uuid": "P1412_general_WESTERN_COUNTRIES_133"}
+{"sub_uri": "Q113384", "obj_uri": ["Q1860"], "sub_label": "Jon Moxley", "obj_label": ["inglés"], "country": ["Q30"], "size": 268267, "uuid": "P1412_general_WESTERN_COUNTRIES_134"}
+{"sub_uri": "Q66712838", "obj_uri": ["Q1860"], "sub_label": "Becky Jackson", "obj_label": ["inglés"], "country": ["Q30"], "size": 268184, "uuid": "P1412_general_WESTERN_COUNTRIES_135"}
+{"sub_uri": "Q3384078", "obj_uri": ["Q150"], "sub_label": "Pierre Bonny", "obj_label": ["francés"], "country": ["Q142"], "size": 267224, "uuid": "P1412_general_WESTERN_COUNTRIES_136"}
+{"sub_uri": "Q517", "obj_uri": ["Q150"], "sub_label": "Napoleón Bonaparte", "obj_label": ["francés"], "country": ["Q142"], "size": 267008, "uuid": "P1412_general_WESTERN_COUNTRIES_137"}
+{"sub_uri": "Q11975", "obj_uri": ["Q1860"], "sub_label": "Britney Spears", "obj_label": ["inglés"], "country": ["Q30"], "size": 266910, "uuid": "P1412_general_WESTERN_COUNTRIES_138"}
+{"sub_uri": "Q33866", "obj_uri": ["Q150", "Q1860", "Q188", "Q652"], "sub_label": "Theodore Roosevelt", "obj_label": ["francés", "inglés", "alemán", "italiano"], "country": ["Q30"], "size": 266446, "uuid": "P1412_general_WESTERN_COUNTRIES_139"}
+{"sub_uri": "Q1292599", "obj_uri": ["Q150"], "sub_label": "François de Charette", "obj_label": ["francés"], "country": ["Q142"], "size": 266111, "uuid": "P1412_general_WESTERN_COUNTRIES_140"}
+{"sub_uri": "Q2904131", "obj_uri": ["Q1860"], "sub_label": "Jeffrey Epstein", "obj_label": ["inglés"], "country": ["Q30"], "size": 265978, "uuid": "P1412_general_WESTERN_COUNTRIES_141"}
+{"sub_uri": "Q13424289", "obj_uri": ["Q150", "Q1860"], "sub_label": "Edward Snowden", "obj_label": ["francés", "inglés"], "country": ["Q30"], "size": 265925, "uuid": "P1412_general_WESTERN_COUNTRIES_142"}
+{"sub_uri": "Q10681", "obj_uri": ["Q12107", "Q150", "Q1860"], "sub_label": "Alan Stivell", "obj_label": ["bretón", "francés", "inglés"], "country": ["Q142"], "size": 265882, "uuid": "P1412_general_WESTERN_COUNTRIES_143"}
+{"sub_uri": "Q59876945", "obj_uri": ["Q1860"], "sub_label": "Stacey Ehrmantraut", "obj_label": ["inglés"], "country": ["Q30"], "size": 265775, "uuid": "P1412_general_WESTERN_COUNTRIES_144"}
+{"sub_uri": "Q10479", "obj_uri": ["Q1860", "Q7979"], "sub_label": "Catalina de Gales", "obj_label": ["inglés", "inglés británico"], "country": ["Q145"], "size": 265630, "uuid": "P1412_general_WESTERN_COUNTRIES_145"}
+{"sub_uri": "Q7416", "obj_uri": ["Q1860"], "sub_label": "Margaret Thatcher", "obj_label": ["inglés"], "country": ["Q145"], "size": 265624, "uuid": "P1412_general_WESTERN_COUNTRIES_146"}
+{"sub_uri": "Q313013", "obj_uri": ["Q1860"], "sub_label": "Brian Wilson", "obj_label": ["inglés"], "country": ["Q30"], "size": 264896, "uuid": "P1412_general_WESTERN_COUNTRIES_147"}
+{"sub_uri": "Q47563", "obj_uri": ["Q652"], "sub_label": "Matteo Renzi", "obj_label": ["italiano"], "country": ["Q38"], "size": 264646, "uuid": "P1412_general_WESTERN_COUNTRIES_148"}
+{"sub_uri": "Q915676", "obj_uri": ["Q150"], "sub_label": "Didier Raoult", "obj_label": ["francés"], "country": ["Q142"], "size": 264126, "uuid": "P1412_general_WESTERN_COUNTRIES_149"}
+{"sub_uri": "Q2831", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Michael Jackson", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 263396, "uuid": "P1412_general_WESTERN_COUNTRIES_150"}
+{"sub_uri": "Q7244161", "obj_uri": ["Q1860"], "sub_label": "Prince Michael Jackson I", "obj_label": ["inglés"], "country": ["Q30"], "size": 263396, "uuid": "P1412_general_WESTERN_COUNTRIES_151"}
+{"sub_uri": "Q16146870", "obj_uri": ["Q1860"], "sub_label": "Steve Bannon", "obj_label": ["inglés"], "country": ["Q30"], "size": 262648, "uuid": "P1412_general_WESTERN_COUNTRIES_152"}
+{"sub_uri": "Q5721", "obj_uri": ["Q150"], "sub_label": "Philippe Pétain", "obj_label": ["francés"], "country": ["Q142"], "size": 261570, "uuid": "P1412_general_WESTERN_COUNTRIES_153"}
+{"sub_uri": "Q31051166", "obj_uri": ["Q150"], "sub_label": "Grégory Villemin", "obj_label": ["francés"], "country": ["Q142"], "size": 260676, "uuid": "P1412_general_WESTERN_COUNTRIES_154"}
+{"sub_uri": "Q1124", "obj_uri": ["Q1860"], "sub_label": "Bill Clinton", "obj_label": ["inglés"], "country": ["Q30"], "size": 260320, "uuid": "P1412_general_WESTERN_COUNTRIES_155"}
+{"sub_uri": "Q529", "obj_uri": ["Q150"], "sub_label": "Louis Pasteur", "obj_label": ["francés"], "country": ["Q142"], "size": 259936, "uuid": "P1412_general_WESTERN_COUNTRIES_156"}
+{"sub_uri": "Q10514", "obj_uri": ["Q1321", "Q1860", "Q652"], "sub_label": "Fernando Alonso", "obj_label": ["español", "inglés", "italiano"], "country": ["Q29"], "size": 259717, "uuid": "P1412_general_WESTERN_COUNTRIES_157"}
+{"sub_uri": "Q5535853", "obj_uri": ["Q1860"], "sub_label": "Georganne LaPiere", "obj_label": ["inglés"], "country": ["Q30"], "size": 258756, "uuid": "P1412_general_WESTERN_COUNTRIES_158"}
+{"sub_uri": "Q12003", "obj_uri": ["Q1860"], "sub_label": "Cher", "obj_label": ["inglés"], "country": ["Q30"], "size": 258756, "uuid": "P1412_general_WESTERN_COUNTRIES_159"}
+{"sub_uri": "Q2331681", "obj_uri": ["Q150"], "sub_label": "Mohammed Merah", "obj_label": ["francés"], "country": ["Q142"], "size": 258278, "uuid": "P1412_general_WESTERN_COUNTRIES_160"}
+{"sub_uri": "Q23907094", "obj_uri": ["Q1860"], "sub_label": "Jared Garfield", "obj_label": ["inglés"], "country": ["Q145"], "size": 257382, "uuid": "P1412_general_WESTERN_COUNTRIES_161"}
+{"sub_uri": "Q42493", "obj_uri": ["Q1860"], "sub_label": "Katy Perry", "obj_label": ["inglés"], "country": ["Q30"], "size": 256837, "uuid": "P1412_general_WESTERN_COUNTRIES_162"}
+{"sub_uri": "Q483118", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Ben Affleck", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 255517, "uuid": "P1412_general_WESTERN_COUNTRIES_163"}
+{"sub_uri": "Q5608", "obj_uri": ["Q1860"], "sub_label": "Eminem", "obj_label": ["inglés"], "country": ["Q30"], "size": 255244, "uuid": "P1412_general_WESTERN_COUNTRIES_164"}
+{"sub_uri": "Q23215", "obj_uri": ["Q1860"], "sub_label": "Adele", "obj_label": ["inglés"], "country": ["Q145"], "size": 254707, "uuid": "P1412_general_WESTERN_COUNTRIES_165"}
+{"sub_uri": "Q317974", "obj_uri": ["Q150"], "sub_label": "Nicolas Mahut", "obj_label": ["francés"], "country": ["Q142"], "size": 254640, "uuid": "P1412_general_WESTERN_COUNTRIES_166"}
+{"sub_uri": "Q79983", "obj_uri": ["Q1321", "Q150", "Q1860", "Q5146", "Q652"], "sub_label": "José Mourinho", "obj_label": ["español", "francés", "inglés", "portugués", "italiano"], "country": ["Q45"], "size": 254619, "uuid": "P1412_general_WESTERN_COUNTRIES_167"}
+{"sub_uri": "Q83287", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Selena Gomez", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 254394, "uuid": "P1412_general_WESTERN_COUNTRIES_168"}
+{"sub_uri": "Q1268", "obj_uri": ["Q150", "Q809"], "sub_label": "Frédéric Chopin", "obj_label": ["francés", "polaco"], "country": ["Q142"], "size": 254355, "uuid": "P1412_general_WESTERN_COUNTRIES_169"}
+{"sub_uri": "Q228792", "obj_uri": ["Q1860"], "sub_label": "Dianna Agron", "obj_label": ["inglés"], "country": ["Q30"], "size": 253644, "uuid": "P1412_general_WESTERN_COUNTRIES_170"}
+{"sub_uri": "Q98380406", "obj_uri": ["Q1860"], "sub_label": "Marjorie Taylor Greene", "obj_label": ["inglés"], "country": ["Q30"], "size": 252745, "uuid": "P1412_general_WESTERN_COUNTRIES_171"}
+{"sub_uri": "Q40715", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Jennifer Lopez", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 252732, "uuid": "P1412_general_WESTERN_COUNTRIES_172"}
+{"sub_uri": "Q171730", "obj_uri": ["Q150", "Q1860"], "sub_label": "Georges Clemenceau", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 252193, "uuid": "P1412_general_WESTERN_COUNTRIES_173"}
+{"sub_uri": "Q55223040", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Alexandria Ocasio-Cortez", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 252190, "uuid": "P1412_general_WESTERN_COUNTRIES_174"}
+{"sub_uri": "Q2976160", "obj_uri": ["Q150"], "sub_label": "Robert Ménard", "obj_label": ["francés"], "country": ["Q142"], "size": 252091, "uuid": "P1412_general_WESTERN_COUNTRIES_175"}
+{"sub_uri": "Q44176", "obj_uri": ["Q1860"], "sub_label": "Hulk Hogan", "obj_label": ["inglés"], "country": ["Q30"], "size": 252071, "uuid": "P1412_general_WESTERN_COUNTRIES_176"}
+{"sub_uri": "Q264766", "obj_uri": ["Q1860", "Q7979"], "sub_label": "Theresa May", "obj_label": ["inglés", "inglés británico"], "country": ["Q145"], "size": 251940, "uuid": "P1412_general_WESTERN_COUNTRIES_177"}
+{"sub_uri": "Q2599", "obj_uri": ["Q1860"], "sub_label": "Paul McCartney", "obj_label": ["inglés"], "country": ["Q145"], "size": 251743, "uuid": "P1412_general_WESTERN_COUNTRIES_178"}
+{"sub_uri": "Q28591", "obj_uri": ["Q1860"], "sub_label": "David Petraeus", "obj_label": ["inglés"], "country": ["Q30"], "size": 251587, "uuid": "P1412_general_WESTERN_COUNTRIES_179"}
+{"sub_uri": "Q37327", "obj_uri": ["Q150", "Q1860"], "sub_label": "Samuel Beckett", "obj_label": ["francés", "inglés"], "country": ["Q142", "Q27"], "size": 250338, "uuid": "P1412_general_WESTERN_COUNTRIES_180"}
+{"sub_uri": "Q33977", "obj_uri": ["Q143", "Q150"], "sub_label": "Julio Verne", "obj_label": ["esperanto", "francés"], "country": ["Q142"], "size": 250131, "uuid": "P1412_general_WESTERN_COUNTRIES_181"}
+{"sub_uri": "Q392", "obj_uri": ["Q1860"], "sub_label": "Bob Dylan", "obj_label": ["inglés"], "country": ["Q30"], "size": 249945, "uuid": "P1412_general_WESTERN_COUNTRIES_182"}
+{"sub_uri": "Q100963892", "obj_uri": ["Q1860"], "sub_label": "Glenn Youngkin", "obj_label": ["inglés"], "country": ["Q30"], "size": 249823, "uuid": "P1412_general_WESTERN_COUNTRIES_183"}
+{"sub_uri": "Q76837", "obj_uri": ["Q150", "Q188"], "sub_label": "Daniel Cohn-Bendit", "obj_label": ["francés", "alemán"], "country": ["Q142", "Q183"], "size": 249699, "uuid": "P1412_general_WESTERN_COUNTRIES_184"}
+{"sub_uri": "Q2731570", "obj_uri": ["Q1860"], "sub_label": "Big Pussy Bonpensiero", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_185"}
+{"sub_uri": "Q666026", "obj_uri": ["Q1860"], "sub_label": "Vito Spatafore", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_186"}
+{"sub_uri": "Q2316828", "obj_uri": ["Q1860"], "sub_label": "Johnny Sack", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_187"}
+{"sub_uri": "Q2724526", "obj_uri": ["Q1860"], "sub_label": "Tony Blundetto", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_188"}
+{"sub_uri": "Q2725188", "obj_uri": ["Q1860"], "sub_label": "Richie Aprile", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_189"}
+{"sub_uri": "Q265434", "obj_uri": ["Q1860"], "sub_label": "Carmine Lupertazzi", "obj_label": ["inglés"], "country": ["Q30"], "size": 249539, "uuid": "P1412_general_WESTERN_COUNTRIES_190"}
+{"sub_uri": "Q221310", "obj_uri": ["Q150", "Q1860", "Q33549", "Q652", "Q7411", "Q9240"], "sub_label": "Anggun", "obj_label": ["francés", "inglés", "javanés", "italiano", "neerlandés", "indonesio"], "country": ["Q142"], "size": 249373, "uuid": "P1412_general_WESTERN_COUNTRIES_191"}
+{"sub_uri": "Q18350936", "obj_uri": ["Q1860"], "sub_label": "Alec Woods", "obj_label": ["inglés"], "country": ["Q408"], "size": 249041, "uuid": "P1412_general_WESTERN_COUNTRIES_192"}
+{"sub_uri": "Q166714", "obj_uri": ["Q1860"], "sub_label": "Herbert Henry Asquith", "obj_label": ["inglés"], "country": ["Q145"], "size": 248716, "uuid": "P1412_general_WESTERN_COUNTRIES_193"}
+{"sub_uri": "Q34086", "obj_uri": ["Q1860", "Q44676"], "sub_label": "Justin Bieber", "obj_label": ["inglés", "inglés canadiense"], "country": ["Q16"], "size": 248332, "uuid": "P1412_general_WESTERN_COUNTRIES_194"}
+{"sub_uri": "Q44616", "obj_uri": ["Q1860"], "sub_label": "Wyatt Earp", "obj_label": ["inglés"], "country": ["Q30"], "size": 247928, "uuid": "P1412_general_WESTERN_COUNTRIES_195"}
+{"sub_uri": "Q9916", "obj_uri": ["Q1860"], "sub_label": "Dwight D. Eisenhower", "obj_label": ["inglés"], "country": ["Q30"], "size": 247824, "uuid": "P1412_general_WESTERN_COUNTRIES_196"}
+{"sub_uri": "Q10520", "obj_uri": ["Q1860"], "sub_label": "David Beckham", "obj_label": ["inglés"], "country": ["Q145"], "size": 246529, "uuid": "P1412_general_WESTERN_COUNTRIES_197"}
+{"sub_uri": "Q162202", "obj_uri": ["Q1860"], "sub_label": "Nicki Minaj", "obj_label": ["inglés"], "country": ["Q30"], "size": 245726, "uuid": "P1412_general_WESTERN_COUNTRIES_198"}
+{"sub_uri": "Q327914", "obj_uri": ["Q652"], "sub_label": "Indro Montanelli", "obj_label": ["italiano"], "country": ["Q38"], "size": 245710, "uuid": "P1412_general_WESTERN_COUNTRIES_199"}
+{"sub_uri": "Q34836", "obj_uri": ["Q1860"], "sub_label": "Ulysses S. Grant", "obj_label": ["inglés"], "country": ["Q30"], "size": 245523, "uuid": "P1412_general_WESTERN_COUNTRIES_200"}
+{"sub_uri": "Q157", "obj_uri": ["Q150"], "sub_label": "François Hollande", "obj_label": ["francés"], "country": ["Q142"], "size": 245452, "uuid": "P1412_general_WESTERN_COUNTRIES_201"}
+{"sub_uri": "Q309240", "obj_uri": ["Q150"], "sub_label": "Jean Giraud", "obj_label": ["francés"], "country": ["Q142"], "size": 245327, "uuid": "P1412_general_WESTERN_COUNTRIES_202"}
+{"sub_uri": "Q2038", "obj_uri": ["Q150"], "sub_label": "François Mitterrand", "obj_label": ["francés"], "country": ["Q142"], "size": 245299, "uuid": "P1412_general_WESTERN_COUNTRIES_203"}
+{"sub_uri": "Q167782", "obj_uri": ["Q150"], "sub_label": "Carlos V de Francia", "obj_label": ["francés"], "country": ["Q142"], "size": 245122, "uuid": "P1412_general_WESTERN_COUNTRIES_204"}
+{"sub_uri": "Q10853588", "obj_uri": ["Q1860"], "sub_label": "Kamala Harris", "obj_label": ["inglés"], "country": ["Q30"], "size": 245080, "uuid": "P1412_general_WESTERN_COUNTRIES_205"}
+{"sub_uri": "Q6847086", "obj_uri": ["Q1860"], "sub_label": "Mike Grose", "obj_label": ["inglés"], "country": ["Q145"], "size": 245076, "uuid": "P1412_general_WESTERN_COUNTRIES_206"}
+{"sub_uri": "Q34389", "obj_uri": ["Q1860"], "sub_label": "Whitney Houston", "obj_label": ["inglés"], "country": ["Q30"], "size": 244741, "uuid": "P1412_general_WESTERN_COUNTRIES_207"}
+{"sub_uri": "Q1364768", "obj_uri": ["Q1860"], "sub_label": "Hubert Gough", "obj_label": ["inglés"], "country": ["Q145"], "size": 244074, "uuid": "P1412_general_WESTERN_COUNTRIES_208"}
+{"sub_uri": "Q6104100", "obj_uri": ["Q1860"], "sub_label": "J.H. Down", "obj_label": ["inglés"], "country": ["Q145"], "size": 243549, "uuid": "P1412_general_WESTERN_COUNTRIES_209"}
+{"sub_uri": "Q6106467", "obj_uri": ["Q1860"], "sub_label": "J. Martin", "obj_label": ["inglés"], "country": ["Q145"], "size": 243549, "uuid": "P1412_general_WESTERN_COUNTRIES_210"}
+{"sub_uri": "Q7945237", "obj_uri": ["Q1860"], "sub_label": "W.P. Bailey", "obj_label": ["inglés"], "country": ["Q145"], "size": 243549, "uuid": "P1412_general_WESTERN_COUNTRIES_211"}
+{"sub_uri": "Q41532", "obj_uri": ["Q1860", "Q188"], "sub_label": "Carl Gustav Jung", "obj_label": ["inglés", "alemán"], "country": ["Q39"], "size": 243485, "uuid": "P1412_general_WESTERN_COUNTRIES_212"}
+{"sub_uri": "Q24829", "obj_uri": ["Q1860"], "sub_label": "Orson Welles", "obj_label": ["inglés"], "country": ["Q30"], "size": 243476, "uuid": "P1412_general_WESTERN_COUNTRIES_213"}
+{"sub_uri": "Q151892", "obj_uri": ["Q1860"], "sub_label": "Ariana Grande", "obj_label": ["inglés"], "country": ["Q30"], "size": 243273, "uuid": "P1412_general_WESTERN_COUNTRIES_214"}
+{"sub_uri": "Q170581", "obj_uri": ["Q1860"], "sub_label": "Nancy Pelosi", "obj_label": ["inglés"], "country": ["Q30"], "size": 242747, "uuid": "P1412_general_WESTERN_COUNTRIES_215"}
+{"sub_uri": "Q186429", "obj_uri": ["Q150"], "sub_label": "Gaël Monfils", "obj_label": ["francés"], "country": ["Q142"], "size": 242470, "uuid": "P1412_general_WESTERN_COUNTRIES_216"}
+{"sub_uri": "Q7738", "obj_uri": ["Q1321", "Q150"], "sub_label": "Luis XV", "obj_label": ["español", "francés"], "country": ["Q142"], "size": 242306, "uuid": "P1412_general_WESTERN_COUNTRIES_217"}
+{"sub_uri": "Q952520", "obj_uri": ["Q150"], "sub_label": "Nicolas Dalayrac", "obj_label": ["francés"], "country": ["Q142"], "size": 242007, "uuid": "P1412_general_WESTERN_COUNTRIES_218"}
+{"sub_uri": "Q9711", "obj_uri": ["Q150"], "sub_label": "Honoré de Balzac", "obj_label": ["francés"], "country": ["Q142"], "size": 241849, "uuid": "P1412_general_WESTERN_COUNTRIES_219"}
+{"sub_uri": "Q380900", "obj_uri": ["Q1860"], "sub_label": "Chuck Schumer", "obj_label": ["inglés"], "country": ["Q30"], "size": 241562, "uuid": "P1412_general_WESTERN_COUNTRIES_220"}
+{"sub_uri": "Q298025", "obj_uri": ["Q1860"], "sub_label": "Joss Whedon", "obj_label": ["inglés"], "country": ["Q30"], "size": 241538, "uuid": "P1412_general_WESTERN_COUNTRIES_221"}
+{"sub_uri": "Q109255", "obj_uri": ["Q150"], "sub_label": "Bernard Hinault", "obj_label": ["francés"], "country": ["Q142"], "size": 241493, "uuid": "P1412_general_WESTERN_COUNTRIES_222"}
+{"sub_uri": "Q726953", "obj_uri": ["Q150"], "sub_label": "Chevalier de Saint-George", "obj_label": ["francés"], "country": ["Q142"], "size": 240952, "uuid": "P1412_general_WESTERN_COUNTRIES_223"}
+{"sub_uri": "Q186652", "obj_uri": ["Q150", "Q1860"], "sub_label": "Marqués de La Fayette", "obj_label": ["francés", "inglés"], "country": ["Q142", "Q30"], "size": 240412, "uuid": "P1412_general_WESTERN_COUNTRIES_224"}
+{"sub_uri": "Q319572", "obj_uri": ["Q1860", "Q188", "Q652"], "sub_label": "Andreas Seppi", "obj_label": ["inglés", "alemán", "italiano"], "country": ["Q38"], "size": 240200, "uuid": "P1412_general_WESTERN_COUNTRIES_225"}
+{"sub_uri": "Q7376960", "obj_uri": ["Q188"], "sub_label": "Rudi Reußner", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_226"}
+{"sub_uri": "Q5492931", "obj_uri": ["Q188"], "sub_label": "Franz Riedel", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_227"}
+{"sub_uri": "Q6372180", "obj_uri": ["Q188"], "sub_label": "Karl Rammelt", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_228"}
+{"sub_uri": "Q5388092", "obj_uri": ["Q188"], "sub_label": "Erich Rehm", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_229"}
+{"sub_uri": "Q99045", "obj_uri": ["Q188"], "sub_label": "Josef Rettemeier", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_230"}
+{"sub_uri": "Q5550459", "obj_uri": ["Q188"], "sub_label": "Gerd Ruge", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_231"}
+{"sub_uri": "Q7983487", "obj_uri": ["Q188"], "sub_label": "Werner Roell", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_232"}
+{"sub_uri": "Q5503739", "obj_uri": ["Q188"], "sub_label": "Friedrich-Wilhelm Richter", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_233"}
+{"sub_uri": "Q7109793", "obj_uri": ["Q188"], "sub_label": "Otto Ritz", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_234"}
+{"sub_uri": "Q5650667", "obj_uri": ["Q188"], "sub_label": "Hans Roeger", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_235"}
+{"sub_uri": "Q8003773", "obj_uri": ["Q188"], "sub_label": "Willi Rothhaar", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_236"}
+{"sub_uri": "Q6523488", "obj_uri": ["Q188"], "sub_label": "Leo-Hermann Reinhold", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_237"}
+{"sub_uri": "Q4016304", "obj_uri": ["Q188"], "sub_label": "Volprecht Riedesel Freiherr zu Eisenbach", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_238"}
+{"sub_uri": "Q98061", "obj_uri": ["Q188"], "sub_label": "Curt Rechel", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_239"}
+{"sub_uri": "Q89936", "obj_uri": ["Q188"], "sub_label": "Erwin Franz Roestel", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_240"}
+{"sub_uri": "Q8030121", "obj_uri": ["Q188"], "sub_label": "Wolfgang Röhder", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_241"}
+{"sub_uri": "Q4394916", "obj_uri": ["Q188"], "sub_label": "Wilfrid Richter", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_242"}
+{"sub_uri": "Q4394758", "obj_uri": ["Q188"], "sub_label": "Julius Riepe", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_243"}
+{"sub_uri": "Q5588071", "obj_uri": ["Q188"], "sub_label": "Gottlieb Renz", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_244"}
+{"sub_uri": "Q7377297", "obj_uri": ["Q188"], "sub_label": "Rudolf Rennecke", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_245"}
+{"sub_uri": "Q4889913", "obj_uri": ["Q188"], "sub_label": "Benno Reuter", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_246"}
+{"sub_uri": "Q5503894", "obj_uri": ["Q188"], "sub_label": "Friedrich Richter", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_247"}
+{"sub_uri": "Q3376368", "obj_uri": ["Q188"], "sub_label": "Karl Rixecker", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_248"}
+{"sub_uri": "Q5708412", "obj_uri": ["Q188"], "sub_label": "Hellmut Rohweder", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_249"}
+{"sub_uri": "Q5505002", "obj_uri": ["Q188"], "sub_label": "Fritz Rentrop", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_250"}
+{"sub_uri": "Q5535795", "obj_uri": ["Q188"], "sub_label": "Georg Rietscher", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_251"}
+{"sub_uri": "Q7929812", "obj_uri": ["Q188"], "sub_label": "Viktor Rall", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_252"}
+{"sub_uri": "Q5700325", "obj_uri": ["Q188"], "sub_label": "Heinrich Ruhl", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_253"}
+{"sub_uri": "Q5621199", "obj_uri": ["Q188"], "sub_label": "Gustav Reimar", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_254"}
+{"sub_uri": "Q7328777", "obj_uri": ["Q188"], "sub_label": "Richard Rudolf", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_255"}
+{"sub_uri": "Q4820798", "obj_uri": ["Q188"], "sub_label": "August Reuter", "obj_label": ["alemán"], "country": ["Q183"], "size": 239901, "uuid": "P1412_general_WESTERN_COUNTRIES_256"}
+{"sub_uri": "Q358443", "obj_uri": ["Q1860"], "sub_label": "Jeff Sessions", "obj_label": ["inglés"], "country": ["Q30"], "size": 239866, "uuid": "P1412_general_WESTERN_COUNTRIES_257"}
+{"sub_uri": "Q23", "obj_uri": ["Q1860"], "sub_label": "George Washington", "obj_label": ["inglés"], "country": ["Q30"], "size": 239639, "uuid": "P1412_general_WESTERN_COUNTRIES_258"}
+{"sub_uri": "Q9696", "obj_uri": ["Q1860"], "sub_label": "John F. Kennedy", "obj_label": ["inglés"], "country": ["Q30"], "size": 239589, "uuid": "P1412_general_WESTERN_COUNTRIES_259"}
+{"sub_uri": "Q2494", "obj_uri": ["Q1321", "Q150", "Q1860", "Q188", "Q397", "Q652"], "sub_label": "Benedicto XVI", "obj_label": ["español", "francés", "inglés", "alemán", "latín", "italiano"], "country": ["Q183"], "size": 239517, "uuid": "P1412_general_WESTERN_COUNTRIES_260"}
+{"sub_uri": "Q41594", "obj_uri": ["Q1860"], "sub_label": "Christina Aguilera", "obj_label": ["inglés"], "country": ["Q30"], "size": 239213, "uuid": "P1412_general_WESTERN_COUNTRIES_261"}
+{"sub_uri": "Q111172712", "obj_uri": ["Q150"], "sub_label": "Wali", "obj_label": ["francés"], "country": ["Q16"], "size": 239103, "uuid": "P1412_general_WESTERN_COUNTRIES_262"}
+{"sub_uri": "Q303", "obj_uri": ["Q1860"], "sub_label": "Elvis Presley", "obj_label": ["inglés"], "country": ["Q30"], "size": 239093, "uuid": "P1412_general_WESTERN_COUNTRIES_263"}
+{"sub_uri": "Q30449", "obj_uri": ["Q1860"], "sub_label": "Avril Lavigne", "obj_label": ["inglés"], "country": ["Q142", "Q16"], "size": 238941, "uuid": "P1412_general_WESTERN_COUNTRIES_264"}
+{"sub_uri": "Q16016271", "obj_uri": ["Q188"], "sub_label": "Josef Schneider", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_265"}
+{"sub_uri": "Q6372240", "obj_uri": ["Q188"], "sub_label": "Karl Schrepfer", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_266"}
+{"sub_uri": "Q16015985", "obj_uri": ["Q188"], "sub_label": "Walter Scherf", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_267"}
+{"sub_uri": "Q90465", "obj_uri": ["Q188"], "sub_label": "Egon-Reiner von Schlippenbach", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_268"}
+{"sub_uri": "Q7377313", "obj_uri": ["Q188"], "sub_label": "Rudolf Schlee", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_269"}
+{"sub_uri": "Q110396", "obj_uri": ["Q188"], "sub_label": "Martin Saltzwedel", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_270"}
+{"sub_uri": "Q5395135", "obj_uri": ["Q188"], "sub_label": "Ernst Schneck", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_271"}
+{"sub_uri": "Q16016268", "obj_uri": ["Q188"], "sub_label": "Gerhart Schirmer", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_272"}
+{"sub_uri": "Q5709746", "obj_uri": ["Q188"], "sub_label": "Helmut Schmischke", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_273"}
+{"sub_uri": "Q7966061", "obj_uri": ["Q188"], "sub_label": "Walter Sander", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_274"}
+{"sub_uri": "Q16016269", "obj_uri": ["Q188"], "sub_label": "Heinrich Schmetz", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_275"}
+{"sub_uri": "Q6216971", "obj_uri": ["Q188"], "sub_label": "Johannes Scherg", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_276"}
+{"sub_uri": "Q101891", "obj_uri": ["Q188"], "sub_label": "Gerhard Schacht", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_277"}
+{"sub_uri": "Q97236", "obj_uri": ["Q188"], "sub_label": "Wilhelm von Salisch", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_278"}
+{"sub_uri": "Q5650897", "obj_uri": ["Q188"], "sub_label": "Hans von Schlebrügge", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_279"}
+{"sub_uri": "Q4526563", "obj_uri": ["Q188"], "sub_label": "Franz Schreiber", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_280"}
+{"sub_uri": "Q4894230", "obj_uri": ["Q188"], "sub_label": "Bernhard Sartor", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_281"}
+{"sub_uri": "Q4775988", "obj_uri": ["Q188"], "sub_label": "Anton Schmid", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_282"}
+{"sub_uri": "Q5388111", "obj_uri": ["Q188"], "sub_label": "Erich Schroedter", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_283"}
+{"sub_uri": "Q5195425", "obj_uri": ["Q188"], "sub_label": "Curt Schille", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_284"}
+{"sub_uri": "Q16019210", "obj_uri": ["Q188"], "sub_label": "Wilhelm Salz", "obj_label": ["alemán"], "country": ["Q183"], "size": 238828, "uuid": "P1412_general_WESTERN_COUNTRIES_285"}
+{"sub_uri": "Q213448", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Danica Patrick", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 238719, "uuid": "P1412_general_WESTERN_COUNTRIES_286"}
+{"sub_uri": "Q189366", "obj_uri": ["Q1860"], "sub_label": "John Brown", "obj_label": ["inglés"], "country": ["Q30"], "size": 238295, "uuid": "P1412_general_WESTERN_COUNTRIES_287"}
+{"sub_uri": "Q169906", "obj_uri": ["Q150", "Q188"], "sub_label": "Jacques Lacan", "obj_label": ["francés", "alemán"], "country": ["Q142"], "size": 238083, "uuid": "P1412_general_WESTERN_COUNTRIES_288"}
+{"sub_uri": "Q723917", "obj_uri": ["Q1860"], "sub_label": "William Barr", "obj_label": ["inglés"], "country": ["Q30"], "size": 237748, "uuid": "P1412_general_WESTERN_COUNTRIES_289"}
+{"sub_uri": "Q1450", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Bruno Mars", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 237441, "uuid": "P1412_general_WESTERN_COUNTRIES_290"}
+{"sub_uri": "Q567", "obj_uri": ["Q188"], "sub_label": "Angela Merkel", "obj_label": ["alemán"], "country": ["Q183"], "size": 237150, "uuid": "P1412_general_WESTERN_COUNTRIES_291"}
+{"sub_uri": "Q276524", "obj_uri": ["Q1860"], "sub_label": "Robert Byrd", "obj_label": ["inglés"], "country": ["Q30"], "size": 236885, "uuid": "P1412_general_WESTERN_COUNTRIES_292"}
+{"sub_uri": "Q127417", "obj_uri": ["Q1860"], "sub_label": "Douglas MacArthur", "obj_label": ["inglés"], "country": ["Q30"], "size": 236713, "uuid": "P1412_general_WESTERN_COUNTRIES_293"}
+{"sub_uri": "Q47463135", "obj_uri": ["Q1860"], "sub_label": "Connor Lawson", "obj_label": ["inglés"], "country": ["Q145"], "size": 236389, "uuid": "P1412_general_WESTERN_COUNTRIES_294"}
+{"sub_uri": "Q17543917", "obj_uri": ["Q1860"], "sub_label": "Darren Wilson", "obj_label": ["inglés"], "country": ["Q30"], "size": 236367, "uuid": "P1412_general_WESTERN_COUNTRIES_295"}
+{"sub_uri": "Q1912", "obj_uri": ["Q150"], "sub_label": "Karim Benzema", "obj_label": ["francés"], "country": ["Q142"], "size": 236300, "uuid": "P1412_general_WESTERN_COUNTRIES_296"}
+{"sub_uri": "Q44437", "obj_uri": ["Q1860", "Q7850", "Q9192"], "sub_label": "John Cena", "obj_label": ["inglés", "chino", "chino mandarín"], "country": ["Q30"], "size": 235717, "uuid": "P1412_general_WESTERN_COUNTRIES_297"}
+{"sub_uri": "Q4723133", "obj_uri": ["Q188"], "sub_label": "Alfred Matern", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_298"}
+{"sub_uri": "Q4710885", "obj_uri": ["Q188"], "sub_label": "Albert Müller", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_299"}
+{"sub_uri": "Q13554168", "obj_uri": ["Q188"], "sub_label": "Helmut Möhlmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_300"}
+{"sub_uri": "Q7965565", "obj_uri": ["Q188"], "sub_label": "Walter Mattern", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_301"}
+{"sub_uri": "Q6371485", "obj_uri": ["Q188"], "sub_label": "Karl-Hermann Millahn", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_302"}
+{"sub_uri": "Q7377267", "obj_uri": ["Q188"], "sub_label": "Rudolf Mühlbauer", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_303"}
+{"sub_uri": "Q7510665", "obj_uri": ["Q188"], "sub_label": "Siegfried Moldenhauer", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_304"}
+{"sub_uri": "Q91576", "obj_uri": ["Q188"], "sub_label": "Friedrich Markworth", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_305"}
+{"sub_uri": "Q6372104", "obj_uri": ["Q188"], "sub_label": "Karl Müller", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_306"}
+{"sub_uri": "Q5550453", "obj_uri": ["Q188"], "sub_label": "Gerd Mischke", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_307"}
+{"sub_uri": "Q7360765", "obj_uri": ["Q188"], "sub_label": "Rolf Mager", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_308"}
+{"sub_uri": "Q6179770", "obj_uri": ["Q188"], "sub_label": "Jens Matzen", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_309"}
+{"sub_uri": "Q4289073", "obj_uri": ["Q188"], "sub_label": "Hubert-Erwin Meierdress", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_310"}
+{"sub_uri": "Q4289718", "obj_uri": ["Q188"], "sub_label": "Waldemar Mehl", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_311"}
+{"sub_uri": "Q7781637", "obj_uri": ["Q188"], "sub_label": "Theodor von Mauchenheim", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_312"}
+{"sub_uri": "Q16015917", "obj_uri": ["Q188"], "sub_label": "Heinrich Meyering", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_313"}
+{"sub_uri": "Q2938853", "obj_uri": ["Q188"], "sub_label": "Carl-Friedrich Mohr", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_314"}
+{"sub_uri": "Q7109723", "obj_uri": ["Q188"], "sub_label": "Otto Maurer", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_315"}
+{"sub_uri": "Q13500276", "obj_uri": ["Q188"], "sub_label": "Kurt Maier", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_316"}
+{"sub_uri": "Q5709702", "obj_uri": ["Q188"], "sub_label": "Helmut Meitzel", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_317"}
+{"sub_uri": "Q8030102", "obj_uri": ["Q188"], "sub_label": "Wolfgang Meinhold", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_318"}
+{"sub_uri": "Q6371382", "obj_uri": ["Q188"], "sub_label": "Karl-Conrad Mecke", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_319"}
+{"sub_uri": "Q5649603", "obj_uri": ["Q188"], "sub_label": "Hans-Joachim Merks", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_320"}
+{"sub_uri": "Q6699286", "obj_uri": ["Q188"], "sub_label": "Ludwig Meister", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_321"}
+{"sub_uri": "Q5650471", "obj_uri": ["Q188"], "sub_label": "Hans Meier", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_322"}
+{"sub_uri": "Q7965698", "obj_uri": ["Q188"], "sub_label": "Walter Müller", "obj_label": ["alemán"], "country": ["Q30"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_323"}
+{"sub_uri": "Q6776223", "obj_uri": ["Q188"], "sub_label": "Martin Moßdorf", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_324"}
+{"sub_uri": "Q8002364", "obj_uri": ["Q188"], "sub_label": "Wilhelm von Malachowski", "obj_label": ["alemán"], "country": ["Q183"], "size": 235531, "uuid": "P1412_general_WESTERN_COUNTRIES_325"}
+{"sub_uri": "Q174880", "obj_uri": ["Q1321"], "sub_label": "Teresa de Jesús", "obj_label": ["español"], "country": ["Q29"], "size": 235477, "uuid": "P1412_general_WESTERN_COUNTRIES_326"}
+{"sub_uri": "Q249982", "obj_uri": ["Q150"], "sub_label": "Yves Guyot", "obj_label": ["francés"], "country": ["Q142"], "size": 235213, "uuid": "P1412_general_WESTERN_COUNTRIES_327"}
+{"sub_uri": "Q28561969", "obj_uri": ["Q1860"], "sub_label": "XXXTentacion", "obj_label": ["inglés"], "country": ["Q30"], "size": 234887, "uuid": "P1412_general_WESTERN_COUNTRIES_328"}
+{"sub_uri": "Q6795351", "obj_uri": ["Q188"], "sub_label": "Max Wandrey", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_329"}
+{"sub_uri": "Q4894240", "obj_uri": ["Q188"], "sub_label": "Bernhard Walterbach", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_330"}
+{"sub_uri": "Q90467", "obj_uri": ["Q188"], "sub_label": "Helmut Witte", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_331"}
+{"sub_uri": "Q6215537", "obj_uri": ["Q188"], "sub_label": "Johann-Friedrich Wessels", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_332"}
+{"sub_uri": "Q6406904", "obj_uri": ["Q188"], "sub_label": "Kilian Weimer", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_333"}
+{"sub_uri": "Q107710", "obj_uri": ["Q188"], "sub_label": "Herbert Weiß", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_334"}
+{"sub_uri": "Q4103032", "obj_uri": ["Q188"], "sub_label": "Kurt Wahl", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_335"}
+{"sub_uri": "Q6217057", "obj_uri": ["Q188"], "sub_label": "Johannes Weineck", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_336"}
+{"sub_uri": "Q88657", "obj_uri": ["Q188"], "sub_label": "Helmut Wandmaker", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_337"}
+{"sub_uri": "Q5741073", "obj_uri": ["Q188"], "sub_label": "Hermann Wischnewski", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_338"}
+{"sub_uri": "Q16015658", "obj_uri": ["Q188"], "sub_label": "Friedrich-Wilhelm Wangerin", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_339"}
+{"sub_uri": "Q6372372", "obj_uri": ["Q188"], "sub_label": "Karl Willig", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_340"}
+{"sub_uri": "Q6372350", "obj_uri": ["Q188"], "sub_label": "Karl Weniger", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_341"}
+{"sub_uri": "Q67966", "obj_uri": ["Q188"], "sub_label": "Balthasar Woll", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_342"}
+{"sub_uri": "Q5348033", "obj_uri": ["Q188"], "sub_label": "Eginhard Weißmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_343"}
+{"sub_uri": "Q8002338", "obj_uri": ["Q188"], "sub_label": "Wilhelm Walther", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_344"}
+{"sub_uri": "Q5492996", "obj_uri": ["Q188"], "sub_label": "Franz Weller", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_345"}
+{"sub_uri": "Q4112475", "obj_uri": ["Q188"], "sub_label": "Hans Witt", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_346"}
+{"sub_uri": "Q7983518", "obj_uri": ["Q188"], "sub_label": "Werner Wolf", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_347"}
+{"sub_uri": "Q105553", "obj_uri": ["Q188"], "sub_label": "Georg Wenzelburger", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_348"}
+{"sub_uri": "Q5388129", "obj_uri": ["Q188"], "sub_label": "Erich Weißflog", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_349"}
+{"sub_uri": "Q5735963", "obj_uri": ["Q188"], "sub_label": "Herbert Wittmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_350"}
+{"sub_uri": "Q16012906", "obj_uri": ["Q188"], "sub_label": "Friedrich Weiß", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_351"}
+{"sub_uri": "Q5564921", "obj_uri": ["Q188"], "sub_label": "Giselher Wilke", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_352"}
+{"sub_uri": "Q16008475", "obj_uri": ["Q188"], "sub_label": "Heinz Werner", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_353"}
+{"sub_uri": "Q67549", "obj_uri": ["Q188"], "sub_label": "Günther-Eberhardt Wisliceny", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_354"}
+{"sub_uri": "Q6371475", "obj_uri": ["Q188"], "sub_label": "Karl-Heinz Wilke", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_355"}
+{"sub_uri": "Q7784186", "obj_uri": ["Q188"], "sub_label": "Thilo Freiherr von Werthern", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_356"}
+{"sub_uri": "Q16013772", "obj_uri": ["Q188"], "sub_label": "Willi Wechsung", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_357"}
+{"sub_uri": "Q7377360", "obj_uri": ["Q188"], "sub_label": "Rudolf Winnerl", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_358"}
+{"sub_uri": "Q16011691", "obj_uri": ["Q188"], "sub_label": "Friedrich Wimmer", "obj_label": ["alemán"], "country": ["Q183"], "size": 234838, "uuid": "P1412_general_WESTERN_COUNTRIES_359"}
+{"sub_uri": "Q1744", "obj_uri": ["Q1860"], "sub_label": "Madonna", "obj_label": ["inglés"], "country": ["Q30"], "size": 234707, "uuid": "P1412_general_WESTERN_COUNTRIES_360"}
+{"sub_uri": "Q7542", "obj_uri": ["Q1860"], "sub_label": "Prince", "obj_label": ["inglés"], "country": ["Q30"], "size": 234276, "uuid": "P1412_general_WESTERN_COUNTRIES_361"}
+{"sub_uri": "Q44379", "obj_uri": ["Q150", "Q1860"], "sub_label": "The miz", "obj_label": ["francés", "inglés"], "country": ["Q30"], "size": 233907, "uuid": "P1412_general_WESTERN_COUNTRIES_362"}
+{"sub_uri": "Q352159", "obj_uri": ["Q1860"], "sub_label": "Stephen Curry", "obj_label": ["inglés"], "country": ["Q30"], "size": 233416, "uuid": "P1412_general_WESTERN_COUNTRIES_363"}
+{"sub_uri": "Q47899", "obj_uri": ["Q1860"], "sub_label": "Paris Hilton", "obj_label": ["inglés"], "country": ["Q30"], "size": 233389, "uuid": "P1412_general_WESTERN_COUNTRIES_364"}
+{"sub_uri": "Q2036942", "obj_uri": ["Q1860"], "sub_label": "Ted Cruz", "obj_label": ["inglés"], "country": ["Q30"], "size": 233042, "uuid": "P1412_general_WESTERN_COUNTRIES_365"}
+{"sub_uri": "Q13909", "obj_uri": ["Q1860", "Q7976", "Q9205"], "sub_label": "Angelina Jolie", "obj_label": ["inglés", "inglés estadounidense", "camboyano"], "country": ["Q30"], "size": 232797, "uuid": "P1412_general_WESTERN_COUNTRIES_366"}
+{"sub_uri": "Q36107", "obj_uri": ["Q1860"], "sub_label": "Muhammad Ali", "obj_label": ["inglés"], "country": ["Q30"], "size": 232567, "uuid": "P1412_general_WESTERN_COUNTRIES_367"}
+{"sub_uri": "Q44453", "obj_uri": ["Q1860"], "sub_label": "Kurt Angle", "obj_label": ["inglés"], "country": ["Q30"], "size": 232561, "uuid": "P1412_general_WESTERN_COUNTRIES_368"}
+{"sub_uri": "Q451791", "obj_uri": ["Q652"], "sub_label": "Giorgia Meloni", "obj_label": ["italiano"], "country": ["Q38"], "size": 232538, "uuid": "P1412_general_WESTERN_COUNTRIES_369"}
+{"sub_uri": "Q11812", "obj_uri": ["Q150", "Q1860", "Q397", "Q652"], "sub_label": "Thomas Jefferson", "obj_label": ["francés", "inglés", "latín", "italiano"], "country": ["Q30"], "size": 232423, "uuid": "P1412_general_WESTERN_COUNTRIES_370"}
+{"sub_uri": "Q3159629", "obj_uri": ["Q150"], "sub_label": "Jacques Médecin", "obj_label": ["francés"], "country": ["Q142"], "size": 232220, "uuid": "P1412_general_WESTERN_COUNTRIES_371"}
+{"sub_uri": "Q313161", "obj_uri": ["Q1321"], "sub_label": "Claudio Bravo", "obj_label": ["español"], "country": ["Q29"], "size": 231970, "uuid": "P1412_general_WESTERN_COUNTRIES_372"}
+{"sub_uri": "Q22951255", "obj_uri": ["Q1860"], "sub_label": "Marcus Rashford", "obj_label": ["inglés"], "country": ["Q145"], "size": 231802, "uuid": "P1412_general_WESTERN_COUNTRIES_373"}
+{"sub_uri": "Q77148", "obj_uri": ["Q188"], "sub_label": "Carl Schmitt", "obj_label": ["alemán"], "country": ["Q183"], "size": 231434, "uuid": "P1412_general_WESTERN_COUNTRIES_374"}
+{"sub_uri": "Q43432", "obj_uri": ["Q1860"], "sub_label": "Justin Timberlake", "obj_label": ["inglés"], "country": ["Q30"], "size": 231424, "uuid": "P1412_general_WESTERN_COUNTRIES_375"}
+{"sub_uri": "Q106001", "obj_uri": ["Q150", "Q1860"], "sub_label": "Maurice Chevalier", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 231235, "uuid": "P1412_general_WESTERN_COUNTRIES_376"}
+{"sub_uri": "Q25310", "obj_uri": ["Q1860"], "sub_label": "Robert F. Kennedy", "obj_label": ["inglés"], "country": ["Q30"], "size": 230919, "uuid": "P1412_general_WESTERN_COUNTRIES_377"}
+{"sub_uri": "Q172843", "obj_uri": ["Q150", "Q1860", "Q652"], "sub_label": "Jacques Villeneuve", "obj_label": ["francés", "inglés", "italiano"], "country": ["Q16"], "size": 229232, "uuid": "P1412_general_WESTERN_COUNTRIES_378"}
+{"sub_uri": "Q4710441", "obj_uri": ["Q188"], "sub_label": "Albert Hektor", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_379"}
+{"sub_uri": "Q4894180", "obj_uri": ["Q188"], "sub_label": "Bernhard Hamester", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_380"}
+{"sub_uri": "Q7377204", "obj_uri": ["Q188"], "sub_label": "Rudolf Heynsen", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_381"}
+{"sub_uri": "Q95703", "obj_uri": ["Q188"], "sub_label": "Bruno Hinz", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_382"}
+{"sub_uri": "Q4889908", "obj_uri": ["Q188"], "sub_label": "Benno Herrmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_383"}
+{"sub_uri": "Q7310411", "obj_uri": ["Q188"], "sub_label": "Reino Hamer", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_384"}
+{"sub_uri": "Q4494878", "obj_uri": ["Q188"], "sub_label": "Franz Hack", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_385"}
+{"sub_uri": "Q4137661", "obj_uri": ["Q188"], "sub_label": "Hans-Georg Hess", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_386"}
+{"sub_uri": "Q4775799", "obj_uri": ["Q188"], "sub_label": "Anton Heinemann", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_387"}
+{"sub_uri": "Q7109624", "obj_uri": ["Q188"], "sub_label": "Otto Hielscher", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_388"}
+{"sub_uri": "Q5550678", "obj_uri": ["Q188"], "sub_label": "Gerhard Hein", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_389"}
+{"sub_uri": "Q5377497", "obj_uri": ["Q188"], "sub_label": "Engelbert Heiner", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_390"}
+{"sub_uri": "Q5906485", "obj_uri": ["Q188"], "sub_label": "Horst Hermann", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_391"}
+{"sub_uri": "Q5550784", "obj_uri": ["Q188"], "sub_label": "Konrad Heubeck", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_392"}
+{"sub_uri": "Q5503718", "obj_uri": ["Q188"], "sub_label": "Friedrich-Erdmann von Hake", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_393"}
+{"sub_uri": "Q6279826", "obj_uri": ["Q188"], "sub_label": "Josef Heichele", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_394"}
+{"sub_uri": "Q5504924", "obj_uri": ["Q188"], "sub_label": "Fritz Henke", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_395"}
+{"sub_uri": "Q5700687", "obj_uri": ["Q188"], "sub_label": "Heinz Haag", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_396"}
+{"sub_uri": "Q16014119", "obj_uri": ["Q188"], "sub_label": "Erich Hellmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_397"}
+{"sub_uri": "Q16014385", "obj_uri": ["Q188"], "sub_label": "Herbert Hampe", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_398"}
+{"sub_uri": "Q6794854", "obj_uri": ["Q188"], "sub_label": "Max Herzbach", "obj_label": ["alemán"], "country": ["Q183"], "size": 229160, "uuid": "P1412_general_WESTERN_COUNTRIES_399"}
+{"sub_uri": "Q5432", "obj_uri": ["Q1321"], "sub_label": "Francisco de Goya", "obj_label": ["español"], "country": ["Q29"], "size": 228946, "uuid": "P1412_general_WESTERN_COUNTRIES_400"}
+{"sub_uri": "Q9068", "obj_uri": ["Q150"], "sub_label": "Voltaire", "obj_label": ["francés"], "country": ["Q142"], "size": 228450, "uuid": "P1412_general_WESTERN_COUNTRIES_401"}
+{"sub_uri": "Q2685", "obj_uri": ["Q1860", "Q188", "Q306626"], "sub_label": "Arnold Schwarzenegger", "obj_label": ["inglés", "alemán", "alemán de Austria"], "country": ["Q30", "Q40"], "size": 228378, "uuid": "P1412_general_WESTERN_COUNTRIES_402"}
+{"sub_uri": "Q15935", "obj_uri": ["Q1860"], "sub_label": "Kanye West", "obj_label": ["inglés"], "country": ["Q30"], "size": 228291, "uuid": "P1412_general_WESTERN_COUNTRIES_403"}
+{"sub_uri": "Q8016", "obj_uri": ["Q150", "Q1860"], "sub_label": "Winston Churchill", "obj_label": ["francés", "inglés"], "country": ["Q145"], "size": 227008, "uuid": "P1412_general_WESTERN_COUNTRIES_404"}
+{"sub_uri": "Q130798", "obj_uri": ["Q1860"], "sub_label": "Kendrick Lamar", "obj_label": ["inglés"], "country": ["Q30"], "size": 226865, "uuid": "P1412_general_WESTERN_COUNTRIES_405"}
+{"sub_uri": "Q359348", "obj_uri": ["Q150", "Q1860"], "sub_label": "Martin Fourcade", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 226841, "uuid": "P1412_general_WESTERN_COUNTRIES_406"}
+{"sub_uri": "Q121507", "obj_uri": ["Q1860"], "sub_label": "Alicia Keys", "obj_label": ["inglés"], "country": ["Q30"], "size": 226776, "uuid": "P1412_general_WESTERN_COUNTRIES_407"}
+{"sub_uri": "Q41314", "obj_uri": ["Q1860", "Q294"], "sub_label": "Bobby Fischer", "obj_label": ["inglés", "islandés"], "country": ["Q30"], "size": 226597, "uuid": "P1412_general_WESTERN_COUNTRIES_408"}
+{"sub_uri": "Q7177", "obj_uri": ["Q150"], "sub_label": "Jean-Marie Le Pen", "obj_label": ["francés"], "country": ["Q142"], "size": 225843, "uuid": "P1412_general_WESTERN_COUNTRIES_409"}
+{"sub_uri": "Q1372199", "obj_uri": ["Q1860"], "sub_label": "William Bonin", "obj_label": ["inglés"], "country": ["Q30"], "size": 225170, "uuid": "P1412_general_WESTERN_COUNTRIES_410"}
+{"sub_uri": "Q535", "obj_uri": ["Q150"], "sub_label": "Victor Hugo", "obj_label": ["francés"], "country": ["Q142"], "size": 225130, "uuid": "P1412_general_WESTERN_COUNTRIES_411"}
+{"sub_uri": "Q312343", "obj_uri": ["Q1860"], "sub_label": "Milos Raonic", "obj_label": ["inglés"], "country": ["Q16"], "size": 225043, "uuid": "P1412_general_WESTERN_COUNTRIES_412"}
+{"sub_uri": "Q134068", "obj_uri": ["Q1617"], "sub_label": "Nawaz Sharif", "obj_label": ["urdu"], "country": ["Q145"], "size": 224855, "uuid": "P1412_general_WESTERN_COUNTRIES_413"}
+{"sub_uri": "Q966906", "obj_uri": ["Q188"], "sub_label": "Renate Blauel", "obj_label": ["alemán"], "country": ["Q183"], "size": 224298, "uuid": "P1412_general_WESTERN_COUNTRIES_414"}
+{"sub_uri": "Q2808", "obj_uri": ["Q1860"], "sub_label": "Elton John", "obj_label": ["inglés"], "country": ["Q145"], "size": 224298, "uuid": "P1412_general_WESTERN_COUNTRIES_415"}
+{"sub_uri": "Q215447", "obj_uri": ["Q1860"], "sub_label": "CM Punk", "obj_label": ["inglés"], "country": ["Q30"], "size": 224129, "uuid": "P1412_general_WESTERN_COUNTRIES_416"}
+{"sub_uri": "Q7436908", "obj_uri": ["Q1860"], "sub_label": "Scott Morrison", "obj_label": ["inglés"], "country": ["Q408"], "size": 223858, "uuid": "P1412_general_WESTERN_COUNTRIES_417"}
+{"sub_uri": "Q11673", "obj_uri": ["Q1860"], "sub_label": "Andrew Cuomo", "obj_label": ["inglés"], "country": ["Q30"], "size": 223691, "uuid": "P1412_general_WESTERN_COUNTRIES_418"}
+{"sub_uri": "Q3606816", "obj_uri": ["Q1860", "Q44661"], "sub_label": "Jacinda Ardern", "obj_label": ["inglés", "inglés neozelandés"], "country": ["Q664"], "size": 223165, "uuid": "P1412_general_WESTERN_COUNTRIES_419"}
+{"sub_uri": "Q11116", "obj_uri": ["Q1860", "Q7976", "Q9027", "Q9288"], "sub_label": "Ruth Bader Ginsburg", "obj_label": ["inglés", "inglés estadounidense", "sueco", "hebreo"], "country": ["Q30"], "size": 222912, "uuid": "P1412_general_WESTERN_COUNTRIES_420"}
+{"sub_uri": "Q270935", "obj_uri": ["Q1860"], "sub_label": "Chris Cornell", "obj_label": ["inglés"], "country": ["Q30"], "size": 222818, "uuid": "P1412_general_WESTERN_COUNTRIES_421"}
+{"sub_uri": "Q186327", "obj_uri": ["Q1860"], "sub_label": "Marilyn Manson", "obj_label": ["inglés"], "country": ["Q30"], "size": 222685, "uuid": "P1412_general_WESTERN_COUNTRIES_422"}
+{"sub_uri": "Q381007", "obj_uri": ["Q150"], "sub_label": "René Lévesque", "obj_label": ["francés"], "country": ["Q16"], "size": 222669, "uuid": "P1412_general_WESTERN_COUNTRIES_423"}
+{"sub_uri": "Q5105", "obj_uri": ["Q150", "Q1860"], "sub_label": "Céline Dion", "obj_label": ["francés", "inglés"], "country": ["Q16"], "size": 222634, "uuid": "P1412_general_WESTERN_COUNTRIES_424"}
+{"sub_uri": "Q68400", "obj_uri": ["Q188"], "sub_label": "Andreas Hillgruber", "obj_label": ["alemán"], "country": ["Q183"], "size": 222438, "uuid": "P1412_general_WESTERN_COUNTRIES_425"}
+{"sub_uri": "Q373940", "obj_uri": ["Q1860"], "sub_label": "Sir Henry Wilson, 1st Baronet", "obj_label": ["inglés"], "country": ["Q27"], "size": 222205, "uuid": "P1412_general_WESTERN_COUNTRIES_426"}
+{"sub_uri": "Q281294", "obj_uri": ["Q150"], "sub_label": "Jules Bianchi", "obj_label": ["francés"], "country": ["Q142"], "size": 222179, "uuid": "P1412_general_WESTERN_COUNTRIES_427"}
+{"sub_uri": "Q463728", "obj_uri": ["Q150"], "sub_label": "Louis de Rouvroy, duque de Saint-Simon", "obj_label": ["francés"], "country": ["Q142"], "size": 222066, "uuid": "P1412_general_WESTERN_COUNTRIES_428"}
+{"sub_uri": "Q3355", "obj_uri": ["Q1860"], "sub_label": "Amelia Earhart", "obj_label": ["inglés"], "country": ["Q30"], "size": 221953, "uuid": "P1412_general_WESTERN_COUNTRIES_429"}
+{"sub_uri": "Q48886558", "obj_uri": ["Q1860"], "sub_label": "Nikolas Jacob Cruz", "obj_label": ["inglés"], "country": ["Q30"], "size": 221892, "uuid": "P1412_general_WESTERN_COUNTRIES_430"}
+{"sub_uri": "Q49730165", "obj_uri": ["Q1860"], "sub_label": "Peter Wang", "obj_label": ["inglés"], "country": ["Q30"], "size": 221892, "uuid": "P1412_general_WESTERN_COUNTRIES_431"}
+{"sub_uri": "Q298423", "obj_uri": ["Q1860"], "sub_label": "Chelsea Manning", "obj_label": ["inglés"], "country": ["Q145", "Q30"], "size": 221713, "uuid": "P1412_general_WESTERN_COUNTRIES_432"}
+{"sub_uri": "Q266613", "obj_uri": ["Q1860"], "sub_label": "Wayne Rooney", "obj_label": ["inglés"], "country": ["Q145"], "size": 221616, "uuid": "P1412_general_WESTERN_COUNTRIES_433"}
+{"sub_uri": "Q4235", "obj_uri": ["Q1860"], "sub_label": "Miley Cyrus", "obj_label": ["inglés"], "country": ["Q30"], "size": 221430, "uuid": "P1412_general_WESTERN_COUNTRIES_434"}
+{"sub_uri": "Q43144", "obj_uri": ["Q1860"], "sub_label": "Sarah Palin", "obj_label": ["inglés"], "country": ["Q30"], "size": 221419, "uuid": "P1412_general_WESTERN_COUNTRIES_435"}
+{"sub_uri": "Q53844829", "obj_uri": ["Q1860", "Q652"], "sub_label": "Giuseppe Conte", "obj_label": ["inglés", "italiano"], "country": ["Q38"], "size": 221335, "uuid": "P1412_general_WESTERN_COUNTRIES_436"}
+{"sub_uri": "Q65146456", "obj_uri": ["Q150"], "sub_label": "Simon Millanges", "obj_label": ["francés"], "country": ["Q142"], "size": 220737, "uuid": "P1412_general_WESTERN_COUNTRIES_437"}
+{"sub_uri": "Q193876", "obj_uri": ["Q1860"], "sub_label": "Bradley Wiggins", "obj_label": ["inglés"], "country": ["Q145"], "size": 220526, "uuid": "P1412_general_WESTERN_COUNTRIES_438"}
+{"sub_uri": "Q482907", "obj_uri": ["Q1860"], "sub_label": "Bryan Adams", "obj_label": ["inglés"], "country": ["Q16"], "size": 220485, "uuid": "P1412_general_WESTERN_COUNTRIES_439"}
+{"sub_uri": "Q273055", "obj_uri": ["Q1860"], "sub_label": "R. Kelly", "obj_label": ["inglés"], "country": ["Q30"], "size": 220177, "uuid": "P1412_general_WESTERN_COUNTRIES_440"}
+{"sub_uri": "Q311269", "obj_uri": ["Q1860"], "sub_label": "John Bolton", "obj_label": ["inglés"], "country": ["Q30"], "size": 219930, "uuid": "P1412_general_WESTERN_COUNTRIES_441"}
+{"sub_uri": "Q210453", "obj_uri": ["Q5146"], "sub_label": "Thiago Silva", "obj_label": ["portugués"], "country": ["Q142"], "size": 219332, "uuid": "P1412_general_WESTERN_COUNTRIES_442"}
+{"sub_uri": "Q318471", "obj_uri": ["Q1860"], "sub_label": "Nigel Farage", "obj_label": ["inglés"], "country": ["Q145"], "size": 219091, "uuid": "P1412_general_WESTERN_COUNTRIES_443"}
+{"sub_uri": "Q2291", "obj_uri": ["Q652"], "sub_label": "Totò", "obj_label": ["italiano"], "country": ["Q38"], "size": 218561, "uuid": "P1412_general_WESTERN_COUNTRIES_444"}
+{"sub_uri": "Q4962244", "obj_uri": ["Q1860"], "sub_label": "Brett Kavanaugh", "obj_label": ["inglés"], "country": ["Q30"], "size": 218445, "uuid": "P1412_general_WESTERN_COUNTRIES_445"}
+{"sub_uri": "Q3850455", "obj_uri": ["Q1860"], "sub_label": "Mary Davies Wilburn", "obj_label": ["inglés"], "country": ["Q145"], "size": 218117, "uuid": "P1412_general_WESTERN_COUNTRIES_446"}
+{"sub_uri": "Q493", "obj_uri": ["Q150"], "sub_label": "Arthur Rimbaud", "obj_label": ["francés"], "country": ["Q142"], "size": 217418, "uuid": "P1412_general_WESTERN_COUNTRIES_447"}
+{"sub_uri": "Q164038", "obj_uri": ["Q1321", "Q1860", "Q188", "Q652", "Q7026"], "sub_label": "Josep Guardiola", "obj_label": ["español", "inglés", "alemán", "italiano", "catalán"], "country": ["Q29"], "size": 217027, "uuid": "P1412_general_WESTERN_COUNTRIES_448"}
+{"sub_uri": "Q10494", "obj_uri": ["Q150", "Q1860"], "sub_label": "Alain Prost", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 216666, "uuid": "P1412_general_WESTERN_COUNTRIES_449"}
+{"sub_uri": "Q69319", "obj_uri": ["Q1860"], "sub_label": "John Kasich", "obj_label": ["inglés"], "country": ["Q30"], "size": 216400, "uuid": "P1412_general_WESTERN_COUNTRIES_450"}
+{"sub_uri": "Q309995", "obj_uri": ["Q150"], "sub_label": "Paul Deschanel", "obj_label": ["francés"], "country": ["Q142"], "size": 216125, "uuid": "P1412_general_WESTERN_COUNTRIES_451"}
+{"sub_uri": "Q463557", "obj_uri": ["Q1860"], "sub_label": "Rand Paul", "obj_label": ["inglés"], "country": ["Q30"], "size": 216092, "uuid": "P1412_general_WESTERN_COUNTRIES_452"}
+{"sub_uri": "Q192818", "obj_uri": ["Q150", "Q652"], "sub_label": "Bettino Craxi", "obj_label": ["francés", "italiano"], "country": ["Q38"], "size": 215872, "uuid": "P1412_general_WESTERN_COUNTRIES_453"}
+{"sub_uri": "Q134549", "obj_uri": ["Q1860"], "sub_label": "Ted Kennedy", "obj_label": ["inglés"], "country": ["Q30"], "size": 214765, "uuid": "P1412_general_WESTERN_COUNTRIES_454"}
+{"sub_uri": "Q2617157", "obj_uri": ["Q150"], "sub_label": "Alain Soral", "obj_label": ["francés"], "country": ["Q142", "Q39"], "size": 214691, "uuid": "P1412_general_WESTERN_COUNTRIES_455"}
+{"sub_uri": "Q294501", "obj_uri": ["Q1860"], "sub_label": "Steve McManaman", "obj_label": ["inglés"], "country": ["Q145"], "size": 214669, "uuid": "P1412_general_WESTERN_COUNTRIES_456"}
+{"sub_uri": "Q299138", "obj_uri": ["Q1860"], "sub_label": "Kid Cudi", "obj_label": ["inglés"], "country": ["Q30"], "size": 214077, "uuid": "P1412_general_WESTERN_COUNTRIES_457"}
+{"sub_uri": "Q18542441", "obj_uri": ["Q1860"], "sub_label": "Madeleine McCann", "obj_label": ["inglés"], "country": ["Q145"], "size": 214051, "uuid": "P1412_general_WESTERN_COUNTRIES_458"}
+{"sub_uri": "Q1716", "obj_uri": ["Q150"], "sub_label": "Renaud Séchan", "obj_label": ["francés"], "country": ["Q142"], "size": 214005, "uuid": "P1412_general_WESTERN_COUNTRIES_459"}
+{"sub_uri": "Q2239218", "obj_uri": ["Q1860", "Q7411"], "sub_label": "Max Verstappen", "obj_label": ["inglés", "neerlandés"], "country": ["Q31"], "size": 213964, "uuid": "P1412_general_WESTERN_COUNTRIES_460"}
+{"sub_uri": "Q134982", "obj_uri": ["Q1860", "Q9309"], "sub_label": "David Lloyd George", "obj_label": ["inglés", "galés"], "country": ["Q145"], "size": 213497, "uuid": "P1412_general_WESTERN_COUNTRIES_461"}
+{"sub_uri": "Q182788", "obj_uri": ["Q1860"], "sub_label": "Newt Gingrich", "obj_label": ["inglés"], "country": ["Q30"], "size": 213397, "uuid": "P1412_general_WESTERN_COUNTRIES_462"}
+{"sub_uri": "Q4979275", "obj_uri": ["Q188"], "sub_label": "Bruno Kohnz", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_463"}
+{"sub_uri": "Q95687", "obj_uri": ["Q188"], "sub_label": "Claus Korth", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_464"}
+{"sub_uri": "Q7510653", "obj_uri": ["Q188"], "sub_label": "Siegfried Korth", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_465"}
+{"sub_uri": "Q4721958", "obj_uri": ["Q188"], "sub_label": "Alfons Köster", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_466"}
+{"sub_uri": "Q5350473", "obj_uri": ["Q188"], "sub_label": "Ekkehard Kylling-Schmidt", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_467"}
+{"sub_uri": "Q4755502", "obj_uri": ["Q188"], "sub_label": "Andreas Kuffner", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_468"}
+{"sub_uri": "Q5275192", "obj_uri": ["Q188"], "sub_label": "Dietrich Koch", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_469"}
+{"sub_uri": "Q6429731", "obj_uri": ["Q188"], "sub_label": "Konrad Knabe", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_470"}
+{"sub_uri": "Q4819436", "obj_uri": ["Q188"], "sub_label": "Karl Körner", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_471"}
+{"sub_uri": "Q99268", "obj_uri": ["Q188"], "sub_label": "Ernst Knebel", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_472"}
+{"sub_uri": "Q6446839", "obj_uri": ["Q188"], "sub_label": "Kurt Kühme", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_473"}
+{"sub_uri": "Q7109689", "obj_uri": ["Q188"], "sub_label": "Otto Kron", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_474"}
+{"sub_uri": "Q106194", "obj_uri": ["Q188"], "sub_label": "Johann-Otto Krieg", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_475"}
+{"sub_uri": "Q7310339", "obj_uri": ["Q188"], "sub_label": "Reinhard König", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_476"}
+{"sub_uri": "Q16083841", "obj_uri": ["Q188"], "sub_label": "Erwin Kreßmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_477"}
+{"sub_uri": "Q5649664", "obj_uri": ["Q188"], "sub_label": "Hans-Peter Knaust", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_478"}
+{"sub_uri": "Q5740794", "obj_uri": ["Q188"], "sub_label": "Hermann Kunz", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_479"}
+{"sub_uri": "Q16015540", "obj_uri": ["Q188"], "sub_label": "Wilhelm Kohler", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_480"}
+{"sub_uri": "Q4820754", "obj_uri": ["Q188"], "sub_label": "August Koch", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_481"}
+{"sub_uri": "Q4945301", "obj_uri": ["Q188"], "sub_label": "Boris Kraas", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_482"}
+{"sub_uri": "Q4894200", "obj_uri": ["Q188"], "sub_label": "Bernhard Kranz", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_483"}
+{"sub_uri": "Q16014910", "obj_uri": ["Q188"], "sub_label": "Heinz Korn", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_484"}
+{"sub_uri": "Q7377232", "obj_uri": ["Q188"], "sub_label": "Rudolf Kolbeck", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_485"}
+{"sub_uri": "Q6794952", "obj_uri": ["Q188"], "sub_label": "Max Kurze", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_486"}
+{"sub_uri": "Q16013241", "obj_uri": ["Q188"], "sub_label": "Wolfgang Koltermann", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_487"}
+{"sub_uri": "Q5550709", "obj_uri": ["Q188"], "sub_label": "Gerhard Krems", "obj_label": ["alemán"], "country": ["Q183"], "size": 213380, "uuid": "P1412_general_WESTERN_COUNTRIES_488"}
+{"sub_uri": "Q2121062", "obj_uri": ["Q150", "Q1860", "Q28244"], "sub_label": "The Weeknd", "obj_label": ["francés", "inglés", "amhárico"], "country": ["Q16"], "size": 213309, "uuid": "P1412_general_WESTERN_COUNTRIES_489"}
+{"sub_uri": "Q1144884", "obj_uri": ["Q1860"], "sub_label": "Adam Lanza", "obj_label": ["inglés"], "country": ["Q30"], "size": 213271, "uuid": "P1412_general_WESTERN_COUNTRIES_490"}
+{"sub_uri": "Q508711", "obj_uri": ["Q150"], "sub_label": "Didier Deschamps", "obj_label": ["francés"], "country": ["Q142"], "size": 213024, "uuid": "P1412_general_WESTERN_COUNTRIES_491"}
+{"sub_uri": "Q2737", "obj_uri": ["Q150"], "sub_label": "Louis de Funès", "obj_label": ["francés"], "country": ["Q142"], "size": 212359, "uuid": "P1412_general_WESTERN_COUNTRIES_492"}
+{"sub_uri": "Q156214", "obj_uri": ["Q150"], "sub_label": "Max Jacob", "obj_label": ["francés"], "country": ["Q142"], "size": 212264, "uuid": "P1412_general_WESTERN_COUNTRIES_493"}
+{"sub_uri": "Q9671", "obj_uri": ["Q1860", "Q188", "Q652"], "sub_label": "Michael Schumacher", "obj_label": ["inglés", "alemán", "italiano"], "country": ["Q183"], "size": 212240, "uuid": "P1412_general_WESTERN_COUNTRIES_494"}
+{"sub_uri": "Q39562", "obj_uri": ["Q1860"], "sub_label": "Michael Phelps", "obj_label": ["inglés"], "country": ["Q30"], "size": 212115, "uuid": "P1412_general_WESTERN_COUNTRIES_495"}
+{"sub_uri": "Q19837", "obj_uri": ["Q1860"], "sub_label": "Steve Jobs", "obj_label": ["inglés"], "country": ["Q30"], "size": 212027, "uuid": "P1412_general_WESTERN_COUNTRIES_496"}
+{"sub_uri": "Q168441", "obj_uri": ["Q150"], "sub_label": "Irène Némirovsky", "obj_label": ["francés"], "country": ["Q142"], "size": 212006, "uuid": "P1412_general_WESTERN_COUNTRIES_497"}
+{"sub_uri": "Q16221742", "obj_uri": ["Q1860"], "sub_label": "Matt Gaetz", "obj_label": ["inglés"], "country": ["Q30"], "size": 211855, "uuid": "P1412_general_WESTERN_COUNTRIES_498"}
+{"sub_uri": "Q192", "obj_uri": ["Q1860"], "sub_label": "David Cameron", "obj_label": ["inglés"], "country": ["Q145"], "size": 211791, "uuid": "P1412_general_WESTERN_COUNTRIES_499"}
+{"sub_uri": "Q937", "obj_uri": ["Q188"], "sub_label": "Albert Einstein", "obj_label": ["alemán"], "country": ["Q183", "Q30", "Q39"], "size": 211595, "uuid": "P1412_general_WESTERN_COUNTRIES_500"}
+{"sub_uri": "Q38111", "obj_uri": ["Q1860", "Q188", "Q652"], "sub_label": "Leonardo DiCaprio", "obj_label": ["inglés", "alemán", "italiano"], "country": ["Q30"], "size": 211250, "uuid": "P1412_general_WESTERN_COUNTRIES_501"}
+{"sub_uri": "Q311944", "obj_uri": ["Q1860"], "sub_label": "Drew Galloway", "obj_label": ["inglés"], "country": ["Q145"], "size": 211127, "uuid": "P1412_general_WESTERN_COUNTRIES_502"}
+{"sub_uri": "Q467112", "obj_uri": ["Q1860"], "sub_label": "Nicola Sturgeon", "obj_label": ["inglés"], "country": ["Q145"], "size": 210997, "uuid": "P1412_general_WESTERN_COUNTRIES_503"}
+{"sub_uri": "Q51880", "obj_uri": ["Q150", "Q34065", "Q56703"], "sub_label": "Charles de Foucauld", "obj_label": ["francés", "lenguas tuareg", "Idioma tamahaq"], "country": ["Q142"], "size": 210820, "uuid": "P1412_general_WESTERN_COUNTRIES_504"}
+{"sub_uri": "Q3304418", "obj_uri": ["Q1321", "Q150", "Q1860"], "sub_label": "Meghan Markle", "obj_label": ["español", "francés", "inglés"], "country": ["Q30"], "size": 210723, "uuid": "P1412_general_WESTERN_COUNTRIES_505"}
+{"sub_uri": "Q11613", "obj_uri": ["Q1860"], "sub_label": "Harry S. Truman", "obj_label": ["inglés"], "country": ["Q30"], "size": 210716, "uuid": "P1412_general_WESTERN_COUNTRIES_506"}
+{"sub_uri": "Q10738", "obj_uri": ["Q1860"], "sub_label": "Dwayne Johnson", "obj_label": ["inglés"], "country": ["Q16", "Q30"], "size": 210651, "uuid": "P1412_general_WESTERN_COUNTRIES_507"}
+{"sub_uri": "Q39444", "obj_uri": ["Q1321", "Q5146"], "sub_label": "Ronaldinho", "obj_label": ["español", "portugués"], "country": ["Q29"], "size": 210594, "uuid": "P1412_general_WESTERN_COUNTRIES_508"}
+{"sub_uri": "Q17171", "obj_uri": ["Q652"], "sub_label": "Vasco Rossi", "obj_label": ["italiano"], "country": ["Q38"], "size": 210328, "uuid": "P1412_general_WESTERN_COUNTRIES_509"}
+{"sub_uri": "Q214204", "obj_uri": ["Q150"], "sub_label": "Eden Hazard", "obj_label": ["francés"], "country": ["Q31"], "size": 210324, "uuid": "P1412_general_WESTERN_COUNTRIES_510"}
+{"sub_uri": "Q47447", "obj_uri": ["Q1860"], "sub_label": "Ed Sheeran", "obj_label": ["inglés"], "country": ["Q145"], "size": 210072, "uuid": "P1412_general_WESTERN_COUNTRIES_511"}
+{"sub_uri": "Q9545", "obj_uri": ["Q1860"], "sub_label": "Tony Blair", "obj_label": ["inglés"], "country": ["Q145"], "size": 210005, "uuid": "P1412_general_WESTERN_COUNTRIES_512"}
+{"sub_uri": "Q2844750", "obj_uri": ["Q150"], "sub_label": "Amélie Diéterle", "obj_label": ["francés"], "country": ["Q142"], "size": 209891, "uuid": "P1412_general_WESTERN_COUNTRIES_513"}
+{"sub_uri": "Q19867836", "obj_uri": ["Q1860"], "sub_label": "Felicity Smoak", "obj_label": ["inglés"], "country": ["Q30"], "size": 209695, "uuid": "P1412_general_WESTERN_COUNTRIES_514"}
+{"sub_uri": "Q152388", "obj_uri": ["Q1860", "Q188"], "sub_label": "Theodor Adorno", "obj_label": ["inglés", "alemán"], "country": ["Q183", "Q30"], "size": 209517, "uuid": "P1412_general_WESTERN_COUNTRIES_515"}
+{"sub_uri": "Q1618", "obj_uri": ["Q1860"], "sub_label": "Charles Lindbergh", "obj_label": ["inglés"], "country": ["Q30"], "size": 209381, "uuid": "P1412_general_WESTERN_COUNTRIES_516"}
+{"sub_uri": "Q36268", "obj_uri": ["Q150"], "sub_label": "Brigitte Bardot", "obj_label": ["francés"], "country": ["Q142"], "size": 209344, "uuid": "P1412_general_WESTERN_COUNTRIES_517"}
+{"sub_uri": "Q20089738", "obj_uri": ["Q150"], "sub_label": "Bernard d'Ormale", "obj_label": ["francés"], "country": ["Q142"], "size": 209344, "uuid": "P1412_general_WESTERN_COUNTRIES_518"}
+{"sub_uri": "Q62133", "obj_uri": ["Q1860", "Q188"], "sub_label": "Bruno Frank", "obj_label": ["inglés", "alemán"], "country": ["Q183"], "size": 209056, "uuid": "P1412_general_WESTERN_COUNTRIES_519"}
+{"sub_uri": "Q358513", "obj_uri": ["Q150"], "sub_label": "Michel Sardou", "obj_label": ["francés"], "country": ["Q142"], "size": 209031, "uuid": "P1412_general_WESTERN_COUNTRIES_520"}
+{"sub_uri": "Q36812", "obj_uri": ["Q1860"], "sub_label": "Guillermo de Gales", "obj_label": ["inglés"], "country": ["Q145"], "size": 208785, "uuid": "P1412_general_WESTERN_COUNTRIES_521"}
+{"sub_uri": "Q229364", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Naya Rivera", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 208696, "uuid": "P1412_general_WESTERN_COUNTRIES_522"}
+{"sub_uri": "Q169452", "obj_uri": ["Q1860"], "sub_label": "Shaquille O'Neal", "obj_label": ["inglés"], "country": ["Q30"], "size": 208538, "uuid": "P1412_general_WESTERN_COUNTRIES_523"}
+{"sub_uri": "Q131324", "obj_uri": ["Q1860"], "sub_label": "Janet Jackson", "obj_label": ["inglés"], "country": ["Q30"], "size": 208333, "uuid": "P1412_general_WESTERN_COUNTRIES_524"}
+{"sub_uri": "Q41590", "obj_uri": ["Q150", "Q1860", "Q188", "Q652", "Q7913", "Q9168"], "sub_label": "Mircea Eliade", "obj_label": ["francés", "inglés", "alemán", "italiano", "rumano", "persa"], "country": ["Q30"], "size": 207973, "uuid": "P1412_general_WESTERN_COUNTRIES_525"}
+{"sub_uri": "Q52985", "obj_uri": ["Q150"], "sub_label": "Hergé", "obj_label": ["francés"], "country": ["Q31"], "size": 207793, "uuid": "P1412_general_WESTERN_COUNTRIES_526"}
+{"sub_uri": "Q187241", "obj_uri": ["Q150"], "sub_label": "Augustin Fresnel", "obj_label": ["francés"], "country": ["Q142"], "size": 207333, "uuid": "P1412_general_WESTERN_COUNTRIES_527"}
+{"sub_uri": "Q160499", "obj_uri": ["Q150"], "sub_label": "Charles Maurice de Talleyrand", "obj_label": ["francés"], "country": ["Q142"], "size": 207294, "uuid": "P1412_general_WESTERN_COUNTRIES_528"}
+{"sub_uri": "Q22212", "obj_uri": ["Q1860"], "sub_label": "Lindsey Graham", "obj_label": ["inglés"], "country": ["Q30"], "size": 207222, "uuid": "P1412_general_WESTERN_COUNTRIES_529"}
+{"sub_uri": "Q45901", "obj_uri": ["Q150"], "sub_label": "Thierry Henry", "obj_label": ["francés"], "country": ["Q142"], "size": 207037, "uuid": "P1412_general_WESTERN_COUNTRIES_530"}
+{"sub_uri": "Q16208544", "obj_uri": ["Q1860"], "sub_label": "Gemma Collins", "obj_label": ["inglés"], "country": ["Q145"], "size": 206613, "uuid": "P1412_general_WESTERN_COUNTRIES_531"}
+{"sub_uri": "Q37175", "obj_uri": ["Q1860"], "sub_label": "Johnny Depp", "obj_label": ["inglés"], "country": ["Q30"], "size": 206581, "uuid": "P1412_general_WESTERN_COUNTRIES_532"}
+{"sub_uri": "Q16202473", "obj_uri": ["Q1860"], "sub_label": "Michelle Wu", "obj_label": ["inglés"], "country": ["Q30"], "size": 206526, "uuid": "P1412_general_WESTERN_COUNTRIES_533"}
+{"sub_uri": "Q7726", "obj_uri": ["Q150"], "sub_label": "José I de España", "obj_label": ["francés"], "country": ["Q142"], "size": 206509, "uuid": "P1412_general_WESTERN_COUNTRIES_534"}
+{"sub_uri": "Q19673", "obj_uri": ["Q1860"], "sub_label": "Al Gore", "obj_label": ["inglés"], "country": ["Q30"], "size": 206065, "uuid": "P1412_general_WESTERN_COUNTRIES_535"}
+{"sub_uri": "Q324546", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Marco Rubio", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 206002, "uuid": "P1412_general_WESTERN_COUNTRIES_536"}
+{"sub_uri": "Q311858", "obj_uri": ["Q1860"], "sub_label": "Mark Selby", "obj_label": ["inglés"], "country": ["Q145"], "size": 205968, "uuid": "P1412_general_WESTERN_COUNTRIES_537"}
+{"sub_uri": "Q357676", "obj_uri": ["Q1860"], "sub_label": "Jack Kemp", "obj_label": ["inglés"], "country": ["Q30"], "size": 205791, "uuid": "P1412_general_WESTERN_COUNTRIES_538"}
+{"sub_uri": "Q5302905", "obj_uri": ["Q1860"], "sub_label": "Roy Moore", "obj_label": ["inglés"], "country": ["Q30"], "size": 205508, "uuid": "P1412_general_WESTERN_COUNTRIES_539"}
+{"sub_uri": "Q5740802", "obj_uri": ["Q188"], "sub_label": "Hermann Lang", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_540"}
+{"sub_uri": "Q8022570", "obj_uri": ["Q188"], "sub_label": "Willy Lehnert", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_541"}
+{"sub_uri": "Q5040457", "obj_uri": ["Q188"], "sub_label": "Carl Langemeyer", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_542"}
+{"sub_uri": "Q8002231", "obj_uri": ["Q188"], "sub_label": "Wilhelm Lehner", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_543"}
+{"sub_uri": "Q16777502", "obj_uri": ["Q188"], "sub_label": "Johann lutz", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_544"}
+{"sub_uri": "Q5503867", "obj_uri": ["Q188"], "sub_label": "Friedrich Lier", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_545"}
+{"sub_uri": "Q7781636", "obj_uri": ["Q188"], "sub_label": "Theodor von Lücken", "obj_label": ["alemán"], "country": ["Q183", "Q30"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_546"}
+{"sub_uri": "Q5700541", "obj_uri": ["Q188"], "sub_label": "Heinz-Oskar Laebe", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_547"}
+{"sub_uri": "Q6371496", "obj_uri": ["Q188"], "sub_label": "Karl-Otto Leukefeld", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_548"}
+{"sub_uri": "Q5504960", "obj_uri": ["Q188"], "sub_label": "Fritz Langanke", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_549"}
+{"sub_uri": "Q5535741", "obj_uri": ["Q188"], "sub_label": "Georg Langendorf", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_550"}
+{"sub_uri": "Q6371898", "obj_uri": ["Q188"], "sub_label": "Karl Heinz Lichte", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_551"}
+{"sub_uri": "Q5709687", "obj_uri": ["Q188"], "sub_label": "Helmut Leicht", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_552"}
+{"sub_uri": "Q16013878", "obj_uri": ["Q188"], "sub_label": "Waldemar Lehmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_553"}
+{"sub_uri": "Q16014115", "obj_uri": ["Q188"], "sub_label": "Walter Liebing", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_554"}
+{"sub_uri": "Q5039747", "obj_uri": ["Q188"], "sub_label": "Carl-August Landfermann", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_555"}
+{"sub_uri": "Q7965419", "obj_uri": ["Q188"], "sub_label": "Walter Lange", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_556"}
+{"sub_uri": "Q4894206", "obj_uri": ["Q188"], "sub_label": "Bernhard Lorenzen", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_557"}
+{"sub_uri": "Q16012644", "obj_uri": ["Q188"], "sub_label": "Armin Lembke", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_558"}
+{"sub_uri": "Q6446872", "obj_uri": ["Q188"], "sub_label": "Kurt Loewer", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_559"}
+{"sub_uri": "Q88466", "obj_uri": ["Q188"], "sub_label": "Hans-Günther Lange", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_560"}
+{"sub_uri": "Q4719384", "obj_uri": ["Q150"], "sub_label": "Alexander Leschke", "obj_label": ["francés"], "country": ["Q142"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_561"}
+{"sub_uri": "Q7606182", "obj_uri": ["Q188"], "sub_label": "Stefan Litjens", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_562"}
+{"sub_uri": "Q5934120", "obj_uri": ["Q188"], "sub_label": "Hugo Laubereau", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_563"}
+{"sub_uri": "Q5650412", "obj_uri": ["Q188"], "sub_label": "Hans Lotter", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_564"}
+{"sub_uri": "Q5388070", "obj_uri": ["Q188"], "sub_label": "Erich Lorenz", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_565"}
+{"sub_uri": "Q4272027", "obj_uri": ["Q188"], "sub_label": "Siegfried Lüdden", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_566"}
+{"sub_uri": "Q10349154", "obj_uri": ["Q188"], "sub_label": "Philipp Lichtenberg", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_567"}
+{"sub_uri": "Q22006145", "obj_uri": ["Q188"], "sub_label": "Paul Landgraf", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_568"}
+{"sub_uri": "Q5621113", "obj_uri": ["Q188"], "sub_label": "Gustav Freiherr von Liebenstein", "obj_label": ["alemán"], "country": ["Q183"], "size": 205184, "uuid": "P1412_general_WESTERN_COUNTRIES_569"}
+{"sub_uri": "Q212833", "obj_uri": ["Q150"], "sub_label": "Gilles Simon", "obj_label": ["francés"], "country": ["Q142"], "size": 205106, "uuid": "P1412_general_WESTERN_COUNTRIES_570"}
+{"sub_uri": "Q44449", "obj_uri": ["Q1860"], "sub_label": "Randy Orton", "obj_label": ["inglés"], "country": ["Q30"], "size": 204935, "uuid": "P1412_general_WESTERN_COUNTRIES_571"}
+{"sub_uri": "Q3560451", "obj_uri": ["Q150"], "sub_label": "Violette Nozière", "obj_label": ["francés"], "country": ["Q142"], "size": 204932, "uuid": "P1412_general_WESTERN_COUNTRIES_572"}
+{"sub_uri": "Q310341", "obj_uri": ["Q150", "Q652"], "sub_label": "Antonio Negri", "obj_label": ["francés", "italiano"], "country": ["Q38"], "size": 204365, "uuid": "P1412_general_WESTERN_COUNTRIES_573"}
+{"sub_uri": "Q181715", "obj_uri": ["Q150"], "sub_label": "Teresa de Lisieux", "obj_label": ["francés"], "country": ["Q142"], "size": 204319, "uuid": "P1412_general_WESTERN_COUNTRIES_574"}
+{"sub_uri": "Q332314", "obj_uri": ["Q1860"], "sub_label": "Michael Heseltine", "obj_label": ["inglés"], "country": ["Q145"], "size": 204046, "uuid": "P1412_general_WESTERN_COUNTRIES_575"}
+{"sub_uri": "Q298252", "obj_uri": ["Q1860"], "sub_label": "John Wayne Gacy", "obj_label": ["inglés"], "country": ["Q30"], "size": 203975, "uuid": "P1412_general_WESTERN_COUNTRIES_576"}
+{"sub_uri": "Q11142", "obj_uri": ["Q1860", "Q33395"], "sub_label": "Clarence Thomas", "obj_label": ["inglés", "gulá"], "country": ["Q30"], "size": 203621, "uuid": "P1412_general_WESTERN_COUNTRIES_577"}
+{"sub_uri": "Q43135", "obj_uri": ["Q1860", "Q7850", "Q9192"], "sub_label": "Kevin Rudd", "obj_label": ["inglés", "chino", "chino mandarín"], "country": ["Q408"], "size": 203583, "uuid": "P1412_general_WESTERN_COUNTRIES_578"}
+{"sub_uri": "Q202765", "obj_uri": ["Q1860"], "sub_label": "Kate Winslet", "obj_label": ["inglés"], "country": ["Q145"], "size": 203525, "uuid": "P1412_general_WESTERN_COUNTRIES_579"}
+{"sub_uri": "Q41421", "obj_uri": ["Q1860"], "sub_label": "Michael Jordan", "obj_label": ["inglés"], "country": ["Q30"], "size": 203435, "uuid": "P1412_general_WESTERN_COUNTRIES_580"}
+{"sub_uri": "Q80966", "obj_uri": ["Q1860"], "sub_label": "Cate Blanchett", "obj_label": ["inglés"], "country": ["Q30", "Q408"], "size": 203310, "uuid": "P1412_general_WESTERN_COUNTRIES_581"}
+{"sub_uri": "Q2604", "obj_uri": ["Q1860", "Q188", "Q397", "Q652"], "sub_label": "Pío XII", "obj_label": ["inglés", "alemán", "latín", "italiano"], "country": ["Q38"], "size": 203200, "uuid": "P1412_general_WESTERN_COUNTRIES_582"}
+{"sub_uri": "Q727798", "obj_uri": ["Q1860"], "sub_label": "Sajid Javid", "obj_label": ["inglés"], "country": ["Q145"], "size": 202823, "uuid": "P1412_general_WESTERN_COUNTRIES_583"}
+{"sub_uri": "Q181683", "obj_uri": ["Q1860"], "sub_label": "Carly Simon", "obj_label": ["inglés"], "country": ["Q30"], "size": 202341, "uuid": "P1412_general_WESTERN_COUNTRIES_584"}
+{"sub_uri": "Q624", "obj_uri": ["Q652"], "sub_label": "Alessandro Del Piero", "obj_label": ["italiano"], "country": ["Q38"], "size": 202217, "uuid": "P1412_general_WESTERN_COUNTRIES_585"}
+{"sub_uri": "Q538868", "obj_uri": ["Q1860"], "sub_label": "Joe Manchin", "obj_label": ["inglés"], "country": ["Q30"], "size": 202149, "uuid": "P1412_general_WESTERN_COUNTRIES_586"}
+{"sub_uri": "Q34969", "obj_uri": ["Q1860"], "sub_label": "Benjamin Franklin", "obj_label": ["inglés"], "country": ["Q30"], "size": 202065, "uuid": "P1412_general_WESTERN_COUNTRIES_587"}
+{"sub_uri": "Q222071", "obj_uri": ["Q1860"], "sub_label": "Courtney Love", "obj_label": ["inglés"], "country": ["Q30"], "size": 201976, "uuid": "P1412_general_WESTERN_COUNTRIES_588"}
+{"sub_uri": "Q6371597", "obj_uri": ["Q188"], "sub_label": "Karl Baier", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_589"}
+{"sub_uri": "Q7106901", "obj_uri": ["Q188"], "sub_label": "Oskar Bauer", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_590"}
+{"sub_uri": "Q9638144", "obj_uri": ["Q188"], "sub_label": "Auqust Berzen", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_591"}
+{"sub_uri": "Q16336864", "obj_uri": ["Q188"], "sub_label": "Arthur Becker-Neetz", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_592"}
+{"sub_uri": "Q7109529", "obj_uri": ["Q188"], "sub_label": "Otto Bittorf", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_593"}
+{"sub_uri": "Q20984632", "obj_uri": ["Q188"], "sub_label": "Karl-Heinz Baader", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_594"}
+{"sub_uri": "Q6279685", "obj_uri": ["Q188"], "sub_label": "Josef Beginen", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_595"}
+{"sub_uri": "Q6204511", "obj_uri": ["Q188"], "sub_label": "Joachim Barth", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_596"}
+{"sub_uri": "Q16498141", "obj_uri": ["Q188"], "sub_label": "Herbert Beyer", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_597"}
+{"sub_uri": "Q90602", "obj_uri": ["Q188"], "sub_label": "Arnulf Blasig", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_598"}
+{"sub_uri": "Q5039768", "obj_uri": ["Q188"], "sub_label": "Carl-Ludwig Blumenthal", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_599"}
+{"sub_uri": "Q5371180", "obj_uri": ["Q188"], "sub_label": "Emil Berner", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_600"}
+{"sub_uri": "Q122693", "obj_uri": ["Q188"], "sub_label": "Werner Graf von Bassewitz-Levetzow", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_601"}
+{"sub_uri": "Q5350013", "obj_uri": ["Q188"], "sub_label": "Eitel-Albert Barth", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_602"}
+{"sub_uri": "Q5406890", "obj_uri": ["Q188"], "sub_label": "Eugen Baur", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_603"}
+{"sub_uri": "Q10294276", "obj_uri": ["Q188"], "sub_label": "Heinrich Behrends", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_604"}
+{"sub_uri": "Q5588015", "obj_uri": ["Q188"], "sub_label": "Gottfried Bäumler", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_605"}
+{"sub_uri": "Q5504867", "obj_uri": ["Q188"], "sub_label": "Fritz Bingemer", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_606"}
+{"sub_uri": "Q4709761", "obj_uri": ["Q188"], "sub_label": "Albert Blaich", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_607"}
+{"sub_uri": "Q10346265", "obj_uri": ["Q188"], "sub_label": "Paul Becker", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_608"}
+{"sub_uri": "Q7510613", "obj_uri": ["Q188"], "sub_label": "Siegfried Betke", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_609"}
+{"sub_uri": "Q6526289", "obj_uri": ["Q188"], "sub_label": "Leonhard Bischoff", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_610"}
+{"sub_uri": "Q4722289", "obj_uri": ["Q188"], "sub_label": "Alfred Banholzer", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_611"}
+{"sub_uri": "Q4775674", "obj_uri": ["Q188"], "sub_label": "Anton Berg", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_612"}
+{"sub_uri": "Q7377161", "obj_uri": ["Q188"], "sub_label": "Rudolf Bäcker", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_613"}
+{"sub_uri": "Q5550623", "obj_uri": ["Q188"], "sub_label": "Gerhard Benack", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_614"}
+{"sub_uri": "Q10285970", "obj_uri": ["Q188"], "sub_label": "Friedrich Bachmeier", "obj_label": ["alemán"], "country": ["Q183", "Q30"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_615"}
+{"sub_uri": "Q5396099", "obj_uri": ["Q188"], "sub_label": "Erwin Bachmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_616"}
+{"sub_uri": "Q5388004", "obj_uri": ["Q188"], "sub_label": "Erich Beine", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_617"}
+{"sub_uri": "Q7513326", "obj_uri": ["Q188"], "sub_label": "Sigurt-Horstmar Freiherr von Beaulieu-Marconnay", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_618"}
+{"sub_uri": "Q5649763", "obj_uri": ["Q188"], "sub_label": "Hans Baasner", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_619"}
+{"sub_uri": "Q6699190", "obj_uri": ["Q188"], "sub_label": "Ludwig Bauer", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_620"}
+{"sub_uri": "Q5606632", "obj_uri": ["Q188"], "sub_label": "Gregor Baunach", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_621"}
+{"sub_uri": "Q5627042", "obj_uri": ["Q188"], "sub_label": "Günther Bergerhoff", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_622"}
+{"sub_uri": "Q10313873", "obj_uri": ["Q188"], "sub_label": "Karl Bleckl", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_623"}
+{"sub_uri": "Q10314816", "obj_uri": ["Q188"], "sub_label": "Kurt Bahns", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_624"}
+{"sub_uri": "Q5649532", "obj_uri": ["Q188"], "sub_label": "Hans-Dieter von Basse", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_625"}
+{"sub_uri": "Q5649583", "obj_uri": ["Q188"], "sub_label": "Hans-Joachim Bellinger", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_626"}
+{"sub_uri": "Q7983390", "obj_uri": ["Q188"], "sub_label": "Werner Freiherr von Beschwitz", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_627"}
+{"sub_uri": "Q10323599", "obj_uri": ["Q188"], "sub_label": "Manfred Beutner", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_628"}
+{"sub_uri": "Q6420465", "obj_uri": ["Q188"], "sub_label": "Klemens Behler", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_629"}
+{"sub_uri": "Q7964299", "obj_uri": ["Q188"], "sub_label": "Walter Bestmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_630"}
+{"sub_uri": "Q6775005", "obj_uri": ["Q188"], "sub_label": "Martin Bielig", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_631"}
+{"sub_uri": "Q5649700", "obj_uri": ["Q188"], "sub_label": "Hans-Wilhelm Bertram", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_632"}
+{"sub_uri": "Q4684053", "obj_uri": ["Q188"], "sub_label": "Adolf Baum", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_633"}
+{"sub_uri": "Q10393605", "obj_uri": ["Q188"], "sub_label": "Wilhelm Beier", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_634"}
+{"sub_uri": "Q1346113", "obj_uri": ["Q188"], "sub_label": "Lothar von Bischiffshausen", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_635"}
+{"sub_uri": "Q10393401", "obj_uri": ["Q188"], "sub_label": "Werner Beschnidt", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_636"}
+{"sub_uri": "Q10295084", "obj_uri": ["Q188"], "sub_label": "Hermann Blume", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_637"}
+{"sub_uri": "Q5418863", "obj_uri": ["Q188"], "sub_label": "Ewald Bartel", "obj_label": ["alemán"], "country": ["Q183"], "size": 201904, "uuid": "P1412_general_WESTERN_COUNTRIES_638"}
+{"sub_uri": "Q455462", "obj_uri": ["Q150"], "sub_label": "Antoine Griezmann", "obj_label": ["francés"], "country": ["Q142"], "size": 201781, "uuid": "P1412_general_WESTERN_COUNTRIES_639"}
+{"sub_uri": "Q34660", "obj_uri": ["Q1860", "Q7979"], "sub_label": "J. K. Rowling", "obj_label": ["inglés", "inglés británico"], "country": ["Q145"], "size": 201778, "uuid": "P1412_general_WESTERN_COUNTRIES_640"}
+{"sub_uri": "Q9640", "obj_uri": ["Q1860"], "sub_label": "Lyndon B. Johnson", "obj_label": ["inglés"], "country": ["Q30"], "size": 201717, "uuid": "P1412_general_WESTERN_COUNTRIES_641"}
+{"sub_uri": "Q81324", "obj_uri": ["Q1860"], "sub_label": "Bret Hart", "obj_label": ["inglés"], "country": ["Q16", "Q30"], "size": 201352, "uuid": "P1412_general_WESTERN_COUNTRIES_642"}
+{"sub_uri": "Q6882", "obj_uri": ["Q150", "Q1860", "Q188", "Q397", "Q652", "Q9035"], "sub_label": "James Joyce", "obj_label": ["francés", "inglés", "alemán", "latín", "italiano", "danés"], "country": ["Q27"], "size": 201313, "uuid": "P1412_general_WESTERN_COUNTRIES_643"}
+{"sub_uri": "Q23020745", "obj_uri": ["Q1860"], "sub_label": "Josh Hawley", "obj_label": ["inglés"], "country": ["Q30"], "size": 201251, "uuid": "P1412_general_WESTERN_COUNTRIES_644"}
+{"sub_uri": "Q41173", "obj_uri": ["Q1860"], "sub_label": "Demi Lovato", "obj_label": ["inglés"], "country": ["Q30"], "size": 201002, "uuid": "P1412_general_WESTERN_COUNTRIES_645"}
+{"sub_uri": "Q10510", "obj_uri": ["Q1860"], "sub_label": "Jenson Button", "obj_label": ["inglés"], "country": ["Q145"], "size": 200793, "uuid": "P1412_general_WESTERN_COUNTRIES_646"}
+{"sub_uri": "Q41533", "obj_uri": ["Q1860"], "sub_label": "Frank Lampard", "obj_label": ["inglés"], "country": ["Q145"], "size": 200705, "uuid": "P1412_general_WESTERN_COUNTRIES_647"}
+{"sub_uri": "Q13628723", "obj_uri": ["Q1860"], "sub_label": "Jared Kushner", "obj_label": ["inglés"], "country": ["Q30"], "size": 200637, "uuid": "P1412_general_WESTERN_COUNTRIES_648"}
+{"sub_uri": "Q319072", "obj_uri": ["Q1860"], "sub_label": "Rush Limbaugh", "obj_label": ["inglés"], "country": ["Q30"], "size": 200536, "uuid": "P1412_general_WESTERN_COUNTRIES_649"}
+{"sub_uri": "Q6968975", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Nathan Chen", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 200535, "uuid": "P1412_general_WESTERN_COUNTRIES_650"}
+{"sub_uri": "Q5485263", "obj_uri": ["Q1860"], "sub_label": "Frank Behle", "obj_label": ["inglés"], "country": ["Q30"], "size": 200510, "uuid": "P1412_general_WESTERN_COUNTRIES_651"}
+{"sub_uri": "Q8877", "obj_uri": ["Q1860"], "sub_label": "Steven Spielberg", "obj_label": ["inglés"], "country": ["Q30"], "size": 200500, "uuid": "P1412_general_WESTERN_COUNTRIES_652"}
+{"sub_uri": "Q41395", "obj_uri": ["Q1321"], "sub_label": "José Luis Rodríguez Zapatero", "obj_label": ["español"], "country": ["Q29"], "size": 200383, "uuid": "P1412_general_WESTERN_COUNTRIES_653"}
+{"sub_uri": "Q11998", "obj_uri": ["Q1860"], "sub_label": "Kylie Minogue", "obj_label": ["inglés"], "country": ["Q145", "Q408"], "size": 200340, "uuid": "P1412_general_WESTERN_COUNTRIES_654"}
+{"sub_uri": "Q160141", "obj_uri": ["Q150"], "sub_label": "Chaïm Soutine", "obj_label": ["francés"], "country": ["Q142"], "size": 200307, "uuid": "P1412_general_WESTERN_COUNTRIES_655"}
+{"sub_uri": "Q47576", "obj_uri": ["Q150", "Q1860", "Q188"], "sub_label": "Arsène Wenger", "obj_label": ["francés", "inglés", "alemán"], "country": ["Q142"], "size": 200172, "uuid": "P1412_general_WESTERN_COUNTRIES_656"}
+{"sub_uri": "Q163366", "obj_uri": ["Q1860"], "sub_label": "Ezra Pound", "obj_label": ["inglés"], "country": ["Q30"], "size": 199346, "uuid": "P1412_general_WESTERN_COUNTRIES_657"}
+{"sub_uri": "Q10287", "obj_uri": ["Q1321", "Q150", "Q1860", "Q652", "Q7026"], "sub_label": "Manuel Valls", "obj_label": ["español", "francés", "inglés", "italiano", "catalán"], "country": ["Q142", "Q29"], "size": 199233, "uuid": "P1412_general_WESTERN_COUNTRIES_658"}
+{"sub_uri": "Q461391", "obj_uri": ["Q1860"], "sub_label": "Gavin Newsom", "obj_label": ["inglés"], "country": ["Q30"], "size": 199224, "uuid": "P1412_general_WESTERN_COUNTRIES_659"}
+{"sub_uri": "Q382303", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Mariano Rivera", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 199182, "uuid": "P1412_general_WESTERN_COUNTRIES_660"}
+{"sub_uri": "Q9682", "obj_uri": ["Q1860"], "sub_label": "Isabel II del Reino Unido", "obj_label": ["inglés"], "country": ["Q145"], "size": 199163, "uuid": "P1412_general_WESTERN_COUNTRIES_661"}
+{"sub_uri": "Q2891336", "obj_uri": ["Q1860"], "sub_label": "Charlotte Flair", "obj_label": ["inglés"], "country": ["Q30"], "size": 199045, "uuid": "P1412_general_WESTERN_COUNTRIES_662"}
+{"sub_uri": "Q44164", "obj_uri": ["Q1860"], "sub_label": "Edge", "obj_label": ["inglés"], "country": ["Q16", "Q30"], "size": 198853, "uuid": "P1412_general_WESTERN_COUNTRIES_663"}
+{"sub_uri": "Q2695156", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Batman", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 198841, "uuid": "P1412_general_WESTERN_COUNTRIES_664"}
+{"sub_uri": "Q190231", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Adam Lambert", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 198649, "uuid": "P1412_general_WESTERN_COUNTRIES_665"}
+{"sub_uri": "Q41563", "obj_uri": ["Q1860"], "sub_label": "Julia Gillard", "obj_label": ["inglés"], "country": ["Q408"], "size": 198647, "uuid": "P1412_general_WESTERN_COUNTRIES_666"}
+{"sub_uri": "Q45380", "obj_uri": ["Q1860"], "sub_label": "John Lewis", "obj_label": ["inglés"], "country": ["Q30"], "size": 198577, "uuid": "P1412_general_WESTERN_COUNTRIES_667"}
+{"sub_uri": "Q34436", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Scarlett Johansson", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 198501, "uuid": "P1412_general_WESTERN_COUNTRIES_668"}
+{"sub_uri": "Q79031", "obj_uri": ["Q1860"], "sub_label": "Mike Tyson", "obj_label": ["inglés"], "country": ["Q30"], "size": 198485, "uuid": "P1412_general_WESTERN_COUNTRIES_669"}
+{"sub_uri": "Q8349", "obj_uri": ["Q1860"], "sub_label": "\"Weird Al\" Yankovic", "obj_label": ["inglés"], "country": ["Q30"], "size": 198431, "uuid": "P1412_general_WESTERN_COUNTRIES_670"}
+{"sub_uri": "Q22316", "obj_uri": ["Q150", "Q1860", "Q188"], "sub_label": "John Kerry", "obj_label": ["francés", "inglés", "alemán"], "country": ["Q30"], "size": 198394, "uuid": "P1412_general_WESTERN_COUNTRIES_671"}
+{"sub_uri": "Q242959", "obj_uri": ["Q150"], "sub_label": "Kristina Mladenovic", "obj_label": ["francés"], "country": ["Q142"], "size": 198375, "uuid": "P1412_general_WESTERN_COUNTRIES_672"}
+{"sub_uri": "Q6371897", "obj_uri": ["Q188"], "sub_label": "Karlheinz Bühler", "obj_label": ["alemán"], "country": ["Q183"], "size": 198313, "uuid": "P1412_general_WESTERN_COUNTRIES_673"}
+{"sub_uri": "Q7833", "obj_uri": ["Q150"], "sub_label": "Boris Vian", "obj_label": ["francés"], "country": ["Q142"], "size": 198298, "uuid": "P1412_general_WESTERN_COUNTRIES_674"}
+{"sub_uri": "Q91", "obj_uri": ["Q1860"], "sub_label": "Abraham Lincoln", "obj_label": ["inglés"], "country": ["Q30"], "size": 198235, "uuid": "P1412_general_WESTERN_COUNTRIES_675"}
+{"sub_uri": "Q1670311", "obj_uri": ["Q188"], "sub_label": "Alexander Gauland", "obj_label": ["alemán"], "country": ["Q183"], "size": 198084, "uuid": "P1412_general_WESTERN_COUNTRIES_676"}
+{"sub_uri": "Q51552", "obj_uri": ["Q150", "Q1860", "Q809"], "sub_label": "Roman Polanski", "obj_label": ["francés", "inglés", "polaco"], "country": ["Q142"], "size": 198015, "uuid": "P1412_general_WESTERN_COUNTRIES_677"}
+{"sub_uri": "Q352193", "obj_uri": ["Q1860"], "sub_label": "Johnny Weir", "obj_label": ["inglés"], "country": ["Q30"], "size": 197983, "uuid": "P1412_general_WESTERN_COUNTRIES_678"}
+{"sub_uri": "Q3942264", "obj_uri": ["Q188"], "sub_label": "Rudolf Gerhardt", "obj_label": ["alemán"], "country": ["Q183", "Q30"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_679"}
+{"sub_uri": "Q5700680", "obj_uri": ["Q188"], "sub_label": "Heinz Gropp", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_680"}
+{"sub_uri": "Q7964964", "obj_uri": ["Q188"], "sub_label": "Walter Girg", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_681"}
+{"sub_uri": "Q7983399", "obj_uri": ["Q188"], "sub_label": "Werner Gust", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_682"}
+{"sub_uri": "Q16016149", "obj_uri": ["Q188"], "sub_label": "Helmut Groß", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_683"}
+{"sub_uri": "Q6775575", "obj_uri": ["Q188"], "sub_label": "Martin Groß", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_684"}
+{"sub_uri": "Q4133578", "obj_uri": ["Q188"], "sub_label": "Heinrich Garbers", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_685"}
+{"sub_uri": "Q5700117", "obj_uri": ["Q188"], "sub_label": "Heinrich Gottke", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_686"}
+{"sub_uri": "Q7376932", "obj_uri": ["Q188"], "sub_label": "Rudi Gelbhaar", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_687"}
+{"sub_uri": "Q6216690", "obj_uri": ["Q188"], "sub_label": "Johannes Geismann", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_688"}
+{"sub_uri": "Q2544444", "obj_uri": ["Q188"], "sub_label": "Walther Gerhold", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_689"}
+{"sub_uri": "Q7310328", "obj_uri": ["Q188"], "sub_label": "Reinhard Graubner", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_690"}
+{"sub_uri": "Q7109601", "obj_uri": ["Q188"], "sub_label": "Otto Gieseke", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_691"}
+{"sub_uri": "Q6446753", "obj_uri": ["Q188"], "sub_label": "Kurt Gröschke", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_692"}
+{"sub_uri": "Q6699227", "obj_uri": ["Q188"], "sub_label": "Ludwig Gerlach", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_693"}
+{"sub_uri": "Q5275181", "obj_uri": ["Q188"], "sub_label": "Dietrich Graßmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_694"}
+{"sub_uri": "Q7510627", "obj_uri": ["Q188"], "sub_label": "Siegfried Gerstner", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_695"}
+{"sub_uri": "Q5649524", "obj_uri": ["Q188"], "sub_label": "Hans-Detlef Gollert-Hansen", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_696"}
+{"sub_uri": "Q8002174", "obj_uri": ["Q188"], "sub_label": "Wilhelm Gänsler", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_697"}
+{"sub_uri": "Q7151034", "obj_uri": ["Q188"], "sub_label": "Paul Guhl", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_698"}
+{"sub_uri": "Q7174246", "obj_uri": ["Q188"], "sub_label": "Peter Gilow", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_699"}
+{"sub_uri": "Q8030065", "obj_uri": ["Q188"], "sub_label": "Wolfgang Gast", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_700"}
+{"sub_uri": "Q2079626", "obj_uri": ["Q188"], "sub_label": "Karl Gesele", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_701"}
+{"sub_uri": "Q16014869", "obj_uri": ["Q188"], "sub_label": "Alfred Genz", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_702"}
+{"sub_uri": "Q5492767", "obj_uri": ["Q188"], "sub_label": "Franz Gapp", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_703"}
+{"sub_uri": "Q4017766", "obj_uri": ["Q188"], "sub_label": "Waldemar von Gazen", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_704"}
+{"sub_uri": "Q5395002", "obj_uri": ["Q188"], "sub_label": "Ernst Germer", "obj_label": ["alemán"], "country": ["Q183"], "size": 197817, "uuid": "P1412_general_WESTERN_COUNTRIES_705"}
+{"sub_uri": "Q2851133", "obj_uri": ["Q1321", "Q150", "Q1860"], "sub_label": "Anne Hidalgo", "obj_label": ["español", "francés", "inglés"], "country": ["Q142", "Q29"], "size": 197735, "uuid": "P1412_general_WESTERN_COUNTRIES_706"}
+{"sub_uri": "Q333028", "obj_uri": ["Q1617", "Q1860", "Q36510", "Q5146", "Q9129", "Q9309"], "sub_label": "Enoch Powell", "obj_label": ["urdu", "inglés", "griego moderno", "portugués", "griego", "galés"], "country": ["Q145"], "size": 197592, "uuid": "P1412_general_WESTERN_COUNTRIES_707"}
+{"sub_uri": "Q19943", "obj_uri": ["Q1321"], "sub_label": "Juan Carlos I de España", "obj_label": ["español"], "country": ["Q29"], "size": 197447, "uuid": "P1412_general_WESTERN_COUNTRIES_708"}
+{"sub_uri": "Q188623", "obj_uri": ["Q1473289", "Q150", "Q397"], "sub_label": "François Viète", "obj_label": ["francés medio", "francés", "latín"], "country": ["Q142"], "size": 197103, "uuid": "P1412_general_WESTERN_COUNTRIES_709"}
+{"sub_uri": "Q108366", "obj_uri": ["Q1860"], "sub_label": "Gregory Peck", "obj_label": ["inglés"], "country": ["Q30"], "size": 196830, "uuid": "P1412_general_WESTERN_COUNTRIES_710"}
+{"sub_uri": "Q239917", "obj_uri": ["Q1860"], "sub_label": "Tina Arena", "obj_label": ["inglés"], "country": ["Q408"], "size": 196512, "uuid": "P1412_general_WESTERN_COUNTRIES_711"}
+{"sub_uri": "Q26408", "obj_uri": ["Q150"], "sub_label": "Pierre Bonnard", "obj_label": ["francés"], "country": ["Q142"], "size": 196390, "uuid": "P1412_general_WESTERN_COUNTRIES_712"}
+{"sub_uri": "Q15897", "obj_uri": ["Q1860"], "sub_label": "Amy Winehouse", "obj_label": ["inglés"], "country": ["Q145"], "size": 196205, "uuid": "P1412_general_WESTERN_COUNTRIES_713"}
+{"sub_uri": "Q12680", "obj_uri": ["Q150"], "sub_label": "Paul Doumer", "obj_label": ["francés"], "country": ["Q142"], "size": 195908, "uuid": "P1412_general_WESTERN_COUNTRIES_714"}
+{"sub_uri": "Q43926", "obj_uri": ["Q652"], "sub_label": "Andrea Pirlo", "obj_label": ["italiano"], "country": ["Q38"], "size": 195589, "uuid": "P1412_general_WESTERN_COUNTRIES_715"}
+{"sub_uri": "Q7159599", "obj_uri": ["Q1321"], "sub_label": "Pedro García Cabrera", "obj_label": ["español"], "country": ["Q29"], "size": 195491, "uuid": "P1412_general_WESTERN_COUNTRIES_716"}
+{"sub_uri": "Q486740", "obj_uri": ["Q1860"], "sub_label": "Conan O'Brien", "obj_label": ["inglés"], "country": ["Q30"], "size": 195253, "uuid": "P1412_general_WESTERN_COUNTRIES_717"}
+{"sub_uri": "Q272203", "obj_uri": ["Q1860"], "sub_label": "Van Morrison", "obj_label": ["inglés"], "country": ["Q145"], "size": 195247, "uuid": "P1412_general_WESTERN_COUNTRIES_718"}
+{"sub_uri": "Q155985", "obj_uri": ["Q1860"], "sub_label": "Rick Santorum", "obj_label": ["inglés"], "country": ["Q30"], "size": 195145, "uuid": "P1412_general_WESTERN_COUNTRIES_719"}
+{"sub_uri": "Q66091313", "obj_uri": ["Q1860"], "sub_label": "Francesca Scorsese", "obj_label": ["inglés"], "country": ["Q30"], "size": 195137, "uuid": "P1412_general_WESTERN_COUNTRIES_720"}
+{"sub_uri": "Q41148", "obj_uri": ["Q1860"], "sub_label": "Martin Scorsese", "obj_label": ["inglés"], "country": ["Q30", "Q38"], "size": 195137, "uuid": "P1412_general_WESTERN_COUNTRIES_721"}
+{"sub_uri": "Q630446", "obj_uri": ["Q1860"], "sub_label": "John Green", "obj_label": ["inglés"], "country": ["Q30"], "size": 195063, "uuid": "P1412_general_WESTERN_COUNTRIES_722"}
+{"sub_uri": "Q29564107", "obj_uri": ["Q1860"], "sub_label": "Billie Eilish", "obj_label": ["inglés"], "country": ["Q30"], "size": 195051, "uuid": "P1412_general_WESTERN_COUNTRIES_723"}
+{"sub_uri": "Q574980", "obj_uri": ["Q1860"], "sub_label": "Jacob Rees-Mogg", "obj_label": ["inglés"], "country": ["Q145"], "size": 194575, "uuid": "P1412_general_WESTERN_COUNTRIES_724"}
+{"sub_uri": "Q18176756", "obj_uri": ["Q188"], "sub_label": "Björn Höcke", "obj_label": ["alemán"], "country": ["Q183"], "size": 194337, "uuid": "P1412_general_WESTERN_COUNTRIES_725"}
+{"sub_uri": "Q6383803", "obj_uri": ["Q1860"], "sub_label": "Keir Starmer", "obj_label": ["inglés"], "country": ["Q145"], "size": 194196, "uuid": "P1412_general_WESTERN_COUNTRIES_726"}
+{"sub_uri": "Q233748", "obj_uri": ["Q1568", "Q58635"], "sub_label": "Akshay Kumar", "obj_label": ["hindi", "panyabí"], "country": ["Q16"], "size": 194052, "uuid": "P1412_general_WESTERN_COUNTRIES_727"}
+{"sub_uri": "Q8007", "obj_uri": ["Q150", "Q1860", "Q188"], "sub_label": "Franklin D. Roosevelt", "obj_label": ["francés", "inglés", "alemán"], "country": ["Q30"], "size": 194047, "uuid": "P1412_general_WESTERN_COUNTRIES_728"}
+{"sub_uri": "Q10819", "obj_uri": ["Q1321"], "sub_label": "Mariano Rajoy", "obj_label": ["español"], "country": ["Q29"], "size": 194043, "uuid": "P1412_general_WESTERN_COUNTRIES_729"}
+{"sub_uri": "Q47683", "obj_uri": ["Q652"], "sub_label": "Beppe Grillo", "obj_label": ["italiano"], "country": ["Q38"], "size": 193869, "uuid": "P1412_general_WESTERN_COUNTRIES_730"}
+{"sub_uri": "Q8605", "obj_uri": ["Q1321", "Q150"], "sub_label": "Simón Bolívar", "obj_label": ["español", "francés"], "country": ["Q29"], "size": 193791, "uuid": "P1412_general_WESTERN_COUNTRIES_731"}
+{"sub_uri": "Q37459", "obj_uri": ["Q1860"], "sub_label": "Nicole Kidman", "obj_label": ["inglés"], "country": ["Q30", "Q408"], "size": 193567, "uuid": "P1412_general_WESTERN_COUNTRIES_732"}
+{"sub_uri": "Q21914464", "obj_uri": ["Q1860", "Q8748"], "sub_label": "Dua Lipa", "obj_label": ["inglés", "albanés"], "country": ["Q145"], "size": 193383, "uuid": "P1412_general_WESTERN_COUNTRIES_733"}
+{"sub_uri": "Q312556", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Jeff Bezos", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 193279, "uuid": "P1412_general_WESTERN_COUNTRIES_734"}
+{"sub_uri": "Q359888", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Tim Kaine", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 193226, "uuid": "P1412_general_WESTERN_COUNTRIES_735"}
+{"sub_uri": "Q353511", "obj_uri": ["Q1860"], "sub_label": "Derek Jeter", "obj_label": ["inglés"], "country": ["Q30"], "size": 193047, "uuid": "P1412_general_WESTERN_COUNTRIES_736"}
+{"sub_uri": "Q295376", "obj_uri": ["Q1860"], "sub_label": "John Higgins", "obj_label": ["inglés"], "country": ["Q145"], "size": 192970, "uuid": "P1412_general_WESTERN_COUNTRIES_737"}
+{"sub_uri": "Q440123", "obj_uri": ["Q1321"], "sub_label": "Estela Giménez", "obj_label": ["español"], "country": ["Q29"], "size": 192947, "uuid": "P1412_general_WESTERN_COUNTRIES_738"}
+{"sub_uri": "Q267858", "obj_uri": ["Q150", "Q34219"], "sub_label": "Albert Marquet", "obj_label": ["francés", "valón"], "country": ["Q142"], "size": 192774, "uuid": "P1412_general_WESTERN_COUNTRIES_739"}
+{"sub_uri": "Q20110", "obj_uri": ["Q652"], "sub_label": "Francesco Totti", "obj_label": ["italiano"], "country": ["Q38"], "size": 192526, "uuid": "P1412_general_WESTERN_COUNTRIES_740"}
+{"sub_uri": "Q550629", "obj_uri": ["Q1860"], "sub_label": "Lyndon LaRouche", "obj_label": ["inglés"], "country": ["Q30"], "size": 192468, "uuid": "P1412_general_WESTERN_COUNTRIES_741"}
+{"sub_uri": "Q87121495", "obj_uri": ["Q1860"], "sub_label": "Beryl May Dent", "obj_label": ["inglés"], "country": ["Q145"], "size": 192438, "uuid": "P1412_general_WESTERN_COUNTRIES_742"}
+{"sub_uri": "Q134720", "obj_uri": ["Q1860", "Q188"], "sub_label": "Martina Hingis", "obj_label": ["inglés", "alemán"], "country": ["Q39"], "size": 192436, "uuid": "P1412_general_WESTERN_COUNTRIES_743"}
+{"sub_uri": "Q9588", "obj_uri": ["Q1860"], "sub_label": "Richard Nixon", "obj_label": ["inglés"], "country": ["Q30"], "size": 192367, "uuid": "P1412_general_WESTERN_COUNTRIES_744"}
+{"sub_uri": "Q319121", "obj_uri": ["Q1860"], "sub_label": "Alex Jones", "obj_label": ["inglés"], "country": ["Q30"], "size": 192301, "uuid": "P1412_general_WESTERN_COUNTRIES_745"}
+{"sub_uri": "Q51476", "obj_uri": ["Q1860"], "sub_label": "Tod Browning", "obj_label": ["inglés"], "country": ["Q30"], "size": 192242, "uuid": "P1412_general_WESTERN_COUNTRIES_746"}
+{"sub_uri": "Q324719", "obj_uri": ["Q1860"], "sub_label": "Strom Thurmond", "obj_label": ["inglés"], "country": ["Q30"], "size": 191866, "uuid": "P1412_general_WESTERN_COUNTRIES_747"}
+{"sub_uri": "Q9391", "obj_uri": ["Q1860", "Q188"], "sub_label": "Ludwig Wittgenstein", "obj_label": ["inglés", "alemán"], "country": ["Q145", "Q40"], "size": 191690, "uuid": "P1412_general_WESTERN_COUNTRIES_748"}
+{"sub_uri": "Q1000592", "obj_uri": ["Q1860"], "sub_label": "Tyson Fury", "obj_label": ["inglés"], "country": ["Q145"], "size": 191677, "uuid": "P1412_general_WESTERN_COUNTRIES_749"}
+{"sub_uri": "Q9317", "obj_uri": ["Q1860"], "sub_label": "John Maynard Keynes", "obj_label": ["inglés"], "country": ["Q145"], "size": 191614, "uuid": "P1412_general_WESTERN_COUNTRIES_750"}
+{"sub_uri": "Q95494", "obj_uri": ["Q188"], "sub_label": "Gerhard Bremer", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_751"}
+{"sub_uri": "Q5394887", "obj_uri": ["Q188"], "sub_label": "Ernst-Joachim Bradel", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_752"}
+{"sub_uri": "Q7376923", "obj_uri": ["Q188"], "sub_label": "Rudi Brasche", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_753"}
+{"sub_uri": "Q6206866", "obj_uri": ["Q188"], "sub_label": "Jobst-Hilmar von Bose", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_754"}
+{"sub_uri": "Q5396102", "obj_uri": ["Q188"], "sub_label": "Erwin Bohlken", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_755"}
+{"sub_uri": "Q5621042", "obj_uri": ["Q188"], "sub_label": "Gustav-Adolf Bursche", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_756"}
+{"sub_uri": "Q2830999", "obj_uri": ["Q188"], "sub_label": "Albert Brux", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_757"}
+{"sub_uri": "Q938480", "obj_uri": ["Q188"], "sub_label": "Žanis Butkus", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_758"}
+{"sub_uri": "Q5503775", "obj_uri": ["Q188"], "sub_label": "Friedrich Böhme", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_759"}
+{"sub_uri": "Q6775079", "obj_uri": ["Q188"], "sub_label": "Martin Buhr", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_760"}
+{"sub_uri": "Q4673775", "obj_uri": ["Q188"], "sub_label": "Achim von Britzke", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_761"}
+{"sub_uri": "Q3180797", "obj_uri": ["Q188"], "sub_label": "Johannes de Boer", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_762"}
+{"sub_uri": "Q10293338", "obj_uri": ["Q188"], "sub_label": "Günter Braake", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_763"}
+{"sub_uri": "Q4798040", "obj_uri": ["Q188"], "sub_label": "Arthur Boje", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_764"}
+{"sub_uri": "Q5504880", "obj_uri": ["Q188"], "sub_label": "Fritz Bunse", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_765"}
+{"sub_uri": "Q7109546", "obj_uri": ["Q188"], "sub_label": "Otto Bösel", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_766"}
+{"sub_uri": "Q13582072", "obj_uri": ["Q188"], "sub_label": "Cay-Lorenz Baron von Brockdorff", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_767"}
+{"sub_uri": "Q7377162", "obj_uri": ["Q188"], "sub_label": "Rudolf Böhmler", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_768"}
+{"sub_uri": "Q5492713", "obj_uri": ["Q188"], "sub_label": "Franz Bredemeyer", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_769"}
+{"sub_uri": "Q3772963", "obj_uri": ["Q188"], "sub_label": "Johannes Bölter", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_770"}
+{"sub_uri": "Q4722354", "obj_uri": ["Q188"], "sub_label": "Alfred Bottler", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_771"}
+{"sub_uri": "Q6204516", "obj_uri": ["Q188"], "sub_label": "Joachim Borrmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_772"}
+{"sub_uri": "Q6699205", "obj_uri": ["Q188"], "sub_label": "Ludwig Bulla", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_773"}
+{"sub_uri": "Q4724463", "obj_uri": ["Q188"], "sub_label": "Alhard Freiherr von der Borch", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_774"}
+{"sub_uri": "Q3056493", "obj_uri": ["Q188"], "sub_label": "Erich von Brückner", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_775"}
+{"sub_uri": "Q5274529", "obj_uri": ["Q188"], "sub_label": "Diedrich Bruns", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_776"}
+{"sub_uri": "Q5535657", "obj_uri": ["Q188"], "sub_label": "Georg Bose", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_777"}
+{"sub_uri": "Q5388009", "obj_uri": ["Q188"], "sub_label": "Erich Brauneis", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_778"}
+{"sub_uri": "Q6526292", "obj_uri": ["Q188"], "sub_label": "Leonhard Burr", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_779"}
+{"sub_uri": "Q5740566", "obj_uri": ["Q188"], "sub_label": "Hermann Böckel", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_780"}
+{"sub_uri": "Q7310364", "obj_uri": ["Q188"], "sub_label": "Reinhold Bobbe", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_781"}
+{"sub_uri": "Q4820665", "obj_uri": ["Q188"], "sub_label": "August Burgholte", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_782"}
+{"sub_uri": "Q6371425", "obj_uri": ["Q188"], "sub_label": "Karl-Heinz Boska", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_783"}
+{"sub_uri": "Q10393052", "obj_uri": ["Q188"], "sub_label": "Walter Brucker", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_784"}
+{"sub_uri": "Q4830243", "obj_uri": ["Q188"], "sub_label": "Axel Bruns", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_785"}
+{"sub_uri": "Q10393059", "obj_uri": ["Q188"], "sub_label": "Walter Böhm", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_786"}
+{"sub_uri": "Q5700011", "obj_uri": ["Q188"], "sub_label": "Heinrich Brücker", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_787"}
+{"sub_uri": "Q5700018", "obj_uri": ["Q188"], "sub_label": "Heinrich Busse", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_788"}
+{"sub_uri": "Q10393623", "obj_uri": ["Q188"], "sub_label": "Wilhelm Büsing", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_789"}
+{"sub_uri": "Q5700621", "obj_uri": ["Q188"], "sub_label": "Heinz Brandt", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_790"}
+{"sub_uri": "Q6371671", "obj_uri": ["Q188"], "sub_label": "Karl Buckel", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_791"}
+{"sub_uri": "Q5709573", "obj_uri": ["Q188"], "sub_label": "Helmut Borchardt", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_792"}
+{"sub_uri": "Q7149556", "obj_uri": ["Q188"], "sub_label": "Paul Brucher", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_793"}
+{"sub_uri": "Q8002113", "obj_uri": ["Q188"], "sub_label": "Wilhelm Brennecke", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_794"}
+{"sub_uri": "Q8030046", "obj_uri": ["Q188"], "sub_label": "Wolfgang Bohn", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_795"}
+{"sub_uri": "Q5733721", "obj_uri": ["Q188"], "sub_label": "Herbert Bullinger", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_796"}
+{"sub_uri": "Q5740544", "obj_uri": ["Q188"], "sub_label": "Hermann Bracher", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_797"}
+{"sub_uri": "Q1781167", "obj_uri": ["Q188"], "sub_label": "Werner Buxa", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_798"}
+{"sub_uri": "Q7172406", "obj_uri": ["Q188"], "sub_label": "Peter Paul Breu", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_799"}
+{"sub_uri": "Q5109347", "obj_uri": ["Q188"], "sub_label": "Christian Braun", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_800"}
+{"sub_uri": "Q6446651", "obj_uri": ["Q188"], "sub_label": "Kurt Bundrock", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_801"}
+{"sub_uri": "Q6446633", "obj_uri": ["Q188"], "sub_label": "Kurt Bodendörfer", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_802"}
+{"sub_uri": "Q10390569", "obj_uri": ["Q188"], "sub_label": "Viktor Bruck", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_803"}
+{"sub_uri": "Q5275173", "obj_uri": ["Q188"], "sub_label": "Dietrich-Siegwart von Bonin", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_804"}
+{"sub_uri": "Q6347364", "obj_uri": ["Q188"], "sub_label": "Kai Bräundle-Schmidt", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_805"}
+{"sub_uri": "Q10327737", "obj_uri": ["Q188"], "sub_label": "Max Böhrendt", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_806"}
+{"sub_uri": "Q5649585", "obj_uri": ["Q188"], "sub_label": "Hans-Joachim Brand", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_807"}
+{"sub_uri": "Q5649837", "obj_uri": ["Q188"], "sub_label": "Hans Bock", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_808"}
+{"sub_uri": "Q10308652", "obj_uri": ["Q188"], "sub_label": "Jost Brökelmann", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_809"}
+{"sub_uri": "Q10342230", "obj_uri": ["Q188"], "sub_label": "Oskar Bremmermann", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_810"}
+{"sub_uri": "Q5649867", "obj_uri": ["Q188"], "sub_label": "Hans Büntemeyer", "obj_label": ["alemán"], "country": ["Q183"], "size": 191464, "uuid": "P1412_general_WESTERN_COUNTRIES_811"}
+{"sub_uri": "Q9049", "obj_uri": ["Q1860"], "sub_label": "Noam Chomsky", "obj_label": ["inglés"], "country": ["Q30"], "size": 191296, "uuid": "P1412_general_WESTERN_COUNTRIES_812"}
+{"sub_uri": "Q10285250", "obj_uri": ["Q5146"], "sub_label": "Francisco Xavier de Mendonça Furtado", "obj_label": ["portugués"], "country": ["Q45"], "size": 190864, "uuid": "P1412_general_WESTERN_COUNTRIES_813"}
+{"sub_uri": "Q952656", "obj_uri": ["Q1860"], "sub_label": "Paul Kelly", "obj_label": ["inglés"], "country": ["Q408"], "size": 190854, "uuid": "P1412_general_WESTERN_COUNTRIES_814"}
+{"sub_uri": "Q312127", "obj_uri": ["Q150"], "sub_label": "Jonathan Zebina", "obj_label": ["francés"], "country": ["Q142"], "size": 190709, "uuid": "P1412_general_WESTERN_COUNTRIES_815"}
+{"sub_uri": "Q3626966", "obj_uri": ["Q1860", "Q7979"], "sub_label": "Harry Styles", "obj_label": ["inglés", "inglés británico"], "country": ["Q145"], "size": 190636, "uuid": "P1412_general_WESTERN_COUNTRIES_816"}
+{"sub_uri": "Q3335", "obj_uri": ["Q150", "Q1860"], "sub_label": "George Orwell", "obj_label": ["francés", "inglés"], "country": ["Q145"], "size": 190514, "uuid": "P1412_general_WESTERN_COUNTRIES_817"}
+{"sub_uri": "Q272201", "obj_uri": ["Q1860"], "sub_label": "Liz Truss", "obj_label": ["inglés"], "country": ["Q145"], "size": 190324, "uuid": "P1412_general_WESTERN_COUNTRIES_818"}
+{"sub_uri": "Q44640", "obj_uri": ["Q1860"], "sub_label": "Steve Borden", "obj_label": ["inglés"], "country": ["Q30"], "size": 190298, "uuid": "P1412_general_WESTERN_COUNTRIES_819"}
+{"sub_uri": "Q873", "obj_uri": ["Q1860"], "sub_label": "Meryl Streep", "obj_label": ["inglés"], "country": ["Q30"], "size": 190147, "uuid": "P1412_general_WESTERN_COUNTRIES_820"}
+{"sub_uri": "Q83155", "obj_uri": ["Q150"], "sub_label": "Jacques-Louis David", "obj_label": ["francés"], "country": ["Q142"], "size": 190097, "uuid": "P1412_general_WESTERN_COUNTRIES_821"}
+{"sub_uri": "Q295923", "obj_uri": ["Q1860"], "sub_label": "Stanley", "obj_label": ["inglés"], "country": ["Q30"], "size": 190066, "uuid": "P1412_general_WESTERN_COUNTRIES_822"}
+{"sub_uri": "Q573463", "obj_uri": ["Q1860"], "sub_label": "Anthony Joshua", "obj_label": ["inglés"], "country": ["Q145"], "size": 189796, "uuid": "P1412_general_WESTERN_COUNTRIES_823"}
+{"sub_uri": "Q57065", "obj_uri": ["Q188"], "sub_label": "Otto Hahn", "obj_label": ["alemán"], "country": ["Q183"], "size": 189706, "uuid": "P1412_general_WESTERN_COUNTRIES_824"}
+{"sub_uri": "Q7437083", "obj_uri": ["Q1860"], "sub_label": "Scott Pruitt", "obj_label": ["inglés"], "country": ["Q30"], "size": 189598, "uuid": "P1412_general_WESTERN_COUNTRIES_825"}
+{"sub_uri": "Q229375", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Linda Ronstadt", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 189075, "uuid": "P1412_general_WESTERN_COUNTRIES_826"}
+{"sub_uri": "Q5593", "obj_uri": ["Q1321", "Q150", "Q7026"], "sub_label": "Pablo Picasso", "obj_label": ["español", "francés", "catalán"], "country": ["Q142", "Q29"], "size": 188930, "uuid": "P1412_general_WESTERN_COUNTRIES_827"}
+{"sub_uri": "Q317008", "obj_uri": ["Q1860"], "sub_label": "Anthony Davis", "obj_label": ["inglés"], "country": ["Q30"], "size": 188893, "uuid": "P1412_general_WESTERN_COUNTRIES_828"}
+{"sub_uri": "Q818066", "obj_uri": ["Q1860"], "sub_label": "Benny Leonard", "obj_label": ["inglés"], "country": ["Q30"], "size": 188839, "uuid": "P1412_general_WESTERN_COUNTRIES_829"}
+{"sub_uri": "Q553626", "obj_uri": ["Q1860"], "sub_label": "Dennis Hastert", "obj_label": ["inglés"], "country": ["Q30"], "size": 188795, "uuid": "P1412_general_WESTERN_COUNTRIES_830"}
+{"sub_uri": "Q449214", "obj_uri": ["Q188"], "sub_label": "Sascha Riether", "obj_label": ["alemán"], "country": ["Q183"], "size": 188734, "uuid": "P1412_general_WESTERN_COUNTRIES_831"}
+{"sub_uri": "Q4013216", "obj_uri": ["Q652"], "sub_label": "Vincenzo De Luca", "obj_label": ["italiano"], "country": ["Q38"], "size": 188661, "uuid": "P1412_general_WESTERN_COUNTRIES_832"}
+{"sub_uri": "Q302817", "obj_uri": ["Q1860"], "sub_label": "Aaron Swartz", "obj_label": ["inglés"], "country": ["Q30"], "size": 188531, "uuid": "P1412_general_WESTERN_COUNTRIES_833"}
+{"sub_uri": "Q34981", "obj_uri": ["Q1860", "Q188", "Q8641"], "sub_label": "Isaac Asimov", "obj_label": ["inglés", "alemán", "yidis"], "country": ["Q30"], "size": 188492, "uuid": "P1412_general_WESTERN_COUNTRIES_834"}
+{"sub_uri": "Q209436", "obj_uri": ["Q150"], "sub_label": "Richard Gasquet", "obj_label": ["francés"], "country": ["Q142"], "size": 188484, "uuid": "P1412_general_WESTERN_COUNTRIES_835"}
+{"sub_uri": "Q5300478", "obj_uri": ["Q1860"], "sub_label": "Doug Ford, Jr.", "obj_label": ["inglés"], "country": ["Q16"], "size": 188247, "uuid": "P1412_general_WESTERN_COUNTRIES_836"}
+{"sub_uri": "Q3805567", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Jack Dawson", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 188225, "uuid": "P1412_general_WESTERN_COUNTRIES_837"}
+{"sub_uri": "Q333937", "obj_uri": ["Q1860"], "sub_label": "Michael Gove", "obj_label": ["inglés"], "country": ["Q145"], "size": 188098, "uuid": "P1412_general_WESTERN_COUNTRIES_838"}
+{"sub_uri": "Q331742", "obj_uri": ["Q1860"], "sub_label": "George McGovern", "obj_label": ["inglés"], "country": ["Q30"], "size": 188032, "uuid": "P1412_general_WESTERN_COUNTRIES_839"}
+{"sub_uri": "Q128126", "obj_uri": ["Q150"], "sub_label": "Claude Lévi-Strauss", "obj_label": ["francés"], "country": ["Q142", "Q31"], "size": 187986, "uuid": "P1412_general_WESTERN_COUNTRIES_840"}
+{"sub_uri": "Q47102", "obj_uri": ["Q1860"], "sub_label": "Joseph Smith", "obj_label": ["inglés"], "country": ["Q30"], "size": 187832, "uuid": "P1412_general_WESTERN_COUNTRIES_841"}
+{"sub_uri": "Q17714", "obj_uri": ["Q1860"], "sub_label": "Stephen Hawking", "obj_label": ["inglés"], "country": ["Q145"], "size": 187787, "uuid": "P1412_general_WESTERN_COUNTRIES_842"}
+{"sub_uri": "Q347201", "obj_uri": ["Q150"], "sub_label": "Marcel Cerdan", "obj_label": ["francés"], "country": ["Q142"], "size": 187579, "uuid": "P1412_general_WESTERN_COUNTRIES_843"}
+{"sub_uri": "Q352422", "obj_uri": ["Q1860"], "sub_label": "Mike Gravel", "obj_label": ["inglés"], "country": ["Q30"], "size": 187129, "uuid": "P1412_general_WESTERN_COUNTRIES_844"}
+{"sub_uri": "Q128121", "obj_uri": ["Q1860"], "sub_label": "Mick Jagger", "obj_label": ["inglés"], "country": ["Q145"], "size": 186936, "uuid": "P1412_general_WESTERN_COUNTRIES_845"}
+{"sub_uri": "Q100451506", "obj_uri": ["Q150"], "sub_label": "Samuel Paty", "obj_label": ["francés"], "country": ["Q142"], "size": 186820, "uuid": "P1412_general_WESTERN_COUNTRIES_846"}
+{"sub_uri": "Q1139993", "obj_uri": ["Q1860"], "sub_label": "Windham Rotunda", "obj_label": ["inglés"], "country": ["Q30"], "size": 186786, "uuid": "P1412_general_WESTERN_COUNTRIES_847"}
+{"sub_uri": "Q44980", "obj_uri": ["Q1860"], "sub_label": "Alex Ferguson", "obj_label": ["inglés"], "country": ["Q145"], "size": 186741, "uuid": "P1412_general_WESTERN_COUNTRIES_848"}
+{"sub_uri": "Q3102996", "obj_uri": ["Q150"], "sub_label": "Georges Laederich", "obj_label": ["francés"], "country": ["Q142"], "size": 186557, "uuid": "P1412_general_WESTERN_COUNTRIES_849"}
+{"sub_uri": "Q37150", "obj_uri": ["Q1321", "Q1860"], "sub_label": "Lana Del Rey", "obj_label": ["español", "inglés"], "country": ["Q30"], "size": 186468, "uuid": "P1412_general_WESTERN_COUNTRIES_850"}
+{"sub_uri": "Q48259", "obj_uri": ["Q1860"], "sub_label": "Dick Cheney", "obj_label": ["inglés"], "country": ["Q30"], "size": 186421, "uuid": "P1412_general_WESTERN_COUNTRIES_851"}
+{"sub_uri": "Q212889", "obj_uri": ["Q1860", "Q188", "Q7737"], "sub_label": "Víktor Korchnói", "obj_label": ["inglés", "alemán", "ruso"], "country": ["Q39"], "size": 186229, "uuid": "P1412_general_WESTERN_COUNTRIES_852"}
+{"sub_uri": "Q170697", "obj_uri": ["Q652"], "sub_label": "Laura Pausini", "obj_label": ["italiano"], "country": ["Q38"], "size": 186108, "uuid": "P1412_general_WESTERN_COUNTRIES_853"}
+{"sub_uri": "Q382060", "obj_uri": ["Q150"], "sub_label": "Julien Absalon", "obj_label": ["francés"], "country": ["Q142"], "size": 186074, "uuid": "P1412_general_WESTERN_COUNTRIES_854"}
+{"sub_uri": "Q312564", "obj_uri": ["Q1860"], "sub_label": "Douglas Haig", "obj_label": ["inglés"], "country": ["Q145"], "size": 185911, "uuid": "P1412_general_WESTERN_COUNTRIES_855"}
+{"sub_uri": "Q25089", "obj_uri": ["Q1860"], "sub_label": "Woody Allen", "obj_label": ["inglés"], "country": ["Q30"], "size": 185721, "uuid": "P1412_general_WESTERN_COUNTRIES_856"}
+{"sub_uri": "Q204019", "obj_uri": ["Q1860"], "sub_label": "M.I.A. (cantante)", "obj_label": ["inglés"], "country": ["Q145"], "size": 185709, "uuid": "P1412_general_WESTERN_COUNTRIES_857"}
+{"sub_uri": "Q117012", "obj_uri": ["Q1860", "Q5287"], "sub_label": "Yoko Ono", "obj_label": ["inglés", "japonés"], "country": ["Q30"], "size": 185667, "uuid": "P1412_general_WESTERN_COUNTRIES_858"}
+{"sub_uri": "Q3958417", "obj_uri": ["Q652"], "sub_label": "Settimo Accardi", "obj_label": ["italiano"], "country": ["Q38"], "size": 185549, "uuid": "P1412_general_WESTERN_COUNTRIES_859"}
+{"sub_uri": "Q3041938", "obj_uri": ["Q1860"], "sub_label": "Dylan Perceval-Maxwell", "obj_label": ["inglés"], "country": ["Q16"], "size": 185463, "uuid": "P1412_general_WESTERN_COUNTRIES_860"}
+{"sub_uri": "Q1225", "obj_uri": ["Q1860"], "sub_label": "Bruce Springsteen", "obj_label": ["inglés"], "country": ["Q30"], "size": 185218, "uuid": "P1412_general_WESTERN_COUNTRIES_861"}
+{"sub_uri": "Q6060", "obj_uri": ["Q1860"], "sub_label": "50 Cent", "obj_label": ["inglés"], "country": ["Q30"], "size": 185177, "uuid": "P1412_general_WESTERN_COUNTRIES_862"}
+{"sub_uri": "Q190782", "obj_uri": ["Q1860"], "sub_label": "Ronnie O'Sullivan", "obj_label": ["inglés"], "country": ["Q145"], "size": 185030, "uuid": "P1412_general_WESTERN_COUNTRIES_863"}
+{"sub_uri": "Q184650", "obj_uri": ["Q1860"], "sub_label": "Donald Rumsfeld", "obj_label": ["inglés"], "country": ["Q30"], "size": 184933, "uuid": "P1412_general_WESTERN_COUNTRIES_864"}
+{"sub_uri": "Q3099714", "obj_uri": ["Q150", "Q1860"], "sub_label": "Justin Trudeau", "obj_label": ["francés", "inglés"], "country": ["Q16"], "size": 184842, "uuid": "P1412_general_WESTERN_COUNTRIES_865"}
+{"sub_uri": "Q18534249", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Halsey", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 184746, "uuid": "P1412_general_WESTERN_COUNTRIES_866"}
+{"sub_uri": "Q151414", "obj_uri": ["Q1860"], "sub_label": "George Marshall", "obj_label": ["inglés"], "country": ["Q30"], "size": 184593, "uuid": "P1412_general_WESTERN_COUNTRIES_867"}
+{"sub_uri": "Q83488", "obj_uri": ["Q1860", "Q188", "Q256"], "sub_label": "Mesut Özil", "obj_label": ["inglés", "alemán", "turco"], "country": ["Q183"], "size": 184093, "uuid": "P1412_general_WESTERN_COUNTRIES_868"}
+{"sub_uri": "Q42311", "obj_uri": ["Q1412", "Q150", "Q1860", "Q188", "Q652"], "sub_label": "Sebastian Vettel", "obj_label": ["finés", "francés", "inglés", "alemán", "italiano"], "country": ["Q183"], "size": 184037, "uuid": "P1412_general_WESTERN_COUNTRIES_869"}
+{"sub_uri": "Q48187", "obj_uri": ["Q1860"], "sub_label": "Eric Clapton", "obj_label": ["inglés"], "country": ["Q145", "Q30"], "size": 183887, "uuid": "P1412_general_WESTERN_COUNTRIES_870"}
+{"sub_uri": "Q8927", "obj_uri": ["Q150"], "sub_label": "Marion Cotillard", "obj_label": ["francés"], "country": ["Q142"], "size": 183856, "uuid": "P1412_general_WESTERN_COUNTRIES_871"}
+{"sub_uri": "Q128956", "obj_uri": ["Q143", "Q1860"], "sub_label": "Harold Wilson", "obj_label": ["esperanto", "inglés"], "country": ["Q145"], "size": 183809, "uuid": "P1412_general_WESTERN_COUNTRIES_872"}
+{"sub_uri": "Q355522", "obj_uri": ["Q1860"], "sub_label": "Mitch McConnell", "obj_label": ["inglés"], "country": ["Q30"], "size": 183781, "uuid": "P1412_general_WESTERN_COUNTRIES_873"}
+{"sub_uri": "Q313559", "obj_uri": ["Q1860"], "sub_label": "Jerry Cantrell", "obj_label": ["inglés"], "country": ["Q30"], "size": 183779, "uuid": "P1412_general_WESTERN_COUNTRIES_874"}
+{"sub_uri": "Q54666843", "obj_uri": ["Q150"], "sub_label": "Yvonne Schleiter", "obj_label": ["francés"], "country": ["Q142"], "size": 183296, "uuid": "P1412_general_WESTERN_COUNTRIES_875"}
+{"sub_uri": "Q312519", "obj_uri": ["Q150"], "sub_label": "Robert Faurisson", "obj_label": ["francés"], "country": ["Q142"], "size": 183296, "uuid": "P1412_general_WESTERN_COUNTRIES_876"}
+{"sub_uri": "Q434118", "obj_uri": ["Q1860"], "sub_label": "George Pell", "obj_label": ["inglés"], "country": ["Q408"], "size": 183101, "uuid": "P1412_general_WESTERN_COUNTRIES_877"}
+{"sub_uri": "Q5317122", "obj_uri": ["Q1860"], "sub_label": "Dustin Martin", "obj_label": ["inglés"], "country": ["Q408", "Q664"], "size": 183066, "uuid": "P1412_general_WESTERN_COUNTRIES_878"}
+{"sub_uri": "Q19953601", "obj_uri": ["Q1860"], "sub_label": "Matt Bevin", "obj_label": ["inglés"], "country": ["Q30"], "size": 182711, "uuid": "P1412_general_WESTERN_COUNTRIES_879"}
+{"sub_uri": "Q434706", "obj_uri": ["Q1860"], "sub_label": "Elizabeth Warren", "obj_label": ["inglés"], "country": ["Q30"], "size": 182708, "uuid": "P1412_general_WESTERN_COUNTRIES_880"}
+{"sub_uri": "Q160852", "obj_uri": ["Q1860"], "sub_label": "William Gladstone", "obj_label": ["inglés"], "country": ["Q145"], "size": 182300, "uuid": "P1412_general_WESTERN_COUNTRIES_881"}
+{"sub_uri": "Q503426", "obj_uri": ["Q1860"], "sub_label": "Jesse Helms", "obj_label": ["inglés"], "country": ["Q30"], "size": 182224, "uuid": "P1412_general_WESTERN_COUNTRIES_882"}
+{"sub_uri": "Q913848", "obj_uri": ["Q1860"], "sub_label": "Richard Helms", "obj_label": ["inglés"], "country": ["Q30"], "size": 182155, "uuid": "P1412_general_WESTERN_COUNTRIES_883"}
+{"sub_uri": "Q128543", "obj_uri": ["Q150", "Q1860"], "sub_label": "Jean Chrétien", "obj_label": ["francés", "inglés"], "country": ["Q16"], "size": 181990, "uuid": "P1412_general_WESTERN_COUNTRIES_884"}
+{"sub_uri": "Q459830", "obj_uri": ["Q1860"], "sub_label": "Steven Gerrard", "obj_label": ["inglés"], "country": ["Q145"], "size": 181514, "uuid": "P1412_general_WESTERN_COUNTRIES_885"}
+{"sub_uri": "Q21621995", "obj_uri": ["Q1321", "Q150"], "sub_label": "Kylian Mbappé", "obj_label": ["español", "francés"], "country": ["Q142"], "size": 181373, "uuid": "P1412_general_WESTERN_COUNTRIES_886"}
+{"sub_uri": "Q6096", "obj_uri": ["Q1860"], "sub_label": "Snoop Dogg", "obj_label": ["inglés"], "country": ["Q30"], "size": 181358, "uuid": "P1412_general_WESTERN_COUNTRIES_887"}
+{"sub_uri": "Q213111", "obj_uri": ["Q652"], "sub_label": "juan jesus cruz perez", "obj_label": ["italiano"], "country": ["Q38"], "size": 181284, "uuid": "P1412_general_WESTERN_COUNTRIES_888"}
+{"sub_uri": "Q193108", "obj_uri": ["Q150"], "sub_label": "Tony Parker", "obj_label": ["francés"], "country": ["Q142"], "size": 181234, "uuid": "P1412_general_WESTERN_COUNTRIES_889"}
+{"sub_uri": "Q214226", "obj_uri": ["Q1860"], "sub_label": "Lauryn Hill", "obj_label": ["inglés"], "country": ["Q30"], "size": 180710, "uuid": "P1412_general_WESTERN_COUNTRIES_890"}
+{"sub_uri": "Q12908", "obj_uri": ["Q143", "Q1860", "Q9067"], "sub_label": "George Soros", "obj_label": ["esperanto", "inglés", "húngaro"], "country": ["Q30"], "size": 180648, "uuid": "P1412_general_WESTERN_COUNTRIES_891"}
+{"sub_uri": "Q93354", "obj_uri": ["Q1860"], "sub_label": "F. Scott Fitzgerald", "obj_label": ["inglés"], "country": ["Q30"], "size": 180443, "uuid": "P1412_general_WESTERN_COUNTRIES_892"}
+{"sub_uri": "Q11817", "obj_uri": ["Q1860"], "sub_label": "Andrew Jackson", "obj_label": ["inglés"], "country": ["Q30"], "size": 180421, "uuid": "P1412_general_WESTERN_COUNTRIES_893"}
+{"sub_uri": "Q5066520", "obj_uri": ["Q1860"], "sub_label": "Chadwick Boseman", "obj_label": ["inglés"], "country": ["Q30"], "size": 180407, "uuid": "P1412_general_WESTERN_COUNTRIES_894"}
+{"sub_uri": "Q193146", "obj_uri": ["Q1860"], "sub_label": "Anthony Perkins", "obj_label": ["inglés"], "country": ["Q30"], "size": 180181, "uuid": "P1412_general_WESTERN_COUNTRIES_895"}
+{"sub_uri": "Q192218", "obj_uri": ["Q1860"], "sub_label": "Ted Bundy", "obj_label": ["inglés"], "country": ["Q30"], "size": 180175, "uuid": "P1412_general_WESTERN_COUNTRIES_896"}
+{"sub_uri": "Q185165", "obj_uri": ["Q1860"], "sub_label": "Olivia Newton-John", "obj_label": ["inglés"], "country": ["Q145", "Q408"], "size": 180133, "uuid": "P1412_general_WESTERN_COUNTRIES_897"}
+{"sub_uri": "Q102462", "obj_uri": ["Q1860"], "sub_label": "James Stewart", "obj_label": ["inglés"], "country": ["Q30"], "size": 180119, "uuid": "P1412_general_WESTERN_COUNTRIES_898"}
+{"sub_uri": "Q2530", "obj_uri": ["Q188"], "sub_label": "Gerhard Schröder", "obj_label": ["alemán"], "country": ["Q183"], "size": 179934, "uuid": "P1412_general_WESTERN_COUNTRIES_899"}
+{"sub_uri": "Q285928", "obj_uri": ["Q1860"], "sub_label": "Lewis Milestone", "obj_label": ["inglés"], "country": ["Q30"], "size": 179900, "uuid": "P1412_general_WESTERN_COUNTRIES_900"}
+{"sub_uri": "Q355130", "obj_uri": ["Q1860"], "sub_label": "Richard Petty", "obj_label": ["inglés"], "country": ["Q30"], "size": 179896, "uuid": "P1412_general_WESTERN_COUNTRIES_901"}
+{"sub_uri": "Q215562", "obj_uri": ["Q1860"], "sub_label": "Frederick Douglass", "obj_label": ["inglés"], "country": ["Q30"], "size": 179845, "uuid": "P1412_general_WESTERN_COUNTRIES_902"}
+{"sub_uri": "Q1052910", "obj_uri": ["Q652"], "sub_label": "Corrado Guzzanti", "obj_label": ["italiano"], "country": ["Q38"], "size": 179754, "uuid": "P1412_general_WESTERN_COUNTRIES_903"}
+{"sub_uri": "Q43203", "obj_uri": ["Q1860"], "sub_label": "Clint Eastwood", "obj_label": ["inglés"], "country": ["Q30"], "size": 179732, "uuid": "P1412_general_WESTERN_COUNTRIES_904"}
+{"sub_uri": "Q1643853", "obj_uri": ["Q1860"], "sub_label": "Maxie Rosenbloom", "obj_label": ["inglés"], "country": ["Q30"], "size": 179522, "uuid": "P1412_general_WESTERN_COUNTRIES_905"}
+{"sub_uri": "Q22277395", "obj_uri": ["Q1860"], "sub_label": "Michael Cohen", "obj_label": ["inglés"], "country": ["Q30"], "size": 179461, "uuid": "P1412_general_WESTERN_COUNTRIES_906"}
+{"sub_uri": "Q127330", "obj_uri": ["Q1860"], "sub_label": "Frank Zappa", "obj_label": ["inglés"], "country": ["Q30"], "size": 179350, "uuid": "P1412_general_WESTERN_COUNTRIES_907"}
+{"sub_uri": "Q7374", "obj_uri": ["Q1860", "Q188"], "sub_label": "Alfred Hitchcock", "obj_label": ["inglés", "alemán"], "country": ["Q145", "Q30"], "size": 179300, "uuid": "P1412_general_WESTERN_COUNTRIES_908"}
+{"sub_uri": "Q1334384", "obj_uri": ["Q1860"], "sub_label": "Rob Gronkowski", "obj_label": ["inglés"], "country": ["Q30"], "size": 179064, "uuid": "P1412_general_WESTERN_COUNTRIES_909"}
+{"sub_uri": "Q293314", "obj_uri": ["Q1321", "Q150"], "sub_label": "Óscar Domínguez", "obj_label": ["español", "francés"], "country": ["Q142", "Q29"], "size": 178664, "uuid": "P1412_general_WESTERN_COUNTRIES_910"}
+{"sub_uri": "Q183337", "obj_uri": ["Q1860"], "sub_label": "David Attenborough", "obj_label": ["inglés"], "country": ["Q145"], "size": 178636, "uuid": "P1412_general_WESTERN_COUNTRIES_911"}
+{"sub_uri": "Q1055449", "obj_uri": ["Q652"], "sub_label": "Matteo Salvini", "obj_label": ["italiano"], "country": ["Q38"], "size": 178586, "uuid": "P1412_general_WESTERN_COUNTRIES_912"}
+{"sub_uri": "Q11578", "obj_uri": ["Q1860"], "sub_label": "Venus Williams", "obj_label": ["inglés"], "country": ["Q30"], "size": 178586, "uuid": "P1412_general_WESTERN_COUNTRIES_913"}
+{"sub_uri": "Q20741898", "obj_uri": ["Q1860"], "sub_label": "Kim Howe", "obj_label": ["inglés"], "country": ["Q30"], "size": 178564, "uuid": "P1412_general_WESTERN_COUNTRIES_914"}
+{"sub_uri": "Q365144", "obj_uri": ["Q1860"], "sub_label": "Caitlyn Jenner", "obj_label": ["inglés"], "country": ["Q30"], "size": 178564, "uuid": "P1412_general_WESTERN_COUNTRIES_915"}
+{"sub_uri": "Q553254", "obj_uri": ["Q1860"], "sub_label": "Scott Walker", "obj_label": ["inglés"], "country": ["Q30"], "size": 178520, "uuid": "P1412_general_WESTERN_COUNTRIES_916"}
+{"sub_uri": "Q520275", "obj_uri": ["Q1321"], "sub_label": "George Romney", "obj_label": ["español"], "country": ["Q30"], "size": 178477, "uuid": "P1412_general_WESTERN_COUNTRIES_917"}
+{"sub_uri": "Q1173922", "obj_uri": ["Q1860"], "sub_label": "David Campese", "obj_label": ["inglés"], "country": ["Q408"], "size": 178473, "uuid": "P1412_general_WESTERN_COUNTRIES_918"}
+{"sub_uri": "Q44354", "obj_uri": ["Q1860"], "sub_label": "Kane", "obj_label": ["inglés"], "country": ["Q30"], "size": 178388, "uuid": "P1412_general_WESTERN_COUNTRIES_919"}
+{"sub_uri": "Q330457", "obj_uri": ["Q8752"], "sub_label": "Abraham Olano", "obj_label": ["euskera"], "country": ["Q29"], "size": 178359, "uuid": "P1412_general_WESTERN_COUNTRIES_920"}
+{"sub_uri": "Q463151", "obj_uri": ["Q150"], "sub_label": "Pierre Clastres", "obj_label": ["francés"], "country": ["Q142"], "size": 178319, "uuid": "P1412_general_WESTERN_COUNTRIES_921"}
+{"sub_uri": "Q202246", "obj_uri": ["Q1860"], "sub_label": "Morrissey", "obj_label": ["inglés"], "country": ["Q145"], "size": 178211, "uuid": "P1412_general_WESTERN_COUNTRIES_922"}
+{"sub_uri": "Q63879", "obj_uri": ["Q1860"], "sub_label": "Chris Christie", "obj_label": ["inglés"], "country": ["Q30"], "size": 178183, "uuid": "P1412_general_WESTERN_COUNTRIES_923"}
+{"sub_uri": "Q969725", "obj_uri": ["Q1860"], "sub_label": "Harry Kane", "obj_label": ["inglés"], "country": ["Q145"], "size": 178125, "uuid": "P1412_general_WESTERN_COUNTRIES_924"}
+{"sub_uri": "Q25147", "obj_uri": ["Q13955", "Q652"], "sub_label": "Franco Battiato", "obj_label": ["árabe", "italiano"], "country": ["Q38"], "size": 178037, "uuid": "P1412_general_WESTERN_COUNTRIES_925"}
+{"sub_uri": "Q7231", "obj_uri": ["Q188", "Q809"], "sub_label": "Rosa Luxemburgo", "obj_label": ["alemán", "polaco"], "country": ["Q183"], "size": 177813, "uuid": "P1412_general_WESTERN_COUNTRIES_926"}
+{"sub_uri": "Q520357", "obj_uri": ["Q1860"], "sub_label": "Juwan Howard", "obj_label": ["inglés"], "country": ["Q30"], "size": 177631, "uuid": "P1412_general_WESTERN_COUNTRIES_927"}
+{"sub_uri": "Q106418", "obj_uri": ["Q150"], "sub_label": "Catherine Deneuve", "obj_label": ["francés"], "country": ["Q142"], "size": 177581, "uuid": "P1412_general_WESTERN_COUNTRIES_928"}
+{"sub_uri": "Q313509", "obj_uri": ["Q150", "Q1860"], "sub_label": "Bernard-Henri Lévy", "obj_label": ["francés", "inglés"], "country": ["Q142"], "size": 177443, "uuid": "P1412_general_WESTERN_COUNTRIES_929"}
+{"sub_uri": "Q7173106", "obj_uri": ["Q1321", "Q13955", "Q150", "Q178440", "Q1860", "Q652", "Q9043", "Q9166", "Q9168"], "sub_label": "Pete Buttigieg", "obj_label": ["español", "árabe", "francés", "dari", "inglés", "italiano", "noruego", "maltés", "persa"], "country": ["Q30"], "size": 177402, "uuid": "P1412_general_WESTERN_COUNTRIES_930"}
+{"sub_uri": "Q298276", "obj_uri": ["Q1860"], "sub_label": "Michael Sheen", "obj_label": ["inglés"], "country": ["Q145"], "size": 177336, "uuid": "P1412_general_WESTERN_COUNTRIES_931"}
+{"sub_uri": "Q376402", "obj_uri": ["Q13955"], "sub_label": "Sami Zayn", "obj_label": ["árabe"], "country": ["Q16"], "size": 177258, "uuid": "P1412_general_WESTERN_COUNTRIES_932"}
+{"sub_uri": "Q11806", "obj_uri": ["Q150", "Q1860", "Q397"], "sub_label": "John Adams", "obj_label": ["francés", "inglés", "latín"], "country": ["Q30"], "size": 177236, "uuid": "P1412_general_WESTERN_COUNTRIES_933"}
+{"sub_uri": "Q468109", "obj_uri": ["Q150"], "sub_label": "Charles Rogier", "obj_label": ["francés"], "country": ["Q31"], "size": 176941, "uuid": "P1412_general_WESTERN_COUNTRIES_934"}
+{"sub_uri": "Q470422", "obj_uri": ["Q150"], "sub_label": "Edgar Pierre Jacobs", "obj_label": ["francés"], "country": ["Q31"], "size": 176900, "uuid": "P1412_general_WESTERN_COUNTRIES_935"}
+{"sub_uri": "Q23505", "obj_uri": ["Q1860"], "sub_label": "George H. W. Bush", "obj_label": ["inglés"], "country": ["Q30"], "size": 176589, "uuid": "P1412_general_WESTERN_COUNTRIES_936"}
+{"sub_uri": "Q44068", "obj_uri": ["Q188"], "sub_label": "Dirk Nowitzki", "obj_label": ["alemán"], "country": ["Q183"], "size": 176542, "uuid": "P1412_general_WESTERN_COUNTRIES_937"}
+{"sub_uri": "Q153330", "obj_uri": ["Q1860"], "sub_label": "Andrés de York", "obj_label": ["inglés"], "country": ["Q145"], "size": 176522, "uuid": "P1412_general_WESTERN_COUNTRIES_938"}
+{"sub_uri": "Q959943", "obj_uri": ["Q1860"], "sub_label": "Robert Charles Zaehner", "obj_label": ["inglés"], "country": ["Q145"], "size": 176340, "uuid": "P1412_general_WESTERN_COUNTRIES_939"}
+{"sub_uri": "Q483507", "obj_uri": ["Q1860"], "sub_label": "Kelly Clarkson", "obj_label": ["inglés"], "country": ["Q30"], "size": 176241, "uuid": "P1412_general_WESTERN_COUNTRIES_940"}
+{"sub_uri": "Q52927", "obj_uri": ["Q150", "Q9027"], "sub_label": "Carlos XIV Juan de Suecia", "obj_label": ["francés", "sueco"], "country": ["Q142"], "size": 176181, "uuid": "P1412_general_WESTERN_COUNTRIES_941"}
+{"sub_uri": "Q348577", "obj_uri": ["Q1860"], "sub_label": "Tony Abbott", "obj_label": ["inglés"], "country": ["Q145", "Q408"], "size": 176087, "uuid": "P1412_general_WESTERN_COUNTRIES_942"}
+{"sub_uri": "Q244312", "obj_uri": ["Q1860"], "sub_label": "Vince Cable", "obj_label": ["inglés"], "country": ["Q145"], "size": 175908, "uuid": "P1412_general_WESTERN_COUNTRIES_943"}
+{"sub_uri": "Q313424", "obj_uri": ["Q1860"], "sub_label": "Ian Smith", "obj_label": ["inglés"], "country": ["Q145"], "size": 175660, "uuid": "P1412_general_WESTERN_COUNTRIES_944"}
+{"sub_uri": "Q180704", "obj_uri": ["Q150", "Q1860", "Q5287", "Q7737"], "sub_label": "Iron Man", "obj_label": ["francés", "inglés", "japonés", "ruso"], "country": ["Q30"], "size": 175558, "uuid": "P1412_general_WESTERN_COUNTRIES_945"}
+{"sub_uri": "Q217533", "obj_uri": ["Q1860", "Q7976"], "sub_label": "The Joker", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 175339, "uuid": "P1412_general_WESTERN_COUNTRIES_946"}
+{"sub_uri": "Q607", "obj_uri": ["Q1860"], "sub_label": "Michael Bloomberg", "obj_label": ["inglés"], "country": ["Q30"], "size": 175318, "uuid": "P1412_general_WESTERN_COUNTRIES_947"}
+{"sub_uri": "Q144622", "obj_uri": ["Q1321", "Q150", "Q1860", "Q188", "Q652"], "sub_label": "Phil Collins", "obj_label": ["español", "francés", "inglés", "alemán", "italiano"], "country": ["Q145"], "size": 175102, "uuid": "P1412_general_WESTERN_COUNTRIES_948"}
+{"sub_uri": "Q10993", "obj_uri": ["Q1860"], "sub_label": "Tiger Woods", "obj_label": ["inglés"], "country": ["Q30"], "size": 175060, "uuid": "P1412_general_WESTERN_COUNTRIES_949"}
+{"sub_uri": "Q167546", "obj_uri": ["Q652"], "sub_label": "Lucio Dalla", "obj_label": ["italiano"], "country": ["Q38"], "size": 175018, "uuid": "P1412_general_WESTERN_COUNTRIES_950"}
+{"sub_uri": "Q83006", "obj_uri": ["Q1321", "Q29507"], "sub_label": "David Villa", "obj_label": ["español", "asturiano"], "country": ["Q29"], "size": 175017, "uuid": "P1412_general_WESTERN_COUNTRIES_951"}
+{"sub_uri": "Q317265", "obj_uri": ["Q1860"], "sub_label": "Mark Williams", "obj_label": ["inglés"], "country": ["Q145"], "size": 174966, "uuid": "P1412_general_WESTERN_COUNTRIES_952"}
+{"sub_uri": "Q32620", "obj_uri": ["Q1860"], "sub_label": "Tulsi Gabbard", "obj_label": ["inglés"], "country": ["Q30"], "size": 174932, "uuid": "P1412_general_WESTERN_COUNTRIES_953"}
+{"sub_uri": "Q265104", "obj_uri": ["Q150"], "sub_label": "Louis Hubert Lyautey", "obj_label": ["francés"], "country": ["Q142"], "size": 174932, "uuid": "P1412_general_WESTERN_COUNTRIES_954"}
+{"sub_uri": "Q5738", "obj_uri": ["Q150"], "sub_label": "Adolphe Thiers", "obj_label": ["francés"], "country": ["Q142"], "size": 174780, "uuid": "P1412_general_WESTERN_COUNTRIES_955"}
+{"sub_uri": "Q128985", "obj_uri": ["Q1860"], "sub_label": "Harold Macmillan", "obj_label": ["inglés"], "country": ["Q145"], "size": 174602, "uuid": "P1412_general_WESTERN_COUNTRIES_956"}
+{"sub_uri": "Q298364", "obj_uri": ["Q1860"], "sub_label": "Jeffrey Dahmer", "obj_label": ["inglés"], "country": ["Q30"], "size": 174592, "uuid": "P1412_general_WESTERN_COUNTRIES_957"}
+{"sub_uri": "Q122988", "obj_uri": ["Q150"], "sub_label": "Tariq Ramadan", "obj_label": ["francés"], "country": ["Q39"], "size": 174561, "uuid": "P1412_general_WESTERN_COUNTRIES_958"}
+{"sub_uri": "Q8619", "obj_uri": ["Q150", "Q1860"], "sub_label": "Pierre Trudeau", "obj_label": ["francés", "inglés"], "country": ["Q16"], "size": 174547, "uuid": "P1412_general_WESTERN_COUNTRIES_959"}
+{"sub_uri": "Q334147", "obj_uri": ["Q150", "Q652"], "sub_label": "Julius Evola", "obj_label": ["francés", "italiano"], "country": ["Q38"], "size": 174357, "uuid": "P1412_general_WESTERN_COUNTRIES_960"}
+{"sub_uri": "Q29863844", "obj_uri": ["Q1860"], "sub_label": "Amy Coney Barrett", "obj_label": ["inglés"], "country": ["Q30"], "size": 174301, "uuid": "P1412_general_WESTERN_COUNTRIES_961"}
+{"sub_uri": "Q9582", "obj_uri": ["Q1860"], "sub_label": "Gerald Ford", "obj_label": ["inglés"], "country": ["Q30"], "size": 174169, "uuid": "P1412_general_WESTERN_COUNTRIES_962"}
+{"sub_uri": "Q155700", "obj_uri": ["Q1860"], "sub_label": "Chris Brown", "obj_label": ["inglés"], "country": ["Q30"], "size": 174142, "uuid": "P1412_general_WESTERN_COUNTRIES_963"}
+{"sub_uri": "Q62942", "obj_uri": ["Q188"], "sub_label": "Rosa von Praunheim", "obj_label": ["alemán"], "country": ["Q183"], "size": 173894, "uuid": "P1412_general_WESTERN_COUNTRIES_964"}
+{"sub_uri": "Q5372335", "obj_uri": ["Q1860"], "sub_label": "Emily Ratajkowski", "obj_label": ["inglés"], "country": ["Q30"], "size": 173825, "uuid": "P1412_general_WESTERN_COUNTRIES_965"}
+{"sub_uri": "Q318765", "obj_uri": ["Q1860"], "sub_label": "Shaun Murphy", "obj_label": ["inglés"], "country": ["Q145", "Q27"], "size": 173803, "uuid": "P1412_general_WESTERN_COUNTRIES_966"}
+{"sub_uri": "Q211987", "obj_uri": ["Q1860"], "sub_label": "Jon Stewart", "obj_label": ["inglés"], "country": ["Q30"], "size": 173790, "uuid": "P1412_general_WESTERN_COUNTRIES_967"}
+{"sub_uri": "Q151973", "obj_uri": ["Q1860", "Q9309"], "sub_label": "Richard Burton", "obj_label": ["inglés", "galés"], "country": ["Q145"], "size": 173681, "uuid": "P1412_general_WESTERN_COUNTRIES_968"}
+{"sub_uri": "Q162639", "obj_uri": ["Q1860"], "sub_label": "Lew Hoad", "obj_label": ["inglés"], "country": ["Q408"], "size": 173587, "uuid": "P1412_general_WESTERN_COUNTRIES_969"}
+{"sub_uri": "Q202536", "obj_uri": ["Q1321"], "sub_label": "Paulina Rubio", "obj_label": ["español"], "country": ["Q29"], "size": 173573, "uuid": "P1412_general_WESTERN_COUNTRIES_970"}
+{"sub_uri": "Q265872", "obj_uri": ["Q1860"], "sub_label": "Frederica von Stade", "obj_label": ["inglés"], "country": ["Q30"], "size": 173472, "uuid": "P1412_general_WESTERN_COUNTRIES_971"}
+{"sub_uri": "Q212886", "obj_uri": ["Q1860"], "sub_label": "Stephen Colbert", "obj_label": ["inglés"], "country": ["Q30"], "size": 173268, "uuid": "P1412_general_WESTERN_COUNTRIES_972"}
+{"sub_uri": "Q97562", "obj_uri": ["Q188"], "sub_label": "Gottfried Vopelius", "obj_label": ["alemán"], "country": ["Q183"], "size": 173010, "uuid": "P1412_general_WESTERN_COUNTRIES_973"}
+{"sub_uri": "Q299669", "obj_uri": ["Q150"], "sub_label": "Louis Vierne", "obj_label": ["francés"], "country": ["Q142"], "size": 172995, "uuid": "P1412_general_WESTERN_COUNTRIES_974"}
+{"sub_uri": "Q5284", "obj_uri": ["Q1860"], "sub_label": "Bill Gates", "obj_label": ["inglés"], "country": ["Q30"], "size": 172897, "uuid": "P1412_general_WESTERN_COUNTRIES_975"}
+{"sub_uri": "Q332032", "obj_uri": ["Q1860"], "sub_label": "Alice Cooper", "obj_label": ["inglés"], "country": ["Q30"], "size": 172839, "uuid": "P1412_general_WESTERN_COUNTRIES_976"}
+{"sub_uri": "Q3772", "obj_uri": ["Q1860", "Q188"], "sub_label": "Quentin Tarantino", "obj_label": ["inglés", "alemán"], "country": ["Q30"], "size": 172645, "uuid": "P1412_general_WESTERN_COUNTRIES_977"}
+{"sub_uri": "Q9364", "obj_uri": ["Q150"], "sub_label": "Jean-Paul Sartre", "obj_label": ["francés"], "country": ["Q142"], "size": 172570, "uuid": "P1412_general_WESTERN_COUNTRIES_978"}
+{"sub_uri": "Q171312", "obj_uri": ["Q1860"], "sub_label": "Mario Andretti", "obj_label": ["inglés"], "country": ["Q30", "Q38"], "size": 172369, "uuid": "P1412_general_WESTERN_COUNTRIES_979"}
+{"sub_uri": "Q172728", "obj_uri": ["Q1860"], "sub_label": "Stirling Moss", "obj_label": ["inglés"], "country": ["Q145"], "size": 172348, "uuid": "P1412_general_WESTERN_COUNTRIES_980"}
+{"sub_uri": "Q34424", "obj_uri": ["Q1321", "Q150", "Q1860", "Q5146", "Q652", "Q7026"], "sub_label": "Shakira", "obj_label": ["español", "francés", "inglés", "portugués", "italiano", "catalán"], "country": ["Q29"], "size": 172108, "uuid": "P1412_general_WESTERN_COUNTRIES_981"}
+{"sub_uri": "Q21340045", "obj_uri": ["Q9058"], "sub_label": "Ivan Löbl", "obj_label": ["eslovaco"], "country": ["Q39"], "size": 172098, "uuid": "P1412_general_WESTERN_COUNTRIES_982"}
+{"sub_uri": "Q169786", "obj_uri": ["Q188"], "sub_label": "Gustl Mollath", "obj_label": ["alemán"], "country": ["Q183"], "size": 171892, "uuid": "P1412_general_WESTERN_COUNTRIES_983"}
+{"sub_uri": "Q534153", "obj_uri": ["Q1860", "Q7976"], "sub_label": "Shazam", "obj_label": ["inglés", "inglés estadounidense"], "country": ["Q30"], "size": 171855, "uuid": "P1412_general_WESTERN_COUNTRIES_984"}
+{"sub_uri": "Q1916", "obj_uri": ["Q150"], "sub_label": "Patrice Evra", "obj_label": ["francés"], "country": ["Q142"], "size": 171807, "uuid": "P1412_general_WESTERN_COUNTRIES_985"}
+{"sub_uri": "Q231156", "obj_uri": ["Q1321", "Q150", "Q1860", "Q188", "Q652"], "sub_label": "Mina Mazzini", "obj_label": ["español", "francés", "inglés", "alemán", "italiano"], "country": ["Q38", "Q39"], "size": 171646, "uuid": "P1412_general_WESTERN_COUNTRIES_986"}
+{"sub_uri": "Q636", "obj_uri": ["Q1860"], "sub_label": "Kate Bush", "obj_label": ["inglés"], "country": ["Q145"], "size": 171606, "uuid": "P1412_general_WESTERN_COUNTRIES_987"}
+{"sub_uri": "Q3360333", "obj_uri": ["Q1860"], "sub_label": "Paddy Bush", "obj_label": ["inglés"], "country": ["Q145"], "size": 171606, "uuid": "P1412_general_WESTERN_COUNTRIES_988"}
+{"sub_uri": "Q273032", "obj_uri": ["Q150"], "sub_label": "Jean Lannes", "obj_label": ["francés"], "country": ["Q142"], "size": 171212, "uuid": "P1412_general_WESTERN_COUNTRIES_989"}
+{"sub_uri": "Q182642", "obj_uri": ["Q1860"], "sub_label": "John Glenn", "obj_label": ["inglés"], "country": ["Q30"], "size": 171208, "uuid": "P1412_general_WESTERN_COUNTRIES_990"}
+{"sub_uri": "Q5928", "obj_uri": ["Q1860"], "sub_label": "Jimi Hendrix", "obj_label": ["inglés"], "country": ["Q30"], "size": 171140, "uuid": "P1412_general_WESTERN_COUNTRIES_991"}
+{"sub_uri": "Q165421", "obj_uri": ["Q1860"], "sub_label": "Jacqueline Kennedy Onassis", "obj_label": ["inglés"], "country": ["Q30"], "size": 171140, "uuid": "P1412_general_WESTERN_COUNTRIES_992"}
+{"sub_uri": "Q554381", "obj_uri": ["Q1860"], "sub_label": "Clinton Morrison", "obj_label": ["inglés"], "country": ["Q145"], "size": 171094, "uuid": "P1412_general_WESTERN_COUNTRIES_993"}
+{"sub_uri": "Q53939", "obj_uri": ["Q150", "Q188", "Q652"], "sub_label": "Françoise Hardy", "obj_label": ["francés", "alemán", "italiano"], "country": ["Q142"], "size": 170797, "uuid": "P1412_general_WESTERN_COUNTRIES_994"}
+{"sub_uri": "Q256380", "obj_uri": ["Q1860"], "sub_label": "Carly Fiorina", "obj_label": ["inglés"], "country": ["Q30"], "size": 170790, "uuid": "P1412_general_WESTERN_COUNTRIES_995"}
+{"sub_uri": "Q888132", "obj_uri": ["Q1860"], "sub_label": "Robert Menendez", "obj_label": ["inglés"], "country": ["Q30"], "size": 170787, "uuid": "P1412_general_WESTERN_COUNTRIES_996"}
+{"sub_uri": "Q2001", "obj_uri": ["Q1860"], "sub_label": "Stanley Kubrick", "obj_label": ["inglés"], "country": ["Q30"], "size": 170777, "uuid": "P1412_general_WESTERN_COUNTRIES_997"}
+{"sub_uri": "Q242185", "obj_uri": ["Q1860"], "sub_label": "Bill Russell", "obj_label": ["inglés"], "country": ["Q30"], "size": 170749, "uuid": "P1412_general_WESTERN_COUNTRIES_998"}
+{"sub_uri": "Q222039", "obj_uri": ["Q1860"], "sub_label": "Stephen Farrelly", "obj_label": ["inglés"], "country": ["Q27"], "size": 170646, "uuid": "P1412_general_WESTERN_COUNTRIES_999"}

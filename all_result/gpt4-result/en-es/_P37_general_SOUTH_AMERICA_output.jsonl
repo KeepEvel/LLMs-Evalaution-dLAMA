@@ -1,0 +1,12 @@
+{"sub_label": "Chile", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Venezuela", "obj_label": ["Venezuelan Sign Language", "LSV", "es", "Spanish language", "VSL", "Español", "Castilian language", "Spanish", "Castilian", "vsl"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Peru", "obj_label": ["Quichua", "es", "Spanish language", "Aymara languages", "Aymara", "Quechua", "Aymara language", "Caranga language", "ay", "qu", "Quechuan languages", "Aymará language", "Aimara language", "Español", "Castilian language", "Spanish", "Castilian", "runa simi"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Uruguay", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Bolivia", "obj_label": ["Spanish language", "Quechuan languages", "Aymara languages", "Aymara language", "Aymará language", "qu", "Paraguayan Guaraní", "Aimara language", "gn", "Español", "Castilian", "Spanish", "Paraguayan Guarani", "Quichua", "es", "Aymara", "Quechua", "ay", "Caranga language", "Guarani", "Guarani language", "Castilian language", "runa simi"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Ecuador", "obj_label": ["Colombia-Ecuador Quechua IIB", "kichwa", "Quichua", "Kichwa", "Castilian", "Shuar language", "Shuar", "es", "Spanish language", "Quechuan languages", "Quechua", "qu", "qug", "Español", "Castilian language", "Spanish", "runa simi"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Colombia", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Brazil", "obj_label": ["pt", "Portuguese language", "Portuguese"], "gpt4_choices": ["portuguese"]}
+{"sub_label": "Argentina", "obj_label": ["es", "Spanish language", "Español", "Castilian language", "Spanish", "Castilian"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Paraguay", "obj_label": ["es", "Spanish language", "gn", "Guarani", "Paraguayan Guaraní", "Guarani language", "Español", "Castilian language", "Spanish", "Castilian", "Paraguayan Guarani"], "gpt4_choices": ["spanish"]}
+{"sub_label": "Suriname", "obj_label": ["nl", "nld", "ned", "Dutch language", "Netherlandic language", "Flemish language", "Netherlandic", "Dutch", "Nederlands", "Flemish", "Netherlandish"], "gpt4_choices": ["dutch"]}
+{"sub_label": "Guyana", "obj_label": ["English", "en", "English language", "eng"], "gpt4_choices": ["english"]}

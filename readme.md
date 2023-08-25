@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Need Mention
 ### 1. all models of BLOOM and BLOOMz are tested locally. The resources of these models could be find at:https://huggingface.co/bigscience
 
@@ -15,3 +16,6 @@
 
 ### 8. the dataset we use are in the dataset folder. The dlama_original is the original dataset that DLAMA provide, it could be found at:  https://github.com/AMR-KELEG/DLAMA
 
+=======
+Here is the result of evaluation of LLMs
+>>>>>>> 3d3c4d37b3ccc3710f0ef9063b44391ce0227da1
